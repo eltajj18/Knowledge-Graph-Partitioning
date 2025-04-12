@@ -1,0 +1,10 @@
+To run interactive job:  srun --account=intro_vsc37064 --partition=interactive --clusters=wice --nodes=1 --ntasks=4 --time=04:00:00 --pty bash -l
+Running virtuoso: virtuoso-t -f -c $VSC_DATA/virtuoso/virtuoso.ini
+Running virtuoso in the background: virtuoso-t -f -c $VSC_DATA/virtuoso/virtuoso.ini &
+Start querying: /apps/leuven/rocky8/icelake/2023b/software/Virtuoso-opensource/7.2.14-GCC-13.2.0/bin/isqlv 1111 dba dba
+Check if Virtuoso is running: ps aux | grep virtuoso
+Koral Directory: cd /apps/leuven/common/software/koral/20210116
+Load Koral : module load koral/20210116
+Load Fabric: module load fabric/3.2.2-GCCcore-12.3.0
+Automate IP detection (safe choice) #1 : ip -o -4 addr show up primary scope global | awk '$2 ~ /eno/ {print $4}' | cut -d/ -f1 | head -n1
+Automate IP detection (safe choice) #2:ip -4 addr show eno1 | grep -oP '(?<=inet\s)\d+(\.\d+){3}'

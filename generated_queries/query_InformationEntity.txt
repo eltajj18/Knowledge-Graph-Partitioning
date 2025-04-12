@@ -1,0 +1,6 @@
+PREFIX mlso: <http://w3id.org/mlso#>
+
+SELECT DISTINCT ?x
+WHERE {
+   ?x rdf:type mlso:InformationEntity . 
+}

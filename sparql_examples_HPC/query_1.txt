@@ -1,5 +1,5 @@
 #This query returns dataset locations, related machine learning tasks, code repositories or notebooks and publications that introduce the dataset, given a dataset name. All datasets that contain the searched name are returned. 
-
+SPARQL
 PREFIX mls: <http://www.w3.org/ns/mls#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX dcterms: <http://purl.org/dc/terms/>
@@ -46,4 +46,4 @@ OPTIONAL {
 
 }
 GROUP BY ?datasetTitle ?datasetLocation 
-LIMIT 10
+LIMIT 10;
