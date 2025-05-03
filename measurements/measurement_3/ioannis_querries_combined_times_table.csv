@@ -9,3 +9,17 @@ query_1_time.out,query_2_time.out,query_4_time.out,query_5_time.out,query_6_time
 17491,4051,1261,111,2106,85,743,16074,16136,16127
 17537,4067,1269,113,2138,89,733,16135,16154,16180
 17441,4018,1280,112,2129,85,735,16075,16089,16092
+
+
+
+Query	                    Average Time (ms)
+(query44)query_1_time.out	19182.6
+(query45)query_2_time.out	4252.2
+(query46)query_4_time.out	1275.2
+(query47)query_5_time.out	1837.2
+(query48)query_6_time.out	2182.1
+(query49)query_7_time.out	88.5
+(query50)query_8_time.out	4085.5
+(query51)query_9_time.out	16302.8
+(query52)query_10_time.out	18742.7
+(query53 )query_11_time.out	15972.5

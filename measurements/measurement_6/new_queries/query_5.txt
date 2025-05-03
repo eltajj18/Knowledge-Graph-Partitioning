@@ -1,0 +1,40 @@
+# This query returns experiment run names with their inputs, outputs, associated tasks, and prediction locations.
+SPARQL
+PREFIX mls: <http://www.w3.org/ns/mls#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX mlso: <http://w3id.org/mlso/>
+
+SELECT ?runName ?inputName ?outputName ?taskName ?predictionLocation
+WHERE {
+  ?run a mls:Run;
+       rdfs:label ?runName.
+  
+  OPTIONAL {
+    ?run mls:hasInput ?input.
+    ?input rdfs:label ?inputName.
+  }
+  
+  OPTIONAL {
+    ?run mls:hasOutput ?output.
+    ?output rdfs:label ?outputName.
+  }
+  
+  OPTIONAL {
+    ?run mls:executes ?task.
+    ?task rdfs:label ?taskName.
+  }
+  
+  OPTIONAL {
+    ?run mlso:hasPredictionsLocation ?predictionLocation.
+  }
+  
+  FILTER (
+    CONTAINS(LCASE(?runName), "run") || 
+    CONTAINS(LCASE(?runName), "execution") ||
+    CONTAINS(LCASE(?runName), "experiment")
+  )
+}
+ORDER BY ?runName
+LIMIT 1000
+;

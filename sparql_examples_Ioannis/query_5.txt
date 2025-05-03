@@ -16,4 +16,4 @@ WHERE {
       mls:hasValue ?evalValue.
     BIND(CONCAT(?evalName, ": ", ?evalValue) AS ?eval)
 }
-}LIMIT 10
+}LIMIT 1000

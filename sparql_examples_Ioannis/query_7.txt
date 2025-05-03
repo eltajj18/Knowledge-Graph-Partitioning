@@ -9,9 +9,9 @@ SELECT STR(?title) AS ?dataset, ?location,  (COUNT(?notebook) AS ?notebookCount)
 WHERE {
   ?dataset a mls:Dataset ;
     dcterms:title ?title;
-    dcat:landingPage ?location;
-    mlso:hasRelatedSoftware ?notebook.
+    dcat:landingPage ?location;                ///openml,kaggle
+    mlso:hasRelatedSoftware ?notebook.        //// has related software is in the kaggle and pwc rdf mapping
 }
 GROUP BY ?title ?location 
 ORDER BY DESC(?notebookCount)
-LIMIT 10
+LIMIT 1000

@@ -4,12 +4,12 @@
 #SBATCH --account=intro_vsc37064
 #SBATCH --output=virtuoso_single_output.log
 #SBATCH --error=virtuoso_single_error.log
-#SBATCH --partition=batch
+#SBATCH --partition=bigmem
 #SBATCH --nodes=1
 #SBATCH --tasks-per-node=1
-#SBATCH --cpus-per-task=16
-#SBATCH --mem-per-cpu=5000M
+#SBATCH --mem-per-cpu=16000M
 #SBATCH --time=08:00:00
+
 
 module load Python/3.12.3-GCCcore-13.3.0
 module load Virtuoso-opensource/7.2.14-GCC-13.2.0
@@ -27,11 +27,15 @@ echo "Starting Virtuoso..."
 virtuoso-t -c $VIRTUOSO_INI_MASTER &
 sleep 180
 
-QUERY_DIR="/data/leuven/370/vsc37064/sparql_examples"
+QUERY_DIR="/data/leuven/370/vsc37064/new_queries"
 RESULT_DIR="$QUERY_DIR/results"
 
 pid=$(ps aux | grep virtuoso-t | grep -v grep | awk '{print $2}')
 monitor -l /data/leuven/370/vsc37064/virtuoso_single/monitor.log -d 60 -p $pid &
+
+isqlv 1111 dba dba <<EOF
+SPARQL SELECT DISTINCT ?g WHERE { GRAPH ?g { ?s ?p ?o } };
+EOF
 
 
 # Repeat the whole cycle 10 times
@@ -66,7 +70,7 @@ rm -f temp_result.out
 sleep 3
 
 #Shutdown Virtuoso
-/apps/leuven/rocky8/icelake/2023b/software/Virtuoso-opensource/7.2.14-GCC-13.2.0/bin/isqlv 1111 dba dba <<EOF
+isqlv 1111 dba dba <<EOF
 shutdown;
 EOF
 echo "Done"

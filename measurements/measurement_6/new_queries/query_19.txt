@@ -1,0 +1,23 @@
+# This query returns evaluation measure names that contain specific keywords (accuracy, precision, recall, f1, or auc).
+SPARQL
+PREFIX mls: <http://www.w3.org/ns/mls#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX mlso: <http://w3id.org/mlso/>
+
+SELECT ?measureName
+WHERE {
+  ?measure a mls:EvaluationMeasure;
+           rdfs:label ?measureName.
+  
+  FILTER (
+    CONTAINS(LCASE(?measureName), "accuracy") || 
+    CONTAINS(LCASE(?measureName), "precision") ||
+    CONTAINS(LCASE(?measureName), "recall") ||
+    CONTAINS(LCASE(?measureName), "f1") ||
+    CONTAINS(LCASE(?measureName), "auc")
+  )
+}
+ORDER BY ?measureName
+LIMIT 1000
+;

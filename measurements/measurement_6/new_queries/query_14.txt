@@ -1,0 +1,21 @@
+# This query returns model performance benchmarks based on the presence of keywords like "benchmark," "performance," and "comparison" in the benchmark name.
+SPARQL
+PREFIX mls: <http://www.w3.org/ns/mls#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX mlso: <http://w3id.org/mlso/>
+
+SELECT ?benchmarkName
+WHERE {
+  ?benchmark a mls:ModelEvaluation;
+             rdfs:label ?benchmarkName.
+  
+  FILTER (
+    CONTAINS(LCASE(?benchmarkName), "benchmark") || 
+    CONTAINS(LCASE(?benchmarkName), "performance") ||
+    CONTAINS(LCASE(?benchmarkName), "comparison")
+  )
+}
+ORDER BY ?benchmarkName
+LIMIT 1000
+;

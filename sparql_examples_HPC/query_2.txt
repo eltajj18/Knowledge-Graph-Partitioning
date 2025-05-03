@@ -6,7 +6,7 @@ PREFIX dcterms: <http://purl.org/dc/terms/>
 PREFIX dcat: <http://www.w3.org/ns/dcat#>
 PREFIX prov: <http://www.w3.org/ns/prov#>
 PREFIX mlso: <http://w3id.org/mlso/>
-SPARQL
+
 select (STR(COALESCE(?label, ?title)) AS ?implementation), (GROUP_CONCAT(DISTINCT ?pub; separator=',\n') AS ?publication), (GROUP_CONCAT(DISTINCT ?algo; separator=',\n') AS ?algorithm), (GROUP_CONCAT(DISTINCT ?hyperP; separator=',\n') AS ?hyperParameter)
 where{
 {
@@ -37,4 +37,4 @@ OPTIONAL {
   BIND(CONCAT(STR(?hyperP_title),": ", STR(?hyperP_desc)) AS ?hyperP)}
 
 } GROUP BY ?label ?title
-LIMIT 10;
+LIMIT 10

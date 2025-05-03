@@ -8,3 +8,28 @@ Load Koral : module load koral/20210116
 Load Fabric: module load fabric/3.2.2-GCCcore-12.3.0
 Automate IP detection (safe choice) #1 : ip -o -4 addr show up primary scope global | awk '$2 ~ /eno/ {print $4}' | cut -d/ -f1 | head -n1
 Automate IP detection (safe choice) #2:ip -4 addr show eno1 | grep -oP '(?<=inet\s)\d+(\.\d+){3}'
+
+To run queries in virtuoso:
+for file in /data/leuven/370/vsc37064/sparql_examples/*.txt; do
+    output_file="/data/leuven/370/vsc37064/sparql_examples/results/$(basename "${file%.txt}.out")"
+    echo "Running $file..." > "$output_file"  # Add a header
+    /apps/leuven/rocky8/icelake/2023b/software/Virtuoso-opensource/7.2.14-GCC-13.2.0/bin/isqlv 1111 dba dba BLOBS=ON "$file" >> "$output_file"
+done
+
+To momitor your process: monitor -delta 60 -l simulation.log -p <PID>
+
+
+Note that I am using --nodes=1 --ntasks=4 --partition=interactive -> if you change this change the numberOfBuffers and maxDirtyBuffers
+
+
+for file in /data/leuven/370/vsc37064/new_queries/*.txt; do
+    output_file="/data/leuven/370/vsc37064/new_queries/results/$(basename "${file%.txt}.out")"
+    echo "Running $file..." > "$output_file"  # Add a header
+    isqlv 1111 dba dba BLOBS=ON "$file" >> "$output_file"
+done
+
+for file in /data/leuven/370/vsc37064/sparql_examples/*.txt; do
+    output_file="/data/leuven/370/vsc37064/sparql_examples/results/$(basename "${file%.txt}.out")"
+    echo "Running $file..." > "$output_file"  # Add a header
+    isqlv 1111 dba dba BLOBS=ON "$file" >> "$output_file"
+done

@@ -1,6 +1,12 @@
 Measurement description : 4 nodes, database replicated, individual virtuoso.ini files and cluster.ini files, 
 no partitioning or indexing yet
 
+
+loadingToVirtuosoCluster.slurm
+
+
+
+
 ## HARDWARE
 #SBATCH --job-name=virtuoso_cluster
 #SBATCH --account=intro_vsc37064

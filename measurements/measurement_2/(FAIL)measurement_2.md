@@ -1,5 +1,8 @@
 Measurement description : single machine
 
+
+
+queryVirtuosoOnSingleMachine.slurm:
 #!/bin/bash -l
 #SBATCH --clusters=genius
 #SBATCH --job-name=virtuoso_cluster

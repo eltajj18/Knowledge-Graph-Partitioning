@@ -4,7 +4,7 @@ PREFIX dcat: <http://www.w3.org/ns/dcat#>
 PREFIX mlso: <http://w3id.org/mlso/>
 PREFIX mls: <http://www.w3.org/ns/mls#>
 PREFIX dcterms: <http://purl.org/dc/terms/>
-SPARQL
+
 SELECT ?label ?runID (MAX(?precValue) AS ?maxPrecision) (GROUP_CONCAT( ?hpLabel; separator="\n") AS ?hpLabels) (GROUP_CONCAT( ?hpSettingValue; separator="\n") AS ?hpSettingValues)
 where { 
 	?entity rdf:type mls:Implementation;
@@ -24,4 +24,4 @@ where {
     
 } GROUP BY ?label ?runID
 ORDER BY DESC(?maxPrecision)
-limit 1;
+limit 1

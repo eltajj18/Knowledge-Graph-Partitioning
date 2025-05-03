@@ -3,7 +3,7 @@
 PREFIX mls: <http://www.w3.org/ns/mls#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX dcat: <http://www.w3.org/ns/dcat#>
-SPARQL
+
 SELECT STR(?datasetTitle) AS ?datasetTitle, ?datasetLocation, (GROUP_CONCAT(DISTINCT ?datasetChar; separator=',\n') AS ?characteristic)
 WHERE {
   ?dataset a mls:Dataset;
@@ -18,4 +18,4 @@ WHERE {
       mls:hasValue ?characteristicValue.
     BIND(CONCAT(?characteristicName, ": ", ?characteristicValue) AS ?datasetChar)
  }
-}LIMIT 10;
+}LIMIT 10
