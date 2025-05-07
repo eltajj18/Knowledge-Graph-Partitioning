@@ -1,0 +1,20 @@
+# This query returns machine learning algorithm names and their types.
+SPARQL
+PREFIX mls: <http://www.w3.org/ns/mls#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX mlso: <http://w3id.org/mlso/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+
+SELECT DISTINCT ?algorithmName ?algorithmType
+FROM <http://example.org/graph/pwc>
+WHERE {
+  ?algorithm a mls:Algorithm;
+             rdfs:label ?algorithmName.
+  
+  OPTIONAL {
+    ?algorithm mlso:hasAlgorithmType ?algorithmType.
+  }
+}
+ORDER BY ?algorithmName
+LIMIT 1000
+;

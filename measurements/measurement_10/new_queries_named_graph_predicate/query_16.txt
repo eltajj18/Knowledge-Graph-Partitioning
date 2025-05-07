@@ -1,0 +1,24 @@
+# This query returns data catalog names that contain specific keywords (repository, collection, or catalog).
+SPARQL
+PREFIX mls: <http://www.w3.org/ns/mls#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX mlso: <http://w3id.org/mlso/>
+PREFIX dcat: <http://www.w3.org/ns/dcat#>
+
+SELECT ?catalog ?catalogName
+FROM <http://example.org/_http___www_w3_org_1999_02_22_rdf_syntax_ns_type_>
+FROM <http://example.org/_http___www_w3_org_2000_01_rdf_schema_label_>
+WHERE {
+  ?catalog a dcat:Catalog;
+           rdfs:label ?catalogName.
+  
+  FILTER (
+    CONTAINS(LCASE(?catalogName), "repository") || 
+    CONTAINS(LCASE(?catalogName), "collection") ||
+    CONTAINS(LCASE(?catalogName), "catalog")
+  )
+}
+ORDER BY ?catalogName
+LIMIT 1000
+;

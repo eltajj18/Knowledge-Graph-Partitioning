@@ -1,0 +1,17 @@
+# This query returns machine learning models with their names, filtered by a model name containing "resnet".
+SPARQL
+PREFIX mls: <http://www.w3.org/ns/mls#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT DISTINCT ?model ?modelName
+FROM <http://example.org/_http___www_w3_org_1999_02_22_rdf_syntax_ns_type_>
+FROM <http://example.org/_http___www_w3_org_2000_01_rdf_schema_label_>
+WHERE {
+  ?model a mls:Model;
+         rdfs:label ?modelName.
+  
+  FILTER(CONTAINS(LCASE(?modelName), "resnet"))
+}
+ORDER BY ?modelName
+LIMIT 1000
+;

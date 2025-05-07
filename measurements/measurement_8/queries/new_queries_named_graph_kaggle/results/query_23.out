@@ -1,0 +1,12 @@
+Result of /data/leuven/370/vsc37064/new_queries_named_graph_kaggle/query_23.txt:
+OpenLink Virtuoso Interactive SQL (Virtuoso)
+Version 07.20.3240 as of Mar 11 2025
+Type HELP; for help and EXIT; to exit.
+Connected to OpenLink Virtuoso
+Driver: 07.20.3240 OpenLink Virtuoso ODBC Driver
+softwareName                                                                      codeRepository                                                                    requirements
+LONG VARCHAR                                                                      LONG VARCHAR                                                                      LONG VARCHAR
+_______________________________________________________________________________
+
+
+0 Rows. -- 93 msec.

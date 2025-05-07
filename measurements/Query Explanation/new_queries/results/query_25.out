@@ -1,0 +1,1012 @@
+Result of /data/leuven/370/vsc37064/new_queries/query_25.txt:
+OpenLink Virtuoso Interactive SQL (Virtuoso)
+Version 07.20.3240 as of Mar 11 2025
+Type HELP; for help and EXIT; to exit.
+Connected to OpenLink Virtuoso
+Driver: 07.20.3240 OpenLink Virtuoso ODBC Driver
+softwareName                                                                      requirement
+LONG VARCHAR                                                                      LONG VARCHAR
+_______________________________________________________________________________
+
+$ texttt{RGESolver}$ : a $ texttt{C++}$ library to perform Renormalization Group evolution in the Standard Model Effective Theory software                                                                                  none
+$ texttt{Spglib}$: a software library for crystal symmetry search software                                                                                  none
+$i$QIST: An open source continuous-time quantum Monte Carlo impurity solver toolkit software                                                                                  none
+$Λ$-Split: A Privacy-Preserving Split Computing Framework for Cloud-Powered Generative AI software                                                                                  pytorch
+$μ text{KG}$: A Library for Multi-source Knowledge Graph Embeddings and Applications software                                                                                  pytorch
+$μ$GUIDE: a framework for microstructure imaging via generalized uncertainty-driven inference using deep learning software                                                                                  pytorch
+$ξ$-torch: differentiable scientific computing library software                                                                                  pytorch
+$ρ$-CP: Open Source Dislocation Density Based Crystal Plasticity Framework for Simulating Temperature- and Strain Rate-Dependent Deformation software                                                                                  none
+$ρ$-Diffusion: A diffusion-based density estimation framework for computational physics software                                                                                  pytorch
+'Don't Get Too Technical with Me': A Discourse Structure-Based Framework for Science Journalism software                                                                                  pytorch
+'Skimming-Perusal' Tracking: A Framework for Real-Time and Robust Long-term Tracking software                                                                                  tf
+(Mis)align: A Simple Dynamic Framework for Modeling Interpersonal Coordination software                                                                                  none
+21cmfish: Fisher-matrix framework for fast parameter forecasts from the cosmic 21-cm signal software                                                                                  none
+2D-Shapley: A Framework for Fragmented Data Valuation software                                                                                  none
+3D-Speaker-Toolkit: An Open Source Toolkit for Multi-modal Speaker Verification and Diarization software                                                                                  pytorch
+3DB: A Framework for Debugging Computer Vision Models software                                                                                  pytorch
+A 3D explainability framework to uncover learning patterns and crucial sub-regions in variable sulci recognition software                                                                                  tf
+A Background-Agnostic Framework with Adversarial Training for Abnormal Event Detection in Video software                                                                                  none
+A Batch Learning Framework for Scalable Personalized Ranking software                                                                                  tf
+A Bayes Factor Framework for Unified Parameter Estimation and Hypothesis Testing software                                                                                  none
+A Bayesian Agent-Based Framework for Argument Exchange Across Networks software                                                                                  none
+A Bayesian Calibration Framework for EDGES software                                                                                  none
+A Bayesian Evaluation Framework for Subjectively Annotated Visual Recognition Tasks software                                                                                  tf
+A Bayesian Framework for Information-Theoretic Probing software                                                                                  pytorch
+A Bayesian Framework for Persistent Homology software                                                                                  none
+A Bayesian Multiscale Deep Learning Framework for Flows in Random Media software                                                                                  pytorch
+A Bayesian Optimization Framework for Finding Local Optima in Expensive Multi-Modal Functions software                                                                                  pytorch
+A Bayesian framework for case-cohort Cox regression: application to dietary epidemiology software                                                                                  none
+A Bayesian framework for measuring association and its application to emotional dynamics in Web discourse software                                                                                  none
+A Bayesian generative neural network framework for epidemic inference problems software                                                                                  pytorch
+A Bayesian generative neural network framework for epidemic inference problems software                                                                                  none
+A Benchmark Set of Highly-efficient CUDA and OpenCL Kernels and its Dynamic Autotuning with Kernel Tuning Toolkit software                                                                                  none
+A Benchmark for Automatic Medical Consultation System: Frameworks, Tasks and Datasets software                                                                                  pytorch
+A Bi-Level Framework for Learning to Solve Combinatorial Optimization on Graphs software                                                                                  pytorch
+A Bimanual Teleoperation Framework for Light Duty Underwater Vehicle-Manipulator Systems software                                                                                  none
+A Block-Based Adaptive Decoupling Framework for Graph Neural Networks software                                                                                  pytorch
+A Blockchain-based Decentralized Federated Learning Framework with Committee Consensus software                                                                                  pytorch
+A Bonus-Malus Framework for Cyber Risk Insurance and Optimal Cybersecurity Provisioning software                                                                                  none
+A Bootstrap-based Inference Framework for Testing Similarity of Paired Networks software                                                                                  none
+A Bregman Learning Framework for Sparse Neural Networks software                                                                                  pytorch
+A Byzantine Fault-Tolerant Consensus Library for Hyperledger Fabric software                                                                                  none
+A CNN Based Framework for Unistroke Numeral Recognition in Air-Writing software                                                                                  tf
+A CNN with Noise Inclined Module and Denoise Framework for Hyperspectral Image Classification software                                                                                  pytorch
+A CNN-RNN Framework for Crop Yield Prediction software                                                                                  tf
+A CPG-Based Agile and Versatile Locomotion Framework Using Proximal Symmetry Loss software                                                                                  pytorch
+A Cascaded Multi-Task Generative Framework for Detecting Aortic Dissection on 3D Non-contrast-enhanced Computed Tomography software                                                                                  pytorch
+A Case Study in CUDA Kernel Fusion: Implementing FlashAttention-2 on NVIDIA Hopper Architecture using the CUTLASS Library software                                                                                  none
+A Categorical Framework for Modeling with Stock and Flow Diagrams software                                                                                  none
+A Causal Framework for Observational Studies of Discrimination software                                                                                  none
+A Causal Framework to Quantify the Robustness of Mathematical Reasoning with Language Models software                                                                                  pytorch
+A Certified Radius-Guided Attack Framework to Image Segmentation Models software                                                                                  pytorch
+A Chance Constraint Predictive Control and Estimation Framework for Spacecraft Descent with Field Of View Constraints software                                                                                  none
+A Circuit Domain Generalization Framework for Efficient Logic Synthesis in Chip Design software                                                                                  pytorch
+A Cloud-based Deep Learning Framework for Early Detection of Pushing at Crowded Event Entrances software                                                                                  pytorch
+A Clustering Framework for Lexical Normalization of Roman Urdu software                                                                                  none
+A Clustering Framework for Residential Electric Demand Profiles software                                                                                  none
+A Clustering Framework for Unsupervised and Semi-supervised New Intent Discovery software                                                                                  pytorch
+A Clustering-based Framework for Classifying Data Streams software                                                                                  none
+A Co-Design Framework of Neural Networks and Quantum Circuits Towards Quantum Advantage software                                                                                  pytorch
+A Coarse-to-Fine Labeling Framework for Joint Word Segmentation, POS Tagging, and Constituent Parsing software                                                                                  pytorch
+A Coarse-to-Fine Pseudo-Labeling (C2FPL) Framework for Unsupervised Video Anomaly Detection software                                                                                  pytorch
+A Commonsense Reasoning Framework for Explanatory Emotion Attribution, Generation and Re-classification software                                                                                  none
+A Commonsense-Infused Language-Agnostic Learning Framework for Enhancing Prediction of Political Polarity in Multilingual News Headlines software                                                                                  tf
+A Community-Aware Framework for Social Influence Maximization software                                                                                  none
+A Comparative Analysis of Object Detection Metrics with a Companion Open-Source Toolkit software                                                                                  tf
+A Comparative Analysis of Object Detection Metrics with a Companion Open-Source Toolkit software                                                                                  none
+A Comparative Attention Framework for Better Few-Shot Object Detection on Aerial Images software                                                                                  pytorch
+A Comparative Measurement Study of Deep Learning as a Service Framework software                                                                                  tf
+A Comparative Visual Analytics Framework for Evaluating Evolutionary Processes in Multi-objective Optimization software                                                                                  none
+A Comparison of Reinforcement Learning Frameworks for Software Testing Tasks software                                                                                  tf
+A Compiler Framework for Optimizing Dynamic Parallelism on GPUs software                                                                                  none
+A Comprehensive End-to-End Computer Vision Framework for Restoration and Recognition of Low-Quality Engineering Drawings software                                                                                  none
+A Comprehensive Framework for the Evaluation of Individual Treatment Rules From Observational Data software                                                                                  none
+A Comprehensive Physics-Informed Machine Learning Framework for Predictive Turbulence Modeling software                                                                                  none
+A Comprehensive Python Library for Deep Learning-Based Event Detection in Multivariate Time Series Data and Information Retrieval in NLP software                                                                                  tf
+A Comprehensive Python Library for Deep Learning-Based Event Detection in Multivariate Time Series Data and Information Retrieval in NLP software                                                                                  none
+A Comprehensive and Cross-Platform Test Suite for Memory Safety -- Towards an Open Framework for Testing Processor Hardware Supported Security Extensions software                                                                                  none
+A Comprehensive and Modularized Statistical Framework for Gradient Norm Equality in Deep Neural Networks software                                                                                  pytorch
+A Computational Framework for Behavioral Assessment of LLM Therapists software                                                                                  none
+A Computational Framework for Slang Generation software                                                                                  pytorch
+A Computational Framework for Solving Wasserstein Lagrangian Flows software                                                                                  jax
+A Computational Model of the Institutional Analysis and Development Framework software                                                                                  none
+A Conceptual Bio-Inspired Framework for the Evolution of Artificial General Intelligence software                                                                                  none
+A Conceptual Framework for Evaluating Fairness in Search software                                                                                  none
+A Configurable Library for Generating and Manipulating Maze Datasets software                                                                                  pytorch
+A Conflict-Based Search Framework for Multi-Objective Multi-Agent Path Finding software                                                                                  none
+A Constraint Enforcement Deep Reinforcement Learning Framework for Optimal Energy Storage Systems Dispatch software                                                                                  none
+A Context-Aware Feature Fusion Framework for Punctuation Restoration software                                                                                  jax
+A Context-aware Delayed Agglomeration Framework for Electron Microscopy Segmentation software                                                                                  none
+A Continuous Action Space Tree search for INverse desiGn (CASTING) Framework for Materials Discovery software                                                                                  none
+A Continuous Time Framework for Discrete Denoising Models software                                                                                  pytorch
+A Contrastive Cross-Channel Data Augmentation Framework for Aspect-based Sentiment Analysis software                                                                                  pytorch
+A Contrastive Framework for Neural Text Generation software                                                                                  pytorch
+A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning software                                                                                  pytorch
+A Convergent ADMM Framework for Efficient Neural Network Training software                                                                                  tf
+A Convex Framework for Confounding Robust Inference software                                                                                  pytorch
+A Convex Framework for Fair Regression software                                                                                  tf
+A Cooperative Multi-Agent Reinforcement Learning Framework for Resource Balancing in Complex Logistics Network software                                                                                  pytorch
+A Cooperative-Competitive Multi-Agent Framework for Auto-bidding in Online Advertising software                                                                                  pytorch
+A Corrected Score Function Framework for Modelling Circadian Gene Expression software                                                                                  none
+A Cost-Effective Framework for Preference Elicitation and Aggregation software                                                                                  none
+A Credibility-aware Swarm-Federated Deep Learning Framework in Internet of Vehicles software                                                                                  pytorch
+A DICOM Framework for Machine Learning Pipelines against Real-Time Radiology Images software                                                                                  none
+A DNN Framework for Learning Lagrangian Drift With Uncertainty software                                                                                  pytorch
+A DPLL(T) Framework for Verifying Deep Neural Networks software                                                                                  pytorch
+A DPLL(T) Framework for Verifying Deep Neural Networks software                                                                                  none
+A DRL-based Multiagent Cooperative Control Framework for CAV Networks: a Graphic Convolution Q Network software                                                                                  tf
+A Data-Centric Framework for Composable NLP Workflows software                                                                                  none
+A Data-Centric Optimization Framework for Machine Learning software                                                                                  pytorch
+A Data-Efficient Deep Learning Framework for Segmentation and Classification of Histopathology Images software                                                                                  pytorch
+A Data-centric Framework for Improving Domain-specific Machine Reading Comprehension Datasets software                                                                                  none
+A Data-driven Multi-fidelity Physics-informed Learning Framework for Smart Manufacturing: A Composites Processing Case Study software                                                                                  tf
+A Data-efficient Framework for Robotics Large-scale LiDAR Scene Parsing software                                                                                  pytorch
+A Dataset and Evaluation Framework for Complex Geographical Description Parsing software                                                                                  none
+A Decentralized Federated Learning Framework via Committee Mechanism with Convergence Guarantee software                                                                                  pytorch
+A Decentralized Framework for Kernel PCA with Projection Consensus Constraints software                                                                                  none
+A Decentralized Framework for Serverless Edge Computing in the Internet of Things software                                                                                  none
+A Decentralized Primal-Dual Framework for Non-convex Smooth Consensus Optimization software                                                                                  pytorch
+A Decision Making Framework for Recommended Maintenance of Road Segments software                                                                                  none
+A Decision-Theoretic Approach for Model Interpretability in Bayesian Framework software                                                                                  none
+A Declarative Goal-oriented Framework for Smart Environments with LPaaS software                                                                                  none
+A Decoupled Spatio-Temporal Framework for Skeleton-based Action Segmentation software                                                                                  pytorch
+A Deductive Verification Framework for Circuit-building Quantum Programs software                                                                                  none
+A Deep Generative Framework for Paraphrase Generation software                                                                                  pytorch
+A Deep Instance Generative Framework for MILP Solvers Under Limited Data Availability software                                                                                  pytorch
+A Deep Knowledge Distillation framework for EEG assisted enhancement of single-lead ECG based sleep staging software                                                                                  pytorch
+A Deep Learning Based Analysis-Synthesis Framework For Unison Singing software                                                                                  tf
+A Deep Learning Based Automatic Defect Analysis Framework for In-situ TEM Ion Irradiations software                                                                                  tf
+A Deep Learning Ensemble Framework for Off-Nadir Geocentric Pose Prediction software                                                                                  none
+A Deep Learning Framework for Assessing Physical Rehabilitation Exercises software                                                                                  none
+A Deep Learning Framework for Disentangling Triangle Singularity and Pole-Based Enhancements software                                                                                  none
+A Deep Learning Framework for Verilog Autocompletion Towards Design and Verification Automation software                                                                                  pytorch
+A Deep Learning Framework for Wind Turbine Repair Action Prediction Using Alarm Sequences and Long Short Term Memory Algorithms software                                                                                  none
+A Deep Learning Framework to Reconstruct Face under Mask software                                                                                  none
+A Deep Learning-Based Framework for Low Complexity Multi-User MIMO Precoding Design software                                                                                  tf
+A Deep Neural Framework for Continuous Sign Language Recognition by Iterative Training software                                                                                  pytorch
+A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem software                                                                                  pytorch
+A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem software                                                                                  tf
+A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem software                                                                                  none
+A Degeneracy Framework for Scalable Graph Autoencoders software                                                                                  tf
+A Dense Representation Framework for Lexical and Semantic Matching software                                                                                  jax
+A Developer-Friendly Library for Smart Home IoT Privacy-Preserving Traffic Obfuscation software                                                                                  none
+A Diffusion Weighted Graph Framework for New Intent Discovery software                                                                                  pytorch
+A Diffusion Weighted Graph Framework for New Intent Discovery software                                                                                  none
+A Dilated Residual Hierarchically Fashioned Segmentation Framework for Extracting Gleason Tissues and Grading Prostate Cancer from Whole Slide Images software                                                                                  tf
+A Discontinuous Galerkin Solver in the FLASH Multi-Physics Framework software                                                                                  none
+A Discrepancy Aware Framework for Robust Anomaly Detection software                                                                                  pytorch
+A Distance-Aware Multi-Task Framework for Conversational Discourse Parsing software                                                                                  pytorch
+A Distributed Artificial Intelligence Framework to Evolve Infrastructure Resilience in Telecommunications Sector software                                                                                  none
+A Distributed Fair Machine Learning Framework with Private Demographic Data Protection software                                                                                  none
+A Distributed Framework to Orchestrate Video Analytics Applications software                                                                                  tf
+A Distributed Frank-Wolfe Framework for Learning Low-Rank Matrices with the Trace Norm software                                                                                  none
+A Distributed Optimization Framework to Regulate the Electricity Consumption of a Residential Neighborhood software                                                                                  none
+A Distributed Trust Framework for Privacy-Preserving Machine Learning software                                                                                  none
+A Domain-Theoretic Framework for Robustness Analysis of Neural Networks software                                                                                  pytorch
+A Double-Graph Based Framework for Frame Semantic Parsing software                                                                                  pytorch
+A Dual Ascent Framework for Lagrangean Decomposition of Combinatorial Problems software                                                                                  none
+A Dual Reinforcement Learning Framework for Unsupervised Text Style Transfer software                                                                                  tf
+A Dual-Augmentor Framework for Domain Generalization in 3D Human Pose Estimation software                                                                                  pytorch
+A Dual-Channel Framework for Sarcasm Recognition by Detecting Sentiment Conflict software                                                                                  pytorch
+A Dual-way Enhanced Framework from Text Matching Point of View for Multimodal Entity Linking software                                                                                  pytorch
+A Dynamic Graph Interactive Framework with Label-Semantic Injection for Spoken Language Understanding software                                                                                  pytorch
+A Dynamic Response Recovery Framework Using Ambient Synchrophasor Data software                                                                                  none
+A Efficient Multimodal Framework for Large Scale Emotion Recognition by Fusing Music and Electrodermal Activity Signals software                                                                                  pytorch
+A Facial Expression-Aware Multimodal Multi-task Learning Framework for Emotion Recognition in Multi-party Conversations software                                                                                  pytorch
+A Fast Geometric Regularizer to Mitigate Event Collapse in the Contrast Maximization Framework software                                                                                  none
+A Fast Knowledge Distillation Framework for Visual Recognition software                                                                                  pytorch
+A Fast Post-Training Pruning Framework for Transformers software                                                                                  pytorch
+A Fast Task Offloading Optimization Framework for IRS-Assisted Multi-Access Edge Computing System software                                                                                  pytorch
+A Fast Training-Free Compression Framework for Vision Transformers software                                                                                  pytorch
+A Feasible Framework for Arbitrary-Shaped Scene Text Recognition software                                                                                  tf
+A Feature Reuse Framework with Texture-adaptive Aggregation for Reference-based Super-Resolution software                                                                                  pytorch
+A First-Order Algorithmic Framework for Distributionally Robust Logistic Regression software                                                                                  none
+A First-Order Algorithmic Framework for Wasserstein Distributionally Robust Logistic Regression software                                                                                  none
+A Flexible Framework for Anomaly Detection via Dimensionality Reduction software                                                                                  tf
+A Flexible Framework for Designing Trainable Priors with Adaptive Smoothing and Game Encoding software                                                                                  pytorch
+A Flexible Generative Framework for Graph-based Semi-supervised Learning software                                                                                  pytorch
+A Flexible Optimization Framework for Regularized Matrix-Tensor Factorizations with Linear Couplings software                                                                                  none
+A Flexible and Intelligent Framework for Remote Health Monitoring Dashboards software                                                                                  none
+A Focusing Framework for Testing Bi-Directional Causal Effects with GWAS Summary Data software                                                                                  none
+A Forward and Backward Compatible Framework for Few-shot Class-incremental Pill Recognition software                                                                                  none
+A Fourier-based Framework for Domain Generalization software                                                                                  pytorch
+A Framework For Contrastive Self-Supervised Learning And Designing A New Approach software                                                                                  pytorch
+A Framework For Sharing Publicly Available Data To Inform The COVID-19 Outbreak in Africa: A South African Case Study software                                                                                  none
+A Framework and Benchmark for Deep Batch Active Learning for Regression software                                                                                  pytorch
+A Framework and a python-package for Real-time NMPC parameters settings software                                                                                  none
+A Framework for Auditable Synthetic Data Generation software                                                                                  none
+A Framework for Authorial Clustering of Shorter Texts in Latent Semantic Spaces software                                                                                  none
+A Framework for Automated Cellular Network Tuning with Reinforcement Learning software                                                                                  tf
+A Framework for Automated Cellular Network Tuning with Reinforcement Learning software                                                                                  none
+A Framework for Bidirectional Decoding: Case Study in Morphological Inflection software                                                                                  pytorch
+A Framework for Bidirectional Decoding: Case Study in Morphological Inflection software                                                                                  none
+A Framework for Blockchain Interoperability and Runtime Selection software                                                                                  none
+A Framework for Checkpointing and Recovery of Hierarchical Cyber-Physical Systems software                                                                                  none
+A Framework for Clustering Uncertain Data software                                                                                  none
+A Framework for Constrained and Adaptive Behavior-Based Agents software                                                                                  none
+A Framework for Controllable Pareto Front Learning with Completed Scalarization Functions and its Applications software                                                                                  pytorch
+A Framework for Covariate Balance using Bregman Distances software                                                                                  none
+A Framework for Deep Constrained Clustering -- Algorithms and Advances software                                                                                  pytorch
+A Framework for Deep Constrained Clustering software                                                                                  pytorch
+A Framework for Democratizing AI software                                                                                  tf
+A Framework for Designing Efficient Deep Learning-Based Genomic Basecallers software                                                                                  pytorch
+A Framework for Designing Efficient Deep Learning-Based Genomic Basecallers software                                                                                  none
+A Framework for Easing the Development of Applications Embedding Answer Set Programming software                                                                                  none
+A Framework for Efficient Memory Utilization in Online Conformance Checking software                                                                                  none
+A Framework for End-to-End Evaluation of 5G mmWave Cellular Networks in ns-3 software                                                                                  none
+A Framework for End-to-End Learning on Semantic Tree-Structured Data software                                                                                  pytorch
+A Framework for Energy and Carbon Footprint Analysis of Distributed and Federated Edge Learning software                                                                                  tf
+A Framework for Enhancing Deep Neural Networks Against Adversarial Malware software                                                                                  tf
+A Framework for Evaluating 6-DOF Object Trackers software                                                                                  pytorch
+A Framework for Evaluating Gradient Leakage Attacks in Federated Learning software                                                                                  pytorch
+A Framework for Evaluating Post Hoc Feature-Additive Explainers software                                                                                  tf
+A Framework for Evaluation of Composite Memento Temporal Coherence software                                                                                  none
+A Framework for Evaluation of Machine Reading Comprehension Gold Standards software                                                                                  none
+A Framework for Event-based Computer Vision on a Mobile Device software                                                                                  none
+A Framework for Explainable Concept Drift Detection in Process Mining software                                                                                  none
+A Framework for Extracting and Encoding Features from Object-Centric Event Data software                                                                                  none
+A Framework for Fast Image Deconvolution with Incomplete Observations software                                                                                  none
+A Framework for Fast Polarity Labelling of Massive Data Streams software                                                                                  none
+A Framework for Fast and Stable Representations of Multiparameter Persistent Homology Decompositions software                                                                                  pytorch
+A Framework for Few-Shot Policy Transfer through Observation Mapping and Behavior Cloning software                                                                                  pytorch
+A Framework for Fine-Grained Synchronization of Dependent GPU Kernels software                                                                                  pytorch
+A Framework for General Sparse Matrix-Matrix Multiplication on GPUs and Heterogeneous Processors software                                                                                  none
+A Framework for Generalization and Transportation of Causal Estimates Under Covariate Shift software                                                                                  none
+A Framework for Generating Diverse Haskell-IO Exercise Tasks software                                                                                  none
+A Framework for Generating Informative Benchmark Instances software                                                                                  none
+A Framework for High-throughput Sequence Alignment using Real Processing-in-Memory Systems software                                                                                  none
+A Framework for Identifying Depression on Social Media: MentalRiskES@IberLEF 2023 software                                                                                  pytorch
+A Framework for Imbalanced Time-series Forecasting software                                                                                  tf
+A Framework for Inherently Interpretable Optimization Models software                                                                                  none
+A Framework for Integrating Gesture Generation Models into Interactive Conversational Agents software                                                                                  none
+A Framework for Interdomain and Multioutput Gaussian Processes software                                                                                  tf
+A Framework for Large Scale Synthetic Graph Dataset Generation software                                                                                  tf
+A Framework for Learning Ante-hoc Explainable Models via Concepts software                                                                                  pytorch
+A Framework for Learning Behavior Trees in Collaborative Robotic Applications software                                                                                  none
+A Framework for Learning Predator-prey Agents from Simulation to Real World software                                                                                  pytorch
+A Framework for Learning from Demonstration with Minimal Human Effort software                                                                                  pytorch
+A Framework for Mediation Analysis with Multiple Exposures, Multivariate Mediators, and Non-Linear Response Models software                                                                                  none
+A Framework for Modeling, Analyzing, and Decision-Making in Disease Spread Dynamics and Medicine/Vaccine Distribution software                                                                                  none
+A Framework for Modelling, Verification and Transformation of Concurrent Imperative Programs software                                                                                  none
+A Framework for Multisensory Foresight for Embodied Agents software                                                                                  pytorch
+A Framework for Neural Network Pruning Using Gibbs Distributions software                                                                                  tf
+A Framework for Neural Topic Modeling of Text Corpora software                                                                                  none
+A Framework for Neurosymbolic Robot Action Planning using Large Language Models software                                                                                  none
+A Framework for Online Investment Algorithms software                                                                                  none
+A Framework for Parallel and Distributed Training of Neural Networks software                                                                                  none
+A Framework for Practical Parallel Fast Matrix Multiplication software                                                                                  none
+A Framework for Prescribed-Time Control Design via Time-Scale Transformation software                                                                                  none
+A Framework for Real-World Multi-Robot Systems Running Decentralized GNN-Based Policies software                                                                                  pytorch
+A Framework for Real-World Multi-Robot Systems Running Decentralized GNN-Based Policies software                                                                                  none
+A Framework for Recommending Accurate and Diverse ItemsUsing Bayesian Graph Convolutional Neural Networks software                                                                                  mindspore
+A Framework for Risk Assessment and Optimal Line Upgrade Selection to Mitigate Wildfire Risk software                                                                                  none
+A Framework for Sample Efficient Interval Estimation with Control Variates software                                                                                  none
+A Framework for Scalable Ambient Air Pollution Concentration Estimation software                                                                                  none
+A Framework for Statistical Inference via Randomized Algorithms software                                                                                  none
+A Framework for Supervised Heterogeneous Transfer Learning using Dynamic Distribution Adaptation and Manifold Regularization software                                                                                  none
+A Framework for Synthetic Power System Dynamics software                                                                                  none
+A Framework for Understanding Selection Bias in Real-World Healthcare Data software                                                                                  none
+A Framework for Understanding and Visualizing Strategies of RL Agents software                                                                                  none
+A Framework for Visually Realistic Multi-robot Simulation in Natural Environment software                                                                                  none
+A Framework for the Construction of Generative Models for Mesoscale Structure in Multilayer Networks software                                                                                  none
+A Framework for the Design and Realization of Alternative Superconducting Quantum Architectures software                                                                                  none
+A Framework for the Quantitative Evaluation of Disentangled Representations software                                                                                  tf
+A Framework for the Robust Evaluation of Sound Event Detection software                                                                                  pytorch
+A Framework for the Robust Evaluation of Sound Event Detection software                                                                                  tf
+A Framework for the Robust Evaluation of Sound Event Detection software                                                                                  none
+A Framework of Data Assimilation for Wind Flow Fields by Physics-informed Neural Networks software                                                                                  pytorch
+A Framework of Dynamic Data Structures for String Processing software                                                                                  none
+A Framework of Inertial Alternating Direction Method of Multipliers for Non-Convex Non-Smooth Optimization software                                                                                  none
+A Framework of Transfer Learning in Object Detection for Embedded Systems software                                                                                  tf
+A Framework to Assess Knowledge Graphs Accountability software                                                                                  none
+A Framework to Enhance Generalization of Deep Metric Learning methods using General Discriminative Feature Learning and Class Adversarial Neural Networks software                                                                                  pytorch
+A Framework to Evaluate Independent Component Analysis applied to EEG signal: testing on the Picard algorithm software                                                                                  none
+A Framework to Formulate Pathfinding Problems for Quantum Computing software                                                                                  none
+A Framework to Generate High-Quality Datapoints for Multiple Novel Intent Detection software                                                                                  tf
+A Framework to Generate Neurosymbolic PDDL-compliant Planners software                                                                                  none
+A Framework to Learn with Interpretation software                                                                                  pytorch
+A Frank-Wolfe Framework for Efficient and Effective Adversarial Attacks software                                                                                  tf
+A Frank-Wolfe Framework for Efficient and Effective Adversarial Attacks software                                                                                  none
+A Full-Image Full-Resolution End-to-End-Trainable CNN Framework for Image Forgery Detection software                                                                                  pytorch
+A Full-Stack Open-Source Framework for Antenna and Beamforming Evaluation in mmWave 5G NR software                                                                                  none
+A Fully Adaptive DRO Multistage Framework Based on MDR for Generation Scheduling under Uncertainty software                                                                                  none
+A Fully-automatic Side-scan Sonar SLAM Framework software                                                                                  none
+A Fundamental Probabilistic Fuzzy Logic Framework Suitable for Causal Reasoning software                                                                                  none
+A Fused Gromov-Wasserstein Framework for Unsupervised Knowledge Graph Entity Alignment software                                                                                  pytorch
+A GNN-Guided Predict-and-Search Framework for Mixed-Integer Linear Programming software                                                                                  pytorch
+A GPU accelerated mixed-precision Smoothed Particle Hydrodynamics framework with cell-based relative coordinates software                                                                                  none
+A Game Generative Network Framework with its Application to Relationship Inference software                                                                                  none
+A Game-Theoretic Framework for Joint Forecasting and Planning software                                                                                  pytorch
+A Game-Theoretic Framework for Multi-Period-Multi-Company Demand Response Management in the Smart Grid software                                                                                  none
+A General Benchmarking Framework for Text Generation software                                                                                  none
+A General Cardinality Estimation Framework for Subgraph Matching in Property Graphs software                                                                                  none
+A General Contextualized Rewriting Framework for Text Summarization software                                                                                  pytorch
+A General Deep Learning Framework for Network Reconstruction and Dynamics Learning software                                                                                  pytorch
+A General Descent Aggregation Framework for Gradient-based Bi-level Optimization software                                                                                  tf
+A General Framework Combining Generative Adversarial Networks and Mixture Density Networks for Inverse Modeling in Microstructural Materials Design software                                                                                  tf
+A General Framework For Detecting Anomalous Inputs to DNN Classifiers software                                                                                  pytorch
+A General Framework for Abstention Under Label Shift software                                                                                  none
+A General Framework for Adversarial Examples with Objectives software                                                                                  pytorch
+A General Framework for Adversarial Examples with Objectives software                                                                                  tf
+A General Framework for Adversarial Examples with Objectives software                                                                                  none
+A General Framework for Constrained Bayesian Optimization using Information-based Search software                                                                                  none
+A General Framework for Empirical Bayes Estimation in Discrete Linear Exponential Family software                                                                                  none
+A General Framework for Equivariant Neural Networks on Reductive Lie Groups software                                                                                  none
+A General Framework for Implicit and Explicit Debiasing of Distributional Word Vector Spaces software                                                                                  tf
+A General Framework for Implicit and Explicit Debiasing of Distributional Word Vector Spaces software                                                                                  none
+A General Framework for Information Extraction using Dynamic Span Graphs software                                                                                  pytorch
+A General Framework for Information Extraction using Dynamic Span Graphs software                                                                                  tf
+A General Framework for Learning from Weak Supervision software                                                                                  pytorch
+A General Framework for Lifelong Localization and Mapping in Changing Environment software                                                                                  tf
+A General Framework for Multivariate Functional Principal Component Analysis of Amplitude and Phase Variation software                                                                                  none
+A General Framework for Pairwise Unbiased Learning to Rank software                                                                                  none
+A General Framework for Removing Point Spread Function Additive Systematics in Cosmological Weak Lensing Analysis software                                                                                  none
+A General Framework for Robust G-Invariance in G-Equivariant Networks software                                                                                  pytorch
+A General Framework for Robust G-Invariance in G-Equivariant Networks software                                                                                  none
+A General Framework for Structured Learning of Mechanical Systems software                                                                                  pytorch
+A General Framework for Survival Analysis and Multi-State Modelling software                                                                                  pytorch
+A General Framework for Symmetric Property Estimation software                                                                                  none
+A General Framework for Uncertainty Estimation in Deep Learning software                                                                                  pytorch
+A General Framework for User-Guided Bayesian Optimization software                                                                                  pytorch
+A General Framework for Visualizing Embedding Spaces of Neural Survival Analysis Models Based on Angular Information software                                                                                  pytorch
+A General Framework for the Parametrization of Hierarchical Models software                                                                                  none
+A General Framework for the Practical Disintegration of PAC-Bayesian Bounds software                                                                                  pytorch
+A General Framework of Learning Multi-Vehicle Interaction Patterns from Videos software                                                                                  none
+A General Learning Framework for Open Ad Hoc Teamwork Using Graph-based Policy Learning software                                                                                  pytorch
+A General Machine Learning Framework for Survival Analysis software                                                                                  none
+A General Optimization Framework for Dynamic Time Warping software                                                                                  none
+A General Optimization Framework for Multi-Document Summarization Using Genetic Algorithms and Swarm Intelligence software                                                                                  none
+A General Optimization-based Framework for Global Pose Estimation with Multiple Sensors software                                                                                  none
+A General Optimization-based Framework for Local Odometry Estimation with Multiple Sensors software                                                                                  none
+A Generalist Framework for Panoptic Segmentation of Images and Videos software                                                                                  tf
+A Generalizable Physics-informed Learning Framework for Risk Probability Estimation software                                                                                  none
+A Generalized Deep Learning Framework for Whole-Slide Image Segmentation and Analysis software                                                                                  tf
+A Generalized Framework for Edge-preserving and Structure-preserving Image Smoothing software                                                                                  none
+A Generalized Framework for Measuring Pedestrian Accessibility around the World Using Open Data software                                                                                  none
+A Generalized Framework for Microstructural Optimization using Neural Networks software                                                                                  pytorch
+A Generalized Framework for Video Instance Segmentation software                                                                                  pytorch
+A Generalized Framework of Sequence Generation with Application to Undirected Sequence Models software                                                                                  pytorch
+A Generative Framework for Low-Cost Result Validation of Outsourced Machine Learning Tasks software                                                                                  tf
+A Generative Framework for Zero-Shot Learning with Adversarial Domain Adaptation software                                                                                  pytorch
+A Generic Acceleration Framework for Stochastic Composite Optimization software                                                                                  none
+A Generic Framework and Library for Exploration of Small Multiples through Interactive Piling software                                                                                  none
+A Generic Framework for Engineering Graph Canonization Algorithms software                                                                                  none
+A Generic Framework for Hidden Markov Models on Biomedical Data software                                                                                  none
+A Generic Graph Sparsification Framework using Deep Reinforcement Learning software                                                                                  pytorch
+A Generic Inverted Index Framework for Similarity Search on the GPU - Technical Report software                                                                                  none
+A Generic Network Compression Framework for Sequential Recommender Systems software                                                                                  tf
+A Generic and Model-Agnostic Exemplar Synthetization Framework for Explainable AI software                                                                                  pytorch
+A Geometric Framework for Neural Feature Learning software                                                                                  none
+A Geometric Framework for Stochastic Shape Analysis software                                                                                  none
+A Global-local Attention Framework for Weakly Labelled Audio Tagging software                                                                                  pytorch
+A Globally Optimal Energy-Efficient Power Control Framework and its Efficient Implementation in Wireless Interference Networks software                                                                                  tf
+A Gradient Flow Framework For Analyzing Network Pruning software                                                                                  pytorch
+A Graph Neural Network Framework for Causal Inference in Brain Networks software                                                                                  tf
+A Graph Theoretic Framework of Recomputation Algorithms for Memory-Efficient Backpropagation software                                                                                  none
+A Graph Theoretic Framework of Recomputation Algorithms for Memory-Efficient Backpropagation software                                                                                  paddle
+A Graph-Based Modeling Framework for Tracing Hydrological Pollutant Transport in Surface Waters software                                                                                  none
+A Graph-Theoretic Framework for Understanding Open-World Semi-Supervised Learning software                                                                                  pytorch
+A Graph-based Optimization Framework for Hand-Eye Calibration for Multi-Camera Setups software                                                                                  none
+A Graphical Framework to Study the Correlation between Geometric Design and Simulation software                                                                                  none
+A Group-Theoretic Framework for Data Augmentation software                                                                                  pytorch
+A Gumbel-based Rating Prediction Framework for Imbalanced Recommendation software                                                                                  pytorch
+A Haskell Library for Term Rewriting software                                                                                  none
+A Heuristic-driven Ensemble Framework for COVID-19 Fake News Detection software                                                                                  none
+A Heuristic-driven Uncertainty based Ensemble Framework for Fake News Detection in Tweets and News Articles software                                                                                  none
+A Hierarchical Bayesian Framework for Inferring the Stellar Obliquity Distribution software                                                                                  none
+A Hierarchical Framework for Relation Extraction with Reinforcement Learning software                                                                                  pytorch
+A Hierarchical N-Gram Framework for Zero-Shot Link Prediction software                                                                                  pytorch
+A Hierarchical Performance Equation Library for Basic Op-Amp Design software                                                                                  none
+A Hierarchical Regression Chain Framework for Affective Vocal Burst Recognition software                                                                                  pytorch
+A Higher Order Perturbative Parton Evolution Toolkit (HOPPET) software                                                                                  none
+A Holistic Framework for Analyzing the COVID-19 Vaccine Debate software                                                                                  pytorch
+A Human-machine Collaborative Framework for Evaluating Malevolence in Dialogues software                                                                                  pytorch
+A Hybrid Neuromorphic Object Tracking and Classification Framework for Real-time Systems software                                                                                  none
+A Hybrid Self-Supervised Learning Framework for Vertical Federated Learning software                                                                                  pytorch
+A Hybrid Video Anomaly Detection Framework via Memory-Augmented Flow Reconstruction and Flow-Guided Frame Prediction software                                                                                  pytorch
+A Hypothesis-Driven Framework for the Analysis of Self-Rationalising Models software                                                                                  none
+A Joint Imitation-Reinforcement Learning Framework for Reduced Baseline Regret software                                                                                  none
+A Joint Learning and Communications Framework for Federated Learning over Wireless Networks software                                                                                  none
+A Joint Pixel and Feature Alignment Framework for Cross-dataset Palmprint Recognition software                                                                                  tf
+A Julia Framework for Graph-Structured Nonlinear Optimization software                                                                                  none
+A Just-In-Time Networking Framework for Minimizing Request-Response Latency of Wireless Time-Sensitive Applications software                                                                                  none
+A Justice-Based Framework for the Analysis of Algorithmic Fairness-Utility Trade-Offs software                                                                                  none
+A Knowledge Distillation Ensemble Framework for Predicting Short and Long-term Hospitalisation Outcomes from Electronic Health Records Data software                                                                                  none
+A Knowledge Distillation Framework For Enhancing Ear-EEG Based Sleep Staging With Scalp-EEG Data software                                                                                  pytorch
+A Knowledge-based Learning Framework for Self-supervised Pre-training Towards Enhanced Recognition of Biomedical Microscopy Images software                                                                                  pytorch
+A Knowledge-enhanced Two-stage Generative Framework for Medical Dialogue Information Extraction software                                                                                  pytorch
+A Label-Aware Autoregressive Framework for Cross-Domain NER software                                                                                  pytorch
+A Language Model based Framework for New Concept Placement in Ontologies software                                                                                  pytorch
+A Laplacian Framework for Option Discovery in Reinforcement Learning software                                                                                  none
+A Large-Scale Epidemic Simulation Framework for Realistic Social Contact Networks software                                                                                  none
+A Layer-Based Sequential Framework for Scene Generation with GANs software                                                                                  pytorch
+A Learning Framework for n-bit Quantized Neural Networks toward FPGAs software                                                                                  tf
+A Learning-Based Framework for Line-Spectra Super-resolution software                                                                                  pytorch
+A Library Perspective on Nearly-Unsupervised Information Extraction Workflows in Digital Libraries software                                                                                  none
+A Library for Representing Python Programs as Graphs for Machine Learning software                                                                                  none
+A Library for Wall-Modelled Large-Eddy Simulation Based on OpenFOAM Technology software                                                                                  none
+A Lightweight Concept Drift Detection and Adaptation Framework for IoT Data Streams software                                                                                  none
+A Likelihood-Free Inference Framework for Population Genetic Data using Exchangeable Neural Networks software                                                                                  tf
+A Linear Algebraic Framework for Dynamic Scheduling Over Memory-Equipped Quantum Networks software                                                                                  none
+A Linear Algebraic Framework for Quantum Internet Dynamic Scheduling software                                                                                  none
+A Linkage-based Doubly Imbalanced Graph Learning Framework for Face Clustering software                                                                                  pytorch
+A Local Optimization Framework for Multi-Objective Ergodic Search software                                                                                  jax
+A Localization-to-Segmentation Framework for Automatic Tumor Segmentation in Whole-Body PET/CT Images software                                                                                  pytorch
+A Locally Conservative Mixed Finite Element Framework for Coupled Hydro-Mechanical-Chemical Processes in Heterogeneous Porous Media software                                                                                  none
+A Logic-Based Framework for Natural Language Inference in Dutch software                                                                                  none
+A Logic-Driven Framework for Consistency of Neural Models software                                                                                  pytorch
+A Machine Learning Framework for Automatic Prediction of Human Semen Motility software                                                                                  tf
+A Machine Learning Framework for Biometric Authentication using Electrocardiogram software                                                                                  none
+A Machine Learning Framework for Solving High-Dimensional Mean Field Game and Mean Field Control Problems software                                                                                  none
+A Machine Learning Framework to Forecast Wave Conditions software                                                                                  none
+A Markov Decision Process Framework for Efficient and Implementable Contact Tracing and Isolation software                                                                                  none
+A Match Made in Heaven: A Multi-task Framework for Hyperbole and Metaphor Detection software                                                                                  pytorch
+A Matrix Autoencoder Framework to Align the Functional and Structural Connectivity Manifolds as Guided by Behavioral Phenotypes software                                                                                  pytorch
+A Max-Min Entropy Framework for Reinforcement Learning software                                                                                  tf
+A Meta-Learning Framework for Generalized Zero-Shot Learning software                                                                                  none
+A Mixed Classification-Regression Framework for 3D Pose Estimation from 2D Images software                                                                                  pytorch
+A Mixed supervised Learning Framework for Target Sound Detection software                                                                                  pytorch
+A Model-Agnostic Causal Learning Framework for Recommendation using Search Data software                                                                                  pytorch
+A Model-Free and Finite-Population-Exact Framework for Randomized Experiments Subject to Outcome Misclassification via Integer Programming software                                                                                  none
+A Modular Framework for Reinforcement Learning Optimal Execution software                                                                                  none
+A Monte Carlo study of early gas expulsion and evolution of star clusters: new simulations with the MOCCA code in the AMUSE framework software                                                                                  none
+A Multi-Agent Adaptive Deep Learning Framework for Online Intrusion Detection software                                                                                  tf
+A Multi-Agent Reinforcement Learning Framework for Off-Policy Evaluation in Two-sided Markets software                                                                                  tf
+A Multi-Aspect Framework for Counter Narrative Evaluation using Large Language Models software                                                                                  pytorch
+A Multi-Channel Next POI Recommendation Framework with Multi-Granularity Check-in Signals software                                                                                  pytorch
+A Multi-Level Framework for Accelerating Training Transformer Models software                                                                                  pytorch
+A Multi-Robot Task Assignment Framework for Search and Rescue with Heterogeneous Teams software                                                                                  none
+A Multi-Scale Recurrent Framework for Motion Segmentation With Event Camera software                                                                                  pytorch
+A Multi-Stage Automated Online Network Data Stream Analytics Framework for IIoT Systems software                                                                                  none
+A Multi-State Social Force Based Framework for Vehicle-Pedestrian Interaction in Uncontrolled Pedestrian Crossing Scenarios software                                                                                  none
+A Multi-Task Deep Learning Framework for Building Footprint Segmentation software                                                                                  pytorch
+A Multi-Task Incremental Learning Framework with Category Name Embedding for Aspect-Category Sentiment Analysis software                                                                                  none
+A Multi-Task Learning Framework for Multi-Target Stance Detection software                                                                                  pytorch
+A Multi-Task Semantic Decomposition Framework with Task-specific Pre-training for Few-Shot NER software                                                                                  pytorch
+A Multi-Transformation Evolutionary Framework for Influence Maximization in Social Networks software                                                                                  none
+A Multi-body Tracking Framework -- From Rigid Objects to Kinematic Structures software                                                                                  none
+A Multi-modal Garden Dataset and Hybrid 3D Dense Reconstruction Framework Based on Panoramic Stereo Images for a Trimming Robot software                                                                                  none
+A Multi-purposed Unsupervised Framework for Comparing Embeddings of Undirected and Directed Graphs software                                                                                  none
+A Multi-scale Information Integration Framework for Infrared and Visible Image Fusion software                                                                                  pytorch
+A Multi-task Framework for Infrared Small Target Detection and Segmentation software                                                                                  pytorch
+A Multi-task Learning Framework for Opinion Triplet Extraction software                                                                                  pytorch
+A Multi-term and Multi-task Analyzing Framework for Affective Analysis in-the-wild software                                                                                  tf
+A Multi-turn Machine Reading Comprehension Framework with Rethink Mechanism for Emotion-Cause Pair Extraction software                                                                                  pytorch
+A Multi-view Multi-task Learning Framework for Multi-variate Time Series Forecasting software                                                                                  pytorch
+A Multiagent Framework for the Asynchronous and Collaborative Extension of Multitask ML Systems software                                                                                  tf
+A Multilabel Classification Framework for Approximate Nearest Neighbor Search software                                                                                  none
+A Multilayer Framework for Online Metric Learning software                                                                                  pytorch
+A Multilevel Reinforcement Learning Framework for PDE-based Control software                                                                                  pytorch
+A Multilevel Reinforcement Learning Framework for PDE-based Control software                                                                                  none
+A Multilevel Scheduling Framework for Distributed Time-domain Large-area Sky Survey Telescope Array software                                                                                  none
+A Multimodal Framework for the Detection of Hateful Memes software                                                                                  pytorch
+A Multimodal Graph Neural Network Framework of Cancer Molecular Subtype Classification software                                                                                  pytorch
+A Multimodal Machine Learning Framework for Teacher Vocal Delivery Evaluation software                                                                                  pytorch
+A Multiresolution 3D Morphable Face Model and Fitting Framework software                                                                                  none
+A Mutation Framework for Evaluating Security Analysis tools in IoT Applications software                                                                                  none
+A Mutual learning framework for Few-shot Sound Event Detection software                                                                                  pytorch
+A Nanomechanical Testing Framework Yielding Front&Rear-Sided, High-Resolution, Microstructure-Correlated SEM-DIC Strain Fields software                                                                                  none
+A Neural Divide-and-Conquer Reasoning Framework for Image Retrieval from Linguistically Complex Text software                                                                                  pytorch
+A Neural Framework for Generalized Causal Sensitivity Analysis software                                                                                  pytorch
+A Neural Multi-Task Learning Framework to Jointly Model Medical Named Entity Recognition and Normalization software                                                                                  pytorch
+A Neural Network based Framework for Effective Laparoscopic Video Quality Assessment software                                                                                  none
+A Neural Network-Evolutionary Computational Framework for Remaining Useful Life Estimation of Mechanical Systems software                                                                                  none
+A Neural Rendering Framework for Free-Viewpoint Relighting software                                                                                  pytorch
+A Neural Topical Expansion Framework for Unstructured Persona-oriented Dialogue Generation software                                                                                  tf
+A Neural-Network Framework for the Design of Individualised Hearing-Loss Compensation software                                                                                  tf
+A New Ensemble Learning Framework for 3D Biomedical Image Segmentation software                                                                                  none
+A New Framework for Fast Automated Phonological Reconstruction Using Trimmed Alignments and Sound Correspondence Patterns software                                                                                  none
+A New Framework for Registration of Semantic Point Clouds from Stereo and RGB-D Cameras software                                                                                  none
+A New Framework to Estimate Return on Investment for Player Salaries in the National Basketball Association software                                                                                  none
+A New Market-Based Framework for Increasing Responsive Loads In Distribution Systems software                                                                                  none
+A Nil-Aware Answer Extraction Framework for Question Answering software                                                                                  pytorch
+A Novel Cascade Binary Tagging Framework for Relational Triple Extraction software                                                                                  pytorch
+A Novel Cascade Binary Tagging Framework for Relational Triple Extraction software                                                                                  tf
+A Novel Deterministic Framework for Non-probabilistic Recommender Systems software                                                                                  none
+A Novel Framework for Policy Mirror Descent with General Parameterization and Linear Convergence software                                                                                  jax
+A Novel Framework for Spatio-Temporal Prediction of Environmental Data Using Deep Learning software                                                                                  none
+A Novel Framework to Expedite Systematic Reviews by Automatically Building Information Extraction Training Corpora software                                                                                  none
+A Novel Framework with Information Fusion and Neighborhood Enhancement for User Identity Linkage software                                                                                  pytorch
+A Novel Generalised Meta-Heuristic Framework for Dynamic Capacitated Arc Routing Problems software                                                                                  none
+A Novel Hyperdimensional Computing Framework for Online Time Series Forecasting on the Edge software                                                                                  pytorch
+A Novel Incremental Learning Driven Instance Segmentation Framework to Recognize Highly Cluttered Instances of the Contraband Items software                                                                                  tf
+A Novel Multi-layer Framework for Tiny Obstacle Discovery software                                                                                  none
+A Novel Multiple Classifier Generation and Combination Framework Based on Fuzzy Clustering and Individualized Ensemble Construction software                                                                                  none
+A Novel Optimized Asynchronous Federated Learning Framework software                                                                                  pytorch
+A Novel Voronoi-based Convolutional Neural Network Framework for Pushing Person Detection in Crowd Videos software                                                                                  none
+A Numerical Framework for Efficient Motion Estimation on Evolving Sphere-Like Surfaces based on Brightness and Mass Conservation Laws software                                                                                  none
+A Numerical Framework for Sobolev Metrics on the Space of Curves software                                                                                  none
+A Numerical Framework for the Parameter Identification of the SIRD Model software                                                                                  none
+A PAC-Bayesian Framework for Optimal Control with Stability Guarantees software                                                                                  pytorch
+A PCA-Based Change Detection Framework for Multidimensional Data Streams: Change Detection in Multidimensional Data Streams software                                                                                  none
+A Parallel Data Compression Framework for Large Scale 3D Scientific Data software                                                                                  none
+A Partially Supervised Reinforcement Learning Framework for Visual Active Search software                                                                                  pytorch
+A Partially-Supervised Reinforcement Learning Framework for Visual Active Search software                                                                                  pytorch
+A Pattern Matching-Based Framework for Quantum Circuit Rewriting software                                                                                  none
+A Perceptual Prediction Framework for Self Supervised Event Segmentation software                                                                                  tf
+A Personalized Dense Retrieval Framework for Unified Information Access software                                                                                  pytorch
+A Perturbation-Based Kernel Approximation Framework software                                                                                  none
+A Photogrammetry-based Framework to Facilitate Image-based Modeling and Automatic Camera Tracking software                                                                                  none
+A Physics-embedded Deep Learning Framework for Cloth Simulation software                                                                                  pytorch
+A Physics-informed data reconciliation framework for real-time electricity and emissions tracking software                                                                                  none
+A Platform-Agnostic Deep Reinforcement Learning Framework for Effective Sim2Real Transfer in Autonomous Driving software                                                                                  none
+A Plug-and-Play Priors Framework for Hyperspectral Unmixing software                                                                                  none
+A Policy Driven AI-Assisted PoW Framework software                                                                                  none
+A Positive-Unlabeled Metric Learning Framework for Document-Level Relation Extraction with Incomplete Labeling software                                                                                  pytorch
+A Post-Training Framework for Improving Heterogeneous Graph Neural Networks software                                                                                  pytorch
+A Practical Contrastive Learning Framework for Single-Image Super-Resolution software                                                                                  pytorch
+A Practical Framework for Unsupervised Structure Preservation Medical Image Enhancement software                                                                                  pytorch
+A Practical Incremental Learning Framework For Sparse Entity Extraction software                                                                                  none
+A Practical Toolkit for Multilingual Question and Answer Generation software                                                                                  none
+A Practical Two-stage Ranking Framework for Cross-market Recommendation software                                                                                  pytorch
+A Pragmatics-Centered Evaluation Framework for Natural Language Understanding software                                                                                  none
+A Preference-aware Meta-optimization Framework for Personalized Vehicle Energy Consumption Estimation software                                                                                  pytorch
+A Principled Framework for Evaluating Summarizers: Comparing Models of Summary Quality against Human Judgments software                                                                                  none
+A Prior Instruction Representation Framework for Remote Sensing Image-text Retrieval software                                                                                  pytorch
+A Privacy-Preserving Healthcare Framework Using Hyperledger Fabric software                                                                                  none
+A Privacy-Preserving Hybrid Federated Learning Framework for Financial Crime Detection software                                                                                  pytorch
+A Probabilistic Framework for Knowledge Graph Data Augmentation software                                                                                  pytorch
+A Probabilistic Framework for Lifelong Test-Time Adaptation software                                                                                  pytorch
+A Probabilistic Framework for Mutation Testing in Deep Neural Networks software                                                                                  tf
+A Probabilistic Framework for Visual Localization in Ambiguous Scenes software                                                                                  pytorch
+A Probabilistic Fusion Framework for Spoofing Aware Speaker Verification software                                                                                  pytorch
+A Probabilistic framework for Quantum Clustering software                                                                                  none
+A Procedural World Generation Framework for Systematic Evaluation of Continual Learning software                                                                                  pytorch
+A Procedural World Generation Framework for Systematic Evaluation of Continual Learning software                                                                                  none
+A Progressive Framework for Role-Aware Rumor Resolution software                                                                                  pytorch
+A Prompt Learning Framework for Source Code Summarization software                                                                                  pytorch
+A Property Induction Framework for Neural Language Models software                                                                                  pytorch
+A Prototype-Oriented Framework for Unsupervised Domain Adaptation software                                                                                  pytorch
+A Python Framework for Fast Modelling and Simulation of Cellular Nonlinear Networks and other Finite-difference Time-domain Systems software                                                                                  none
+A Python Framework for Neutrosophic Sets and Mappings software                                                                                  none
+A Python Framework for SPICE Circuit Simulation of In-Memory Analog Computing Circuits software                                                                                  none
+A Python Library For Empirical Calibration software                                                                                  none
+A Python Library for Exploratory Data Analysis on Twitter Data based on Tokens and Aggregated Origin-Destination Information software                                                                                  none
+A Python library for efficient computation of molecular fingerprints software                                                                                  none
+A Q-values Sharing Framework for Multiagent Reinforcement Learning under Budget Constraint software                                                                                  none
+A Rate-Distortion Framework for Explaining Neural Network Decisions software                                                                                  tf
+A Rationale-Centric Framework for Human-in-the-loop Machine Learning software                                                                                  pytorch
+A Read-and-Select Framework for Zero-shot Entity Linking software                                                                                  pytorch
+A Real-Time Online Learning Framework for Joint 3D Reconstruction and Semantic Segmentation of Indoor Scenes software                                                                                  pytorch
+A Refining Underlying Information Framework for Monaural Speech Enhancement software                                                                                  pytorch
+A Refining Underlying Information Framework for Monaural Speech Enhancement software                                                                                  tf
+A Registration- and Uncertainty-based Framework for White Matter Tract Segmentation With Only One Annotated Subject software                                                                                  pytorch
+A Regularized Framework for Sparse and Structured Neural Attention software                                                                                  pytorch
+A Regularized Wasserstein Framework for Graph Kernels software                                                                                  pytorch
+A Reinforcement Learning Based Encoder-Decoder Framework for Learning Stock Trading Rules software                                                                                  pytorch
+A Reinforcement Learning Framework for Dynamic Mediation Analysis software                                                                                  none
+A Reinforcement Learning-Boosted Motion Planning Framework: Comprehensive Generalization Performance in Autonomous Driving software                                                                                  none
+A Reliability-aware Distributed Framework to Schedule Residential Charging of Electric Vehicles software                                                                                  none
+A Representation Learning Framework for Property Graphs software                                                                                  tf
+A Restricted Black-box Adversarial Framework Towards Attacking Graph Embedding Models software                                                                                  tf
+A Retrieve-and-Edit Framework for Predicting Structured Outputs software                                                                                  none
+A Retrieve-and-Read Framework for Knowledge Graph Link Prediction software                                                                                  pytorch
+A Review & Framework for Modeling Complex Engineered System Development Processes software                                                                                  none
+A Review-aware Graph Contrastive Learning Framework for Recommendation software                                                                                  pytorch
+A Revisit of Sparse Coding Based Anomaly Detection in Stacked RNN Framework software                                                                                  tf
+A Riemannian Framework for Statistical Analysis of Topological Persistence Diagrams software                                                                                  none
+A Rigorous Framework for Automated Design Assessment and Type I Error Control: Methods and Demonstrative Examples (Working Paper) software                                                                                  jax
+A Robust Backpropagation-Free Framework for Images software                                                                                  tf
+A Robust Classification Framework for Byzantine-Resilient Stochastic Gradient Descent software                                                                                  pytorch
+A Robust Multilinear Model Learning Framework for 3D Faces software                                                                                  none
+A Robust and Generalized Framework for Adversarial Graph Embedding software                                                                                  tf
+A Robust and Interpretable Deep Learning Framework for Multi-modal Registration via Keypoints software                                                                                  pytorch
+A Rotation-Invariant Framework for Deep Point Cloud Analysis software                                                                                  tf
+A SDN/OpenFlow Framework for Dynamic Resource Allocation based on Bandwidth Allocation Model software                                                                                  none
+A SWAT-based Reinforcement Learning Framework for Crop Management software                                                                                  pytorch
+A Safe Computational Framework for Integer Programming applied to Chv 'atal's Conjecture software                                                                                  none
+A Safety Framework for Flow Decomposition Problems via Integer Linear Programming software                                                                                  none
+A Saliency-Guided Street View Image Inpainting Framework for Efficient Last-Meters Wayfinding software                                                                                  none
+A Sampling-based Framework for Hypothesis Testing on Large Attributed Graphs software                                                                                  none
+A Scalable Framework for Automatic Playlist Continuation on Music Streaming Services software                                                                                  pytorch
+A Search-Based Framework for Automatic Generation of Testing Environments for Cyber-Physical Systems software                                                                                  none
+A Security Monitoring Framework For Virtualization Based HEP Infrastructures software                                                                                  none
+A Self-Training Framework Based on Multi-Scale Attention Fusion for Weakly Supervised Semantic Segmentation software                                                                                  pytorch
+A Self-ensembling Framework for Semi-supervised Knee Cartilage Defects Assessment with Dual-Consistency software                                                                                  pytorch
+A Semantic Framework for PEGs software                                                                                  none
+A Semantic Framework for the Security Analysis of Ethereum smart contracts software                                                                                  none
+A Semi-Automated Usability Evaluation Framework for Interactive Image Segmentation Systems software                                                                                  none
+A Semi-Synthetic Dataset Generation Framework for Causal Inference in Recommender Systems software                                                                                  none
+A Semi-supervised Framework for Image Captioning software                                                                                  none
+A Sentence is Worth 128 Pseudo Tokens: A Semantic-Aware Contrastive Learning Framework for Sentence Embeddings software                                                                                  pytorch
+A Sequential Flow Control Framework for Multi-hop Knowledge Base Question Answering software                                                                                  pytorch
+A Sequential Flow Control Framework for Multi-hop Knowledge Base Question Answering software                                                                                  mindspore
+A Sequential Framework for Detection and Classification of Abnormal Teeth in Panoramic X-rays software                                                                                  pytorch
+A Shared Multi-Attention Framework for Multi-Label Zero-Shot Learning software                                                                                  tf
+A Simple Exponential Family Framework for Zero-Shot Learning software                                                                                  none
+A Simple Framework Uniting Visual In-context Learning with Masked Image Modeling to Improve Ultrasound Segmentation software                                                                                  pytorch
+A Simple Framework for 3D Lensless Imaging with Programmable Masks software                                                                                  none
+A Simple Framework for 3D Occupancy Estimation in Autonomous Driving software                                                                                  pytorch
+A Simple Framework for Contrastive Learning of Visual Representations software                                                                                  pytorch
+A Simple Framework for Contrastive Learning of Visual Representations software                                                                                  tf
+A Simple Framework for Contrastive Learning of Visual Representations software                                                                                  none
+A Simple Framework for Contrastive Learning of Visual Representations software                                                                                  mindspore
+A Simple Framework for Multi-mode Spatial-Temporal Data Modeling software                                                                                  pytorch
+A Simple Framework for Open-Vocabulary Segmentation and Detection software                                                                                  pytorch
+A Simple Framework for Text-Supervised Semantic Segmentation software                                                                                  pytorch
+A Simple LLM Framework for Long-Range Video Question-Answering software                                                                                  pytorch
+A Simple Semi-Supervised Learning Framework for Object Detection software                                                                                  pytorch
+A Simple Semi-Supervised Learning Framework for Object Detection software                                                                                  tf
+A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks software                                                                                  pytorch
+A Simple and Effective Framework for Pairwise Deep Metric Learning software                                                                                  pytorch
+A Simple and Effective Self-Supervised Contrastive Learning Framework for Aspect Detection software                                                                                  pytorch
+A Simple and Powerful Framework for Stable Dynamic Network Embedding software                                                                                  none
+A Simple and Robust Framework for Cross-Modality Medical Image Segmentation applied to Vision Transformers software                                                                                  pytorch
+A Simple and Robust Framework for Cross-Modality Medical Image Segmentation applied to Vision Transformers software                                                                                  none
+A Simple but Effective Bidirectional Framework for Relational Triple Extraction software                                                                                  tf
+A Simple yet Effective Framework for Few-Shot Aspect-Based Sentiment Analysis software                                                                                  pytorch
+A Simple yet Effective Self-Debiasing Framework for Transformer Models software                                                                                  pytorch
+A Simplified Framework for Air Route Clustering Based on ADS-B Data software                                                                                  none
+A Simulation-based End-to-End Learning Framework for Evidential Occupancy Grid Mapping software                                                                                  tf
+A Sketching Framework for Reduced Data Transfer in Photon Counting Lidar software                                                                                  none
+A Skew-Sensitive Evaluation Framework for Imbalanced Data Classification software                                                                                  tf
+A Software Toolkit for Pre-processing Sign Language Video Streams software                                                                                  none
+A Solver-Free Framework for Scalable Learning in Neural ILP Architectures software                                                                                  jax
+A Sparse Sampling-based framework for Semantic Fast-Forward of First-Person Videos software                                                                                  none
+A Spatial-Temporal Deformable Attention based Framework for Breast Lesion Detection in Videos software                                                                                  pytorch
+A Spatial-Temporal Graph Neural Network Framework for Automated Software Bug Triaging software                                                                                  pytorch
+A Spatio-Temporal Spot-Forecasting Framework for Urban Traffic Prediction software                                                                                  pytorch
+A Spatiotemporal Multi-Channel Learning Framework for Automatic Modulation Recognition software                                                                                  tf
+A Spectral Library and Method for Sparse Unmixing of Hyperspectral Images in Fluorescence Guided Resection of Brain Tumors software                                                                                  none
+A Spectral-Spatial-Dependent Global Learning Framework for Insufficient and Imbalanced Hyperspectral Image Classification software                                                                                  pytorch
+A Speech Representation Anonymization Framework via Selective Noise Perturbation software                                                                                  pytorch
+A Stabilized Feedback Episodic Memory (SF-EM) and Home Service Provision Framework for Robot and IoT Collaboration software                                                                                  none
+A Stack-Propagation Framework with Token-Level Intent Detection for Spoken Language Understanding software                                                                                  pytorch
+A Stack-Propagation Framework with Token-Level Intent Detection for Spoken Language Understanding software                                                                                  tf
+A Standardized Framework for Collecting Graduate Student Input in Faculty Searches software                                                                                  none
+A State-Space Modeling Framework for Engineering Blockchain-Enabled Economic Systems software                                                                                  none
+A State-Vector Framework for Dataset Effects software                                                                                  pytorch
+A Statistical Framework for Domain Shape Estimation in Stokes Flows software                                                                                  none
+A Statistical Framework for Low-bitwidth Training of Deep Neural Networks software                                                                                  pytorch
+A Stochastic Game Framework for Efficient Energy Management in Microgrid Networks software                                                                                  tf
+A Stochastic Optimization Framework for Fair Risk Minimization software                                                                                  pytorch
+A Straightforward Framework For Video Retrieval Using CLIP software                                                                                  pytorch
+A Strategic Framework for Optimal Decisions in Football 1-vs-1 Shot-Taking Situations: An Integrated Approach of Machine Learning, Theory-Based Modeling, and Game Theory software                                                                                  pytorch
+A Strategic Routing Framework and Algorithms for Computing Alternative Paths software                                                                                  none
+A Surrogate Objective Framework for Prediction+Optimization with Soft Constraints software                                                                                  pytorch
+A Symmetric Dual Encoding Dense Retrieval Framework for Knowledge-Intensive Visual Question Answering software                                                                                  pytorch
+A Syntax-aware Multi-task Learning Framework for Chinese Semantic Role Labeling software                                                                                  pytorch
+A Systematic DNN Weight Pruning Framework using Alternating Direction Method of Multipliers software                                                                                  tf
+A Systematic DNN Weight Pruning Framework using Alternating Direction Method of Multipliers software                                                                                  none
+A Teacher-Free Graph Knowledge Distillation Framework with Dual Self-Distillation software                                                                                  pytorch
+A Teacher-Student Framework for Semi-supervised Medical Image Segmentation From Mixed Supervision software                                                                                  pytorch
+A Temporally Sensitive Submodularity Framework for Timeline Summarization software                                                                                  none
+A Text Classification Framework for Simple and Effective Early Depression Detection Over Social Media Streams software                                                                                  none
+A Text-based Deep Reinforcement Learning Framework for Interactive Recommendation software                                                                                  tf
+A Text-guided Protein Design Framework software                                                                                  pytorch
+A Theoretical Framework for Inference Learning software                                                                                  pytorch
+A Theoretical Framework for Inference and Learning in Predictive Coding Networks software                                                                                  pytorch
+A Theoretical Framework for Target Propagation software                                                                                  pytorch
+A Theoretical Framework for Target Propagation software                                                                                  none
+A Theoretical and Practical Framework for Evaluating Uncertainty Calibration in Object Detection software                                                                                  pytorch
+A Three-Stage Anomaly Detection Framework for Traffic Videos software                                                                                  pytorch
+A Three-Stage Learning Framework for Low-Resource Knowledge-Grounded Dialogue Generation software                                                                                  pytorch
+A Three-Stage Self-Training Framework for Semi-Supervised Semantic Segmentation software                                                                                  pytorch
+A Token-level Contrastive Framework for Sign Language Translation software                                                                                  pytorch
+A Toolkit for Analyzing and Visualizing Online Users via Reshare Cascade Modeling software                                                                                  none
+A Toolkit for Efficient Learning of Lexical Units for Speech Recognition software                                                                                  none
+A Toolkit for Generating Code Knowledge Graphs software                                                                                  pytorch
+A Toolkit for Reliable Benchmarking and Research in Multi-Objective Reinforcement Learning software                                                                                  pytorch
+A Toolkit for Reliable Benchmarking and Research in Multi-Objective Reinforcement Learning software                                                                                  none
+A Topological Deep Learning Framework for Neural Spike Decoding software                                                                                  pytorch
+A Topological Framework for Local Structure Analysis in Condensed Matter software                                                                                  none
+A Transformer Framework for Data Fusion and Multi-Task Learning in Smart Cities software                                                                                  tf
+A Transformer-based Framework for Multivariate Time Series Representation Learning software                                                                                  pytorch
+A Transformer-based Framework for Multivariate Time Series Representation Learning software                                                                                  tf
+A Trigger-Sense Memory Flow Framework for Joint Entity and Relation Extraction software                                                                                  pytorch
+A Tunable Robust Pruning Framework Through Dynamic Network Rewiring of DNNs software                                                                                  pytorch
+A Two Stage Adaptation Framework for Frame Detection via Prompt Learning software                                                                                  pytorch
+A Two-Layer Dialogue Framework For Authoring Social Bots software                                                                                  none
+A Two-Stage Framework in Cross-Spectrum Domain for Real-Time Speech Enhancement software                                                                                  none
+A Two-Stage Training Framework for Joint Speech Compression and Enhancement software                                                                                  pytorch
+A Two-phase Framework with a Bézier Simplex-based Interpolation Method for Computationally Expensive Multi-objective Optimization software                                                                                  pytorch
+A Unification Framework for Euclidean and Hyperbolic Graph Neural Networks software                                                                                  pytorch
+A Unified Algorithm Framework for Unsupervised Discovery of Skills based on Determinantal Point Process software                                                                                  pytorch
+A Unified Algorithmic Framework for Distributed Adaptive Signal and Feature Fusion Problems -- Part I: Algorithm Derivation software                                                                                  none
+A Unified Algorithmic Framework for Distributed Adaptive Signal and Feature Fusion Problems -- Part II: Convergence Properties software                                                                                  none
+A Unified Arbitrary Style Transfer Framework via Adaptive Contrastive Learning software                                                                                  pytorch
+A Unified Audio-Visual Learning Framework for Localization, Separation, and Recognition software                                                                                  none
+A Unified Batch Online Learning Framework for Click Prediction software                                                                                  none
+A Unified Calibration Framework for 21 cm Cosmology software                                                                                  none
+A Unified Continual Learning Framework with General Parameter-Efficient Tuning software                                                                                  pytorch
+A Unified Diffusion Framework for Scene-aware Human Motion Estimation from Sparse Signals software                                                                                  none
+A Unified Encoder-Decoder Framework with Entity Memory software                                                                                  pytorch
+A Unified End-to-End Framework for Efficient Deep Image Compression software                                                                                  none
+A Unified End-to-End Retriever-Reader Framework for Knowledge-based VQA software                                                                                  pytorch
+A Unified Evaluation of Textual Backdoor Learning: Frameworks and Benchmarks software                                                                                  pytorch
+A Unified Framework against Topology and Class Imbalance software                                                                                  mindspore
+A Unified Framework for 3D Point Cloud Visual Grounding software                                                                                  pytorch
+A Unified Framework for Alternating Offline Model Training and Policy Learning software                                                                                  pytorch
+A Unified Framework for Compressive Video Recovery from Coded Exposure Techniques software                                                                                  pytorch
+A Unified Framework for Connecting Noise Modeling to Boost Noise Detection software                                                                                  pytorch
+A Unified Framework for Domain Adaptation using Metric Learning on Manifolds software                                                                                  none
+A Unified Framework for Domain Adaptive Pose Estimation software                                                                                  pytorch
+A Unified Framework for Factorizing Distributional Value Functions for Multi-Agent Reinforcement Learning software                                                                                  pytorch
+A Unified Framework for Generalizable Style Transfer: Style and Content Separation software                                                                                  tf
+A Unified Framework for Implicit Sinkhorn Differentiation software                                                                                  pytorch
+A Unified Framework for Learned Sparse Retrieval software                                                                                  pytorch
+A Unified Framework for Masked and Mask-Free Face Recognition via Feature Rectification software                                                                                  pytorch
+A Unified Framework for Model Editing software                                                                                  pytorch
+A Unified Framework for Multi-Domain CTR Prediction via Large Language Models software                                                                                  pytorch
+A Unified Framework for Multi-intent Spoken Language Understanding with prompting software                                                                                  pytorch
+A Unified Framework for Pun Generation with Humor Principles software                                                                                  pytorch
+A Unified Framework for Quantifying Privacy Risk in Synthetic Data software                                                                                  none
+A Unified Framework for Random Forest Prediction Error Estimation software                                                                                  none
+A Unified Framework for Rank-based Evaluation Metrics for Link Prediction in Knowledge Graphs software                                                                                  pytorch
+A Unified Framework for Rank-based Evaluation Metrics for Link Prediction in Knowledge Graphs software                                                                                  none
+A Unified Framework for Rank-based Loss Minimization software                                                                                  pytorch
+A Unified Framework for Slot based Response Generation in a Multimodal Dialogue System software                                                                                  pytorch
+A Unified Framework for Soft Threshold Pruning software                                                                                  pytorch
+A Unified Framework for Structured Graph Learning via Spectral Constraints software                                                                                  none
+A Unified Framework for Structured Low-rank Matrix Learning software                                                                                  tf
+A Unified Framework for Symmetry Handling software                                                                                  none
+A Unified Framework for Tumor Proliferation Score Prediction in Breast Histopathology software                                                                                  tf
+A Unified Framework for U-Net Design and Analysis software                                                                                  pytorch
+A Unified Framework of Medical Information Annotation and Extraction for Chinese Clinical Text software                                                                                  pytorch
+A Unified Framework of Surrogate Loss by Refactoring and Interpolation software                                                                                  pytorch
+A Unified Generative Framework for Aspect-Based Sentiment Analysis software                                                                                  pytorch
+A Unified Generative Framework for Various NER Subtasks software                                                                                  pytorch
+A Unified Hard-Constraint Framework for Solving Geometrically Complex PDEs software                                                                                  pytorch
+A Unified Inference Framework for Multiple Imputation Using Martingales software                                                                                  none
+A Unified Instance Segmentation Framework for Completely Occluded Objects and Dense Objects in Robot Vision Measurement software                                                                                  pytorch
+A Unified Joint Matrix Factorization Framework for Data Integration software                                                                                  none
+A Unified Linear-Time Framework for Sentence-Level Discourse Parsing software                                                                                  pytorch
+A Unified MRC Framework for Named Entity Recognition software                                                                                  pytorch
+A Unified MRC Framework for Named Entity Recognition software                                                                                  tf
+A Unified MRC Framework for Named Entity Recognition software                                                                                  none
+A Unified Meta-Learning Framework for Dynamic Transfer Learning software                                                                                  pytorch
+A Unified Multi-task Learning Framework for Multi-goal Conversational Recommender Systems software                                                                                  pytorch
+A Unified Multimodal De- and Re-coupling Framework for RGB-D Motion Recognition software                                                                                  pytorch
+A Unified Non-Negative Matrix Factorization Framework for Semi-Supervised Learning on Graphs software                                                                                  none
+A Unified Optimization Framework for Low-Rank Inducing Penalties software                                                                                  none
+A Unified Point-Based Framework for 3D Segmentation software                                                                                  tf
+A Unified Positive-Unlabeled Learning Framework for Document-Level Relation Extraction with Different Levels of Labeling software                                                                                  pytorch
+A Unified Pre-training Framework for Conversational AI software                                                                                  paddle
+A Unified Pruning Framework for Vision Transformers software                                                                                  pytorch
+A Unified Successive Pseudo-Convex Approximation Framework software                                                                                  none
+A Unified Syntax-aware Framework for Semantic Role Labeling software                                                                                  pytorch
+A Unified Taxonomy-Guided Instruction Tuning Framework for Entity Set Expansion and Taxonomy Expansion software                                                                                  pytorch
+A Unified Transformer Framework for Group-based Segmentation: Co-Segmentation, Co-Saliency Detection and Video Salient Object Detection software                                                                                  pytorch
+A Unified Wasserstein Distributional Robustness Framework for Adversarial Training software                                                                                  pytorch
+A Unified and General Framework for Continual Learning software                                                                                  pytorch
+A Uniform Framework for Anomaly Detection in Deep Neural Networks software                                                                                  tf
+A Unifying Contrast Maximization Framework for Event Cameras, with Applications to Motion, Depth, and Optical Flow Estimation software                                                                                  none
+A Unifying Framework for Flexible Excess Hazard Modeling with Applications in Cancer Epidemiology software                                                                                  none
+A Unifying Framework for Gaussian Process Pseudo-Point Approximations using Power Expectation Propagation software                                                                                  none
+A Unifying Framework for Interpolatory $ mathcal{L}_2$-optimal Reduced-order Modeling software                                                                                  none
+A Unifying Framework for Parallel and Distributed Processing in R using Futures software                                                                                  none
+A Unifying Framework for Spectrum-Preserving Graph Sparsification and Coarsening software                                                                                  none
+A Unifying Framework of Attention-based Neural Load Forecasting software                                                                                  pytorch
+A Unifying Variational Framework for Gaussian Process Motion Planning software                                                                                  tf
+A Universal Framework for Accurate and Efficient Geometric Deep Learning of Molecular Systems software                                                                                  pytorch
+A Universal Framework for Featurization of Atomistic Systems software                                                                                  pytorch
+A Universal Framework for Reconstructing Complex Networks and Node Dynamics from Discrete or Continuous Dynamics Data software                                                                                  pytorch
+A Universal Knowledge Embedded Contrastive Learning Framework for Hyperspectral Image Classification software                                                                                  pytorch
+A Universal Update-pacing Framework For Visual Tracking software                                                                                  none
+A User-Friendly Framework for Generating Model-Preferred Prompts in Text-to-Image Synthesis software                                                                                  pytorch
+A User-Guided Bayesian Framework for Ensemble Feature Selection in Life Science Applications (UBayFS) software                                                                                  none
+A VAE-based Framework for Learning Multi-Level Neural Granger-Causal Connectivity software                                                                                  pytorch
+A Verifiable Framework for Cyber-Physical Attacks and Countermeasures in a Resilient Electric Power Grid software                                                                                  none
+A Versatile Framework for Multi-scene Person Re-identification software                                                                                  pytorch
+A Versatile and Efficient Reinforcement Learning Framework for Autonomous Driving software                                                                                  pytorch
+A Versatile and Efficient Reinforcement Learning Framework for Autonomous Driving software                                                                                  none
+A Visual Active Search Framework for Geospatial Exploration software                                                                                  pytorch
+A Visual Analytics Framework for Explaining and Diagnosing Transfer Learning Processes software                                                                                  none
+A Visual Analytics Framework for Reviewing Streaming Performance Data software                                                                                  none
+A Wasserstein Minimax Framework for Mixed Linear Regression software                                                                                  none
+A Weakly Supervised Learning Framework for Salient Object Detection via Hybrid Labels software                                                                                  pytorch
+A Weakly Supervised Learning Framework for Salient Object Detection via Hybrid Labels software                                                                                  none
+A Weakly Supervised Learning Framework for Salient Object Detection via Hybrid Labels software                                                                                  mindspore
+A Zero-Shot Framework for Sketch-based Image Retrieval software                                                                                  tf
+A blockchain framework for smart mobility software                                                                                  none
+A budget-constrained inverse classification framework for smooth classifiers software                                                                                  none
+A causal framework for distribution generalization software                                                                                  none
+A causal inference framework for cancer cluster investigations using publicly available data software                                                                                  none
+A causal inference framework for spatial confounding software                                                                                  none
+A causal modelling framework for reference-based imputation and tipping point analysis software                                                                                  none
+A citizen science toolkit to collect human perceptions of urban environments using open street view images software                                                                                  none
+A closest point method library for PDEs on surfaces with parallel domain decomposition solvers and preconditioners software                                                                                  none
+A clustering and graph deep learning-based framework for COVID-19 drug repurposing software                                                                                  none
+A complete data-driven framework for the efficient solution of parametric shape design and optimisation in naval engineering problems software                                                                                  none
+A complete framework for linear filtering of bivariate signals software                                                                                  none
+A computational framework for modeling cell-matrix interactions in soft biological tissues software                                                                                  none
+A computational framework for modelling infectious disease policy based on age and household structure with applications to the COVID-19 pandemic software                                                                                  none
+A computational framework for physics-informed symbolic regression with straightforward integration of domain knowledge software                                                                                  pytorch
+A computational framework for weighted simplicial homology software                                                                                  none
+A cost-aware logical framework software                                                                                  none
+A coupled cluster framework for electrons and phonons software                                                                                  none
+A coupled high-accuracy phase-field fluid-structure interaction framework for Stokes fluid-filled fracture surrounded by an elastic medium software                                                                                  none
+A data-centric framework for crystal structure identification in atomistic simulations using machine learning software                                                                                  none
+A data-driven Koopman model predictive control framework for nonlinear flows software                                                                                  none
+A data-driven framework for dimensionality reduction and causal inference in climate fields software                                                                                  none
+A decentralized framework for simultaneous calibration, localization and mapping with multiple LiDARs software                                                                                  tf
+A deep learning based steganography integration framework for ad-hoc cloud computing data security augmentation using the V-BOINC system software                                                                                  pytorch
+A deep learning based steganography integration framework for ad-hoc cloud computing data security augmentation using the V-BOINC system software                                                                                  tf
+A deep learning framework for Text-independent Writer Identification software                                                                                  none
+A deep learning framework for morphologic detail beyond the diffraction limit in infrared spectroscopic imaging software                                                                                  pytorch
+A deep learning framework for solution and discovery in solid mechanics software                                                                                  none
+A deformation-based morphometry framework for disentangling Alzheimer's disease from normal aging using learned normal aging templates software                                                                                  tf
+A differentiable programming framework for spin models software                                                                                  pytorch
+A digital twin framework for civil engineering structures software                                                                                  tf
+A distributed simulation framework for quantum networks and channels software                                                                                  none
+A feature-based framework for detecting technical outliers in water-quality data from in situ sensors software                                                                                  none
+A finite element implementation of surface elasticity at finite strains using the deal.II library software                                                                                  none
+A flexible PageRank-based graph embedding framework closely related to spectral eigenvector embeddings software                                                                                  none
+A flexible and fast PyTorch toolkit for simulating training and inference on analog crossbar arrays software                                                                                  pytorch
+A flexible model-based framework for robust estimation of mutational signatures software                                                                                  none
+A flexible model-free prediction-based framework for feature ranking software                                                                                  none
+A flexible, extensible software framework for model compression based on the LC algorithm software                                                                                  pytorch
+A formal framework for deliberated judgment software                                                                                  none
+A framework for (under)specifying dependency syntax without overloading annotators software                                                                                  none
+A framework for Multi-A(rmed)/B(andit) testing with online FDR control software                                                                                  none
+A framework for adaptive width control of dense contour-parallel toolpaths in fused deposition modeling software                                                                                  none
+A framework for algorithm deployment on cloud-based quantum computers software                                                                                  none
+A framework for benchmarking class-out-of-distribution detection and its application to ImageNet software                                                                                  pytorch
+A framework for benchmarking clustering algorithms software                                                                                  none
+A framework for bilevel optimization that enables stochastic and global variance reduction algorithms software                                                                                  jax
+A framework for causal segmentation analysis with machine learning in large-scale digital experiments software                                                                                  none
+A framework for constrained static state estimation in unbalanced distribution networks software                                                                                  none
+A framework for data-driven solution and parameter estimation of PDEs using conditional generative adversarial networks software                                                                                  none
+A framework for deep learning emulation of numerical models with a case study in satellite remote sensing software                                                                                  tf
+A framework for efficient ab initio electronic structure with Gaussian Process States software                                                                                  jax
+A framework for estimating and visualising excess mortality during the COVID-19 pandemic software                                                                                  none
+A framework for fully autonomous design of materials via multiobjective optimization and active learning: challenges and next steps software                                                                                  none
+A framework for high-fidelity particle tracking on massively parallel systems software                                                                                  none
+A framework for information extraction from tables in biomedical literature software                                                                                  none
+A framework for interpretation and testing of sparse canonical correlations software                                                                                  none
+A framework for invertible, real-time constant-Q transforms software                                                                                  pytorch
+A framework for large-scale mapping of human settlement extent from Sentinel-2 images via fully convolutional neural networks software                                                                                  tf
+A framework for leveraging machine learning tools to estimate personalized survival curves software                                                                                  none
+A framework for planet detection with faint lightcurve echoes software                                                                                  none
+A framework for probabilistic weather forecast post-processing across models and lead times using machine learning software                                                                                  none
+A framework for reinforcement learning with autocorrelated actions software                                                                                  tf
+A framework for remote sensing images processing using deep learning technique software                                                                                  tf
+A framework for scale-sensitive, spatially explicit accuracy assessment of binary built-up surface layers software                                                                                  none
+A framework for second order eigenvector centralities and clustering coefficients software                                                                                  none
+A framework for simulation and inversion in electromagnetics software                                                                                  none
+A framework for structural shape optimization based on automatic differentiation, the adjoint method and accelerated linear algebra software                                                                                  jax
+A framework for the architecture of exoplanetary systems. I. Four classes of planetary system architecture software                                                                                  none
+A framework for the architecture of exoplanetary systems. II. Nature versus nurture: Emergent formation pathways of architecture classes software                                                                                  none
+A framework for the identification and classification of homogeneous socioeconomic areas in the analysis of health care variation software                                                                                  none
+A framework to compare music generative models using automatic evaluation metrics extended to rhythm software                                                                                  none
+A framework to create customised LHC analyses within CheckMATE software                                                                                  none
+A framework to decipher the genetic architecture of combinations of complex diseases: applications in cardiovascular medicine software                                                                                  none
+A framework to determine micro-level population figures using spatially disaggregated population estimates software                                                                                  none
+A framework to generate hypergraphs with community structure software                                                                                  none
+A framework to semantify BPMN models using DEMO business transaction pattern software                                                                                  none
+A fully differentiable ligand pose optimization framework guided by deep learning and traditional scoring functions software                                                                                  pytorch
+A fully-coupled framework for solving Cahn-Hilliard Navier-Stokes equations: Second-order, energy-stable numerical methods on adaptive octree based meshes software                                                                                  none
+A functional scripting interface to an object oriented C++ library software                                                                                  none
+A general forcefield for accurate phonon properties of metal-organic frameworks software                                                                                  none
+A general framework for Vecchia approximations of Gaussian processes software                                                                                  none
+A general framework for ensemble distribution distillation software                                                                                  pytorch
+A general framework for implementing distances for categorical variables software                                                                                  none
+A general framework for inference on algorithm-agnostic variable importance software                                                                                  none
+A general framework for modeling and dynamic simulation of multibody systems using factor graphs software                                                                                  none
+A general framework for multi-step ahead adaptive conformal heteroscedastic time series forecasting software                                                                                  tf
+A general framework for penalized mixed-effects multitask learning with applications on DNA methylation surrogate biomarkers creation software                                                                                  none
+A general framework for probabilistic sensitivity analysis with respect to distribution parameters software                                                                                  none
+A general framework for rotation invariant point cloud analysis software                                                                                  none
+A general framework for the rigorous computation of invariant densities and the coarse-fine strategy software                                                                                  none
+A general graph-based framework for top-N recommendation using content, temporal and trust information software                                                                                  none
+A general kernel boosting framework integrating pathways for predictive modeling based on genomic data software                                                                                  none
+A generalised framework for detailed classification of swimming paths inside the Morris Water Maze software                                                                                  none
+A generalized Bayesian framework for the analysis of subscription based businesses software                                                                                  none
+A generalized framework to predict continuous scores from medical ordinal labels software                                                                                  pytorch
+A generalized linear joint trained framework for semi-supervised learning of sparse features software                                                                                  none
+A generative artificial intelligence framework based on a molecular diffusion model for the design of metal-organic frameworks for carbon capture software                                                                                  pytorch
+A generic framework for privacy preserving deep learning software                                                                                  pytorch
+A generic physics-informed neural network-based framework for reliability assessment of multi-state systems software                                                                                  tf
+A geometric multigrid library for quadtree/octree AMR grids coupled to MPI-AMRVAC software                                                                                  none
+A hierarchical semantic segmentation framework for computer vision-based bridge damage detection software                                                                                  pytorch
+A high-accuracy framework for phase-field fracture interface reconstructions with application to Stokes fluid-filled fracture surrounded by an elastic medium software                                                                                  none
+A hybrid Decoder-DeepONet operator regression framework for unaligned observation data software                                                                                  tf
+A hybrid deep-learning-metaheuristic framework for bi-level network design problems software                                                                                  pytorch
+A hybrid machine learning framework for clad characteristics prediction in metal additive manufacturing software                                                                                  none
+A joint Bayesian framework for missing data and measurement error using integrated nested Laplace approximations software                                                                                  none
+A library of quantitative markers of seizure severity software                                                                                  none
+A lightweight MapReduce framework for secure processing with SGX software                                                                                  none
+A logical framework with a graph meta-language software                                                                                  none
+A loss discounting framework for model averaging and selection in time series models software                                                                                  none
+A machine learning framework for computationally expensive transient models software                                                                                  none
+A memory-efficient neural ODE framework based on high-level adjoint differentiation software                                                                                  pytorch
+A meta-analytic framework to adjust for bias in external control studies software                                                                                  none
+A meta-inference framework to integrate multiple external models into a current study software                                                                                  none
+A model predictive control (MPC)-integrated multiphase immersed boundary (IB) framework for simulating wave energy converters (WECs) software                                                                                  none
+A model-based framework for learning transparent swarm behaviors software                                                                                  pytorch
+A modeling framework for coupling plasticity with species diffusion software                                                                                  none
+A modelling framework for detecting and leveraging node-level information in Bayesian network inference software                                                                                  none
+A modelling framework for the analysis of the SARS-CoV2 transmission dynamics software                                                                                  none
+A modular vision language navigation and manipulation framework for long horizon compositional tasks in indoor environment software                                                                                  pytorch
+A multi-layered blockchain framework for smart mobility data-markets software                                                                                  none
+A multi-task semi-supervised framework for Text2Graph & Graph2Text software                                                                                  none
+A multimodal deep learning framework for scalable content based visual media retrieval software                                                                                  none
+A multiple testing framework for diagnostic accuracy studies with co-primary endpoints software                                                                                  none
+A neuromorphic hardware architecture using the Neural Engineering Framework for pattern recognition software                                                                                  none
+A new computational framework for log-concave density estimation software                                                                                  none
+A new evaluation framework for topic modeling algorithms based on synthetic corpora software                                                                                  none
+A new framework for experimental design using Bayesian Evidential Learning: the case of wellhead protection area software                                                                                  none
+A nonparametric framework for inferring orders of categorical data from category-real ordered pairs software                                                                                  none
+A nonparametric framework for treatment effect modifier discovery in high dimensions software                                                                                  none
+A novel Fourier neural operator framework for classification of multi-sized images: Application to three dimensional digital porous media software                                                                                  pytorch
+A novel Three-step Network-based Ecosystem Modelling Framework software                                                                                  none
+A novel dual-stream time-frequency contrastive pretext tasks framework for sleep stage classification software                                                                                  pytorch
+A novel framework for semi-Bayesian radial velocities through template matching software                                                                                  none
+A numerical framework for computing steady states of size-structured population models and their stability software                                                                                  none
+A numerical framework for elastic surface matching, comparison, and interpolation software                                                                                  pytorch
+A parallel Fortran framework for neural networks and deep learning software                                                                                  tf
+A parallel Fortran framework for neural networks and deep learning software                                                                                  none
+A parallel non-uniform fast Fourier transform library based on an 'exponential of semicircle' kernel software                                                                                  none
+A path-norm toolkit for modern networks: consequences, promises and challenges software                                                                                  pytorch
+A physics-aware, probabilistic machine learning framework for coarse-graining high-dimensional systems in the Small Data regime software                                                                                  none
+A physics-informed operator regression framework for extracting data-driven continuum models software                                                                                  tf
+A practical PINN framework for multi-scale problems with multi-magnitude loss terms software                                                                                  tf
+A practical framework for infinite-dimensional linear algebra software                                                                                  none
+A probabilistic framework for task-aligned intra- and inter-area neural manifold estimation software                                                                                  none
+A registration error estimation framework for correlative imaging software                                                                                  none
+A research framework for writing differentiable PDE discretizations in JAX software                                                                                  jax
+A robust feature reinforcement framework for heterogeneous graphs neural networks software                                                                                  pytorch
+A sampling framework for counting temporal motifs software                                                                                  none
+A scala library for spatial sensitivity analysis software                                                                                  none
+A segmental framework for fully-unsupervised large-vocabulary speech recognition software                                                                                  pytorch
+A segmental framework for fully-unsupervised large-vocabulary speech recognition software                                                                                  tf
+A segmental framework for fully-unsupervised large-vocabulary speech recognition software                                                                                  none
+A semi-supervised Teacher-Student framework for surgical tool detection and localization software                                                                                  pytorch
+A sensor-to-pattern calibration framework for multi-modal industrial collaborative cells software                                                                                  none
+A simulation framework for particle magnetization dynamics of large ensembles of single domain particles: Numerical treatment of Brown/Néel dynamics and parameter identification problems in magnetic particle imaging software                                                                                  none
+A simulation framework of procurement operations in the container logistics industry software                                                                                  none
+A soft nearest-neighbor framework for continual semi-supervised learning software                                                                                  pytorch
+A stabilizer framework for Contextual Subspace VQE and the noncontextual projection ansatz software                                                                                  none
+A standardized framework for risk-based assessment of treatment effect heterogeneity in observational healthcare databases software                                                                                  none
+A statistical framework for model-based inverse problems in ultrasound elastography software                                                                                  none
+A statistical mechanics framework for Bayesian deep neural networks beyond the infinite-width limit software                                                                                  pytorch
+A structured matrix factorization framework for large scale calcium imaging data analysis software                                                                                  tf
+A structured matrix factorization framework for large scale calcium imaging data analysis software                                                                                  none
+A survey on Kornia: an Open Source Differentiable Computer Vision Library for PyTorch software                                                                                  pytorch
+A survey on learning from imbalanced data streams: taxonomy, challenges, empirical study, and reproducible experimental framework software                                                                                  none
+A synthetic data integration framework to leverage external summary-level information from heterogeneous populations software                                                                                  none
+A theoretical framework for self-supervised MR image reconstruction using sub-sampling via variable density Noisier2Noise software                                                                                  pytorch
+A thermodynamic framework for modelling membrane transporters software                                                                                  none
+A toolkit for data-driven discovery of governing equations in high-noise regimes software                                                                                  none
+A turbulent eddy-viscosity surrogate modeling framework for Reynolds-Averaged Navier-Stokes simulations software                                                                                  tf
+A tutorial-driven introduction to the parallel finite element library FEMPAR v1.0.0 software                                                                                  none
+A unified analysis framework for iterative parallel-in-time algorithms software                                                                                  none
+A unified framework for 21cm tomography sample generation and parameter inference with Progressively Growing GANs software                                                                                  tf
+A unified framework for Hamiltonian deep neural networks software                                                                                  pytorch
+A unified framework for Simplicial Kuramoto models software                                                                                  none
+A unified framework for bandit multiple testing software                                                                                  none
+A unified framework for closed-form nonparametric regression, classification, preference and mixed problems with Skew Gaussian Processes software                                                                                  none
+A unified framework for dataset shift diagnostics software                                                                                  none
+A unified framework for machine learning collective variables for enhanced sampling simulations: $ texttt{mlcolvar}$ software                                                                                  pytorch
+A unified framework for non-negative matrix and tensor factorisations with a smoothed Wasserstein loss software                                                                                  pytorch
+A unified framework for spectral clustering in sparse graphs software                                                                                  none
+A unified pseudo-$C_ ell$ framework software                                                                                  none
+A unified scalable framework for causal sweeping strategies for Physics-Informed Neural Networks (PINNs) and their temporal decompositions software                                                                                  none
+A unified sparse optimization framework to learn parsimonious physics-informed models from data software                                                                                  none
+A unified, geometric framework for nonequilibrium protocol optimization software                                                                                  pytorch
+A unifying algebraic framework for discontinuous Galerkin and flux reconstruction methods based on the summation-by-parts property software                                                                                  none
+A unifying framework for mean-field theories of asymmetric kinetic Ising systems software                                                                                  none
+A universal framework for accurate and efficient geometric deep learning of molecular systems software                                                                                  pytorch
+A variance modeling framework based on variational autoencoders for speech enhancement software                                                                                  none
+A viable framework for semi-supervised learning on realistic dataset software                                                                                  mindspore
+A vision-based autonomous UAV inspection framework for unknown tunnel construction sites with dynamic obstacles software                                                                                  none
+ABCD: A Graph Framework to Convert Complex Sentences to a Covering Set of Simple Sentences software                                                                                  pytorch
+ABCD: A Graph Framework to Convert Complex Sentences to a Covering Set of Simple Sentences software                                                                                  none
+ACER: An AST-based Call Graph Generator Framework software                                                                                  none
+ACRO: A multi-language toolkit for supporting Automated Checking of Research Outputs software                                                                                  none
+ACROPOLIS: A generiC fRamework fOr Photodisintegration Of LIght elementS software                                                                                  none
+ADASR: An Adversarial Auto-Augmentation Framework for Hyperspectral and Multispectral Data Fusion software                                                                                  pytorch
+ADAST: Attentive Cross-domain EEG-based Sleep Staging Framework with Iterative Self-Training software                                                                                  pytorch
+ADCNet: a unified framework for predicting the activity of antibody-drug conjugates software                                                                                  tf
+ADD: Augmented Disentanglement Distillation Framework for Improving Stock Trend Forecasting software                                                                                  pytorch
+ADEPT: A DEbiasing PrompT Framework software                                                                                  pytorch
+ADF & TransApp: A Transformer-Based Framework for Appliance Detection Using Smart Meter Consumption Series software                                                                                  pytorch
+ADIOS 2: The Adaptable Input Output System. A framework for high-performance data management software                                                                                  none
+ADMM-NN: An Algorithm-Hardware Co-Design Framework of DNNs Using Alternating Direction Method of Multipliers software                                                                                  pytorch
+ADMap: Anti-disturbance framework for reconstructing online vectorized HD map software                                                                                  pytorch
+ADRNet: A Generalized Collaborative Filtering Framework Combining Clinical and Non-Clinical Data for Adverse Drug Reaction Prediction software                                                                                  pytorch
+ADS-Cap: A Framework for Accurate and Diverse Stylized Captioning with Unpaired Stylistic Corpora software                                                                                  pytorch
+ADVISER: A Toolkit for Developing Multi-modal, Multi-domain and Socially-engaged Conversational Agents software                                                                                  pytorch
+AFFIRM: Affinity Fusion-based Framework for Iteratively Random Motion correction of multi-slice fetal brain MRI software                                                                                  tf
+AFN: Adaptive Fusion Normalization via Encoder-Decoder Framework software                                                                                  pytorch
+AFN: Adaptive Fusion Normalization via an Encoder-Decoder Framework software                                                                                  pytorch
+AGIF: An Adaptive Graph-Interactive Framework for Joint Multiple Intent Detection and Slot Filling software                                                                                  pytorch
+AI Fairness 360: An Extensible Toolkit for Detecting, Understanding, and Mitigating Unwanted Algorithmic Bias software                                                                                  tf
+AI Fairness 360: An Extensible Toolkit for Detecting, Understanding, and Mitigating Unwanted Algorithmic Bias software                                                                                  none
+AI-Aristotle: A Physics-Informed framework for Systems Biology Gray-Box Identification software                                                                                  jax
+AI-Lorenz: A physics-data-driven framework for black-box and gray-box identification of chaotic systems with symbolic regression software                                                                                  none
+AI4Food-NutritionFW: A Novel Framework for the Automatic Synthesis and Analysis of Eating Behaviours software                                                                                  none
+AIR-Nets: An Attention-Based Framework for Locally Conditioned Implicit Representations software                                                                                  pytorch
+AIRD: Adversarial Learning Framework for Image Repurposing Detection software                                                                                  none
+ALBench: A Framework for Evaluating Active Learning in Object Detection software                                                                                  pytorch
+ALE: A Simulation-Based Active Learning Evaluation Framework for the Parameter-Driven Comparison of Query Strategies for NLP software                                                                                  none
+AMORE-UPF at SemEval-2018 Task 4: BiLSTM with Entity Library software                                                                                  pytorch
+AMRIC: A Novel In Situ Lossy Compression Framework for Efficient I/O in Adaptive Mesh Refinement Applications software                                                                                  none
+AMoDSim: An Efficient and Modular Simulation Framework for Autonomous Mobility on Demand software                                                                                  none
+ANIMC: A Soft Framework for Auto-weighted Noisy and Incomplete Multi-view Clustering software                                                                                  none
+ANODEV2: A Coupled Neural ODE Framework software                                                                                  pytorch
+ANTI-CARLA: An Adversarial Testing Framework for Autonomous Vehicles in CARLA software                                                                                  none
+AOC-IDS: Autonomous Online Framework with Contrastive Learning for Intrusion Detection software                                                                                  pytorch
+APFEL++: A new PDF evolution library in C++ software                                                                                  none
+
+1000 Rows. -- 610 msec.

@@ -1,0 +1,22 @@
+# This query returns titles of scientific works related to machine learning.
+SPARQL
+PREFIX mls: <http://www.w3.org/ns/mls#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX mlso: <http://w3id.org/mlso/>
+
+SELECT ?workTitle
+FROM <http://example.org/_http___www_w3_org_1999_02_22_rdf_syntax_ns_type_>
+FROM <http://example.org/_http___purl_org_dc_terms_title_>
+WHERE {
+  ?work a mlso:ScientificWork;
+        dcterms:title ?workTitle.
+  
+  FILTER (
+    CONTAINS(LCASE(?workTitle), "deep learning") || 
+    CONTAINS(LCASE(?workTitle), "neural network") ||
+    CONTAINS(LCASE(?workTitle), "machine learning")
+  )
+}
+ORDER BY ?workTitle
+LIMIT 1000
+;

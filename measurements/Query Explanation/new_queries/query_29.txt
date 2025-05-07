@@ -1,0 +1,22 @@
+# This query returns datasets.
+SPARQL
+PREFIX mls: <http://www.w3.org/ns/mls#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX mlso: <http://w3id.org/mlso/>
+PREFIX dcat: <http://www.w3.org/ns/dcat#>
+
+SELECT ?datasetName
+WHERE {
+  ?dataset a mls:Dataset;
+           rdfs:label ?datasetName.
+  
+  FILTER (
+    CONTAINS(LCASE(?datasetName), "training") || 
+    CONTAINS(LCASE(?datasetName), "test") ||
+    CONTAINS(LCASE(?datasetName), "validation")
+  )
+}
+ORDER BY ?datasetName
+LIMIT 1000
+;

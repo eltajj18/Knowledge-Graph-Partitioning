@@ -1,0 +1,16 @@
+# Query to find all Scientific Works with their titles and abstracts:
+SPARQL
+PREFIX mlso: <http://w3id.org/mlso/>
+PREFIX dc: <http://purl.org/dc/terms/>
+PREFIX fabio: <http://purl.org/spar/fabio/>
+
+SELECT ?work ?title ?abstract
+WHERE {
+    GRAPH <http://example.org/graph/pwc>{
+    ?work rdf:type mlso:ScientificWork .
+    OPTIONAL { ?work dc:title ?title }
+    OPTIONAL { ?work fabio:abstract ?abstract }
+}
+}
+LIMIT 1000
+;

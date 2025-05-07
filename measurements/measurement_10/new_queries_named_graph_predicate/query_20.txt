@@ -1,0 +1,40 @@
+# This query returns feature characteristics and their relationships to datasets.
+SPARQl
+PREFIX mls: <http://www.w3.org/ns/mls#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX mlso: <http://w3id.org/mlso/>
+PREFIX dcat: <http://www.w3.org/ns/dcat#>
+
+SELECT ?featureName ?characteristicName ?characteristicValue ?datasetName ?isTarget
+FROM <http://example.org/_http___www_w3_org_1999_02_22_rdf_syntax_ns_type_>
+FROM <http://example.org/_http___www_w3_org_2000_01_rdf_schema_label_>
+FROM <http://example.org/_http___www_w3_org_ns_mls_hasQuality_>
+FROM <http://example.org/_http___www_w3_org_ns_mls_hasValue_>
+FROM <http://example.org/_http___w3id_org_mlso_hasDefaultTargetFeature_>
+FROM <http://example.org/_http___www_w3_org_ns_dcat_distribution_>
+WHERE {
+  ?feature a mls:Feature;
+           rdfs:label ?featureName.
+  
+  ?feature mls:hasQuality ?characteristic.
+  ?characteristic a mls:FeatureCharacteristic;
+                  rdfs:label ?characteristicName;
+                  mls:hasValue ?characteristicValue.
+  
+  OPTIONAL {
+    ?distribution mlso:hasDefaultTargetFeature ?feature.
+    ?dataset dcat:distribution ?distribution.
+    ?dataset rdfs:label ?datasetName.
+    BIND(true AS ?isTarget)
+  }
+  
+  FILTER (
+    CONTAINS(LCASE(?characteristicName), "type") || 
+    CONTAINS(LCASE(?characteristicName), "range") ||
+    CONTAINS(LCASE(?characteristicName), "missing")
+  )
+}
+ORDER BY ?datasetName ?featureName ?characteristicName
+LIMIT 1000
+;

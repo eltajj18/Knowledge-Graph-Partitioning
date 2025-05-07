@@ -1,0 +1,39 @@
+# This query returns features that are target features for different datasets.
+SPARQL
+PREFIX mls: <http://www.w3.org/ns/mls#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX mlso: <http://w3id.org/mlso/>
+PREFIX dcat: <http://www.w3.org/ns/dcat#>
+
+SELECT ?featureName ?datasetName ?characteristicName ?characteristicValue ?distributionName
+FROM <http://example.org/_http___w3id_org_mlso_hasDefaultTargetFeature_>
+FROM <http://example.org/_http___www_w3_org_2000_01_rdf_schema_label_>
+FROM <http://example.org/_http___www_w3_org_ns_dcat_distribution_>
+FROM <http://example.org/_http___www_w3_org_ns_mls_hasQuality_>
+FROM <http://example.org/_http___www_w3_org_ns_mls_hasValue_>
+WHERE {
+  ?distribution mlso:hasDefaultTargetFeature ?feature.
+  ?feature rdfs:label ?featureName.
+  
+  ?dataset dcat:distribution ?distribution.
+  ?dataset rdfs:label ?datasetName.
+  
+  ?distribution rdfs:label ?distributionName.
+  
+  OPTIONAL {
+    ?feature mls:hasQuality ?characteristic.
+    ?characteristic rdfs:label ?characteristicName;
+                    mls:hasValue ?characteristicValue.
+  }
+  
+  FILTER (
+    CONTAINS(LCASE(?featureName), "label") || 
+    CONTAINS(LCASE(?featureName), "target") ||
+    CONTAINS(LCASE(?featureName), "class") ||
+    CONTAINS(LCASE(?featureName), "output")
+  )
+}
+ORDER BY ?datasetName ?featureName
+LIMIT 1000
+;

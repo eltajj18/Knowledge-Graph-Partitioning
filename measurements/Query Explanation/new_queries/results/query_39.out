@@ -1,0 +1,480 @@
+Result of /data/leuven/370/vsc37064/new_queries/query_39.txt:
+OpenLink Virtuoso Interactive SQL (Virtuoso)
+Version 07.20.3240 as of Mar 11 2025
+Type HELP; for help and EXIT; to exit.
+Connected to OpenLink Virtuoso
+Driver: 07.20.3240 OpenLink Virtuoso ODBC Driver
+modelName
+LONG VARCHAR
+_______________________________________________________________________________
+
+**Neural Common Neighbor **
+12-layer Character Transformer Model
+12-layer Transformer-XL
+12L Transformer + 8K adaptive span
+18-layer Transformer-XL
+1D Convolution Neural Network
+24-layer Transformer-XL
+24L Transformer + 8K adaptive span
+2D U-Net Transformer
+3D Conv + EfficientNetV2 + Transformer + TCN
+64-layer Character Transformer Model
+A Neural Network Containing Three Parallel Branches (holistic, localized, and score branch)
+A2J Transformer
+ADM-G (classifier_scale=0.5)
+ADM-G + EDS (ED-DPM, classifier_scale=0.4)
+ADM-G + EDS (ED-DPM, classifier_scale=0.75)
+ADM-G + EDS + ECT (ED-DPM, classifier_scale=0.6)
+ADM-G + EDS + ECT (ED-DPM, classifier_scale=1.0)
+ALERT-Transformer Large
+AWD-Transformer XL
+AdaBoost Classifier
+Adaptively Sparse Transformer (1.5-entmax)
+Adaptively Sparse Transformer (alpha-entmax)
+Audio Spectrogram Transformer
+Augmented Neural Ordinary Differential Equation
+Augmented Transformer (ATx100)
+Axial Transformer (6 layers)
+BERT classifier w/o Table
+BERTSUM+Transformer
+BP-Transformer
+BP-Transformer (12 layers)
+BP-Transformer + GloVe
+BP-Transformer - 12 Layers
+Backpropagation Neural tree
+Balancing Neural Network
+BaseTransformers (Inductive)
+Bidirectional Encoder Representations from Transformers
+Boundary-aware neural model
+CNN with 3 Spatial Transformers
+CNN+Transformer
+CRF Alignment + Transformer
+CTC + Transformer LM rescoring
+ChiTransformer
+Classifier
+Classifier Chain (12-lead)
+Classifier Chain (2-lead)
+Classifier Chain (3-lead)
+Classifier Chain (4-lead)
+Classifier Chain (6-lead)
+ClipCap (Transformer)
+Compact Convolutional Transformer (CCT)
+Complex Transformer
+Compressive Transformer
+Compressive Transformer (18L, M=1024)
+Compressive Transformer (24 layers)
+Concatenated Transformer
+Conformer/Transformer-AED
+Contextual RQ-Transformer
+Conv + Transformer + wav2vec2.0 + pseudo labeling
+Conv + Transformer AM (ConvLM with Transformer Rescoring)
+Conv + Transformer AM (ConvLM with Transformer Rescoring) (LS only)
+Conv + Transformer AM + Iterative Pseudo-Labeling (n-gram LM + Transformer Rescoring)
+Conv + Transformer AM + Pseudo-Labeling (ConvLM with Transformer Rescoring)
+ConvTasnet and Dual Path Transformers
+Convolutional Linear Transformer for Vision (CLTV)
+Convolutional Neural Network with per-label Attention
+CopyTransformer
+Cross Efficient Vision Transformer
+DEQ-Transformer (medium, adaptive embed)
+DEQ-Transformer (small)
+DTransformer
+Data Diversification - Transformer
+Decision Transformer (DT)
+Decision Tree Classifier
+Deep Neural Net
+Deep Neural Networks (DNN)
+DenseU-Net + Dual Transformer
+Diffusion Classifier
+Diffusion Classifier
+Diffusion Classifier (zero-shot)
+Discriminative Unsupervised Feature Learning with Convolutional Neural Networks
+Distilled neural FOG
+DocIE w transformer
+DocXClassifier-B
+DocXClassifier-L
+Dual-decoder Transformer
+Dynamics 2 for DenseNet-201 Transformer
+EAN ResNet50 (single clip, center crop,8+16 ensemble, with sparse Transformer)
+EHR-Graph Transformer
+EHR-Graph Transformer (pre-trained)
+ETF Classifier + DR (Resnet)
+Efficient Vision Transformer
+EfficientUNets and Transformers
+Emotion-aware transformer encoder (Transformer-XL)
+Ensemble CNN Classifier with Domain Adaptation
+Epipolar Transformer+R152 384x384
+Epipolar Transformer+R50 256×256+RPSM
+Epipolar Transformers
+Epoch Cross-Modal Transformer
+Evolution of Graph Classifiers
+Evolved Transformer
+Evolved Transformer Base
+Evolved Transformer Big
+FCB-SwinV2 Transformer
+FREDOM - Transformer
+FTTransformer + OpenAI embedding
+FTTransformer + RoBERTa embedding
+FTTransformer + RoBERTa fintune
+FaceTransformer+OctupletLoss
+Feedback Transformer
+Feedback Transformer (4 layers)
+Feedback Transformer (8 layers)
+Fine-Tuned LM-Pretrained Transformer
+Finetuned Transformer LM
+FloodTransformer (Ours)
+Fourier Transformer
+GPT-2-Medium 355M + question-solution classifier (BS=1)
+GPT-2-Medium 355M + question-solution classifier (BS=5)
+GTM-Transformer
+GTM-Transformer [Extra Tag]
+GTM-Transformer [POP]
+GeoTransformer
+GeoTransformer
+GeoTransformer - P2PNet
+Graph Attention Network Encoder +Transformer Decoder
+Graph Transformer
+H-Transformer-1D Nr=16 (Base)
+H-Transformer-1D Nr=16 (Large)
+HCTransformers
+Hardware Aware Transformer
+HiTransformer-s
+Hierarchical Neural Networks
+Hierarchical Transformer Encoder + conditional copy
+Hierarchical transformer encoder + conditional copy
+Higher-Order Transformer
+Holistic Transformer
+HybrIK-Transformer (HrNet-48)
+Hybrid + Transformer LM rescoring
+Hybrid Transformer Demucs (f.t.)
+Hybrid model with Transformer rescoring
+HyperTransformer
+Image Transformer
+Impartial Transformer
+Improving neural networks by preventing co-adaptation of feature detectors
+Intel/neural-chat-7b-v3-1
+Intermediate-Transformer-Fusion, visual branch only
+Keypoint Transformer
+Keypoints-Transformer-UNLP
+LA-Transformer
+LERT-Transformer Large
+LQ-VAE + Scalable Transformer
+Large 6-Layer Transformer with Pooling
+Larger Transformer 771M (fine-tuned)
+Larger Transformer 771M (pre-trained)
+LaserTagger (Transformer)
+Lawin Transformer
+Lbl2TransformerVec
+Levenshtein Transformer (distillation)
+LexVec, word co-occurrence, and ConceptNet data combined using maximum entropy classifier
+Linear Classifier
+Linear Transformer
+Lite Transformer
+Local Transformer
+M2 Transformer
+MASS (6-layer Transformer)
+MS-Transformer
+MSI-H Transformer
+MTF-Transformer (M=0.4, T=1)
+MTF-Transformer (M=0.4, T=1, N=1)
+MTF-Transformer (M=0.4, T=7)
+MTF-Transformer (M=0.4, T=7, N=1)
+MTL with Transformer
+Meshed-Memory Transformer
+Metalearned Neural Memory (plastic)
+Mixed Classifier
+Mixed classifier
+Modulated-fusion transformer
+Multi-input Neural network with Attention
+Multi-pass backtranslated adapted transformer
+Multilingual Transformer
+Multimodal Transformer
+Multiscale Transformer Encoder
+Music Transformer
+Neural
+Neural Attention Fields (NEAT)
+Neural Binary Relevance
+Neural Body Fitting (NBF)
+Neural Classifier Chains
+Neural Content Planning + conditional copy
+Neural Contourlet Network
+Neural FingerPrints
+Neural Flows
+Neural HMM
+Neural HMM Ablation with 1 state per phone
+Neural PBMT + LM [Huang2018]
+Neural PCFG
+Neural Segmental Hypergraphs
+Neural Semantic Encoder
+Neural Statistician
+Neural Transducer
+Neural Transition-based Model
+Neural baseline based on bi-directional LSTMs (Bhatt et al., 2017)
+Neural belief tracker
+Neural cache model (size = 100)
+Neural cache model (size = 2,000)
+Neural graph-based system using DAG-grammars
+Neural layered model
+Neural method from Mohtarami et al. (Mohtarami et al., 2018)
+Neural method from Mohtarami et al. + TF-IDF (Mohtarami et al., 2018)
+Neural segmental hypergraphs
+Neural transition-based model
+Neural-CRF+AE
+Neural-LP
+Neural-PBIR
+Neural-Pointer 
+NeuralCRF+SAC
+NeuralCommonNeighbor
+NeuralDater
+NeuralLinear FullPosterior-MR
+NeuralLog
+NeuralODE-VAE
+NeuralODE-VAE-Mask
+NeuralPCI
+OPIUM Classifier
+Object Transformer
+Online Instance Classifier Refinement
+P4Transformer
+PAR Transformer 24B
+PAR Transformer Base
+PAR Transformer Large
+PCLN(Point Transformer)
+PENELOPIE (Transformers-based Greek-to-English NMT)
+PENELOPIE Transformers-based NMT (EN2EL)
+PVT (Pyramid Vision Transformer)
+PVT (Pyramid Vision Transformer; trained on PeopleArt and PopArt)
+Parallel Series Transformer
+Path2Tree (Transformer)
+PhraseTransformer
+Point Cloud Transformer
+Point Transformer
+Point Transformer
+Point Voxel Transformer
+Point transformer
+PointTransformer
+PointTransformer+CBL
+PointTransformerV2
+PointTransformers
+Pooling classifier pre-trained using force-aligned phoneme and word labels on LibriSpeech
+PowerNorm (Transformer)
+Pretrained Hierarchical Transformer
+Quaternion Neural Networks
+QuaternionNeuralNetwork
+Quntum Neural Network
+R-Transformer
+RNG Transformer
+RQ-Transformer
+Random Guess Classifier
+RoI Transformer
+Routing Transformer
+Routing Transformer (12 layers)
+S2T Stochastic Transformer (Ens)
+SETR (MLA, Transformer-L)
+SETR (MLA, Transformer-Large)
+SETR (PUP, Transformer-L)
+SETR (PUP, Transformer-Large)
+SSwin transformer
+STAR-Transformer (RGB + Pose)
+STMC+Transformer (Ens)
+SVM classifier
+Sandwich Transformer
+Sandwich Transformer (adaptive span)
+Second Order Neural Ordinary Differential Equation
+SegaTransformer-XL
+Self-Classifier (ResNet-50)
+Sequence Cross-Modal Transformer-15
+SequenceR (Transformer)
+Set Transformer
+Siamese Neural Network
+SimpleShot CL2N Classifier (AST ImageNet & AudioSet - No fine-tune)
+SimpleShot CL2N Classifier (AST pre-trained w/ ImageNet - No fine-tune)
+Single Classifier
+Skip Cross-Head Transformer-XL
+Smaller Transformer 126M (fine-tuned)
+Smaller Transformer 126M (pre-trained)
+Sparse Neural Network
+Sparse Tensor Classifier
+Sparse Transformer (30 layers, fixed attn)
+Sparse Transformer 152M (strided)
+Sparse Transformer 59M (strided)
+Spectral Representations for Convolutional Neural Networks
+SpotFast + Transformer + Product-Key memory
+Star-Transformer
+Star-Transformer (no cross sentence attention)
+StarE (H) + Transformer (H)
+Stochastic Optimization of Plain Convolutional Neural Networks with Simple methods
+StratifiedTransformer
+StridedTransformer (T=243 CPN GTi)
+StridedTransformer (T=243)
+StridedTransformer (T=27 GT)
+StridedTransformer (T=27 MRCNN)
+StridedTransformer (T=27)
+StridedTransformer (T=351)
+StridedTransformer (T=81)
+Subject-invariant SSL Embedding & Linear Classifier
+Subword-ULM transformer (DeepSPIN-3; soft-attention, 1-5 entmax)
+Subword-level Transformer LM
+Superpoint Transformer
+Swin Transformer + Hierarchical design
+Swin Transformer Base (Patch 4 Window 12)
+Swin-Transformer (Swin-Small)
+SwinTransformer
+Switch Transformer
+Switch Transformer 9B
+Switch Transformer 9B (0-shot)
+Synthesised Classifier
+TAPAS-Large classifier with Counterfactual + Synthetic pre-training
+TP-Transformer
+TPOT Classifier
+Tall Transformer with Style-Augmented Training
+Text-Transformers + Five-fold five model cross-validation +Pseudo Label Algorithm
+Top Down Transformer (AdaPool) (464M)
+Traffic Transformer
+Transformer
+Transformer
+Transformer
+Transformer
+Transformer
+Transformer
+Transformer
+Transformer
+Transformer
+Transformer
+Transformer
+Transformer
+Transformer
+Transformer
+Transformer
+Transformer
+Transformer
+Transformer
+Transformer
+Transformer
+Transformer (12 layers, 8k adaptive span)
+Transformer (24 layers, 8k adaptive span)
+Transformer (64 layers)
+Transformer (ADMIN init)
+Transformer (Adaptive inputs)
+Transformer (Adaptive inputs)
+Transformer (Pipeline)
+Transformer (big) + Relative Position Representations
+Transformer (dynamic)
+Transformer (finetune)
+Transformer (self-attention) (Trinh et al., 2018)
+Transformer (static)
+Transformer + ASR Pretrain
+Transformer + ASR Pretrain
+Transformer + ASR Pretrain + SpecAug
+Transformer + BIFI
+Transformer + CNN
+Transformer + Meta Learning(ASR/MT) + Data Augmentation
+Transformer + Pre-train with Pseudo Data
+Transformer + Pre-train with Pseudo Data (+BERT)
+Transformer + Pre-train with Pseudo Data + BERT
+Transformer + R-Drop
+Transformer + R-Drop + Cutoff
+Transformer + SRU
+Transformer - synthetic pretrain only
+Transformer 125M
+Transformer Base
+Transformer Big
+Transformer Big
+Transformer Big + MoS
+Transformer Big + adversarial MLE
+Transformer Big with FRAGE
+Transformer Cycle (Rev)
+Transformer Ens.
+Transformer Ensemble
+Transformer LM
+Transformer Multitask + LayerDrop
+Transformer TF
+Transformer TTS (Mel + WaveGlow)
+Transformer Transducer
+Transformer base + BPE-Dropout
+Transformer local-attention (NesT-B)
+Transformer local-attention (NesT-S)
+Transformer local-attention (NesT-T)
+Transformer seq2seq
+Transformer trained on highly filtered data
+Transformer w/ CNN
+Transformer w/ CNN
+Transformer w/ CNN (+synth)
+Transformer with Adapters
+Transformer with FRAGE
+Transformer with Relaxed Attention
+Transformer with RoBERTa
+Transformer+BPE+FixNorm+ScaleNorm
+Transformer+BPE-dropout
+Transformer+BT (ADMIN init)
+Transformer+LRPE+PE+ALONE+Re-ranking
+Transformer+LRPE+PE+Re-ranking+Ensemble
+Transformer+LapPE
+Transformer+LayerNorm-simple
+Transformer+Rep(Sim)+WDrop
+Transformer+Rep(Uni)
+Transformer+SSA
+Transformer+SSA+Self-ensemble
+Transformer+Time reduction+Self Knowledge distillation
+Transformer+WDrop
+Transformer+Wdrop
+Transformer-Capsule
+Transformer-DRILL Base
+Transformer-LS (large)
+Transformer-LS (small)
+Transformer-M
+Transformer-N
+Transformer-XH-final
+Transformer-XL
+Transformer-XL (12 layers)
+Transformer-XL (18 layers)
+Transformer-XL (24 layers)
+Transformer-XL (24 layers, RMS dynamic eval, decay)
+Transformer-XL (RMS dynamic eval)
+Transformer-XL (SGD dynamic eval)
+Transformer-XL + AutoDropout
+Transformer-XL + RMS dynamic eval
+Transformer-XL + RMS dynamic eval + decay
+Transformer-XL - 24 layers
+Transformer-XL Base
+Transformer-XL Large
+Transformer-XL Large + Phrase Induction
+Transformer-XL Standard
+Transformer-base
+Transformer-based joint-encoding
+TransformerBase + AutoDropout
+TransformerCPI
+TransformerConv
+Transformer_NSC
+U-shape Transformer
+Universal Transformer
+Universal Transformer (w/ dynamic halting)
+Unleashing Transformers
+Unleashing Transformers (DINOv2)
+Unsupervised NMT + Transformer
+VLN Transformer
+VLN Transformer +M-50 +style
+VQGAN+Transformer
+VQGAN+Transformer (k=600, p=1.0, a=0.05)
+VQGAN+Transformer (k=mixed, p=1.0, a=0.005)
+Vanilla Transformer
+Video Transformer
+Void Classifier
+Wav2Vec2.0-Classifier
+Weighted Transformer (large)
+Window transformer
+WindowNorm+PointTransformer
+WindowNorm+StratifiedTransformer
+X-Transformer
+Zero Rule Classifier
+hybrid + Transformer LM rescoring
+iiTransformer
+naive classifier
+neural transition-based model
+sentence-transformers/distiluse-base-multilingual-cased-v1
+simCrossTrans with Swin Transformer (Point Cloud only)
+stack-Transformer (IBM)
+stack-Transformer + self-learning (IBM)
+transformers
+universal transformer base
+
+468 Rows. -- 623 msec.

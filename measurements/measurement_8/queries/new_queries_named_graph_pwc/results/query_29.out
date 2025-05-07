@@ -1,0 +1,279 @@
+Result of /data/leuven/370/vsc37064/new_queries_named_graph_pwc/query_29.txt:
+OpenLink Virtuoso Interactive SQL (Virtuoso)
+Version 07.20.3240 as of Mar 11 2025
+Type HELP; for help and EXIT; to exit.
+Connected to OpenLink Virtuoso
+Driver: 07.20.3240 OpenLink Virtuoso ODBC Driver
+datasetName
+LONG VARCHAR
+_______________________________________________________________________________
+
+ VIDIT’20 validation set
+2019_test set
+A2Dre test
+AIDA/testc
+AISHELL-2 Test Android
+AISHELL-2 Test IOS
+AISHELL-2 Test Mic
+ANLI test
+Arabic Dataset for Commonsense Validation¬†
+Argoverse-HD (Detection-Only, Test)
+Argoverse-HD (Full-Stack, Test)
+Artificial signal data for signal alignment testing
+BDD100K test
+BEA-2019 (test)
+BURST Box Exemplar-guided (test) 
+BURST Common Class-guided (test)
+BURST Long-tail Class-guided (test)
+BURST Mask Exemplar-guided (test)
+BURST Open-world Class-guided (test)
+BURST Point Exemplar-guided (test)
+BURST-test
+Battery test data - fast formation study
+BigEarthNet (official test set)
+BigEarthNet-S1 (official test set)
+BookTest
+Brazilian Protest
+CAIL2019-SCM - test
+CALLHOME Spanish Speech (Test)
+CAT: Context Adjustment Training
+COCO Captions Karpathy Test
+COCO Captions test
+COCO count-test
+COCO test-challenge
+COCO test-dev
+COCO-Stuff test
+CelebA-Test
+ChatGPT Software Testing Study
+ChatGPT-software-testing
+Children's Book Test
+Children's Book Test Common noun
+Cityscapes test
+Class-guided - common - test
+Class-guided - long-tail - test
+Class-guided - open-world - test
+CodeContests
+CodeXGLUE - AdvTest
+CodeXGLUE - WebQueryTest
+Cross-Dataset Testbed
+CrowdSpeech test-clean
+CrowdSpeech test-other
+DAVIS (no YouTube-VOS training)
+DAVIS 2017 (test-dev)
+DROP Test
+DUTS-test
+DVQA test-familiar
+Dataset for analyzing the impact of gamification in software testing education
+Deepfashion2 test
+Deepfashion2 validation
+Detection-Only (Test Set)
+DocVQA test
+Dubbing Test Set
+ECB+ test
+EUEN17037_Daylight_and_View_Standard_TestDataSet
+Ego4D MQ test
+Europarl-ASR EN Guest-test
+Europarl-ASR EN MEP-test
+Europarl-ASR MEP-test
+Event2Mind test
+Exemplar-guided - box - test
+Exemplar-guided - mask - test
+Exemplar-guided - point - test
+ExpMRC - C3 (test)
+ExpMRC - CMRC (test)
+ExpMRC - RACE+ (test)
+ExpMRC - SQuAD (test)
+FSNS - Test
+Fandom test
+FigureQA - test 1
+Flickr30K 1K test
+Flickr30k Captions test
+Flickr30k Entities Test
+Full-Stack (Test Set)
+GF-PA66 3D XCT (latest)
+GIGO revisited: ML publications' approaches to training data
+GQA Test2019
+GQA test-dev
+GQA test-std
+GRD-TRT-BUF-4I Technical Validation Data
+GermEval 2021 - Toxic, Engaging, & Fact-Claiming Comments test set
+GigaSpeech TEST
+GlobalEgoMocap Test Dataset
+Google Landmarks Dataset v2 (recognition, testing)
+Google Landmarks Dataset v2 (recognition, validation)
+Google Landmarks Dataset v2 (retrieval, testing)
+Google Landmarks Dataset v2 (retrieval, validation)
+INTERACTION Dataset - Validation
+INTERACTION Dataset - Validation ADE
+INTERACTION Dataset - Validation FDE
+ImageNet ctest10k
+Jester test
+KITTI 2015 Scene Flow Test
+KITTI 2015 Scene Flow Training
+KITTI Tracking test
+LVIS v1.0 test-dev
+Libri-Light 60k, test-clean
+Libri-Light test-clean
+Libri-Light test-other
+LibriSpeech test-clean
+LibriSpeech test-other
+LibriSpeechLibri-Light test-othertest-other
+MCTest
+MCTest-160
+MCTest-500
+MICCAI'2015 Gland Segmentation Challenge Contest Dataset
+MIMIC PERform Testing Dataset
+MLRegTest
+MNIST-test
+Maintenance of Wakefulness Test (MWT) recordings
+Manga109-s 15test
+Manually annotated 3-digit occupation code training set from the Norwegian 1950 census
+Matlab code for the article: Model-based selection of most informative diagnostic tests and test parameters
+Molecule3D test
+MovieLens-Latest
+Mozilla Common Voice 10.0 (Test)
+Mozilla Common Voice 10.0 test
+Mozilla Common Voice 11.0 (Test)
+Mozilla Common Voice 8.0 test
+Mozilla Common Voice 9.0 test
+MultiNews test
+Multilingual Dataset for Training and Evaluating Diacritics Restoration Systems
+Multiple Testing and Variable Selection along Least Angle Regression's path
+NEMO-Corpus (morph,test)
+NEMO-Corpus (token,test)
+NH-HAZE validation
+NLP Taxonomy Classification Test Data
+NLVR2 Test
+NSText2SQL: An Open Source Text-to-SQL Dataset for Foundation Model Training
+Nakdimon-test
+Navigation Turing Test
+Numeric Fused-Head (test)
+OVIS validation
+OpenLane-V2 test
+PASCAL VOC 2011 test
+PASCAL VOC 2012 test
+PIPAL NTIRE2021 Validation Testset
+PIRM-test
+Pascal VOC 2007 count-test
+Perception Test
+Pre-Contest Workshop Slidedeck
+Pre-Contest Workshop Video Recordings
+PubMed-Long Test
+QNLI (8 training examples per class)
+RRS Ranking Test
+RefCOCO testA
+RefCOCO testB
+RefCOCO+ test B
+RefCOCO+ testA
+RefCOCOg-test
+Refer-YouTube-VOS (2021 public validation)
+Replication Data for: Do uHear? Validation of uHear App for Preliminary Screening of Hearing Ability in Soundscape Studies
+S-TEST
+SF-XL test v1
+SF-XL test v2
+SNLI (8 training examples per class)
+SNLI-VE test
+SOD4SB Private Test
+SOD4SB Public Test
+SOD4SB public-test
+SPoC TestP
+SPoC TestW
+Santesteban VTO
+Selection from FFHQ & StyleGAN2:FFHQ (used in 'Testing Human Ability To Detect Deepfake Images of Human Faces' study)
+Sequence Consistency Evaluation (SCE) tests
+Shelf&Tote Training Dataset
+Source Code Tagger Training Set
+Story Cloze Test
+TCIA Test & Validation Radiotherapy CT Planning Scan
+TESTIMAGES
+TSN-FlexTest Traffic Streams for Spot Robot, Tactile Internet, and Generic Data
+TVMegaSite test
+Tatoeba - Test
+Tatoeba-test.eng-deu
+Test Scene Dataset for Physically Based Rendering
+Test-of-Time
+Test100
+Test1200
+Test2800
+TextVQA Test
+TextVQA test-standard
+UCLA Protest Image
+VCR (Q-A) test
+VCR (Q-AR) test
+VCR (QA-R) test
+VQA v1 test-dev
+VQA v1 test-std
+VQA v2 test-dev
+VQA v2 test-std
+VRAI test
+VRAI test-dev
+Validation Dataset
+VisDial v1.0 test-std
+Visual Dialog v1.0 test-std
+VizWiz 2020 test
+VizWiz 2020 test-dev
+WMT-newstest2014-deen
+Waymo 2D detection all_ns test
+Wind Tunnel and Flight Test Experiments
+XSTest
+YouTube-VIS validation
+Youtube-VIS 2022 Validation
+a test dataset for reuse
+arXiv-Long Test
+flores101-devtest
+flores101-devtest afr-deu
+flores101-devtest afr-eng
+flores101-devtest afr-ltz
+flores101-devtest afr-nld
+flores101-devtest deu-afr
+flores101-devtest deu-eng
+flores101-devtest deu-ltz
+flores101-devtest deu-nld
+flores101-devtest eng-afr
+flores101-devtest eng-deu
+flores101-devtest eng-ltz
+flores101-devtest eng-nld
+flores101-devtest ltz-afr
+flores101-devtest ltz-deu
+flores101-devtest ltz-eng
+flores101-devtest ltz-nld
+flores101-devtest nld-afr
+flores101-devtest nld-deu
+flores101-devtest nld-eng
+flores101-devtest nld-ltz
+flores200-devtest
+hand-drawn training set
+i3DMM Test Dataset
+methods2test
+miniF2F-test
+multi30k_task2_test_2016
+multi30k_test_2016_flickr
+multi30k_test_2017_flickr
+multi30k_test_2017_mscoco
+multi30k_test_2018_flickr
+multi30k_test_2018_flickr deu-eng
+multi30k_test_2018_flickr eng-deu
+newstest2014-deen
+newstest2014-deen deu-eng
+newstest2014-deen eng-deu
+newstest2015-deen
+newstest2015-deen deu-eng
+newstest2015-ende
+newstest2015-ende eng-deu
+newstest2016-deen
+newstest2016-deen deu-eng
+newstest2016-ende
+newstest2016-ende eng-deu
+newstest2018-deen
+newstest2018-deen deu-eng
+newstest2018-ende
+newstest2018-ende eng-deu
+tatoeba-test
+tatoeba-test-v2020-07-28
+tatoeba-test-v2020-07-28-v2021-08-07
+tatoeba-test-v2021-02-22
+tatoeba-test-v2021-03-30
+tatoeba-test-v2021-08-07
+tico19-test
+
+267 Rows. -- 29 msec.

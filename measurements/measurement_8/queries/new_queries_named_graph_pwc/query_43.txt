@@ -1,0 +1,20 @@
+# This query returns algorithm names containing gradient, backpropagation, or optimization.
+SPARQL
+PREFIX mls: <http://www.w3.org/ns/mls#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?algorithmName
+FROM <http://example.org/graph/pwc>
+WHERE {
+  ?algorithm a mls:Algorithm;
+             rdfs:label ?algorithmName.
+  
+  FILTER (
+    CONTAINS(LCASE(?algorithmName), "gradient") || 
+    CONTAINS(LCASE(?algorithmName), "backpropagation") ||
+    CONTAINS(LCASE(?algorithmName), "optimization")
+  )
+}
+ORDER BY ?algorithmName
+LIMIT 1000
+;

@@ -8,3 +8,50 @@ query_1_time.out,query_2_time.out,query_3_time.out,query_4_time.out,query_5_time
 350,1134,1852,8108,186803,1509,780,3350,2274,1107,2204,1115,729865,733828,3972,1844,5998,465,544,52990,158,83,1432,9729,726,678400,3679,7533,1210,2592,4884,38404,90,644,42793,7441,117,8172,173,244,1359,2398,63
 352,99,1823,9671,226686,1904,1059,3536,2122,901,2145,824,713276,655668,2659,1219,6107,214,94,51545,116,71,1127,683,976,807700,3505,9802,1498,3252,5933,39223,110,690,58846,9430,95,9754,249,240,2029,2958,67
 277,236,1860,6958,225501,606,991,3458,543,1481,2696,862,770884,739826,2996,1592,6782,208,110,49899,78,73,1140,663,952,727873,3562,9254,1408,3099,6007,51053,103,752,38166,9405,155,9731,250,165,1849,2996,79
+
+
+
+     Query	           Average Time(ms)
+query_1_time.out	1090.0
+query_2_time.out	223.0
+query_3_time.out	1846.6
+query_4_time.out	10139.1
+query_5_time.out	225048.8
+query_6_time.out	1620.5
+query_7_time.out	1138.1
+query_8_time.out	3251.9
+query_9_time.out	2355.0
+query_10_time.out	2290.6
+query_11_time.out	2661.6
+query_12_time.out	1629.3
+query_13_time.out	1017741.8
+query_14_time.out	892929.6
+query_15_time.out	3667.3
+query_16_time.out	1555.4
+query_17_time.out	7051.6
+query_18_time.out	283.2
+query_19_time.out	205.0
+query_20_time.out	49398.6
+query_21_time.out	122.6
+query_22_time.out	73.6
+query_23_time.out	1550.8
+query_24_time.out	1611.2
+query_25_time.out	844.0
+query_26_time.out	747.0
+query_27_time.out	3459.2
+query_28_time.out	8663.6
+query_29_time.out	1360.2
+query_30_time.out	5402.0
+query_31_time.out	45199.5
+query_32_time.out	97.7
+query_33_time.out	669.2
+query_34_time.out	47487.2
+query_35_time.out	8651.0
+query_36_time.out	140.3
+query_37_time.out	9602.8
+query_38_time.out	222.0
+query_39_time.out	246.7
+query_40_time.out	1682.9
+query_41_time.out	2642.4
+query_42_time.out	66.3
+query_43_time.out	68.1

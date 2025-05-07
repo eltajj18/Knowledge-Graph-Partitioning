@@ -1,0 +1,20 @@
+# This query returns machine learning model names that include terms like neural, transformer, or classifier.
+SPARQL
+PREFIX mls: <http://www.w3.org/ns/mls#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?modelName
+FROM <http://example.org/graph/pwc>
+WHERE {
+ ?model a mls:Model;
+         rdfs:label ?modelName.
+  
+  FILTER (
+    CONTAINS(LCASE(?modelName), "neural") || 
+    CONTAINS(LCASE(?modelName), "transformer") ||
+    CONTAINS(LCASE(?modelName), "classifier")
+  )
+}
+ORDER BY ?modelName
+LIMIT 1000
+;

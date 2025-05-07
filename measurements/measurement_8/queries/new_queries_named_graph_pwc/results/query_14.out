@@ -1,0 +1,25 @@
+Result of /data/leuven/370/vsc37064/new_queries_named_graph_pwc/query_14.txt:
+OpenLink Virtuoso Interactive SQL (Virtuoso)
+Version 07.20.3240 as of Mar 11 2025
+Type HELP; for help and EXIT; to exit.
+Connected to OpenLink Virtuoso
+Driver: 07.20.3240 OpenLink Virtuoso ODBC Driver
+benchmarkName
+LONG VARCHAR
+_______________________________________________________________________________
+
+# Correct Groups evaluation for Human Performance model
+# Solved Walls evaluation for Human Performance model
+Accuracy  evaluation for Human benchmark model
+Accuracy evaluation for Deep Comparison Network model
+Accuracy evaluation for Human Benchmark model
+Accuracy evaluation for Human Performance (single annotator) model
+Accuracy evaluation for Human benchmark model
+Average F1 evaluation for Human Benchmark model
+EM  evaluation for Human Benchmark model
+Execution Accurarcy (Human) evaluation for Human Performance model
+MCC evaluation for Human Benchmark model
+Mean Normalized Performance evaluation for PPG model
+Mean Normalized Performance evaluation for PPO model
+
+13 Rows. -- 199 msec.

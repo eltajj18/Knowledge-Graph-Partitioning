@@ -1,0 +1,828 @@
+Result of /data/leuven/370/vsc37064/new_queries/query_19.txt:
+OpenLink Virtuoso Interactive SQL (Virtuoso)
+Version 07.20.3240 as of Mar 11 2025
+Type HELP; for help and EXIT; to exit.
+Connected to OpenLink Virtuoso
+Driver: 07.20.3240 OpenLink Virtuoso ODBC Driver
+measureName
+LONG VARCHAR
+_______________________________________________________________________________
+
+	 ACCURACY
+ Content Selection (F1)
+ Macro-F1
+% Dev Accuracy
+% Test Accuracy
+% Test Accuracy (Raw Data)
+% Train Accuracy
+(Recall@10+Recall@50)/2
+(Recall@5+Recall_subset@1)/2
+1 shot Micro-F1
+1-of-100 Accuracy
+10-stage average accuracy
+14 gestures accuracy
+16x16 Accuracy
+1:1 Accuracy
+1:3 Accuracy
+2-Class Accuracy
+24x24 Accuracy
+28 gestures accuracy
+3-class test accuracy
+3-fold Accuracy
+32x32 Accuracy
+3:1 Accuracy
+48x48 Accuracy
+5-class test accuracy
+ACCURACY
+ADD(S) AUC
+ADDS AUC
+ANS-F1
+AUC
+AUC (ABPA)
+AUC (Aspergillus)
+AUC (Diabetes)
+AUC (E. Coli)
+AUC (I. Obstruction)
+AUC (K. Pneumonia)
+AUC (Macro)
+AUC (Micro)
+AUC (avg. on 4 real DREAM datasets)
+AUC (box)
+AUC (horizon error)
+AUC (outlier ratio = 0.5)
+AUC (test)
+AUC (val)
+AUC Macro
+AUC Micro
+AUC Per-segment
+AUC Stdev
+AUC on ACL Tear (ACL)
+AUC on Abnormality (ABN)
+AUC on Meniscus Tear (MEN)
+AUC score
+AUC(image-level)
+AUC-J
+AUC-J&F
+AUC-Judd
+AUC-PRO
+AUC-ROC
+AUC0.07
+AUC0.08 private
+AUC@10 (inter-ocular)
+AUC@10px
+AUC@20px
+AUC@5px
+AUC@7
+AUC@7 (bbox)
+AUC@7 (box)
+AUC@7 (box) 
+AUC@8 (inter-ocular)
+AUC@80%Train
+AUCCESS
+AUCROC
+AUC_F
+AUC_box@0.07 (%, Full)
+AVERAGE AUC ON 14 LABEL
+Accuracy
+Accuracy 
+Accuracy (% )
+Accuracy (%)
+Accuracy (10 classes)
+Accuracy (10 unseen classes)
+Accuracy (10-fold)
+Accuracy (12 unseen classes)
+Accuracy (2 classes)
+Accuracy (20 classes)
+Accuracy (24 unseen classes)
+Accuracy (3-way)
+Accuracy (4-way)
+Accuracy (5 unseen classes)
+Accuracy (5-fold)
+Accuracy (6 emotion)
+Accuracy (7 emotion)
+Accuracy (8 emotion)
+Accuracy (ADD)
+Accuracy (AV I)
+Accuracy (AV II)
+Accuracy (Amazon Mechanical Turk)
+Accuracy (Binary)
+Accuracy (Body + Fingers + Face joints)
+Accuracy (Body + Fingers joints)
+Accuracy (Body joints)
+Accuracy (C#→Java)
+Accuracy (CS)
+Accuracy (CV I)
+Accuracy (CV II)
+Accuracy (CV)
+Accuracy (Counterexamples)
+Accuracy (Cross-Setup)
+Accuracy (Cross-Subject)
+Accuracy (Cross-View)
+Accuracy (Cross-View, Avg)
+Accuracy (Dev)
+Accuracy (H50)
+Accuracy (High)
+Accuracy (Inter-Patient)
+Accuracy (Intra-Patient)
+Accuracy (Java→C#)
+Accuracy (LOS>3 Days)
+Accuracy (LOS>7 Days)
+Accuracy (Middle)
+Accuracy (Private)
+Accuracy (Public)
+Accuracy (RGB+pose)
+Accuracy (Set 1)
+Accuracy (Set 2)
+Accuracy (TEST-DB)
+Accuracy (TRAIN-DB)
+Accuracy (Test)
+Accuracy (Test-P)
+Accuracy (Test-U)
+Accuracy (VEB+)
+Accuracy (Val)
+Accuracy (domain)
+Accuracy (easy)
+Accuracy (hard)
+Accuracy (max)
+Accuracy (mean)
+Accuracy (median)
+Accuracy (medium)
+Accuracy (pose)
+Accuracy (small)
+Accuracy (trained on 10k)
+Accuracy (trained on 1k)
+Accuracy (training-test)
+Accuracy (under 20% Sym. label noise)
+Accuracy (under 50% Sym. label noise)
+Accuracy (under 80% Sym. label noise)
+Accuracy (under 90% Sym. label noise)
+Accuracy (under 95% Sym. label noise)
+Accuracy - All Images
+Accuracy - Clean Images
+Accuracy - Corrupted Images
+Accuracy Improvement
+Accuracy Per-patient
+Accuracy Per-segment
+Accuracy Seen
+Accuracy Unseen
+Accuracy at 1%
+Accuracy of Agreeableness
+Accuracy of Conscientiousness
+Accuracy of Extraversion
+Accuracy of Neurotism
+Accuracy of Openness
+Accuracy of Sentiment
+Accuracy on ACL Tear (ACL)
+Accuracy on Abnormality (ABN)
+Accuracy on Meniscus Tear (MEN)
+Accuracy w/ 3 frames error (Hard)
+Accuracy w/ 3 frames error (Light)
+Accuracy w/ 3 frames error (Medium color)
+Accuracy w/ 3 frames error (Medium geometric)
+Accuracy(10-fold)
+Accuracy(30-fold)
+Accuracy(on validation set)
+Accuracy(pretrained)
+Accuracy(stratified10-fold)
+Accuracy-CN
+Accuracy-EN (%)
+Accuracy-FR (%)
+Accuracy-NE
+Accuracy-NM
+Accuracy@5
+Act F1
+Actions Recall@5
+All accuracy (10% Labeled)
+All accuracy (50% Labeled)
+Alpha-Word accuracy
+Answer Accuracy
+Answer F1
+Armstand Accuracy
+Attribute accuracy
+AuCDC
+AutoAttacked Accuracy
+Average AD-Accuracy
+Average AUC
+Average AUC on 14 label
+Average Accuracy
+Average Accuracy (10 times)
+Average Balanced Accuracy (across datasets)
+Average Class Accuracy 
+Average F1
+Average Incremental Accuracy
+Average Incremental Accuracy Top-5
+Average Per-Class Accuracy
+Average Pixel F1(Fixed threshold)
+Average Precision
+Average Precision (%)
+Average Precision at 0.5 3D IoU
+Average Recall
+Average Recall@IoU:0.5-0.95
+Average Test Accuracy over all magnifications
+Average Top-1 Accuracy
+Average Top-1 localization accuracy
+Average accuracy - 5 tasks
+Average accuracy of 3 splits
+Averaged Precision
+Avg F1
+Avg accuracy
+Avg. Accuracy
+Avg. F1
+Avg. ROC-AUC
+Balanced Accuracy
+Balanced Multi-Class Accuracy
+BertScore (Precision)
+BertScoreF1
+Best F1
+Bias-Conflicting Accuracy
+Binary Accuracy
+Blur Segmentation Accuracy
+CF1
+CIFAR-10 W4A4 Top-1 Accuracy
+CIFAR-10 W5A5 Top-1 Accuracy
+CIFAR-10 W6A6 Top-1 Accuracy
+CIFAR-10 W8A8 Top-1 Accuracy
+CIFAR-100 W4A4 Top-1 Accuracy
+CIFAR-100 W5A5 Top-1 Accuracy
+CIFAR-100 W6A6 Top-1 Accuracy
+CIFAR-100 W8A8 Top-1 Accuracy
+CLIP R-Precision
+Categorical Accuracy
+Caucasian
+Char-F1
+Claim Classification Macro-F1
+Class-dependent localization recall
+Classification Accuracy
+Classification Accuracy (BN-free)
+Classification Accuracy (Deep)
+Classification Accuracy (Dense)
+Classification Accuracy (ID-test)
+Classification Accuracy (ResNet-50)
+Classification Accuracy (ViT)
+Classification Accuracy (Wide)
+Clean Accuracy
+Clustering Accuracy
+CoNLL F1
+Completion accuracy
+Compositional F1
+Content F1
+Continual Weighted Accuracy
+Correction F1
+Cross Subject Accuracy
+Cross View Accuracy
+Cross-person Accuracy
+D(BERT): F1
+D(BiDAF): F1
+D(RoBERTa): F1
+Denotation Accuracy
+Denotation accuracy (test)
+Detection AUCROC
+Detection Accuracy
+Detection F1
+Dev Accuracy
+Dev F1
+EN-AUC
+EN-F1
+Element Accuracy
+English-20K (open) F1
+English-Wiki (open) F1
+Entity Alignment (Consolidated) F1
+Entity F1
+Entity F1 (partial)
+Eval F1
+Exact F1
+Exact Match Accuracy
+Exact Match Accuracy (Dev)
+Exact Match Accuracy (Test)
+Exact Match Accuracy (in Dev)
+Exact Match F1 ("Any Combination")
+Exact Match F1 ("Positive Combination")
+Exact Span F1
+Example-F1-14
+Example-Precision-14
+Example-Recall-14
+Execution Accuracy
+Execution Accuracy % (Dev)
+Execution Accuracy % (Test)
+Execution Accuracy (Dev)
+Execution Accuracy (Test)
+Execution Accuracy (in Dev)
+Explanation Accuracy
+F-F1 score (Comb.)
+F-F1 score (NA)
+F-F1 score (Persian)
+F-measure (Recall)
+F1
+F1 (%)
+F1 (1% Few-Shot)
+F1 (1-Doc)
+F1 (10% Few-Shot)
+F1 (10-way 1-shot)
+F1 (10-way 5-shot)
+F1 (1dAVb)
+F1 (3-Doc)
+F1 (5% Few-Shot)
+F1 (5-way 1-shot)
+F1 (5-way 5-shot
+F1 (AF)
+F1 (Arg.)
+F1 (Chinese)
+F1 (H50)
+F1 (Hidden Test Set)
+F1 (L14)
+F1 (LBBB)
+F1 (Laptop)
+F1 (Opinion)
+F1 (Opinion-Holder Pair)
+F1 (Opinion-Role Pair)
+F1 (Opinion-Target Pair)
+F1 (Prd.)
+F1 (QE-PE)
+F1 (QE-PH)
+F1 (Quasar-T)
+F1 (R15)
+F1 (R16)
+F1 (RBBB)
+F1 (Restaurant)
+F1 (SB)
+F1 (ST)
+F1 (Seqeval)
+F1 (Sequence)
+F1 (Set)
+F1 (Zero-Shot)
+F1 (all)
+F1 (avg)
+F1 (macro)
+F1 (micro)
+F1 (strict)
+F1 (surface form)
+F1 (v1)
+F1 (v2)
+F1 - macro
+F1 @ RelDis. 0.05
+F1 Full
+F1 Macro
+F1 Micro
+F1 Newswire
+F1 Per-patient
+F1 Per-segment
+F1 Score
+F1 Score (Avg. over Cities)
+F1 on Toxic class
+F1 score
+F1 score (5-fold)
+F1(10-fold)
+F1(Neg)
+F1(Pos)
+F1(QH-PE)
+F1(QH-PH)
+F1(R14)
+F1(stratified10-fold)
+F1(t=0.4m)
+F1(t=0.8m)
+F1(t=1.2m)
+F1-Hard
+F1-Measure
+F1-Score
+F1-Score (Cross-Session)
+F1-Score (Cross-Subject)
+F1-all
+F1-score
+F1-score (@IoU = 0.2)
+F1-score (@IoU = 0.2, all age groups)
+F1-score (@IoU = 0.2, older individuals)
+F1-score (@IoU = 0.2, young individuals)
+F1-score (@IoU = 0.3)
+F1-score (Augmented)
+F1-score (Canonical)
+F1-score (Weighted)
+F1-score (Word)
+F1-score (strict)
+F1@0.1s
+F1@0.2s
+F1@0.5s
+F1@1.0s
+F1@1.5s
+F1@10
+F1@10%
+F1@2.0s
+F1@2.5s
+F1@25%
+F1@3.0s
+F1@50%
+F1@Avg
+F1@M
+F1_mean
+F1c (v1)
+F1c (v2)
+F1≤20°
+Fact-F1
+Fashion Accuracy
+Feature Matching Recall
+Feminine F1 (F)
+Final Accuracy
+Final Accuracy Top-5
+Frame accuracy
+Full F1 (Preps)
+Full MRP F1
+Full UCCA F1
+Function F1 (Preps)
+G-Score (BLEU, Accuracy)
+GT-known localization accuracy
+Global Accuracy
+Global Average Precision
+Holder Binary F1
+I.I.D. F1
+IDF1
+Ign F1
+Image to Text Recall@1
+Image-Level Recall
+ImageNet Top-1 Accuracy
+ImageNet Top-5 Accuracy
+ImageNet W4A4 Top-1 Accuracy
+ImageNet W8A8 Top-1 Accuracy
+In-KB Accuracy
+Inst-level loose-accuracy
+Inst-level strict-accuracy
+Intent Accuracy
+JOINT-F1
+Jaccard (Recall)
+Joint F1
+KILT-F1
+LPP MRP F1
+LPP UCCA F1
+Lane Accuracy (LA)
+Laptop (F1)
+Laptop 2014 (F1)
+Last Accuracy
+Last Accuracy 
+Line break F1
+Link & Rel F1
+Link F1
+Long-Tailed Accuracy
+MC Accuracy
+ML AUC
+ML F1
+Macro AUC
+Macro F1
+Macro F1 (10-fold)
+Macro F1 (w/o Neutral)
+Macro F1 word level
+Macro Precision
+Macro Recall
+Macro-AUC
+Macro-F1
+Macro-F1 (20% training data)
+Macro-F1 (60% training data)
+Macro-F1 (80% training data)
+Macro-F1 of Sentiment
+Macro-F1@2%
+Macro-averaged Accuracy
+Macro-averaged F1
+Masculine F1 (M)
+Max F1 (WSJ)
+Max F1 (WSJ10)
+Mean AUC
+Mean Accuracy
+Mean F1
+Mean F1 (Advanced)
+Mean F1 (Intermediate)
+Mean F1 (Laptop + Restaurant)
+Mean F1 (WSJ)
+Mean F1 (WSJ10)
+Mean Pixel Accuracy
+Mean Recall
+Mean class accuracy
+Message-F1
+Micro AUC
+Micro F1
+Micro F1 (Exact Span)
+Micro F1 (Tokens)
+Micro Precision
+Micro Recall
+Micro-AUC
+Micro-F1
+Micro-F1 (20% training data)
+Micro-F1 (80% training data)
+Micro-F1 strong
+Micro-F1-5
+Micro-F1@2%
+Micro-Precision-5
+Micro-Recall-5
+Micro-average F1
+N-gram F1
+NER Macro F1
+NER Micro F1
+NOV-F1
+Neg. F1
+No. of Somersaults Accuracy
+No. of Twists Accuracy
+Non-Categorical Accuracy
+Normalized Precision
+Novel accuracy (10% Labeled)
+Novel accuracy (50% Labeled)
+OBJ_BG Accuracy(%)
+OBJ_ONLY Accuracy(%)
+OF1
+Object Top 5 Accuracy
+Object Top-1 Accuracy
+Object accuracy
+Objects Recall@5
+Operation F1 score
+Overal Accuracy
+Overall Accuracy
+Overall F1
+Overall accuracy after last sequence
+Overall: F1
+PA-VAUC
+PB_T50_RS Accuracy (%)
+PCM-F1 (dev)
+PCM-F1 (test)
+PR AUC
+PR-AUC
+Pair F1 (aspect-opinion)
+Pair F1 (target-aspect)
+Pair F1 (target-opinion)
+Pairwise F1
+Per-Class Accuracy
+Per-Class Accuracy  (2-shots)
+Per-Class Accuracy (1-shot)
+Per-Class Accuracy (10-shots)
+Per-Class Accuracy (2-shots)
+Per-Class Accuracy (20-shots)
+Per-Class Accuracy (5-shots)
+Per-class Accuracy
+Per-class Accuracy (Agree)
+Per-class Accuracy (Disagree)
+Per-class Accuracy (Discuss)
+Per-class Accuracy (Unrelated)
+Per-pixel Accuracy
+Percentage Average accuracy - 5 tasks
+Permuted Accuracy
+Pixel Accuracy
+Pointing Game Accuracy
+Pos. F1
+Position Accuracy
+Precision
+Precision (5-fold)
+Precision @5
+Precision Plot
+Precision Rate
+Precision Score
+Precision@(F1=1, IoU≥0.5)
+Precision@0.5
+Precision@0.6
+Precision@0.7
+Precision@0.8
+Precision@0.9
+Precision@1
+Precision@10
+Precision@100
+Precision@15
+Precision@20
+Precision@5
+Precision@8
+Prediction Accuracy
+Program Accuracy
+Prompt-level loose-accuracy
+Prompt-level strict-accuracy
+Punctuation F1
+Quad F1 (identification)
+Quad F1 (micro)
+R Precision Top3
+R-AUC MSE
+R-Precision Top3
+R-precision
+RE Macro F1
+RE Micro F1
+RE+ Macro F1
+RE+ Macro F1 
+RE+ Micro F1
+ROC AUC
+ROC-AUC
+ROC-AUC FAR
+ROC-AUC IID
+ROC-AUC NEAR
+ROC-AUC-ID (In-Distribution setup)
+ROUGE-1 F1
+Real World Accuracy
+Recall
+Recall ( correspondence RMSE below 0.2)
+Recall (%)
+Recall (%)	
+Recall (0.3m, 15 degrees)
+Recall (0.6m, 5 degrees)
+Recall (30cm, 5 degrees)
+Recall (3cm, 10 degrees)
+Recall (5-fold)
+Recall (VSD)
+Recall 10@1
+Recall @ 10
+Recall at 80% precision (Landmarks Visibility)
+Recall/ Sensitivity
+Recall@1
+Recall@1 (%)
+Recall@1 (HN-Atom + HN-Comp, SC)
+Recall@1 (HN-Atom + HN-Comp, UC)
+Recall@1 (HN-Atom, UC)
+Recall@1 (HN-Comp, UC)
+Recall@1%
+Recall@10
+Recall@10 on 1 rounds
+Recall@10 on 2 rounds
+Recall@10 on 3 rounds
+Recall@100
+Recall@1x (tIoU=0.5)
+Recall@2
+Recall@20
+Recall@200
+Recall@5
+Recall@50
+Recall@500
+Recall@64
+Recall@Sum
+Recall@top1%
+Relation F1
+Relation classification F1
+Relaxed Detection (F1)
+Restaurant (F1)
+Restaurant 2014 (F1)
+Restaurant 2015 (F1)
+Restaurant 2016 (F1)
+Retrieval Top10 Recall
+Rewriting F1
+Robust Accuracy
+Role F1 (Preps)
+Rotation Type Accuracy
+SUP-F1
+Section break F1
+Seen accuracy
+Seen accuracy (10% Labeled)
+Seen accuracy (50% Labeled)
+Segmentation AUCROC
+Set1 (F1)
+Set3 (AUC)
+Slot Accuracy
+Slot F1
+Slot F1 Score
+Soft-F1
+Span F1 (aspect)
+Span F1 (opinion)
+Span F1 (target)
+Strict Detection (F1)
+Target Binary F1
+Task 1 Accuracy: all
+Task 1 Accuracy: domain specific
+Task 1 Accuracy: general purpose
+Task 2 Accuracy: all
+Task 2 Accuracy: domain specific
+Task 2 Accuracy: general purpose
+Task 3 Accuracy: all
+Task 3 Accuracy: domain specific
+Task 3 Accuracy: general purpose
+Test AUC top 1
+Test AUC top 2
+Test AUC top 3
+Test Accuracy
+Test F1 score
+Test F1 score (private)
+Test F1-Score
+Test ROC-AUC
+Text (F1)
+Token F1
+Top 1 Accuracy
+Top 1 Accuracy %
+Top 1 Accuracy (kNN, k=20)
+Top 1 Accuracy - Act.
+Top 1 Accuracy - Noun
+Top 1 Accuracy - Verb
+Top 10 Accuracy
+Top 5 Accuracy
+Top 5 Accuracy %
+Top 5 Accuracy (BN-free)
+Top 5 Accuracy (Deep)
+Top 5 Accuracy (Dense)
+Top 5 Accuracy (ID-test)
+Top 5 Accuracy (ResNet-50)
+Top 5 Accuracy (ViT)
+Top 5 Accuracy (Wide)
+Top 5 Accuracy - Act.
+Top 5 Accuracy - Noun
+Top 5 Accuracy - Verb
+Top-1 Accuracy
+Top-1 Accuracy (%)
+Top-1 Accuracy(5-Way-1-Shot)
+Top-1 Accuracy(5-Way-5-Shot)
+Top-1 Action Accuracy
+Top-1 Localization Accuracy
+Top-1 Recall
+Top-1 accuracy
+Top-1 accuracy %
+Top-10 Accuracy
+Top-10 accuracy
+Top-2 accuracy %
+Top-20 accuracy
+Top-3 Accuracy
+Top-3 Accuracy (%)
+Top-3 Recall
+Top-3 accuracy
+Top-3 accuracy %
+Top-5 Accuracy
+Top-5 Accuracy %
+Top-5 Accuracy (%)
+Top-5 Recall
+Top-5 accuracy
+Top-50 accuracy
+Total Accuracy
+Tweet Classification Macro-F1
+UF1
+Unknown Recall
+Unnormalized Accuracy
+Unpaired Accuracy
+Unpermuted Accuracy
+Unseen accuracy
+Unweighted Accuracy
+Unweighted Accuracy (UA)
+V-F1 score (Comb.)
+V-F1 score (NA)
+V-F1 score (Persian)
+V/UV F1
+VAL-F1
+VAUC
+Val AUC top 1
+Val AUC top 2
+Val AUC top 3
+Val Accuracy
+Val F1 Score
+Validation Accuracy
+Validation F1 score
+Validation ROC-AUC
+Verb Top-1 Accuracy
+Verb Top-5 Accuracy
+Verbs Recall@5
+Weighted Accuracy
+Weighted Accuracy (WA)
+Weighted Average F1-score
+Weighted F1
+Weighted F1 (w/o Neutral)
+Weighted accuracy (cross-val)
+Weighted accuracy (validation)
+Weighted-F1
+Zero-shot F1
+accuracy
+associated accuracy
+average accuracy - 10 tasks
+average accuracy - 20 tasks
+average pairwise accuracy
+average top-1 classification accuracy
+average_precision
+class-average Accuracy
+dangling entity detection F1
+dynamic accuracy
+event-based F1 score
+f1 macro avg (subtask 2)
+f1_score
+hierarchical macro-averaged recall
+interaction match accuracy
+label-F1 (%)
+location-dependent F1-score (macro)
+location-dependent F1-score (micro)
+mAUC
+mF1
+mIDF1
+macro F1
+macro f1 score (A(100), B(100), C(100) Avg.)
+matching accuracy
+max_F1
+mean Recall @100
+mean Recall @20
+mean average accuracy
+mean average accuracy @ 10
+mean average precision
+mean per-class accuracy
+mean precision
+pairwise accuracy
+pi/6 accuracy
+pixel accuracy
+precision
+precision
+predictive_accuracy
+question match accuracy
+recall
+recall
+recall@1
+recall@10
+recall@5
+recall@top1
+recall@top1%
+s-AUC
+sAUC
+split-1  Top-1 Accuracy
+static accuracy
+unknown F1 score
+unweighted_recall
+validation mean average precision
+weighted-F1 score
+weighted_recall
+
+816 Rows. -- 383 msec.

@@ -1,0 +1,24 @@
+# This query returns model evaluation names that contain specific keywords (test, validation, or benchmark).
+
+SPARQL
+PREFIX mls: <http://www.w3.org/ns/mls#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX mlso: <http://w3id.org/mlso/>
+
+SELECT ?evaluationName
+FROM <http://example.org/graph/openml_runs>
+FROM <http://example.org/graph/pwc>
+WHERE {
+  ?evaluation a mls:ModelEvaluation;
+              rdfs:label ?evaluationName.
+  
+  FILTER (
+    CONTAINS(LCASE(?evaluationName), "test") || 
+    CONTAINS(LCASE(?evaluationName), "validation") ||
+    CONTAINS(LCASE(?evaluationName), "benchmark")
+  )
+}
+ORDER BY ?evaluationName
+LIMIT 1000
+;

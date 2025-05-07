@@ -1,0 +1,20 @@
+# This query returns machine learning task names that include classification, regression, or detection.
+SPARQL
+PREFIX mls: <http://www.w3.org/ns/mls#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT DISTINCT ?taskName
+FROM <http://example.org/graph/openml_tasks>
+WHERE {
+  ?task a mls:Task;
+        rdfs:label ?taskName.
+  
+  FILTER (
+    CONTAINS(LCASE(?taskName), "classification") || 
+    CONTAINS(LCASE(?taskName), "regression") ||
+    CONTAINS(LCASE(?taskName), "detection")
+  )
+}
+ORDER BY ?taskName
+LIMIT 1000
+;

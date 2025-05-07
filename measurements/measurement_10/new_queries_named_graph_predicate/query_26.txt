@@ -1,0 +1,23 @@
+# This query returns model monitoring configurations.
+SPARQL
+PREFIX mls: <http://www.w3.org/ns/mls#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX mlso: <http://w3id.org/mlso/>
+
+SELECT ?monitoringName
+FROM <http://example.org/_http___www_w3_org_1999_02_22_rdf_syntax_ns_type_>
+FROM <http://example.org/_http___www_w3_org_2000_01_rdf_schema_label_>
+WHERE {
+  ?monitoring a mls:ModelEvaluation;
+              rdfs:label ?monitoringName.
+  
+  FILTER (
+    CONTAINS(LCASE(?monitoringName), "monitoring") || 
+    CONTAINS(LCASE(?monitoringName), "tracking") ||
+    CONTAINS(LCASE(?monitoringName), "observability")
+  )
+}
+ORDER BY ?monitoringName
+LIMIT 1000
+;

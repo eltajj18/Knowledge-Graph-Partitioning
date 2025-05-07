@@ -1,7 +1,10 @@
-Measurement Single Machine , on Google Cloud Computing Engine, VM --> virtuoso-master, loading to one graph no named graph this time.
+Description: I run same measurement as measurement_3 but on different HPC ( Google Cloud Compute Engine)
+
 
 Specs can be found in the google cloud thing...
 
 MaxCheckpointRemap = 3276800
 NumberOfBuffers          = 1020000
 MaxDirtyBuffers          = 750000
+
+
