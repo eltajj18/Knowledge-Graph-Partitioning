@@ -1,0 +1,31 @@
+# This query returns machine learning features with their dataset associations and target roles.
+SPARQL
+DEFINE sql:select-option "order"
+PREFIX mls: <http://www.w3.org/ns/mls#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX mlso: <http://w3id.org/mlso/>
+PREFIX dcat: <http://www.w3.org/ns/dcat#>
+
+SELECT ?featureName ?datasetName ?isTarget
+FROM <http://example.org/graph/openml_datasets>
+WHERE {
+  ?feature a mls:Feature;
+           rdfs:label ?featureName.
+  
+  OPTIONAL {
+    ?dataset dcat:distribution ?distribution.
+    ?distribution mlso:hasDefaultTargetFeature ?feature.
+    ?dataset rdfs:label ?datasetName.
+    BIND("true" AS ?isTarget)
+  }
+
+  FILTER (
+    CONTAINS(LCASE(?featureName), "image") || 
+    CONTAINS(LCASE(?featureName), "text") ||
+    CONTAINS(LCASE(?featureName), "label")
+  )
+}
+ORDER BY ?datasetName ?featureName
+LIMIT 1000
+;

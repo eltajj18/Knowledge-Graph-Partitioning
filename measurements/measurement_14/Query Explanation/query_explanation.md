@@ -1,0 +1,1 @@
+Folloed this guidelines to analyze the way virtuoso handle different queires : https://docs.openlinksw.com/virtuoso/rdfperfcost/#rdfperfcosttransanalyze

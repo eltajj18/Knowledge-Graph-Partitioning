@@ -1,0 +1,1 @@
+Look at query explanations and force query to use different index and see how it affects

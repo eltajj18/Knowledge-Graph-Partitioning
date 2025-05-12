@@ -1,0 +1,69 @@
+                                                         LONG VARCHAR                                     GROUP
+_______________________________________________________________________________
+http://example.org/_http___www_w3_org_1999_02_22_rdf_syntax_ns_type_              307685291           (individual)
+http://example.org/_http___www_w3_org_ns_mls_specifiedBy_                         281427066            A1 (coexists with A2)
+http://example.org/_http___www_w3_org_ns_mls_hasValue_                            280918491            A2 (coexists with A1 and A3)
+http://example.org/_http___www_w3_org_2000_01_rdf_schema_label_                   198597230             (individual)
+http://example.org/_http___www_w3_org_ns_mls_hasOutput_                           174107745            B1 (coexists with B2 and B3)
+http://example.org/_http___www_w3_org_ns_mls_hasInput_                            116088365            B2 (coexists with B1)
+http://example.org/_http___purl_org_dc_terms_creator_                             11944785             
+http://example.org/_http___www_w3_org_ns_mls_executes_                            10068558             B3 (coexists with B1)
+http://example.org/_http___www_w3_org_ns_mls_achieves_                            10037962             C1 (coexists with C2)
+http://example.org/_http___www_w3_org_ns_prov_atLocation_                         8726962              E1 (coexists with E2)
+http://example.org/_http___w3id_org_mlso_hasPredictionsLocation_                  8678635              C2 (coexists with C1)
+http://example.org/_http___w3id_org_mlso_hasDataCharacteristicType_               7203202              A3 (coexists with A2)
+http://example.org/_http___www_w3_org_ns_mls_hasQuality_                          7203202
+http://example.org/_http___purl_org_dc_terms_title_                               5796290                 
+http://example.org/_http___www_w3_org_ns_mls_hasPart_                             3631294               individual
+http://example.org/_http___www_w3_org_ns_dcat_keyword_                            1714990                 G1 (coexists with G2)
+http://example.org/_http___schema_org_codeRepository_                             1476273               D1 (coexists with D2 and D3)
+http://example.org/_http___purl_org_dc_terms_modified_                            1436089
+http://example.org/_http___purl_org_dc_terms_created_                             1431233
+http://example.org/_https___w3id_org_okn_o_sd_programmingLanguage_                1087840
+http://example.org/_https___w3id_org_okn_o_sd_hasSourceCode_                      1085129               D2(coexists with D1)
+http://example.org/_http___purl_org_dc_terms_source_                              930627 
+http://example.org/_http___w3id_org_mlso_hasRelatedImplementation_                918875                  individual
+http://example.org/_http___xmlns_com_foaf_0_1_name_                               886629
+http://example.org/_http___w3id_org_mlso_hasRelatedSoftware_                      848828
+http://example.org/_http___w3id_org_mlso_hasTaskType_                             569403                  G2(coexists with G1)
+http://example.org/_http___www_w3_org_ns_mls_implements_                          508885                  individual
+http://example.org/_http___purl_org_dc_terms_issued_                              481740
+http://example.org/_http___purl_org_spar_fabio_abstract_                          442229                 H1 (coexists with H2)
+http://example.org/_http___purl_org_dc_terms_identifier_                          415883
+http://example.org/_http___purl_org_spar_fabio_hasArXivId_                        389006                 H2 (coexists with H1)
+http://example.org/_http___www_w3_org_ns_dcat_landingPage_                        352255
+http://example.org/_http___purl_org_dc_terms_license_                             351320
+http://example.org/_https___w3id_org_okn_o_sd_softwareRequirements_               225014                 D3(coexists with D1)
+http://example.org/_http___purl_org_dc_terms_description_                         151751
+http://example.org/_http___www_w3_org_ns_mls_hasHyperParameter_                   114079
+http://example.org/_http___www_w3_org_ns_mls_definedOn_                           47273
+http://example.org/_http___www_w3_org_ns_mls_defines_                             47273
+http://example.org/_http___purl_org_dc_terms_language_                            24806
+http://example.org/_http___purl_org_dc_terms_hasVersion_                          22332              
+http://example.org/_http___w3id_org_mlso_hasNumberOfReferences_                   15018                   F1 (coexists with F2)
+http://example.org/_http___w3id_org_mlso_isVariantOf_                             12955
+http://example.org/_http___w3id_org_mlso_hasVariant_                              12955                   F2 (coexists with F1)
+http://example.org/_http___w3id_org_mlso_hasModality_                             9151
+http://example.org/_http___w3id_org_mlso_hasScientificReference_                  7789
+http://example.org/_http___w3id_org_mlso_hasFormat_                               5481
+http://example.org/_http___www_w3_org_ns_dcat_distribution_                       5481
+http://example.org/_http___w3id_org_mlso_hasDataLoaderLocation_                   5261
+http://example.org/_http___purl_org_dc_terms_accessRights_                        4980                   individual
+http://example.org/_http___open_vocab_org_terms_hasMD5_                           4980
+http://example.org/_http___w3id_org_mlso_hasCacheFormat_                          4980
+http://example.org/_http___www_w3_org_ns_dcat_downloadURL_                        4572
+http://example.org/_http___w3id_org_mlso_hasDefaultTargetFeature_                 3855
+http://example.org/_http___w3id_org_mlso_hasEvaluationProcedureType_              3163
+http://www.openlinksw.com/schemas/virtrdf#                                        2479
+http://example.org/_http___w3id_org_mlso_hasAlgorithmType_                        2107
+http://example.org/_http___w3id_org_mlso_hasIdFeature_                            1168  (individual)
+http://example.org/_http___purl_org_dc_terms_contributor_                         648
+http://example.org/_http___w3id_org_mlso_scientificReferenceOf_                   308   E2 (coexists with E1)
+http://example.org/_http___w3id_org_mlso_hasEvaluationMeasureType_                29  (individual)
+urn:core:services:sparql                                                          14
+http://www.w3.org/ns/ldp#                                                         3
+http://localhost:8890/DAV/                                                        3
+urn:activitystreams-owl:map                                                       2
+
+
+

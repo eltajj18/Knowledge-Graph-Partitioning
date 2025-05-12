@@ -17,21 +17,21 @@ Type HELP; for help and EXIT; to exit.
 Connected to OpenLink Virtuoso
 Driver: 07.20.3240 OpenLink Virtuoso ODBC Driver
 SQL> Type the rest of statement, end with a semicolon (;)> Type the rest of statement, end with a semicolon (;)> Type the rest of statement, end with a semicolon (;)> Type the rest of statement, end with a semicolon (;)> Type the rest of statement, end with a semicolon (;)> Type the rest of statement, end with a semicolon (;)> Type the rest of statement, end with a semicolon (;)> Type the rest of statement, end with a semicolon (;)> graph                                                                             tripleCount
-LONG VARCHAR                                                                      LONG VARCHAR
+LONG VARCHAR                                                                      LONG VARCHAR        GROUP
 _______________________________________________________________________________
 
-http://example.org/_http___www_w3_org_1999_02_22_rdf_syntax_ns_type_              307685291
-http://example.org/_http___www_w3_org_ns_mls_specifiedBy_                         281427066
-http://example.org/_http___www_w3_org_ns_mls_hasValue_                            280918491
+http://example.org/_http___www_w3_org_1999_02_22_rdf_syntax_ns_type_              307685291          
+http://example.org/_http___www_w3_org_ns_mls_specifiedBy_                         281427066            
+http://example.org/_http___www_w3_org_ns_mls_hasValue_                            280918491            
 http://example.org/_http___www_w3_org_2000_01_rdf_schema_label_                   198597230
-http://example.org/_http___www_w3_org_ns_mls_hasOutput_                           174107745
-http://example.org/_http___www_w3_org_ns_mls_hasInput_                            116088365
-http://example.org/_http___purl_org_dc_terms_creator_                             11944785
-http://example.org/_http___www_w3_org_ns_mls_executes_                            10068558
+http://example.org/_http___www_w3_org_ns_mls_hasOutput_                           174107745           
+http://example.org/_http___www_w3_org_ns_mls_hasInput_                            116088365            
+http://example.org/_http___purl_org_dc_terms_creator_                             11944785          
+http://example.org/_http___www_w3_org_ns_mls_executes_                            10068558             
 http://example.org/_http___www_w3_org_ns_mls_achieves_                            10037962
 http://example.org/_http___www_w3_org_ns_prov_atLocation_                         8726962
 http://example.org/_http___w3id_org_mlso_hasPredictionsLocation_                  8678635
-http://example.org/_http___w3id_org_mlso_hasDataCharacteristicType_               7203202
+http://example.org/_http___w3id_org_mlso_hasDataCharacteristicType_               7203202              
 http://example.org/_http___www_w3_org_ns_mls_hasQuality_                          7203202
 http://example.org/_http___purl_org_dc_terms_title_                               5796290
 http://example.org/_http___www_w3_org_ns_mls_hasPart_                             3631294
@@ -92,3 +92,8 @@ Type HELP; for help and EXIT; to exit.
 Connected to OpenLink Virtuoso
 Driver: 07.20.3240 OpenLink Virtuoso ODBC Driver
 SQL> Virtuoso bulk load completed successfully.
+
+
+
+
+

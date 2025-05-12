@@ -1,0 +1,17 @@
+# Query to find all Datasets and their associated tasks:
+SPARQL
+DEFINE sql:select-option "order"
+PREFIX mls: <http://www.w3.org/ns/mls#>
+PREFIX dcat: <http://www.w3.org/ns/dcat#>
+
+SELECT ?dataset ?task
+FROM <http://example.org/graph/pwc>
+FROM <http://example.org/graph/openml_datasets>
+FROM <http://example.org/graph/kaggle>
+FROM <http://example.org/graph/openml_tasks>
+WHERE {
+    ?dataset rdf:type mls:Dataset .
+    ?task rdf:type mls:Task .
+}
+LIMIT 1000;
+

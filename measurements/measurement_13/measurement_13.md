@@ -1,0 +1,1 @@
+Full indexes instead of bitmap indexes PSGO OGPS and so on, research this

@@ -1,0 +1,17 @@
+# This query finds the most common software requirements.
+SPARQL
+DEFINE sql:select-option "order"
+PREFIX mls: <http://www.w3.org/ns/mls#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX sd: <https://w3id.org/okn/o/sd#>
+
+SELECT ?requirement (COUNT(DISTINCT ?software) as ?softwareCount)
+FROM <http://example.org/graph/pwc>
+WHERE {
+  ?software a mls:Software;
+            sd:softwareRequirements ?requirement.
+}
+GROUP BY ?requirement
+ORDER BY DESC(?softwareCount)
+LIMIT 1000 
+;

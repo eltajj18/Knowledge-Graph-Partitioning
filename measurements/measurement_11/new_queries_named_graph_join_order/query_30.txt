@@ -1,0 +1,19 @@
+# This query returns model deployment configurations.
+SPARQL
+DEFINE sql:select-option "order"
+PREFIX mls: <http://www.w3.org/ns/mls#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX mlso: <http://w3id.org/mlso/>
+PREFIX sd: <https://w3id.org/okn/o/sd#>
+
+SELECT ?deploymentName
+FROM <http://example.org/graph/pwc>
+FROM <http://example.org/graph/openml_flows>
+WHERE {
+  ?deployment a mls:Implementation;
+              rdfs:label ?deploymentName.
+}
+ORDER BY ?deploymentName
+LIMIT 10000
+;

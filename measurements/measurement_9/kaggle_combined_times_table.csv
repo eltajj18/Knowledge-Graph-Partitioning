@@ -9,3 +9,10 @@ query_15_time.out,query_16_time.out,query_29_time.out
 1319,855,973
 1331,848,973
 1336,854,979
+
+
+
+Query	         Average Time (ms)
+query_15_time.out	1615.0
+query_16_time.out	860.0
+query_29_time.out	972.4

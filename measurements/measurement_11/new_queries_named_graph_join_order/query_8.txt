@@ -1,0 +1,33 @@
+# This query returns scientific work titles along with their authors and publication dates that contain specific keywords (transformer, attention, or bert).
+SPARQL
+DEFINE sql:select-option "order"
+PREFIX mls: <http://www.w3.org/ns/mls#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX mlso: <http://w3id.org/mlso/>
+PREFIX fabio: <http://purl.org/spar/fabio/>
+
+SELECT ?workTitle ?authorName ?publicationDate
+FROM <http://example.org/graph/pwc>
+WHERE {
+  ?work a mlso:ScientificWork;
+        dcterms:title ?workTitle.
+  
+  OPTIONAL {
+    ?work dcterms:creator ?author.
+    ?author rdfs:label ?authorName.
+  }
+  
+  OPTIONAL {
+    ?work dcterms:issued ?publicationDate.
+  }
+  
+  FILTER (
+    CONTAINS(LCASE(?workTitle), "transformer") || 
+    CONTAINS(LCASE(?workTitle), "attention") ||
+    CONTAINS(LCASE(?workTitle), "bert")
+  )
+}
+ORDER BY DESC(?publicationDate) ?workTitle
+LIMIT 1000
+;

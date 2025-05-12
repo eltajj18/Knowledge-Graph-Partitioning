@@ -1,0 +1,19 @@
+# This query finds the most common feature and characteristic combinations.
+SPARQL
+DEFINE sql:select-option "order"
+PREFIX mls: <http://www.w3.org/ns/mls#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?featureName ?characteristicName (COUNT(*) as ?frequency)
+FROM <http://example.org/graph/openml_datasets>
+WHERE {
+  ?feature a mls:Feature;
+           rdfs:label ?featureName;
+           mls:hasQuality ?characteristic.
+  
+  ?characteristic rdfs:label ?characteristicName.
+}
+GROUP BY ?featureName ?characteristicName
+ORDER BY DESC(?frequency)
+LIMIT 1000
+;

@@ -10,11 +10,7 @@ WHERE {
   ?paper a mlso:ScientificWork;
          dcterms:title ?paperTitle.
   
-  OPTIONAL {
-    ?paper mlso:hasRelatedDataset ?dataset.
-    ?dataset rdfs:label ?datasetName.
-  }
-  
+
   OPTIONAL {
     ?paper mlso:hasRelatedImplementation ?implementation.
     ?implementation rdfs:label ?implementationName.

@@ -1,0 +1,34 @@
+# This query returns scientific works with their related implementations and authors.
+
+SPARQL
+DEFINE sql:select-option "order"
+PREFIX mls: <http://www.w3.org/ns/mls#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX mlso: <http://w3id.org/mlso/>
+PREFIX schema: <http://schema.org/>
+
+SELECT ?workTitle ?authorName ?implementationName
+FROM  <http://example.org/graph/pwc>
+
+WHERE {
+  ?work a mlso:ScientificWork;
+        dcterms:title ?workTitle.
+  
+  ?work mlso:hasRelatedImplementation ?implementation.
+  ?implementation rdfs:label ?implementationName.
+  
+  OPTIONAL {
+    ?work dcterms:creator ?author.
+    ?author rdfs:label ?authorName.
+  }
+  
+  FILTER (
+    CONTAINS(LCASE(?workTitle), "deep learning") || 
+    CONTAINS(LCASE(?workTitle), "neural network") ||
+    CONTAINS(LCASE(?workTitle), "transformer") ||
+    CONTAINS(LCASE(?workTitle), "machine learning")
+  )
+}
+ORDER BY ?workTitle
+LIMIT 1000;

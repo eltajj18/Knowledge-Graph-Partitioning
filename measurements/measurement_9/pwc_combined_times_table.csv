@@ -9,3 +9,31 @@ query_1_time.out,query_3_time.out,query_4_time.out,query_8_time.out,query_10_tim
 37,1600,2640,1040403,101,1922,129,249,232,329,4789,37,626,632,234,2243,51,2226,36,331,185,13375,104,844,2167,29
 50,1602,2631,1032224,102,1937,121,276,236,302,4778,38,628,655,237,2255,48,2236,38,325,203,13323,105,790,2176,25
 50,1623,2595,1021686,136,1833,112,248,230,298,4675,51,633,634,236,2189,54,2193,50,357,186,13052,107,842,2112,37
+
+Query	         Average Time(ms)
+query_1_time.out	236.6
+query_3_time.out	1645.6
+query_4_time.out	2937.6
+query_8_time.out	1117597.2
+query_10_time.out	418.7
+query_11_time.out	2461.2
+query_12_time.out	277.5
+query_13_time.out	474.1
+query_14_time.out	478.3
+query_15_time.out	391.5
+query_17_time.out	5126.9
+query_19_time.out	73.7
+query_23_time.out	1098.9
+query_25_time.out	1185.6
+query_26_time.out	582.6
+query_27_time.out	2598.0
+query_29_time.out	105.7
+query_30_time.out	2420.9
+query_33_time.out	74.6
+query_34_time.out	525.1
+query_35_time.out	290.7
+query_37_time.out	20370.8
+query_39_time.out	186.9
+query_41_time.out	1015.1
+query_42_time.out	2295.0
+query_43_time.out	62.9

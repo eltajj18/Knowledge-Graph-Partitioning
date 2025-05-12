@@ -7,3 +7,60 @@ query_1_time.out,query_2_time.out,query_3_time.out,query_4_time.out,query_5_time
 741,91,2386,4115,205957,293,177,2703,847,546,1972,540865,572635,537788,2829,1240,8585,167,103,62831,66,291,1641,818,826,530545,2929,7425,1147,1892,5910,27676,42,560,26491,7400,91,8291,108,140,1006,2204,28,28098,6119,1456,5794,3252,1292,13581,989569,945033,947695
 956,96,2676,4370,204253,288,294,2590,910,723,2009,565304,572699,531706,3290,1338,10096,175,80,63557,70,554,1302,512,836,526513,2539,7698,1162,1925,5787,28691,69,445,28700,7494,85,8487,135,142,993,2243,27,37992,5802,1478,9242,3290,1318,13914,1000696,950491,944636
 740,142,2655,4398,,,,,,575,2003,625987,576289,538360,3201,1357,10748,179,72,64054,90,238,1450,534,842,526117,3125,7391,1124,1843,5830,27105,66,586,22631,7372,79,8306,121,181,1006,2255,49,30794,5610,1549,9244,3329,1327,14965,991180,946253,
+
+
+
+
+
+Query	        Average Time (ms)
+query_1_time.out	898.3
+query_2_time.out	135.8
+query_3_time.out	2486.1
+query_4_time.out	4111.0
+query_5_time.out	201010.1
+query_6_time.out	298.3
+query_7_time.out	275.7
+query_8_time.out	2527.1
+query_9_time.out	781.0
+query_10_time.out	1415.0
+query_11_time.out	2003.0
+query_12_time.out	561603.3
+query_13_time.out	558835.4
+query_14_time.out	515942.4
+query_15_time.out	3241.0
+query_16_time.out	1443.6
+query_17_time.out	9708.1
+query_18_time.out	191.9
+query_19_time.out	92.6
+query_20_time.out	60594.0
+query_21_time.out	120.4
+query_22_time.out	297.0
+query_23_time.out	1467.1
+query_24_time.out	574.3
+query_25_time.out	798.0
+query_26_time.out	511924.4
+query_27_time.out	2735.4
+query_28_time.out	7263.0
+query_29_time.out	1089.0
+query_30_time.out	1799.0
+query_31_time.out	5485.4
+query_32_time.out	27600.0
+query_33_time.out	563.7
+query_34_time.out	36699.0
+query_35_time.out	6942.0
+query_36_time.out	85.0
+query_37_time.out	8016.0
+query_38_time.out	122.0
+query_39_time.out	991.0
+query_40_time.out	2000.0
+query_41_time.out	30.0
+query_42_time.out	34567.0
+query_43_time.out	6123.0
+query_44_time.out	1456.0
+query_45_time.out	9242.0
+query_46_time.out	3290.0
+query_47_time.out	1318.0
+query_48_time.out	13914.0
+query_49_time.out	991180.0
+query_50_time.out	946253.0
+query_51_time.out	944636.0
