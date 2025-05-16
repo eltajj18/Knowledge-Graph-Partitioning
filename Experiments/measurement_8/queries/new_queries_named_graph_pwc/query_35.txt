@@ -1,0 +1,27 @@
+# This query returns runs with their results.
+SPARQL
+PREFIX mls: <http://www.w3.org/ns/mls#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX mlso: <http://w3id.org/mlso/>
+
+SELECT ?runName ?result
+FROM <http://example.org/graph/openml_runs>
+FROM <http://example.org/graph/pwc>
+WHERE {
+  ?run a mls:Run;
+       rdfs:label ?runName.
+  
+  OPTIONAL {
+    ?run mls:hasOutput ?result.
+  }
+  
+  FILTER (
+    CONTAINS(LCASE(?runName), "experiment") || 
+    CONTAINS(LCASE(?runName), "trial") ||
+    CONTAINS(LCASE(?runName), "execution")
+  )
+}
+ORDER BY ?runName
+LIMIT 1000
+;

@@ -1,0 +1,33 @@
+# This query returns features with their characteristics and relationships.
+SPARQL
+PREFIX mls: <http://www.w3.org/ns/mls#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX mlso: <http://w3id.org/mlso/>
+
+SELECT ?featureName ?characteristicName ?characteristicValue ?relationshipType
+FROM <http://example.org/graph/openml_datasets>
+WHERE {
+  ?feature a mls:Feature;
+           rdfs:label ?featureName.
+  
+  OPTIONAL {
+    ?feature mls:hasQuality ?characteristic.
+    ?characteristic rdfs:label ?characteristicName;
+                    mls:hasValue ?characteristicValue.
+  }
+  
+  OPTIONAL {
+    ?feature ?relationship ?relatedFeature.
+    BIND(REPLACE(STR(?relationship), ".*#", "") AS ?relationshipType)
+  }
+  
+  FILTER (
+    CONTAINS(LCASE(?featureName), "input") || 
+    CONTAINS(LCASE(?featureName), "output") ||
+    CONTAINS(LCASE(?featureName), "target")
+  )
+}
+ORDER BY ?featureName ?characteristicName
+LIMIT 1000 
+;

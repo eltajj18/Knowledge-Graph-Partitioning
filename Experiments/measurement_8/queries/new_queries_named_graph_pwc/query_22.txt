@@ -1,0 +1,21 @@
+# This query returns machine learning evaluation measures filtered by name.
+SPARQL
+PREFIX mls: <http://www.w3.org/ns/mls#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT DISTINCT ?measure ?measureName
+FROM <http://example.org/graph/openml_runs>
+FROM <http://example.org/graph/openml_pwc>
+WHERE {
+  ?measure a mls:EvaluationMeasure;
+           rdfs:label ?measureName.
+  
+  FILTER (
+    CONTAINS(LCASE(?measureName), "accuracy") || 
+    CONTAINS(LCASE(?measureName), "precision") ||
+    CONTAINS(LCASE(?measureName), "recall")
+  )
+}
+ORDER BY ?measureName
+LIMIT 1000
+;

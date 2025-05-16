@@ -1,0 +1,1012 @@
+Result of /data/leuven/370/vsc37064/new_queries_named_graph/query_42.txt:
+OpenLink Virtuoso Interactive SQL (Virtuoso)
+Version 07.20.3240 as of Mar 11 2025
+Type HELP; for help and EXIT; to exit.
+Connected to OpenLink Virtuoso
+Driver: 07.20.3240 OpenLink Virtuoso ODBC Driver
+workTitle
+LONG VARCHAR
+_______________________________________________________________________________
+
+ #ActuallyDepressed: Characterization of Depressed Tumblr Users' Online Behavior from Rules Generation Machine Learning Technique
+ #WarTeam at SemEval-2017 Task 6: Using Neural Networks for Discovering Humorous Tweets
+ 'Etude des r 'eseaux de neurones r 'ecurrents pour 'etiquetage de s 'equences (A study of Recurrent Neural Networks for Sequence Labelling)
+ 'Evaluation objective de plongements pour la synth `ese de parole guid 'ee par r 'eseaux de neurones (Objective evaluation of embeddings for speech synthesis guided by neural networks)
+ 'Evolution phonologique des langues et r 'eseaux de neurones : travaux pr 'eliminaires (Sound change and neural networks: preliminary experiments )
+ emph{Lifted} RDT based capacity analysis of the 1-hidden layer treelike emph{sign} perceptrons neural networks
+#ContextMatters: Advantages and Limitations of Using Machine Learning to Support Women in Politics
+#phramacovigilance - Exploring Deep Learning Techniques for Identifying Mentions of Medication Intake from Twitter
+$ N^4 $-Fields: Neural Network Nearest Neighbor Fields for Image Transforms
+$ boldsymbolγ$-Net: Superresolving SAR Tomographic Inversion via Deep Learning
+$ ell_0$ Regularized Structured Sparsity Convolutional Neural Networks
+$ ell_1$-regularized Neural Networks are Improperly Learnable in Polynomial Time
+$ mathbb{Z}_2 times mathbb{Z}_2$ Equivariant Quantum Neural Networks: Benchmarking against Classical Neural Networks
+$ mathcal{G}$-SGD: Optimizing ReLU Neural Networks in its Positively Scale-Invariant Space
+$ rm A^2Q$: Aggregation-Aware Quantization for Graph Neural Networks
+$ textbf{A}^2 textbf{CiD}^2$: Accelerating Asynchronous Communication in Decentralized Deep Learning
+$ textit{Ab Initio}$ Discovery of Biological Knowledge from scRNA-Seq Data Using Machine Learning
+$ textit{FastSVD-ML-ROM}$: A Reduced-Order Modeling Framework based on Machine Learning for Real-Time Applications
+$C^ infty$ Smooth Algorithmic Neural Networks for Solving Inverse Problems
+$C^*$-Algebraic Machine Learning: Moving in a New Direction
+$C^*$-algebra Net: A New Approach Generalizing Neural Network Parameters to $C^*$-algebra
+$C^3DRec$: Cloud-Client Cooperative Deep Learning for Temporal Recommendation in the Post-GDPR Era
+$O(N^2)$ Universal Antisymmetry in Fermionic Neural Networks
+$S^{2}$-LBI: Stochastic Split Linearized Bregman Iterations for Parsimonious Deep Learning
+$f$-Cal: Calibrated aleatoric uncertainty estimation from neural networks for robot perception
+$k$-Anonymity in Practice: How Generalisation and Suppression Affect Machine Learning Classifiers
+$k$-Mixup Regularization for Deep Learning via Optimal Transport
+$k$-Nearest Neighbor Augmented Neural Networks for Text Classification
+$p$-Laplacian Based Graph Neural Networks
+$r-$Adaptive Deep Learning Method for Solving Partial Differential Equations
+$Δ$-PINNs: physics-informed neural networks on complex geometries
+$Π-$nets: Deep Polynomial Neural Networks
+$Σ$-net: Ensembled Iterative Deep Neural Networks for Accelerated Parallel MR Image Reconstruction
+$Σ$-net: Systematic Evaluation of Iterative Deep Neural Networks for Fast Parallel MR Image Reconstruction
+$α$-Stable convergence of heavy-tailed infinitely-wide neural networks
+$α$-divergence Improves the Entropy Production Estimation via Machine Learning
+$μ$GUIDE: a framework for microstructure imaging via generalized uncertainty-driven inference using deep learning
+$μ$VulDeePecker: A Deep Learning-Based System for Multiclass Vulnerability Detection
+$ν$-net: Deep Learning for Generalized Biventricular Cardiac Mass and Function Parameters
+$π$VAE: a stochastic process prior for Bayesian deep learning with MCMC
+'A net for everyone': fully personalized and unsupervised neural networks trained with longitudinal data from a single patient
+'Almost Sure' Chaotic Properties of Machine Learning Methods
+'BNN - BN = ?': Training Binary Neural Networks without Batch Normalization
+'CADSketchNet' -- An Annotated Sketch dataset for 3D CAD Model Retrieval with Deep Neural Networks
+'Garbage In, Garbage Out' Revisited: What Do Machine Learning Application Papers Report About Human-Labeled Training Data?
+'Hello, It's Me': Deep Learning-based Speech Synthesis Attacks in the Real World
+'In-Between' Uncertainty in Bayesian Neural Networks
+'Jam Me If You Can'': Defeating Jammer with Deep Dueling Neural Network Architecture and Ambient Backscattering Augmented Communications
+'Killing Me' Is Not a Spoiler: Spoiler Detection Model using Graph Neural Networks with Dependency Relation-Aware Attention Mechanism
+'Lossless' Compression of Deep Neural Networks: A High-dimensional Neural Tangent Kernel Approach
+'Name that manufacturer'. Relating image acquisition bias with task complexity when training deep learning models: experiments on head CT
+'Oddball SGD': Novelty Driven Stochastic Gradient Descent for Training Deep Neural Networks
+'Prompt-Gamma Neutron Activation Analysis (PGNAA)' Metal Spectral Classification using Deep Learning Method
+'Seeing Sound': Audio Classification with the Wigner-Wille Distribution and Convolutional Neural Networks
+'Subverting the Jewtocracy': Online Antisemitism Detection Using Multimodal Deep Learning
+'Task-relevant autoencoding' enhances machine learning for human neuroscience
+'The Human Body is a Black Box': Supporting Clinical Decision-Making with Deep Learning
+'The Taurus': Cattle Breeds & Diseases Identification Mobile Application using Machine Learning
+'Understanding Robustness Lottery': A Geometric Visual Comparative Analysis of Neural Network Pruning Approaches
+'What is Relevant in a Text Document?': An Interpretable Machine Learning Approach
+'You might also like this model': Data Driven Approach for Recommending Deep Learning Models for Unknown Image Datasets
+(ASNA) An Attention-based Siamese-Difference Neural Network with Surrogate Ranking Loss function for Perceptual Image Quality Assessment
+(Not) Understanding Latin Poetic Style with Deep Learning
+(Quasi-)Real-Time Inversion of Airborne Time-Domain Electromagnetic Data via Artificial Neural Network
+(Re)Defining Expertise in Machine Learning Development
+*-CFQ: Analyzing the Scalability of Machine Learning on a Compositional Task
+0.8% Nyquist computational ghost imaging via non-experimental deep learning
+0/1 Deep Neural Networks via Block Coordinate Descent
+1-D Convlutional Neural Networks for the Analysis of Pupil Size Variations in Scotopic Conditions
+1-D Residual Convolutional Neural Network coupled with Data Augmentation and Regularization for the ICPHM 2023 Data Challenge
+1-Dimensional polynomial neural networks for audio signal related problems
+1-Lipschitz Neural Networks are more expressive with N-Activations
+1-bit Quantized On-chip Hybrid Diffraction Neural Network Enabled by Authentic All-optical Fully-connected Architecture
+10,000 optimal CVRP solutions for testing machine learning based heuristics
+11 TeraFLOPs per second photonic convolutional accelerator for deep learning optical neural networks
+19 Parameters Is All You Need: Tiny Neural Networks for Particle Physics
+1D Convolutional Neural Network Models for Sleep Arousal Detection
+1D Convolutional Neural Networks and Applications: A Survey
+1D Convolutional neural networks and machine learning algorithms for spectral data classification with a case study for Covid-19
+1D-CapsNet-LSTM: A Deep Learning-Based Model for Multi-Step Stock Index Forecasting
+1st Place in ICCV 2023 Workshop Challenge Track 1 on Resource Efficient Deep Learning for Computer Vision: Budgeted Model Training Challenge
+1xN Pattern for Pruning Convolutional Neural Networks
+2-bit Model Compression of Deep Convolutional Neural Network on ASIC Engine for Image Retrieval
+2-gram-based Phonetic Feature Generation for Convolutional Neural Network in Assessment of Trademark Similarity
+2-hop Neighbor Class Similarity (2NCS): A graph structural metric indicative of graph neural network performance
+2.5D Deep Learning for CT Image Reconstruction using a Multi-GPU implementation
+20-fold Accelerated 7T fMRI Using Referenceless Self-Supervised Deep Learning Reconstruction
+200x Low-dose PET Reconstruction using Deep Learning
+2D Convolutional Neural Network for Event Reconstruction in IceCube DeepCore
+2D Convolutional Neural Networks for 3D Digital Breast Tomosynthesis Classification
+2D histology meets 3D topology: Cytoarchitectonic brain mapping with Graph Neural Networks
+2D versus 3D Convolutional Spiking Neural Networks Trained with Unsupervised STDP for Human Action Recognition
+2D-3D Fully Convolutional Neural Networks for Cardiac MR Segmentation
+2D-Densely Connected Convolution Neural Networks for automatic Liver and Tumor Segmentation
+2D-RC: Two-Dimensional Neural Network Approach for OTFS Symbol Detection
+2D/3D Megavoltage Image Registration Using Convolutional Neural Networks
+2D/3D Pose Estimation and Action Recognition using Multitask Deep Learning
+2DeteCT -- A large 2D expandable, trainable, experimental Computed Tomography dataset for machine learning
+2L-3W: 2-Level 3-Way Hardware-Software Co-Verification for the Mapping of Deep Learning Architecture (DLA) onto FPGA Boards
+2P-DNN : Privacy-Preserving Deep Neural Networks Based on Homomorphic Cryptosystem
+3-D Convolutional Neural Networks for Glioblastoma Segmentation
+3-Dimensional Deep Learning with Spatial Erasing for Unsupervised Anomaly Segmentation in Brain MRI
+300 GHz Radar Object Recognition based on Deep Neural Networks and Transfer Learning
+3D Adapted Random Forest Vision (3DARFV) for Untangling Heterogeneous-Fabric Exceeding Deep Learning Semantic Segmentation Efficiency at the Utmost Accuracy
+3D Appearance Super-Resolution with Deep Learning
+3D B-mode ultrasound speckle reduction using deep learning for 3D registration applications
+3D Bounding Box Estimation Using Deep Learning and Geometry
+3D Cardiac Shape Prediction with Deep Neural Networks: Simultaneous Use of Images and Patient Metadata
+3D Computational Cannula Fluorescence Microscopy enabled by Artificial Neural Networks
+3D Conceptual Design Using Deep Learning
+3D Consistent & Robust Segmentation of Cardiac Images by Deep Learning with Spatial Propagation
+3D Consistent Biventricular Myocardial Segmentation Using Deep Learning for Mesh Generation
+3D Context Enhanced Region-based Convolutional Neural Network for End-to-End Lesion Detection
+3D Convolution Neural Network based Person Identification using Gait cycles
+3D Convolutional Neural Networks Image Registration Based on Efficient Supervised Learning from Artificial Deformations
+3D Convolutional Neural Networks for Brain Tumor Segmentation: A Comparison of Multi-resolution Architectures
+3D Convolutional Neural Networks for Classification of Functional Connectomes
+3D Convolutional Neural Networks for Cross Audio-Visual Matching Recognition
+3D Convolutional Neural Networks for Dendrite Segmentation Using Fine-Tuning and Hyperparameter Optimization
+3D Convolutional Neural Networks for Efficient and Robust Hand Pose Estimation From Single Depth Images
+3D Convolutional Neural Networks for Stalled Brain Capillary Detection
+3D Convolutional Neural Networks for Tumor Segmentation using Long-range 2D Context
+3D Convolutional Neural Networks for Ultrasound-Based Silent Speech Interfaces
+3D Deep Learning for Biological Function Prediction from Physical Fields
+3D Deep Learning on Medical Images: A Review
+3D Deep Learning with voxelized atomic configurations for modeling atomistic potentials in complex solid-solution alloys
+3D Detection and Characterisation of ALMA Sources through Deep Learning
+3D Facial Imperfection Regeneration: Deep learning approach and 3D printing prototypes
+3D Fully Convolutional Neural Networks with Intersection Over Union Loss for Crop Mapping from Multi-Temporal Satellite Images
+3D Graph Neural Networks for RGBD Semantic Segmentation
+3D High-Quality Magnetic Resonance Image Restoration in Clinics Using Deep Learning
+3D Human Activity Recognition with Reconfigurable Convolutional Neural Networks
+3D Human Pose Estimation Using Convolutional Neural Networks with 2D Pose Information
+3D Keypoint Detection Based on Deep Neural Network with Sparse Autoencoder
+3D Local Convolutional Neural Networks for Gait Recognition
+3D Meta-Segmentation Neural Network
+3D Multi-Object Tracking Using Graph Neural Networks with Cross-Edge Modality Attention
+3D Neural Network for Lung Cancer Risk Prediction on CT Volumes
+3D Object Detection in LiDAR Point Clouds using Graph Neural Networks
+3D Object Recognition with Ensemble Learning --- A Study of Point Cloud-Based Deep Learning Models
+3D Object Segmentation for Shelf Bin Picking by Humanoid with Deep Learning and Occupancy Voxel Grid Map
+3D Point Cloud Classification and Segmentation using 3D Modified Fisher Vector Representation for Convolutional Neural Networks
+3D Point Cloud Compression with Recurrent Neural Network and Image Compression Methods
+3D Point Cloud Denoising via Deep Neural Network based Local Surface Estimation
+3D Point Cloud Descriptors in Hand-crafted and Deep Learning Age: State-of-the-Art
+3D Point Cloud Registration for Localization Using a Deep Neural Network Auto-Encoder
+3D Pose Regression using Convolutional Neural Networks
+3D Printed Brain-Controlled Robot-Arm Prosthetic via Embedded Deep Learning from sEMG Sensors
+3D Quasi-Recurrent Neural Network for Hyperspectral Image Denoising
+3D Reconstruction of Curvilinear Structures with Stereo Matching DeepConvolutional Neural Networks
+3D Recurrent Neural Networks with Context Fusion for Point Cloud Semantic Segmentation
+3D RegNet: Deep Learning Model for COVID-19 Diagnosis on Chest CT Image
+3D Regression Neural Network for the Quantification of Enlarged Perivascular Spaces in Brain MRI
+3D Room Geometry Inference from Multichannel Room Impulse Response using Deep Neural Network
+3D Scalable Quantum Convolutional Neural Networks for Point Cloud Data Processing in Classification Applications
+3D Scattering Tomography by Deep Learning with Architecture Tailored to Cloud Fields
+3D Scene Geometry-Aware Constraint for Camera Localization with Deep Learning
+3D Shape Segmentation with Geometric Deep Learning
+3D Structure from 2D Microscopy images using Deep Learning
+3D Tensor-based Deep Learning Models for Predicting Option Price
+3D Topology Optimization using Convolutional Neural Networks
+3D U-NetR: Low Dose Computed Tomography Reconstruction via Deep Learning and 3 Dimensional Convolutions
+3D Visual Tracking Framework with Deep Learning for Asteroid Exploration
+3D attention mechanism for fine-grained classification of table tennis strokes using a Twin Spatio-Temporal Convolutional Neural Networks
+3D convolutional neural network for abdominal aortic aneurysm segmentation
+3D deformable registration of longitudinal abdominopelvic CT images using unsupervised deep learning
+3D dynamic hand gestures recognition using the Leap Motion sensor and convolutional neural networks
+3D segmentation of mandible from multisectional CT scans by convolutional neural networks
+3D shape sensing and deep learning-based segmentation of strawberries
+3D-PRNN: Generating Shape Primitives with Recurrent Neural Networks
+3D-RADNet: Extracting labels from DICOM metadata for training general medical domain deep 3D convolution neural networks
+3D-Rotation-Equivariant Quaternion Neural Networks
+3D-Spatiotemporal Forecasting the Expansion of Supernova Shells Using Deep Learning toward High-Resolution Galaxy Simulations
+3DFCNN: Real-Time Action Recognition using 3D Deep Neural Networks with Raw Depth Information
+3DInvNet: A Deep Learning-Based 3D Ground-Penetrating Radar Data Inversion
+3DPalsyNet: A Facial Palsy Grading and Motion Recognition Framework using Fully 3D Convolutional Neural Networks
+3DQ: Compact Quantized Neural Networks for Volumetric Whole Brain Segmentation
+3DRIMR: 3D Reconstruction and Imaging via mmWave Radar based on Deep Learning
+3DRegNet: A Deep Neural Network for 3D Point Registration
+3DSRnet: Video Super-resolution using 3D Convolutional Neural Networks
+3HAN: A Deep Neural Network for Fake News Detection
+3LC: Lightweight and Effective Traffic Compression for Distributed Machine Learning
+3M: Multi-loss, Multi-path and Multi-level Neural Networks for speech recognition
+3d-SMRnet: Achieving a new quality of MPI system matrix recovery by deep learning
+4D Attention-based Neural Network for EEG Emotion Recognition
+4D Deep Learning for Multiple Sclerosis Lesion Activity Segmentation
+4D Deep Learning for Multiple-Sclerosis Lesion Activity Segmentation
+4D Spatio-Temporal ConvNets: Minkowski Convolutional Neural Networks
+4D Spatio-Temporal Deep Learning with 4D fMRI Data for Autism Spectrum Disorder Classification
+4D flight trajectory prediction using a hybrid Deep Learning prediction method based on ADS-B technology: a case study of Hartsfield-Jackson Atlanta International Airport(ATL)
+4D-ONIX: A deep learning approach for reconstructing 3D movies from sparse X-ray projections
+4DFlowNet: Super-Resolution 4D Flow MRI using Deep Learning and Computational Fluid Dynamics
+5 Parallel Prism: A topology for pipelined implementations of convolutional neural networks using computational memory
+50 Years of Test (Un)fairness: Lessons for Machine Learning
+500+ Times Faster Than Deep Learning (A Case Study Exploring Faster Methods for Text Mining StackOverflow)
+5G MIMO Data for Machine Learning: Application to Beam-Selection using Deep Learning
+5G Network Slicing: Analysis of Multiple Machine Learning Classifiers
+5G Networks and IoT Devices: Mitigating DDoS Attacks with Deep Learning Techniques
+6D Pose Estimation with Combined Deep Learning and 3D Vision Techniques for a Fast and Accurate Object Grasping
+70 years of machine learning in geoscience in review
+8-Bit Approximations for Parallelism in Deep Learning
+8-bit Numerical Formats for Deep Neural Networks
+A $k$-additive Choquet integral-based approach to approximate the SHAP values for local interpretability in machine learning
+A 1D-CNN Based Deep Learning Technique for Sleep Apnea Detection in IoT Sensors
+A 2-$μ$J, 12-class, 91% Accuracy Spiking Neural Network Approach For Radar Gesture Recognition
+A 2.5D Cascaded Convolutional Neural Network with Temporal Information for Automatic Mitotic Cell Detection in 4D Microscopic Images
+A 3D 2D convolutional Neural Network Model for Hyperspectral Image Classification
+A 3D Convolutional Neural Network for Predicting Wildfire Profiles
+A 3D Probabilistic Deep Learning System for Detection and Diagnosis of Lung Cancer Using Low-Dose CT Scans
+A 3D deep learning classifier and its explainability when assessing coronary artery disease
+A 3D fully convolutional neural network and a random walker to segment the esophagus in CT
+A BERT-based Deep Learning Approach for Reputation Analysis in Social Media
+A Backward SDE Method for Uncertainty Quantification in Deep Learning
+A Bag-of-Words Equivalent Recurrent Neural Network for Action Recognition
+A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks
+A Baseline for Multi-Label Image Classification Using An Ensemble of Deep Convolutional Neural Networks
+A Basic Compositional Model for Spiking Neural Networks
+A Basic Recurrent Neural Network Model
+A Bayesian - Deep Learning model for estimating Covid-19 evolution in Spain
+A Bayesian Approach To Analysing Training Data Attribution In Deep Learning
+A Bayesian Approach to Invariant Deep Neural Networks
+A Bayesian Approach to Recurrence in Neural Networks
+A Bayesian Convolutional Neural Network for Robust Galaxy Ellipticity Regression
+A Bayesian Deep Learning Approach to Near-Term Climate Prediction
+A Bayesian Deep Learning Framework for End-To-End Prediction of Emotion from Heartbeat
+A Bayesian Deep Learning Technique for Multi-Step Ahead Solar Generation Forecasting
+A Bayesian Multiscale Deep Learning Framework for Flows in Random Media
+A Bayesian Neural Network based on Dropout Regulation
+A Bayesian Optimization Framework for Neural Network Compression
+A Bayesian Perspective of Convolutional Neural Networks through a Deconvolutional Generative Model
+A Bayesian Perspective of Statistical Machine Learning for Big Data
+A Bayesian and Machine Learning approach to estimating Influence Model parameters for IM-RO
+A Bayesian generative neural network framework for epidemic inference problems
+A Bayesian neural network predicts the dissolution of compact planetary systems
+A Bayesian regularization-backpropagation neural network model for peeling computations
+A Bayesian-inspired, deep learning-based, semi-supervised domain adaptation technique for land cover mapping
+A Benchmark Study by using various Machine Learning Models for Predicting Covid-19 trends
+A Benchmark Study of Machine Learning Models for Online Fake News Detection
+A Benchmark for Interpretability Methods in Deep Neural Networks
+A Benchmark for Iris Location and a Deep Learning Detector Evaluation
+A Benchmark of Selected Algorithmic Differentiation Tools on Some Problems in Computer Vision and Machine Learning
+A Benchmark on Uncertainty Quantification for Deep Learning Prognostics
+A Benchmarking Protocol for SAR Colorization: From Regression to Deep Learning Approaches
+A Bi-Directional Co-Design Approach to Enable Deep Learning on IoT Devices
+A Bi-layered Parallel Training Architecture for Large-scale Convolutional Neural Networks
+A Biased Graph Neural Network Sampler with Near-Optimal Regret
+A Bibliometric Review of Neuromorphic Computing and Spiking Neural Networks
+A Big Data Analysis Framework Using Apache Spark and Deep Learning
+A Bin Encoding Training of a Spiking Neural Network-based Voice Activity Detection
+A Binarized Neural Network Joint Model for Machine Translation
+A Bio-Inspired Chaos Sensor Model Based on the Perceptron Neural Network: Machine Learning Concept and Application for Computational Neuro-Science
+A Bioinspired Approach-Sensitive Neural Network for Collision Detection in Cluttered and Dynamic Backgrounds
+A Bioinspired Retinal Neural Network for Accurately Extracting Small-Target Motion Information in Cluttered Backgrounds
+A Biologically Interpretable Two-stage Deep Neural Network (BIT-DNN) For Vegetation Recognition From Hyperspectral Imagery
+A Biologically Plausible Learning Rule for Deep Learning in the Brain
+A Biologically Plausible Supervised Learning Method for Spiking Neural Networks Using the Symmetric STDP Rule
+A Bipartite Graph Neural Network Approach for Scalable Beamforming Optimization
+A Black-box Attack on Neural Networks Based on Swarm Evolutionary Algorithm
+A Blended Deep Learning Approach for Predicting User Intended Actions
+A Block Minifloat Representation for Training Deep Neural Networks
+A Block-Based Adaptive Decoupling Framework for Graph Neural Networks
+A Block-Coordinate Approach of Multi-level Optimization with an Application to Physics-Informed Neural Networks
+A Blockchain Solution for Collaborative Machine Learning over IoT
+A Blockchain Transaction Graph based Machine Learning Method for Bitcoin Price Prediction
+A Blueprint for Precise and Fault-Tolerant Analog Neural Networks
+A Boosted Machine Learning Framework for the Improvement of Phase and Crystal Structure Prediction of High Entropy Alloys Using Thermodynamic and Configurational Parameters
+A Bootstrap Machine Learning Approach to Identify Rare Disease Patients from Electronic Health Records
+A Bop and Beyond: A Second Order Optimizer for Binarized Neural Networks
+A Brain-Machine Interface Operating with a Real-Time Spiking Neural Network Control Algorithm
+A Brain-inspired Algorithm for Training Highly Sparse Neural Networks
+A Bregman Learning Framework for Sparse Neural Networks
+A Bridge between Dynamical Systems and Machine Learning: Engineered Ordinary Differential Equations as Classification Algorithm (EODECA)
+A Brief Guide to Designing and Evaluating Human-Centered Interactive Machine Learning
+A Brief History of Excitable Map-Based Neurons and Neural Networks
+A Brief Introduction to Automatic Differentiation for Machine Learning
+A Brief Introduction to Machine Learning for Engineers
+A Brief Overview of AI Governance for Responsible Machine Learning Systems
+A Brief Review of Hypernetworks in Deep Learning
+A Brief Review of Machine Learning Techniques for Protein Phosphorylation Sites Prediction
+A Brief Survey of Machine Learning Methods for Emotion Prediction using Physiological Data
+A Brief Survey on Deep Learning Based Data Hiding
+A Brief Yet In-Depth Survey of Deep Learning-Based Image Watermarking
+A Broad Class of Discrete-Time Hypercomplex-Valued Hopfield Neural Networks
+A C Code Generator for Fast Inference and Simple Deployment of Convolutional Neural Networks on Resource Constrained Systems
+A C++ library for Multimodal Deep Learning
+A C-LSTM Neural Network for Text Classification
+A CADe System for Gliomas in Brain MRI using Convolutional Neural Networks
+A CASE STUDY ON OPTIMAL DEEP LEARNING MODEL FOR UAVS
+A CMOS Spiking Neuron for Brain-Inspired Neural Networks with Resistive Synapses and In-Situ Learning
+A CNN-LSTM-based Fusion Separation Deep Neural Network for 6G Ultra-Massive MIMO Hybrid Beamforming
+A CNN-LSTM-based hybrid deep learning approach to detect sentiment polarities on Monkeypox tweets
+A CNN-Transformer Deep Learning Model for Real-time Sleep Stage Classification in an Energy-Constrained Wireless Device
+A CT-based deep learning system for automatic assessment of aortic root morphology for TAVI planning
+A Camera That CNNs: Towards Embedded Neural Networks on Pixel Processor Arrays
+A Capacity Scaling Law for Artificial Neural Networks
+A Capsule-unified Framework of Deep Neural Networks for Graphical Programming
+A Cascade Neural Network Architecture investigating Surface Plasmon Polaritons propagation for thin metals in OpenMP
+A Cascaded Convolutional Neural Network for Single Image Dehazing
+A Cascaded Convolutional Neural Network for X-ray Low-dose CT Image Denoising
+A Cascaded Neural Network System For Rating Student Performance In Surgical Knot Tying Simulation
+A Case For Adaptive Deep Neural Networks in Edge Computing
+A Case For Noisy Shallow Gate-Based Circuits In Quantum Machine Learning
+A Case Study of Deep Learning Based Multi-Modal Methods for Predicting the Age-Suitability Rating of Movie Trailers
+A Case Study of Deep Learning-Based Multi-Modal Methods for Labeling the Presence of Questionable Content in Movie Trailers
+A Case Study of Image Enhancement Algorithms' Effectiveness of Improving Neural Networks' Performance on Adverse Images
+A Case Study on the Classification of Lost Circulation Events During Drilling using Machine Learning Techniques on an Imbalanced Large Dataset
+A Causal Analysis of CO2 Reduction Strategies in Electricity Markets Through Machine Learning-Driven Metalearners
+A Causal View on Robustness of Neural Networks
+A Causal-based Framework for Multimodal Multivariate Time Series Validation Enhanced by Unsupervised Deep Learning as an Enabler for Industry 4.0
+A Causality-Guided Prediction of the TED Talk Ratings from the Speech-Transcripts using Neural Networks
+A Chain Graph Interpretation of Real-World Neural Networks
+A Channel-Pruned and Weight-Binarized Convolutional Neural Network for Keyword Spotting
+A Chaos Theory Approach to Understand Neural Network Optimization
+A Character-level Convolutional Neural Network for Distinguishing Similar Languages and Dialects
+A Classical-Quantum Convolutional Neural Network for Detecting Pneumonia from Chest Radiographs
+A Classification of $G$-invariant Shallow Neural Networks
+A Clinical Evaluation of a Low-Cost Strain Gauge Respiration Belt and Machine Learning to Detect Sleep Apnea
+A Close Look at Deep Learning with Small Data
+A Close Look into Human Activity Recognition Models using Deep Learning
+A Closed-form Solution for Weight Optimization in Fully-connected Feed-forward Neural Networks
+A Closed-loop Brain-Machine Interface SoC Featuring a 0.2$μ$J/class Multiplexer Based Neural Network
+A Closed-loop Sleep Modulation System with FPGA-Accelerated Deep Learning
+A Closer Look at Deep Learning Heuristics: Learning rate restarts, Warmup and Distillation
+A Closer Look at Domain Shift for Deep Learning in Histopathology
+A Closer Look at Evaluating the Bit-Flip Attack Against Deep Neural Networks
+A Closer Look at Structured Pruning for Neural Network Compression
+A Cloud-based Deep Learning Framework for Early Detection of Pushing at Crowded Event Entrances
+A Cloud-based Deep Learning Framework for Remote Detection of Diabetic Foot Ulcers
+A Cloud-based Machine Learning Pipeline for the Efficient Extraction of Insights from Customer Reviews
+A Cluster-Based Trip Prediction Graph Neural Network Model for Bike Sharing Systems
+A Co-Attention Neural Network Model for Emotion Cause Analysis with Emotional Context Awareness
+A Co-Design Framework of Neural Networks and Quantum Circuits Towards Quantum Advantage
+A Co-design view of Compute in-Memory with Non-Volatile Elements for Neural Networks
+A Co-guided Neural Network for Person Name Recognition in Academic Homepages
+A Coarse-to-fine Cascaded Evidence-Distillation Neural Network for Explainable Fake News Detection
+A Coarse-to-fine Deep Convolutional Neural Network Framework for Frame Duplication Detection and Localization in Forged Videos
+A Collaborative Approach Using Neural Networks for BLE-RSS Lateration-Based Indoor Positioning
+A Collaborative Computer Aided Diagnosis (C-CAD) System with Eye-Tracking, Sparse Attentional Model, and Deep Learning
+A Collection of Deep Learning-based Feature-Free Approaches for Characterizing Single-Objective Continuous Fitness Landscapes
+A Collection of Quality Diversity Optimization Problems Derived from Hyperparameter Optimization of Machine Learning Models
+A Combination Method for Android Malware Detection Based on Control Flow Graphs and Machine Learning Algorithms
+A Combination of Deep Neural Networks and K-Nearest Neighbors for Credit Card Fraud Detection
+A Combination of Multi-Objective Genetic Algorithm and Deep Learning for Music Harmony Generation
+A Combined Data-driven and Physics-driven Method for Steady Heat Conduction Prediction using Deep Convolutional Neural Networks
+A Combined Deep Learning based End-to-End Video Coding Architecture for YUV Color Space
+A Combined Deep Learning-Gradient Boosting Machine Framework for Fluid Intelligence Prediction
+A Combined Model for Noise Reduction of Lung Sound Signals Based on Empirical Mode Decomposition and Artificial Neural Network
+A Committee of Convolutional Neural Networks for Image Classication in the Concurrent Presence of Feature and Label Noise
+A Common Misassumption in Online Experiments with Machine Learning Models
+A Common Operating Picture Framework Leveraging Data Fusion and Deep Learning
+A Communication-Efficient Distributed Gradient Clipping Algorithm for Training Deep Neural Networks
+A Community Detection and Graph Neural Network Based Link Prediction Approach for Scientific Literature
+A Compact Convolutional Neural Network for Textured Surface Anomaly Detection
+A Compact Deep Learning Model for Face Spoofing Detection
+A Compact Neural Network-based Algorithm for Robust Image Watermarking
+A Compact Representation for Bayesian Neural Networks By Removing Permutation Symmetry
+A Compact and Interpretable Convolutional Neural Network for Cross-Subject Driver Drowsiness Detection from Single-Channel EEG
+A Comparative Analysis of Bias Amplification in Graph Neural Network Approaches for Recommender Systems
+A Comparative Analysis of Gene Expression Profiling by Statistical and Machine Learning Approaches
+A Comparative Analysis of Machine Learning Algorithms for Intrusion Detection in Edge-Enabled IoT Networks
+A Comparative Analysis of Machine Learning Approaches for Automated Face Mask Detection During COVID-19
+A Comparative Analysis of Machine Learning Methods for Lane Change Intention Recognition Using Vehicle Trajectory Data
+A Comparative Analysis of Machine Learning Models for Early Detection of Hospital-Acquired Infections
+A Comparative Analysis of Machine Learning Techniques for IoT Intrusion Detection
+A Comparative Analysis of Machine Learning and Grey Models
+A Comparative Analysis of Registration Tools: Traditional vs Deep Learning Approach on High Resolution Tissue Cleared Data
+A Comparative Analysis of the Optimization and Generalization Property of Two-layer Neural Network and Random Feature Models Under Gradient Descent Dynamics
+A Comparative Cross Language View On Acted Databases Portraying Basic Emotions Utilising Machine Learning
+A Comparative Evaluation of Additive Separability Tests for Physics-Informed Machine Learning
+A Comparative Evaluation of Approximate Probabilistic Simulation and Deep Neural Networks as Accounts of Human Physical Scene Understanding
+A Comparative Evaluation of Deep Learning Techniques for Photovoltaic Panel Detection from Aerial Images
+A Comparative Evaluation of Machine Learning Algorithms for the Prediction of R/C Buildings' Seismic Damage
+A Comparative Evaluation of Predominant Deep Learning Quantified Stock Trading Strategies
+A Comparative Measurement Study of Deep Learning as a Service Framework
+A Comparative Study between Bayesian and Frequentist Neural Networks for Remaining Useful Life Estimation in Condition-Based Maintenance
+A Comparative Study for Time-to-Event Analysis and Survival Prediction for Heart Failure Condition using Machine Learning Techniques
+A Comparative Study of Confidence Calibration in Deep Learning: From Computer Vision to Medical Imaging
+A Comparative Study of Data Augmentation Techniques for Deep Learning Based Emotion Recognition
+A Comparative Study of Deep Learning Classification Methods on a Small Environmental Microorganism Image Dataset (EMDS-6): from Convolutional Neural Networks to Visual Transformers
+A Comparative Study of Deep Learning Loss Functions for Multi-Label Remote Sensing Image Classification
+A Comparative Study of Deep Learning and Iterative Algorithms for Joint Channel Estimation and Signal Detection
+A Comparative Study of Existing and New Deep Learning Methods for Detecting Knee Injuries using the MRNet Dataset
+A Comparative Study of Filters and Deep Learning Models to predict Diabetic Retinopathy
+A Comparative Study of Graph Neural Networks for Shape Classification in Neuroimaging
+A Comparative Study of Machine Learning Algorithms for Anomaly Detection in Industrial Environments: Performance and Environmental Impact
+A Comparative Study of Machine Learning Methods for Predicting the Evolution of Brain Connectivity from a Baseline Timepoint
+A Comparative Study of Machine Learning Methods for Verbal Autopsy Text Classification
+A Comparative Study of Machine Learning Models Predicting Energetics of Interacting Defects
+A Comparative Study of Machine Learning Models for Predicting the State of Reactive Mixing
+A Comparative Study of Machine Learning Models for Tabular Data Through Challenge of Monitoring Parkinson's Disease Progression Using Voice Recordings
+A Comparative Study of Machine Learning and Deep Learning Techniques for Prediction of Co2 Emission in Cars
+A Comparative Study of Neural Network Compression
+A Comparative Study of Neural Network Models for Sentence Classification
+A Comparative Study of Population-Graph Construction Methods and Graph Neural Networks for Brain Age Regression
+A Comparative Study of Rule Extraction for Recurrent Neural Networks
+A Comparative Study of Sentiment Analysis Using NLP and Different Machine Learning Techniques on US Airline Twitter Data
+A Comparative Study of Speaker Role Identification in Air Traffic Communication Using Deep Learning Approaches
+A Comparative Study on 1.5T-3T MRI Conversion through Deep Neural Network Models
+A Comparative Study on Basic Elements of Deep Learning Models for Spatial-Temporal Traffic Forecasting
+A Comparative Study on Crime in Denver City Based on Machine Learning and Data Mining
+A Comparative Study on Efficiencies of Variants of Convolutional Neural Networks based on Image Classification Task
+A Comparative Study on Machine Learning Algorithms for the Control of a Wall Following Robot
+A Comparative Study on Polyp Classification using Convolutional Neural Networks
+A Comparative Study on Regularization Strategies for Embedding-based Neural Networks
+A Comparative Study on Robust Graph Neural Networks to Structural Noises
+A Comparative study of Artificial Neural Networks Using Reinforcement learning and Multidimensional Bayesian Classification Using Parzen Density Estimation for Identification of GC-EIMS Spectra of Partially Methylated Alditol Acetates
+A Comparism of the Performance of Supervised and Unsupervised Machine Learning Techniques in evolving Awale/Mancala/Ayo Game Player
+A Comparison Between Invariant and Equivariant Classical and Quantum Graph Neural Networks
+A Comparison Between Tsetlin Machines and Deep Neural Networks in the Context of Recommendation Systems
+A Comparison between Count and Neural Network Models Based on Joint Translation and Reordering Sequences
+A Comparison for Anti-noise Robustness of Deep Learning Classification Methods on a Tiny Object Image Dataset: from Convolutional Neural Network to Visual Transformer and Performer
+A Comparison for Patch-level Classification of Deep Learning Methods on Transparent Environmental Microorganism Images: from Convolutional Neural Networks to Visual Transformers
+A Comparison of 1-D and 2-D Deep Convolutional Neural Networks in ECG Classification
+A Comparison of Adaptation Techniques and Recurrent Neural Network Architectures
+A Comparison of Audio Preprocessing Techniques and Deep Learning Algorithms for Raga Recognition
+A Comparison of Audio Signal Preprocessing Methods for Deep Neural Networks on Music Tagging
+A Comparison of Deep Learning Architectures for Optical Galaxy Morphology Classification
+A Comparison of Deep Learning Architectures for Spacecraft Anomaly Detection
+A Comparison of Deep Learning Convolution Neural Networks for Liver Segmentation in Radial Turbo Spin Echo Images
+A Comparison of Deep Learning MOS Predictors for Speech Synthesis Quality
+A Comparison of Deep Learning Models for Proton Background Rejection with the AMS Electromagnetic Calorimeter
+A Comparison of Deep Learning Models for the Prediction of Hand Hygiene Videos
+A Comparison of Deep Learning Object Detection Models for Satellite Imagery
+A Comparison of Embedded Deep Learning Methods for Person Detection
+A Comparison of First-order Algorithms for Machine Learning
+A Comparison of Graph Neural Networks for Malware Classification
+A Comparison of Lattice-free Discriminative Training Criteria for Purely Sequence-Trained Neural Network Acoustic Models
+A Comparison of Machine Learning Algorithms Applied to American Legislature Polarization
+A Comparison of Machine Learning Algorithms for the Surveillance of Autism Spectrum Disorder
+A Comparison of Machine Learning Methods for Data with High-Cardinality Categorical Variables
+A Comparison of Machine Learning Techniques for Turkish Profanity Detection
+A Comparison of Methods for Neural Network Aggregation
+A Comparison of Neural Network Architectures for Data-Driven Reduced-Order Modeling
+A Comparison of Neural Network Training Methods for Text Classification
+A Comparison of Neural Networks for Wireless Channel Prediction
+A Comparison of Optimization Algorithms for Deep Learning
+A Comparison of Personalized and Generalized Approaches to Emotion Recognition Using Consumer Wearable Devices: Machine Learning Study
+A Comparison of Rule-Based and Machine Learning Methods for Medical Information Extraction
+A Comparison of Statistical and Machine Learning Algorithms for Predicting Rents in the San Francisco Bay Area
+A Comparison of Stereo-Matching Cost between Convolutional Neural Network and Census for Satellite Images
+A Comparison of Supervised and Unsupervised Deep Learning Methods for Anomaly Detection in Images
+A Comparison of Traditional and Deep Learning Methods for Parameter Estimation of the Ornstein-Uhlenbeck Process
+A Comparison of Transformer and Recurrent Neural Networks on Multilingual Neural Machine Translation
+A Comparison of Transformer, Convolutional, and Recurrent Neural Networks on Phoneme Recognition
+A Comparison of Uncertainty Estimation Approaches in Deep Learning Components for Autonomous Vehicle Applications
+A Comparison of deep learning methods for environmental sound
+A Comparison of the Delta Method and the Bootstrap in Deep Learning Classification
+A Competitive Deep Neural Network Approach for the ImageCLEFmed Caption 2020 Task
+A Composite Quantile Fourier Neural Network for Multi-Step Probabilistic Forecasting of Nonstationary Univariate Time Series
+A Comprehensive Analysis of Deep Learning Based Representation for Face Recognition
+A Comprehensive Analysis of the Role of Artificial Intelligence and Machine Learning in Modern Digital Forensics and Incident Response
+A Comprehensive Analysis on Adversarial Robustness of Spiking Neural Networks
+A Comprehensive Comparison of Machine Learning Based Methods Used in Bengali Question Classification
+A Comprehensive Comparison of Neural Networks as Cognitive Models of Inflection
+A Comprehensive Empirical Study of Bias Mitigation Methods for Machine Learning Classifiers
+A Comprehensive Evaluation of Machine Learning Techniques for Cancer Class Prediction Based on Microarray Data
+A Comprehensive Overview and Comparative Analysis on Deep Learning Models: CNN, RNN, LSTM, GRU
+A Comprehensive Python Library for Deep Learning-Based Event Detection in Multivariate Time Series Data and Information Retrieval in NLP
+A Comprehensive Review and a Taxonomy of Edge Machine Learning: Requirements, Paradigms, and Techniques
+A Comprehensive Review for Breast Histopathology Image Analysis Using Classical and Deep Neural Networks
+A Comprehensive Review of Deep Learning Applications in Hydrology and Water Resources
+A Comprehensive Review of Deep Learning-based Single Image Super-resolution
+A Comprehensive Review of Image Analysis Methods for Microorganism Counting: From Classical Image Processing to Deep Learning Approaches
+A Comprehensive Review of Machine Learning Advances on Data Change: A Cross-Field Perspective
+A Comprehensive Review of Spiking Neural Networks: Interpretation, Optimization, Efficiency, and Best Practices
+A Comprehensive Review on Non-Neural Networks Collaborative Filtering Recommendation Systems
+A Comprehensive Review on Summarizing Financial News Using Deep Learning
+A Comprehensive Study On The Applications Of Machine Learning For Diagnosis Of Cancer
+A Comprehensive Study of Alzheimer's Disease Classification Using Convolutional Neural Networks
+A Comprehensive Study of Data Augmentation Strategies for Prostate Cancer Detection in Diffusion-weighted MRI using Convolutional Neural Networks
+A Comprehensive Study of Groundbreaking Machine Learning Research: Analyzing highly cited and impactful publications across six decades
+A Comprehensive Study of Radiomics-based Machine Learning for Fibrosis Detection
+A Comprehensive Study on Deep Learning Bug Characteristics
+A Comprehensive Study on Deep Learning-based Methods for Sign Language Recognition
+A Comprehensive Study on Machine Learning Methods to Increase the Prediction Accuracy of Classifiers and Reduce the Number of Medical Tests Required to Diagnose Alzheimer'S Disease
+A Comprehensive Study on Optimization Strategies for Gradient Descent In Deep Learning
+A Comprehensive Study on the Applications of Machine Learning for the Medical Diagnosis and Prognosis of Asthma
+A Comprehensive Survey and Taxonomy on Single Image Dehazing Based on Deep Learning
+A Comprehensive Survey of Convolutions in Deep Learning: Applications, Challenges, and Future Trends
+A Comprehensive Survey of Deep Learning for Image Captioning
+A Comprehensive Survey of Deep Learning in Remote Sensing: Theories, Tools and Challenges for the Community
+A Comprehensive Survey of Forgetting in Deep Learning Beyond Continual Learning
+A Comprehensive Survey of Image Augmentation Techniques for Deep Learning
+A Comprehensive Survey of Machine Learning Applied to Radar Signal Processing
+A Comprehensive Survey of Machine Learning Based Localization with Wireless Signals
+A Comprehensive Survey on Applications of Transformers for Deep Learning Tasks
+A Comprehensive Survey on Automated Machine Learning for Recommendations
+A Comprehensive Survey on Community Detection with Deep Learning
+A Comprehensive Survey on Deep Learning Techniques in Educational Data Mining
+A Comprehensive Survey on Deep Learning for Relation Extraction: Recent Advances and New Frontiers
+A Comprehensive Survey on Distributed Training of Graph Neural Networks
+A Comprehensive Survey on Graph Anomaly Detection with Deep Learning
+A Comprehensive Survey on Graph Neural Networks
+A Comprehensive Survey on Graph Summarization with Graph Neural Networks
+A Comprehensive Survey on Heart Sound Analysis in the Deep Learning Era
+A Comprehensive Survey on Machine Learning Techniques and User Authentication Approaches for Credit Card Fraud Detection
+A Comprehensive Survey on Model Quantization for Deep Neural Networks in Image Classification
+A Comprehensive Survey on Multi-modal Conversational Emotion Recognition with Deep Learning
+A Comprehensive Survey on Radio Frequency (RF) Fingerprinting: Traditional Approaches, Deep Learning, and Open Challenges
+A Comprehensive Survey on Trustworthy Graph Neural Networks: Privacy, Robustness, Fairness, and Explainability
+A Comprehensive Survey on Uncertainty Quantification for Deep Learning
+A Comprehensive and Modularized Statistical Framework for Gradient Norm Equality in Deep Neural Networks
+A Comprehensive and Versatile Multimodal Deep Learning Approach for Predicting Diverse Properties of Advanced Materials
+A Comprehensive guide to Bayesian Convolutional Neural Network with Variational Inference
+A Computability Perspective on (Verified) Machine Learning
+A Computational Analysis of Natural Languages to Build a Sentence Structure Aware Artificial Neural Network
+A Computational Framework for Modeling Complex Sensor Network Data Using Graph Signal Processing and Graph Neural Networks in Structural Health Monitoring
+A Computationally Efficient Method for Defending Adversarial Deep Learning Attacks
+A Computationally Efficient Neural Network Invariant to the Action of Symmetry Subgroups
+A Computer Vision-Based Approach for Driver Distraction Recognition using Deep Learning and Genetic Algorithm Based Ensemble
+A Computer-Aided Diagnosis System for Breast Pathology: A Deep Learning Approach with Model Interpretability from Pathological Perspective
+A Concentration of Measure Framework to study convex problems and other implicit formulation problems in machine learning
+A Conceptual Framework for Using Machine Learning to Support Child Welfare Decisions
+A Concert-planning Tool for Independent Musicians by Machine Learning Models
+A Cone-Beam X-Ray CT Data Collection designed for Machine Learning
+A Confident Labelling Strategy Based on Deep Learning for Improving Early Detection of Knee OsteoArthritis
+A Connection between Feed-Forward Neural Networks and Probabilistic Graphical Models
+A Consolidated Approach to Convolutional Neural Networks and the Kolmogorov Complexity
+A Constrained Deep Neural Network for Ordinal Regression
+A Construction Kit for Efficient Low Power Neural Network Accelerator Designs
+A Constructive Approach for Data-Driven Randomized Learning of Feedforward Neural Networks
+A Constructive Approach for One-Shot Training of Neural Networks Using Hypercube-Based Topological Coverings
+A Context-Integrated Transformer-Based Neural Network for Auction Design
+A Context-based Approach for Dialogue Act Recognition using Simple Recurrent Neural Networks
+A Continuous Optimisation Benchmark Suite from Neural Network Regression
+A Contrast Based Feature Selection Algorithm for High-dimensional Data set in Machine Learning
+A Contrast Synthesized Thalamic Nuclei Segmentation Scheme using Convolutional Neural Networks
+A Control Theoretic Framework for Adaptive Gradient Optimizers in Machine Learning
+A Convergence Analysis of Gradient Descent for Deep Linear Neural Networks
+A Convergence Analysis of Gradient Descent on Graph Neural Networks
+A Convergence Analysis of Nesterov's Accelerated Gradient Method in Training Deep Linear Neural Networks
+A Convergence Rate for Manifold Neural Networks
+A Convergence Theory Towards Practical Over-parameterized Deep Neural Networks
+A Convergence Theory for Deep Learning via Over-Parameterization
+A Convergence result of a continuous model of deep learning via Łojasiewicz--Simon inequality
+A Convergent ADMM Framework for Efficient Neural Network Training
+A Convex Parameterization of Robust Recurrent Neural Networks
+A Convex Relaxation Barrier to Tight Robustness Verification of Neural Networks
+A Convolutional Neural Network Approach to Supernova Time-Series Classification
+A Convolutional Neural Network Approach to the Classification of Engineering Models
+A Convolutional Neural Network Based Approach to Recognize Bangla Spoken Digits from Speech Signal
+A Convolutional Neural Network Cascade for Face Detection
+A Convolutional Neural Network Neutrino Event Classifier
+A Convolutional Neural Network Smartphone App for Real-Time Voice Activity Detection
+A Convolutional Neural Network based Cascade Reconstruction for the IceCube Neutrino Observatory
+A Convolutional Neural Network based Live Object Recognition System as Blind Aid
+A Convolutional Neural Network for Aspect Sentiment Classification
+A Convolutional Neural Network for Language-Agnostic Source Code Summarization
+A Convolutional Neural Network for Modelling Sentences
+A Convolutional Neural Network for Point Cloud Instance Segmentation in Cluttered Scene Trained by Synthetic Data Without Color
+A Convolutional Neural Network for Search Term Detection
+A Convolutional Neural Network for gaze preference detection: A potential tool for diagnostics of autism spectrum disorder in children
+A Convolutional Neural Network for the Automatic Diagnosis of Collagen VI related Muscular Dystrophies
+A Convolutional Neural Network into graph space
+A Convolutional Neural Network model based on Neutrosophy for Noisy Speech Recognition
+A Convolutional Neural Network with Mapping Layers for Hyperspectral Image Classification
+A Convolutional Neural Network with Parallel Multi-Scale Spatial Pooling to Detect Temporal Changes in SAR Images
+A Convolutional Neural Network-based Approach to Field Reconstruction
+A Convolutional Neural Network-based Patent Image Retrieval Method for Design Ideation
+A Corrective View of Neural Networks: Representation, Memorization and Learning
+A Correspondence Between Random Neural Networks and Statistical Field Theory
+A Cost Effective Solution for Road Crack Inspection using Cameras and Deep Neural Networks
+A Credibility-aware Swarm-Federated Deep Learning Framework in Internet of Vehicles
+A Critical Analysis of the Limitation of Deep Learning based 3D Dental Mesh Segmentation Methods in Segmenting Partial Scans
+A Critical Evaluation of Open-World Machine Learning
+A Critical Review of Information Bottleneck Theory and its Applications to Deep Learning
+A Critical Review of Physics-Informed Machine Learning Applications in Subsurface Energy Systems
+A Critical Review of Recurrent Neural Networks for Sequence Learning
+A Critical Review of the state-of-the-art on Deep Neural Networks for Blood Glucose Prediction in Patients with Diabetes
+A Critical Review on the Use (and Misuse) of Differential Privacy in Machine Learning
+A Critical Study on the Recent Deep Learning Based Semi-Supervised Video Anomaly Detection Methods
+A Curriculum-Training-Based Strategy for Distributing Collocation Points during Physics-Informed Neural Network Training
+A Cyber Manufacturing IoT System for Adaptive Machine Learning Model Deployment by Interactive Causality Enabled Self-Labeling
+A Cyber-Physical Architecture for Microgrids based on Deep learning and LORA Technology
+A DEEP LEARNING PIPELINE FOR BREAST CANCER KI-67PROLIFERATION INDEX SCORING
+A DICOM Framework for Machine Learning Pipelines against Real-Time Radiology Images
+A DPLL(T) Framework for Verifying Deep Neural Networks
+A Data Augmentation-based Defense Method Against Adversarial Attacks in Neural Networks
+A Data Driven Approach for Compound Figure Separation Using Convolutional Neural Networks
+A Data and Compute Efficient Design for Limited-Resources Deep Learning
+A Data-Center FPGA Acceleration Platform for Convolutional Neural Networks
+A Data-Centric Approach for Training Deep Neural Networks with Less Data
+A Data-Centric Approach to Generate Invariants for a Smart Grid Using Machine Learning
+A Data-Centric Behavioral Machine Learning Platform to Reduce Health Inequalities
+A Data-Centric Online Market for Machine Learning: From Discovery to Pricing
+A Data-Centric Optimization Framework for Machine Learning
+A Data-Driven Approach to Full-Field Damage and Failure Pattern Prediction in Microstructure-Dependent Composites using Deep Learning
+A Data-Driven Machine Learning Approach for Consumer Modeling with Load Disaggregation
+A Data-Driven Methodology for Considering Feasibility and Pairwise Likelihood in Deep Learning Based Guitar Tablature Transcription Systems
+A Data-Driven Supervised Machine Learning Approach to Estimating Global Ambient Air Pollution Concentrations With Associated Prediction Intervals
+A Data-Efficient Deep Learning Approach for Deployable Multimodal Social Robots
+A Data-Efficient Deep Learning Based Smartphone Application For Detection Of Pulmonary Diseases Using Chest X-rays
+A Data-Efficient Deep Learning Framework for Segmentation and Classification of Histopathology Images
+A Data-Efficient Deep Learning Strategy for Tissue Characterization via Quantitative Ultrasound: Zone Training
+A Data-driven Deep Learning Approach for Bitcoin Price Forecasting
+A Data-driven Neural Network Architecture for Sentiment Analysis
+A Database of Ultrastable MOFs Reassembled from Stable Fragments with Machine Learning Models
+A Dataset and System for Real-Time Gun Detection in Surveillance Video Using Deep Learning
+A Dataset for Deep Learning-based Bone Structure Analyses in Total Hip Arthroplasty
+A Dataset of Laryngeal Endoscopic Images with Comparative Study on Convolution Neural Network Based Semantic Segmentation
+A Dataset-free Deep learning Method for Low-Dose CT Image Reconstruction
+A Decade Survey of Content Based Image Retrieval using Deep Learning
+A Decade of In-text Citation Analysis based on Natural Language Processing and Machine Learning Techniques: An overview of empirical studies
+A Deep Attentive Convolutional Neural Network for Automatic Cortical Plate Segmentation in Fetal MRI
+A Deep Bayesian Neural Network for Cardiac Arrhythmia Classification with Rejection from ECG Recordings
+A Deep Belief Network Based Machine Learning System for Risky Host Detection
+A Deep Cascade of Convolutional Neural Networks for Dynamic MR Image Reconstruction
+A Deep Cascade of Convolutional Neural Networks for MR Image Reconstruction
+A Deep Conditioning Treatment of Neural Networks
+A Deep Convolutional Neural Network Applied to Ship Detection and Classification
+A Deep Convolutional Neural Network Model for improving WRF Forecasts
+A Deep Convolutional Neural Network for Background Subtraction
+A Deep Convolutional Neural Network for COVID-19 Detection Using Chest X-Rays
+A Deep Convolutional Neural Network for Lung Cancer Diagnostic
+A Deep Convolutional Neural Network for the Detection of Polyps in Colonoscopy Images
+A Deep Convolutional Neural Networks Based Multi-Task Ensemble Model for Aspect and Polarity Classification in Persian Reviews
+A Deep Dive into Understanding Tumor Foci Classification using Multiparametric MRI Based on Convolutional Neural Network
+A Deep Dive into the Connections Between the Renormalization Group and Deep Learning in the Ising Model
+A Deep Double Ritz Method (D$^2$RM) for solving Partial Differential Equations using Neural Networks
+A Deep Four-Stream Siamese Convolutional Neural Network with Joint Verification and Identification Loss for Person Re-detection
+A Deep Graph Neural Networks Architecture Design: From Global Pyramid-like Shrinkage Skeleton to Local Link Rewiring
+A Deep Graph Neural Networks Architecture Design: From Global Pyramid-like Shrinkage Skeleton to Local Topology Link Rewiring
+A Deep Graph Wavelet Convolutional Neural Network for Semi-supervised Node Classification
+A Deep Learning Algorithm for High-Dimensional Exploratory Item Factor Analysis
+A Deep Learning Algorithm for One-step Contour Aware Nuclei Segmentation of Histopathological Images
+A Deep Learning Algorithm for Piecewise Linear Interface Construction (PLIC)
+A Deep Learning Analysis of Climate Change, Innovation, and Uncertainty
+A Deep Learning Anomaly Detection Method in Textual Data
+A Deep Learning Approach Based on Graphs to Detect Plantation Lines
+A Deep Learning Approach To Dead-Reckoning Navigation For Autonomous Underwater Vehicles With Limited Sensor Payloads
+A Deep Learning Approach To Estimation Using Measurements Received Over a Network
+A Deep Learning Approach To Multiple Kernel Fusion
+A Deep Learning Approach Towards Generating High-fidelity Diverse Synthetic Battery Datasets
+A Deep Learning Approach Towards Prediction of Faults in Wind Turbines
+A Deep Learning Approach Towards Student Performance Prediction in Online Courses: Challenges Based on a Global Perspective
+A Deep Learning Approach Using Masked Image Modeling for Reconstruction of Undersampled K-spaces
+A Deep Learning Approach Utilizing Covariance Matrix Analysis for the ISBI Edited MRS Reconstruction Challenge
+A Deep Learning Approach for Active Anomaly Detection of Extragalactic Transients
+A Deep Learning Approach for Automatic Detection of Fake News
+A Deep Learning Approach for Automatic Detection of Qualitative Features of Lecturing
+A Deep Learning Approach for Blind Drift Calibration of Sensor Networks
+A Deep Learning Approach for Brain Tumor Classification and Segmentation Using a Multiscale Convolutional Neural Network
+A Deep Learning Approach for COVID-19 & Viral Pneumonia Screening with X-ray Images
+A Deep Learning Approach for COVID-19 Trend Prediction
+A Deep Learning Approach for Characterizing Major Galaxy Mergers
+A Deep Learning Approach for Determining Effects of Tuta Absoluta in Tomato Plants
+A Deep Learning Approach for Diabetic Retinopathy detection using Transfer Learning
+A Deep Learning Approach for Digital Color Reconstruction of Lenticular Films
+A Deep Learning Approach for Dynamic Balance Sheet Stress Testing
+A Deep Learning Approach for Dynamic Survival Analysis with Competing Risks
+A Deep Learning Approach for Expert Identification in Question Answering Communities
+A Deep Learning Approach for Forecasting Air Pollution in South Korea Using LSTM
+A Deep Learning Approach for Generating Soft Range Information from RF Data
+A Deep Learning Approach for Joint Video Frame and Reward Prediction in Atari Games
+A Deep Learning Approach for Low-Latency Packet Loss Concealment of Audio Signals in Networked Music Performance Applications
+A Deep Learning Approach for Macroscopic Energy Consumption Prediction with Microscopic Quality for Electric Vehicles
+A Deep Learning Approach for Masking Fetal Gender in Ultrasound Images
+A Deep Learning Approach for Meibomian Gland Atrophy Evaluation in Meibography Images
+A Deep Learning Approach for Mobility-Aware and Energy-Efficient Resource Allocation in MEC
+A Deep Learning Approach for Motion Forecasting Using 4D OCT Data
+A Deep Learning Approach for Multi-View Engagement Estimation of Children in a Child-Robot Joint Attention task
+A Deep Learning Approach for Multimodal Deception Detection
+A Deep Learning Approach for Network-wide Dynamic Traffic Prediction during Hurricane Evacuation
+A Deep Learning Approach for Ontology Enrichment from Unstructured Text
+A Deep Learning Approach for Overall Survival Prediction in Lung Cancer with Missing Values
+A Deep Learning Approach for Parallel Imaging and Compressed Sensing MRI Reconstruction
+A Deep Learning Approach for Population Estimation from Satellite Imagery
+A Deep Learning Approach for Pose Estimation from Volumetric OCT Data
+A Deep Learning Approach for Predicting Spatiotemporal Dynamics From Sparsely Observed Data
+A Deep Learning Approach for Predicting Two-dimensional Soil Consolidation Using Physics-Informed Neural Networks (PINN)
+A Deep Learning Approach for Privacy Preservation in Assisted Living
+A Deep Learning Approach for Real-Time 3D Human Action Recognition from Skeletal Data
+A Deep Learning Approach for Repairing Missing Activity Labels in Event Logs for Process Mining
+A Deep Learning Approach for Robust Corridor Following
+A Deep Learning Approach for SAR Tomographic Imaging of Forested Areas
+A Deep Learning Approach for Selective Relevance Feedback
+A Deep Learning Approach for Semantic Segmentation of Unbalanced Data in Electron Tomography of Catalytic Materials
+A Deep Learning Approach for Similar Languages, Varieties and Dialects
+A Deep Learning Approach for Survival Clustering without End-of-life Signals
+A Deep Learning Approach for Thermal Plume Prediction of Groundwater Heat Pumps
+A Deep Learning Approach for Tweet Classification and Rescue Scheduling for Effective Disaster Management
+A Deep Learning Approach for Virtual Contrast Enhancement in Contrast Enhanced Spectral Mammography
+A Deep Learning Approach for the Detection of COVID-19 from Chest X-Ray Images using Convolutional Neural Networks
+A Deep Learning Approach for the Segmentation of Electroencephalography Data in Eye Tracking Applications
+A Deep Learning Approach for the solution of Probability Density Evolution of Stochastic Systems
+A Deep Learning Approach to Analyzing Continuous-Time Systems
+A Deep Learning Approach to Anomaly Sequence Detection for High-Resolution Monitoring of Power Systems
+A Deep Learning Approach to Automate High-Resolution Blood Vessel Reconstruction on Computerized Tomography Images With or Without the Use of Contrast Agent
+A Deep Learning Approach to Behavior-Based Learner Modeling
+A Deep Learning Approach to Block-based Compressed Sensing of Images
+A Deep Learning Approach to Data-driven Parameterizations for Statistical Parametric Speech Synthesis
+A Deep Learning Approach to Denoise Optical Coherence Tomography Images of the Optic Nerve Head
+A Deep Learning Approach to Detect Lean Blowout in Combustion Systems
+A Deep Learning Approach to Diabetes Diagnosis
+A Deep Learning Approach to Diagnosing Multiple Sclerosis from Smartphone Data
+A Deep Learning Approach to Digitally Stain Optical Coherence Tomography Images of the Optic Nerve Head
+A Deep Learning Approach to Drone Monitoring
+A Deep Learning Approach to Dst Index Prediction
+A Deep Learning Approach to Fast, Format-Agnostic Detection of Malicious Web Content
+A Deep Learning Approach to Generating Photospheric Vector Magnetograms of Solar Active Regions for SOHO/MDI Using SDO/HMI and BBSO Data
+A Deep Learning Approach to Geographical Candidate Selection through Toponym Matching
+A Deep Learning Approach to Grasping the Invisible
+A Deep Learning Approach to Integrate Human-Level Understanding in a Chatbot
+A Deep Learning Approach to Language-independent Gender Prediction on Twitter
+A Deep Learning Approach to Location- and Orientation-aided 3D Beam Selection for mmWave Communications
+A Deep Learning Approach to Mapping Irrigation: IrrMapper-U-Net
+A Deep Learning Approach to Object Affordance Segmentation
+A Deep Learning Approach to Predict Blood Pressure from PPG Signals
+A Deep Learning Approach to Predict Hamburg Rutting Curve
+A Deep Learning Approach to Predicting Collateral Flow in Stroke Patients Using Radiomic Features from Perfusion Images
+A Deep Learning Approach to Predicting Ventilator Parameters for Mechanically Ventilated Septic Patients
+A Deep Learning Approach to Private Data Sharing of Medical Images Using Conditional GANs
+A Deep Learning Approach to Probabilistic Forecasting of Weather
+A Deep Learning Approach to Radar-based QPE
+A Deep Learning Approach to Structured Signal Recovery
+A Deep Learning Approach to Teeth Segmentation and Orientation from Panoramic X-rays
+A Deep Learning Approach to Tongue Detection for Pediatric Population
+A Deep Learning Approach to Universal Binary Visible Light Communication Transceiver
+A Deep Learning Approach to Unsupervised Ensemble Learning
+A Deep Learning Approach to Video Anomaly Detection using Convolutional Autoencoders
+A Deep Learning Approach to the Inversion of Borehole Resistivity Measurements
+A Deep Learning Approach to the Prediction of Drug Side-Effects on Molecular Graphs
+A Deep Learning Approach with an Attention Mechanism for Automatic Sleep Stage Classification
+A Deep Learning Architecture for De-identification of Patient Notes: Implementation and Evaluation
+A Deep Learning Architecture for Passive Microwave Precipitation Retrievals using CloudSat and GPM Data
+A Deep Learning Architectures for Kidney Disease Classification
+A Deep Learning Based 6 Degree-of-Freedom Localization Method for Endoscopic Capsule Robots
+A Deep Learning Based Analysis-Synthesis Framework For Unison Singing
+A Deep Learning Based Approach to Transliteration
+A Deep Learning Based Attack for The Chaos-based Image Encryption
+A Deep Learning Based Automated Hand Hygiene Training System
+A Deep Learning Based Automatic Defect Analysis Framework for In-situ TEM Ion Irradiations
+A Deep Learning Based Behavioral Approach to Indoor Autonomous Navigation
+A Deep Learning Based Chatbot for Campus Psychological Therapy
+A Deep Learning Based Cost Model for Automatic Code Optimization
+A Deep Learning Based Fast Image Saliency Detection Algorithm
+A Deep Learning Based Resource Allocation Scheme in Vehicular Communication Systems
+A Deep Learning Based Resource Allocator for Communication Systems with Dynamic User Utility Demands
+A Deep Learning Based Ternary Task Classification System Using Gramian Angular Summation Field in fNIRS Neuroimaging Data
+A Deep Learning Based Workflow for Detection of Lung Nodules With Chest Radiograph
+A Deep Learning Bidirectional Temporal Tracking Algorithm for Automated Blood Cell Counting from Non-invasive Capillaroscopy Videos
+A Deep Learning Driven Active Framework for Segmentation of Large 3D Shape Collections
+A Deep Learning Driven Algorithmic Pipeline for Autonomous Navigation in Row-Based Crops
+A Deep Learning Ensemble Framework for Off-Nadir Geocentric Pose Prediction
+A Deep Learning Forecaster with Exogenous Variables for Day-Ahead Locational Marginal Price
+A Deep Learning Framework for Assessing Physical Rehabilitation Exercises
+A Deep Learning Framework for Automatic Diagnosis in Lung Cancer
+A Deep Learning Framework for COVID Outbreak Prediction
+A Deep Learning Framework for Classification of in vitro Multi-Electrode Array Recordings
+A Deep Learning Framework for Detection of Targets in Thermal Images to Improve Firefighting
+A Deep Learning Framework for Diffeomorphic Mapping Problems via Quasi-conformal Geometry applied to Imaging
+A Deep Learning Framework for Generation and Analysis of Driving Scenario Trajectories
+A Deep Learning Framework for Hybrid Beamforming Without Instantaneous CSI Feedback
+A Deep Learning Framework for Lifelong Machine Learning
+A Deep Learning Framework for Nuclear Segmentation and Classification in Histopathological Images
+A Deep Learning Framework for Optimization of MISO Downlink Beamforming
+A Deep Learning Framework for Predicting Digital Asset Price Movement from Trade-by-trade Data
+A Deep Learning Framework for Recognizing both Static and Dynamic Gestures
+A Deep Learning Framework for Simulation and Defect Prediction Applied in Microelectronics
+A Deep Learning Framework for Single-Sided Sound Speed Inversion in Medical Ultrasound
+A Deep Learning Framework for Solving Hyperbolic Partial Differential Equations: Part I
+A Deep Learning Framework for Spatiotemporal Ultrasound Localization Microscopy
+A Deep Learning Framework for Traffic Data Imputation Considering Spatiotemporal Dependencies
+A Deep Learning Framework for Unsupervised Affine and Deformable Image Registration
+A Deep Learning Framework for Verilog Autocompletion Towards Design and Verification Automation
+A Deep Learning Framework for Wind Turbine Repair Action Prediction Using Alarm Sequences and Long Short Term Memory Algorithms
+A Deep Learning Framework to Reconstruct Face under Mask
+A Deep Learning Framework using Passive WiFi Sensing for Respiration Monitoring
+A Deep Learning Generative Model Approach for Image Synthesis of Plant Leaves
+A Deep Learning Inference Scheme Based on Pipelined Matrix Multiplication Acceleration Design and Non-uniform Quantization
+A Deep Learning Interpretable Classifier for Diabetic Retinopathy Disease Grading
+A Deep Learning Localization Method for Measuring Abdominal Muscle Dimensions in Ultrasound Images
+A Deep Learning Loss Function based on Auditory Power Compression for Speech Enhancement
+A Deep Learning Mechanism for Efficient Information Dissemination in Vehicular Floating Content
+A Deep Learning Method for Beat-Level Risk Analysis and Interpretation of Atrial Fibrillation Patients during Sinus Rhythm
+A Deep Learning Method for Classification of Biophilic Artworks
+A Deep Learning Method for Comparing Bayesian Hierarchical Models
+A Deep Learning Method for Complex Human Activity Recognition Using Virtual Wearable Sensors
+A Deep Learning Method for Optimal Investment Under Relative Performance Criteria Among Heterogeneous Agents
+A Deep Learning Method for Real-time Bias Correction of Wind Field Forecasts in the Western North Pacific
+A Deep Learning Method for Simultaneous Denoising and Missing Wedge Reconstruction in Cryogenic Electron Tomography
+A Deep Learning Model for Chilean Bills Classification
+A Deep Learning Model for Forecasting Global Monthly Mean Sea Surface Temperature Anomalies
+A Deep Learning Model for Heterogeneous Dataset Analysis -- Application to Winter Wheat Crop Yield Prediction
+A Deep Learning Model for Structured Outputs with High-order Interaction
+A Deep Learning Model for Traffic Flow State Classification Based on Smart Phone Sensor Data
+A Deep Learning Model with Hierarchical LSTMs and Supervised Attention for Anti-Phishing
+A Deep Learning Network for the Classification of Intracardiac Electrograms in Atrial Tachycardia
+A Deep Learning Object Detection Method for an Efficient Clusters Initialization
+A Deep Learning Perspective on Network Routing
+A Deep Learning Perspective on the Origin of Facial Expressions
+A Deep Learning Pipeline for Patient Diagnosis Prediction Using Electronic Health Records
+A Deep Learning Representation of Spatial Interaction Model for Resilient Spatial Planning of Community Business Clusters
+A Deep Learning Sequential Decoder for Transient High-Density Electromyography in Hand Gesture Recognition Using Subject-Embedded Transfer Learning
+A Deep Learning Spatiotemporal Prediction Framework for Mobile Crowdsourced Services
+A Deep Learning Strategy for Vehicular Floating Content Management
+A Deep Learning Study on Osteosarcoma Detection from Histological Images
+A Deep Learning System That Generates Quantitative CT Reports for Diagnosing Pulmonary Tuberculosis
+A Deep Learning System for Automatic Extraction of Typological Linguistic Information from Descriptive Grammars
+A Deep Learning System for Domain-specific Speech Recognition
+A Deep Learning System for Predicting Size and Fit in Fashion E-Commerce
+A Deep Learning System for Sentiment Analysis of Service Calls
+A Deep Learning Technique to Control the Non-linear Dynamics of a Gravitational-wave Interferometer
+A Deep Learning Technique using Low Sampling rate for residential Non Intrusive Load Monitoring
+A Deep Learning Technique using a Sequence of Follow Up X-Rays for Disease classification
+A Deep Learning Wireless Transceiver with Fully Learned Modulation and Synchronization
+A Deep Learning algorithm to accelerate Algebraic Multigrid methods in Finite Element solvers of 3D elliptic PDEs
+A Deep Learning and Gamification Approach to Energy Conservation at Nanyang Technological University
+A Deep Learning and Knowledge Transfer Based Architecture for Social Media User Characteristic Determination
+A Deep Learning approach for Hindi Named Entity Recognition
+A Deep Learning approach to Reduced Order Modelling of Parameter Dependent Partial Differential Equations
+A Deep Learning based Detection Method for Combined Integrity-Availability Cyber Attacks in Power System
+A Deep Learning based Fast Signed Distance Map Generation
+A Deep Learning based Feature Selection Method with Multi Level Feature Identification and Extraction using Convolutional Neural Network
+A Deep Learning based Framework to Detect and Recognize Humans using Contactless Palmprints in the Wild
+A Deep Learning based Joint Segmentation and Classification Framework for Glaucoma Assesment in Retinal Color Fundus Images
+A Deep Learning based No-reference Quality Assessment Model for UGC Videos
+A Deep Learning based Pipeline for Efficient Oral Cancer Screening on Whole Slide Images
+A Deep Learning based Wearable Healthcare IoT Device for AI-enabled Hearing Assistance Automation
+A Deep Learning based approach to VM behavior identification in cloud systems
+A Deep Learning-Accelerated Data Assimilation and Forecasting Workflow for Commercial-Scale Geologic Carbon Storage
+A Deep Learning-Based Approach for Cell Outage Compensation in NOMA Networks
+A Deep Learning-Based Approach for Measuring the Domain Similarity of Persian Texts
+A Deep Learning-Based Approach to Extracting Periosteal and Endosteal Contours of Proximal Femur in Quantitative CT Images
+A Deep Learning-Based GPR Forward Solver for Predicting B-Scans of Subsurface Objects
+A Deep Learning-Based Method for Automatic Segmentation of Proximal Femur from Quantitative Computed Tomography Images
+A Deep Learning-Based Particle-in-Cell Method for Plasma Simulations
+A Deep Learning-Based System for Automatic Case Summarization
+A Deep Learning-Based System for PharmaCoNER
+A Deep Learning-Based Unified Framework for Red Lesions Detection on Retinal Fundus Images
+A Deep Learning-Based and Fully Automated Pipeline for Regurgitant Mitral Valve Anatomy Analysis from 3D Echocardiography
+A Deep Learning-based Approach for Real-time Facemask Detection
+A Deep Learning-based Audio-in-Image Watermarking Scheme
+A Deep Learning-based Compression and Classification Technique for Whole Slide Histopathology Images
+A Deep Learning-based Detector for Brown Spot Disease in Passion Fruit Plant Leaves
+A Deep Learning-based Framework for the Detection of Schools of Herring in Echograms
+A Deep Learning-based Global and Segmentation-based Semantic Feature Fusion Approach for Indoor Scene Classification
+A Deep Learning-based Integrated Framework for Quality-aware Undersampled Cine Cardiac MRI Reconstruction and Analysis
+A Deep Learning-based Method to Extract Lumen and Media-Adventitia in Intravascular Ultrasound Images
+A Deep Learning-based Multimodal Depth-Aware Dynamic Hand Gesture Recognition System
+A Deep Learning-based Quality Assessment and Segmentation System with a Large-scale Benchmark Dataset for Optical Coherence Tomographic Angiography Image
+A Deep Learning-based Radar and Camera Sensor Fusion Architecture for Object Detection
+A Deep Learning-based in silico Framework for Optimization on Retinal Prosthetic Stimulation
+A Deep Neural Network -- Mechanistic Hybrid Model to Predict Pharmacokinetics in Rat
+A Deep Neural Network Algorithm for Linear-Quadratic Portfolio Optimization with MGARCH and Small Transaction Costs
+A Deep Neural Network Approach To Parallel Sentence Extraction
+A Deep Neural Network Approach for Crop Selection and Yield Prediction in Bangladesh
+A Deep Neural Network Based Approach to Building Budget-Constrained Models for Big Data Analysis
+A Deep Neural Network Based Reverse Radio Spectrogram Search Algorithm
+A Deep Neural Network Deployment Based on Resistive Memory Accelerator Simulation
+A Deep Neural Network Model for the Task of Named Entity Recognition
+A Deep Neural Network Sentence Level Classification Method with Context Information
+A Deep Neural Network Surrogate Modeling Benchmark for Temperature Field Prediction of Heat Source Layout
+A Deep Neural Network Surrogate for High-Dimensional Random Partial Differential Equations
+A Deep Neural Network Tool for Automatic Segmentation of Human Body Parts in Natural Scenes
+A Deep Neural Network based Approach for Entity Extraction in Code-Mixed Indian Social Media Text
+A Deep Neural Network for Audio Classification with a Classifier Attention Mechanism
+A Deep Neural Network for Chinese Zero Pronoun Resolution
+A Deep Neural Network for Finger Counting and Numerosity Estimation
+A Deep Neural Network for Multiclass Bridge Element Parsing in Inspection Image Analysis
+A Deep Neural Network for Pixel-Level Electromagnetic Particle Identification in the MicroBooNE Liquid Argon Time Projection Chamber
+A Deep Neural Network for SSVEP-based Brain-Computer Interfaces
+A Deep Neural Network for Short-Segment Speaker Recognition
+A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data
+A Deep Neural Network to identify foreshocks in real time
+A Deep Neural Network's Loss Surface Contains Every Low-dimensional Pattern
+A Deep Neural Networks Approach for Pixel-Level Runway Pavement Crack Segmentation Using Drone-Captured Images
+A Deep Neural Networks ensemble workflow from hyperparameter search to inference leveraging GPU clusters
+A Deep Recurrent Neural Network via Unfolding Reweighted l1-l1 Minimization
+A Deep Spatio-Temporal Fuzzy Neural Network for Passenger Demand Prediction
+A Deep Unsupervised Feature Learning Spiking Neural Network with Binarized Classification Layers for EMNIST Classification using SpykeFlow
+A Deep and Wide Neural Network-based Model for Rajasthan Summer Monsoon Rainfall (RSMR) Prediction
+A Deep learning Approach to Generate Contrast-Enhanced Computerised Tomography Angiography without the Use of Intravenous Contrast Agents
+A Deeper Look at the Hessian Eigenspectrum of Deep Neural Networks and its Applications to Regularization
+A Deeper Look into Sarcastic Tweets Using Deep Convolutional Neural Networks
+A Deformable Interface for Human Touch Recognition using Stretchable Carbon Nanotube Dielectric Elastomer Sensors and Deep Neural Networks
+A Demonstration of Smart Doorbell Design Using Federated Deep Learning
+A Denoising Loss Bound for Neural Network based Universal Discrete Denoisers
+A Densely Interconnected Network for Deep Learning Accelerated MRI
+A Dependable Hybrid Machine Learning Model for Network Intrusion Detection
+A Dependency-Based Neural Network for Relation Classification
+A Derivation of Feedforward Neural Network Gradients Using Fréchet Calculus
+A Derivative-Free Method for Solving Elliptic Partial Differential Equations with Deep Neural Networks
+A Derivative-free Method for Quantum Perceptron Training in Multi-layered Neural Networks
+A Design Flow for Mapping Spiking Neural Networks to Many-Core Neuromorphic Hardware
+A Design Methodology for Efficient Implementation of Deconvolutional Neural Networks on an FPGA
+A Design Methodology for Fault-Tolerant Computing using Astrocyte Neural Networks
+A Design Toolbox for the Development of Collaborative Distributed Machine Learning Systems
+A Desynchronization-Based Countermeasure Against Side-Channel Analysis of Neural Networks
+A Detailed Study of Interpretability of Deep Neural Network based Top Taggers
+A Differentiable Approach to Combinatorial Optimization using Dataless Neural Networks
+A Differentiable Physics Engine for Deep Learning in Robotics
+A Differentiable Point Process with Its Application to Spiking Neural Networks
+A Differentiable Programming System to Bridge Machine Learning and Scientific Computing
+A Differential Entropy Estimator for Training Neural Networks
+A Differential Topological View of Challenges in Learning with Feedforward Neural Networks
+A Differentially Private Framework for Deep Learning with Convexified Loss Functions
+A Diffractive Neural Network with Weight-Noise-Injection Training
+A Diffusion Theory For Deep Learning Dynamics: Stochastic Gradient Descent Exponentially Favors Flat Minima
+A Dimension-Augmented Physics-Informed Neural Network (DaPINN) with High Level Accuracy and Efficiency
+A Dimensionality Reduction Approach for Convolutional Neural Networks
+A Direct Approach to Robust Deep Learning Using Adversarial Networks
+A Direct Sampling-Based Deep Learning Approach for Inverse Medium Scattering Problems
+A Direct Slip Ratio Estimation Method based on an Intelligent Tire and Machine Learning
+A Directed-Evolution Method for Sparsification and Compression of Neural Networks with Application to Object Identification and Segmentation and considerations of optimal quantization using small number of bits
+A Directionally Selective Neural Network with Separated ON and OFF Pathways for Translational Motion Perception in a Visually Cluttered Environment
+A Directionally Selective Small Target Motion Detecting Visual Neural Network in Cluttered Backgrounds
+A Discontinuity Capturing Shallow Neural Network for Elliptic Interface Problems
+A Discontinuous Neural Network for Non-Negative Sparse Approximation
+A Discourse-Aware Graph Neural Network for Emotion Recognition in Multi-Party Conversation
+A Discrete-event-based Simulator for Distributed Deep Learning
+A Discussion on Solving Partial Differential Equations using Neural Networks
+A Distance Correlation-Based Approach to Characterize the Effectiveness of Recurrent Neural Networks for Time Series Forecasting
+A Distributed ADMM-based Deep Learning Approach for Thermal Control in Multi-Zone Buildings
+A Distributed Acoustic Sensor System for Intelligent Transportation using Deep Learning
+A Distributed Data-Parallel PyTorch Implementation of the Distributed Shampoo Optimizer for Training Neural Networks At-Scale
+A Distributed Fair Machine Learning Framework with Private Demographic Data Protection
+A Distributed Neural Network Architecture for Robust Non-Linear Spatio-Temporal Prediction
+A Distributed Trust Framework for Privacy-Preserving Machine Learning
+A Domain Generalization Approach for Out-Of-Distribution 12-lead ECG Classification with Convolutional Neural Networks
+A Domain-Theoretic Framework for Robustness Analysis of Neural Networks
+A Domain-adaptive Physics-informed Neural Network for Inverse Problems of Maxwell's Equations in Heterogeneous Media
+A Double Machine Learning Approach to Combining Experimental and Observational Data
+A Double Machine Learning Trend Model for Citizen Science Data
+A Dual Convolutional Neural Network Pipeline for Melanoma Diagnostics and Prognostics
+A Dual Generalized Long Memory Modelling for Forecasting Electricity Spot Price: Neural Network and Wavelet Estimate
+A Dual Neighborhood Hypergraph Neural Network for Change Detection in VHR Remote Sensing Images
+A Dual Process Model for Optimizing Cross Entropy in Neural Networks
+A Dual-Attention Hierarchical Recurrent Neural Network for Dialogue Act Classification
+A Dual-Attention Neural Network for Pun Location and Using Pun-Gloss Pairs for Interpretation
+A Dual-Dimer Method for Training Physics-Constrained Neural Networks with Minimax Architecture
+A Dual-Perception Graph Neural Network with Multi-hop Graph Generator
+A Dual-Purpose Deep Learning Model for Auscultated Lung and Tracheal Sound Analysis Based on Mixed Set Training
+A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction
+A Dual-Stream Neural Network Explains the Functional Segregation of Dorsal and Ventral Visual Pathways in Human Brains
+A Dynamic Approach to Accelerate Deep Learning Training
+A Dynamic Deep Neural Network For Multimodal Clinical Data Analysis
+A Dynamic Domain Adaptation Deep Learning Network for EEG-based Motor Imagery Classification
+A Dynamic Model for Bus Arrival Time Estimation based on Spatial Patterns using Machine Learning
+A Dynamic Neural Network Approach to Generating Robot's Novel Actions: A Simulation Experiment
+A Dynamic Sampling Adaptive-SGD Method for Machine Learning
+A Dynamic Weighted Tabular Method for Convolutional Neural Networks
+A Dynamic Window Neural Network for CCG Supertagging
+A Dynamic-Adversarial Mining Approach to the Security of Machine Learning
+A Dynamical Central Limit Theorem for Shallow Neural Networks
+A Dynamical System Perspective for Lipschitz Neural Networks
+A Dynamical View on Optimization Algorithms of Overparameterized Neural Networks
+A Dynamically Controlled Recurrent Neural Network for Modeling Dynamical Systems
+A Facial Feature Discovery Framework for Race Classification Using Deep Learning
+A Factored Neural Network Model for Characterizing Online Discussions in Vector Space
+A Factorized Recurrent Neural Network based architecture for medium to large vocabulary Language Modelling
+A Fair Comparison of Graph Neural Networks for Graph Classification
+A Fair Evaluation of Various Deep Learning-Based Document Image Binarization Approaches
+A Fair Experimental Comparison of Neural Network Architectures for Latent Representations of Multi-Omics for Drug Response Prediction
+A False Sense of Security? Revisiting the State of Machine Learning-Based Industrial Intrusion Detection
+A Falsificationist Account of Artificial Neural Networks
+A Family of Deep Learning Architectures for Channel Estimation and Hybrid Beamforming in Multi-Carrier mm-Wave Massive MIMO
+A Farewell to the Bias-Variance Tradeoff? An Overview of the Theory of Overparameterized Machine Learning
+A Fast Deep Learning Model for Textual Relevance in Biomedical Information Retrieval
+A Fast Deep Learning Network for Automatic Image Auto-Straightening
+A Fast Face Detection Method via Convolutional Neural Network
+A Fast Fourier Convolutional Deep Neural Network For Accurate and Explainable Discrimination Of Wheat Yellow Rust And Nitrogen Deficiency From Sentinel-2 Time-Series Data
+A Fast Fully Octave Convolutional Neural Network for Document Image Segmentation
+A Fast Graph Neural Network-Based Method for Winner Determination in Multi-Unit Combinatorial Auctions
+A Fast Machine Learning Model for ECG-Based Heartbeat Classification and Arrhythmia Detection
+A Fast Saddle-Point Dynamical System Approach to Robust Deep Learning
+A Fast and Accurate Dependency Parser using Neural Networks
+A Fast and Precise Method for Large-Scale Land-Use Mapping Based on Deep Learning
+A Fast-Converged Acoustic Modeling for Korean Speech Recognition: A Preliminary Study on Time Delay Neural Network
+A Faster Approach to Spiking Deep Convolutional Neural Networks
+A Faster Maximum Cardinality Matching Algorithm with Applications in Machine Learning
+A Faster, Lighter and Stronger Deep Learning-Based Approach for Place Recognition
+A Fault Detection Scheme Utilizing Convolutional Neural Network for PV Solar Panels with High Accuracy
+A Feasibility study for Deep learning based automated brain tumor segmentation using Magnetic Resonance Images
+A Feature Transfer Enabled Multi-Task Deep Learning Model on Medical Imaging
+A Feature-map Discriminant Perspective for Pruning Deep Neural Networks
+A Federated Channel Modeling System using Generative Neural Networks
+A Federated Deep Learning Approach for Privacy-Preserving Real-Time Transient Stability Predictions in Power Systems
+A Federated Deep Learning Framework for Privacy Preservation and Communication Efficiency
+A Federated Multi-View Deep Learning Framework for Privacy-Preserving Recommendations
+A Feedback Neural Network for Small Target Motion Detection in Cluttered Backgrounds
+A Feedforward Unitary Equivariant Neural Network
+A Field Guide to Scientific XAI: Transparent and Interpretable Deep Learning for Bioinformatics Research
+A Field of Experts Prior for Adapting Neural Networks at Test Time
+A Fine-Grained Spectral Perspective on Neural Networks
+A Fine-to-Coarse Convolutional Neural Network for 3D Human Action Recognition
+A Finite Element-Inspired Hypergraph Neural Network: Application to Fluid Dynamics Simulations
+A Finite Sample Theorem for Longitudinal Causal Inference with Machine Learning: Long Term, Dynamic, and Mediated Effects
+A Finite-Time Analysis of Q-Learning with Neural Network Function Approximation
+A First Look at Class Incremental Learning in Deep Learning Mobile Traffic Classification
+A First Look at Deep Learning Apps on Smartphones
+A Fixed-Size Encoding Method for Variable-Length Sequences with its Application to Neural Network Language Models
+A Flexible Framework for Nonparametric Graphical Modeling that Accommodates Machine Learning
+A Flow Model of Neural Networks
+A Flow-Based Neural Network for Time Domain Speech Enhancement
+A Follow-the-Leader Strategy using Hierarchical Deep Neural Networks with Grouped Convolutions
+A Food Recommender System in Academic Environments Based on Machine Learning Models
+A Formalization of Robustness for Deep Neural Networks
+A Fortran-Keras Deep Learning Bridge for Scientific Computing
+A Framework Based on Symbolic Regression Coupled with eXtended Physics-Informed Neural Networks for Gray-Box Learning of Equations of Motion from Data
+
+1000 Rows. -- 2346 msec.

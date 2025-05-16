@@ -1,0 +1,1012 @@
+Result of /data/leuven/370/vsc37064/new_queries_named_graph/query_13.txt:
+OpenLink Virtuoso Interactive SQL (Virtuoso)
+Version 07.20.3240 as of Mar 11 2025
+Type HELP; for help and EXIT; to exit.
+Connected to OpenLink Virtuoso
+Driver: 07.20.3240 OpenLink Virtuoso ODBC Driver
+evaluationName
+LONG VARCHAR
+_______________________________________________________________________________
+
+% Test Accuracy (Raw Data) evaluation for FlexTCN-6 model
+% Test Accuracy evaluation for + Unigram and bigram features model
+% Test Accuracy evaluation for 100D DF-LSTM model
+% Test Accuracy evaluation for 100D LSTM encoders model
+% Test Accuracy evaluation for 100D LSTMs w/ word-by-word attention model
+% Test Accuracy evaluation for 1024D GRU encoders w/ unsupervised 'skip-thoughts' pre-training model
+% Test Accuracy evaluation for 150D Multiway Attention Network Ensemble model
+% Test Accuracy evaluation for 150D Multiway Attention Network model
+% Test Accuracy evaluation for 2-layer LSTM [[Tai et al.2015]] model
+% Test Accuracy evaluation for 200D decomposable attention model model
+% Test Accuracy evaluation for 200D decomposable attention model with intra-sentence attention model
+% Test Accuracy evaluation for 2400D Multiple-Dynamic Self-Attention Model model
+% Test Accuracy evaluation for 300D 2-layer Bi-CAS-LSTM model
+% Test Accuracy evaluation for 300D CAFE (no cross-sentence attention) model
+% Test Accuracy evaluation for 300D CAFE Ensemble model
+% Test Accuracy evaluation for 300D CAFE model
+% Test Accuracy evaluation for 300D DMAN Ensemble model
+% Test Accuracy evaluation for 300D DMAN model
+% Test Accuracy evaluation for 300D Directional self-attention network encoders model
+% Test Accuracy evaluation for 300D Full tree matching NTI-SLSTM-LSTM w/ global attention model
+% Test Accuracy evaluation for 300D Gumbel TreeLSTM encoders model
+% Test Accuracy evaluation for 300D LSTM encoders model
+% Test Accuracy evaluation for 300D LSTMN with deep attention fusion model
+% Test Accuracy evaluation for 300D MMA-NSE encoders with attention model
+% Test Accuracy evaluation for 300D NSE encoders model
+% Test Accuracy evaluation for 300D NTI-SLSTM-LSTM encoders model
+% Test Accuracy evaluation for 300D Reinforced Self-Attention Network model
+% Test Accuracy evaluation for 300D Residual stacked encoders model
+% Test Accuracy evaluation for 300D SPINN-PI encoders model
+% Test Accuracy evaluation for 300D Tree-based CNN encoders model
+% Test Accuracy evaluation for 300D mLSTM word-by-word attention model model
+% Test Accuracy evaluation for 300D re-read LSTM model
+% Test Accuracy evaluation for 4096D BiLSTM with max-pooling model
+% Test Accuracy evaluation for 448D Densely Interactive Inference Network (DIIN, code) Ensemble model
+% Test Accuracy evaluation for 448D Densely Interactive Inference Network (DIIN, code) model
+% Test Accuracy evaluation for 450D DR-BiLSTM Ensemble model
+% Test Accuracy evaluation for 450D DR-BiLSTM model
+% Test Accuracy evaluation for 450D LSTMN with deep attention fusion model
+% Test Accuracy evaluation for 50D stacked TC-LSTMs model
+% Test Accuracy evaluation for 512D Dynamic Meta-Embeddings model
+% Test Accuracy evaluation for 600D (300+300) BiLSTM encoders model
+% Test Accuracy evaluation for 600D (300+300) BiLSTM encoders with intra-attention and symbolic preproc. model
+% Test Accuracy evaluation for 600D (300+300) BiLSTM encoders with intra-attention model
+% Test Accuracy evaluation for 600D (300+300) Deep Gated Attn. BiLSTM encoders model
+% Test Accuracy evaluation for 600D BiLSTM with generalized pooling model
+% Test Accuracy evaluation for 600D Dynamic Self-Attention Model model
+% Test Accuracy evaluation for 600D ESIM + 300D Syntactic TreeLSTM model
+% Test Accuracy evaluation for 600D Gumbel TreeLSTM encoders model
+% Test Accuracy evaluation for 600D Hierarchical BiLSTM with Max Pooling (HBMP, code) model
+% Test Accuracy evaluation for 600D Residual stacked encoders model
+% Test Accuracy evaluation for AntisymmetricRNN w/ gating model
+% Test Accuracy evaluation for Bi-LSTM sentence encoder (max-pooling) model
+% Test Accuracy evaluation for BiMPM Ensemble model
+% Test Accuracy evaluation for BiMPM model
+% Test Accuracy evaluation for Biattentive Classification Network + CoVe + Char model
+% Test Accuracy evaluation for CA-MTL model
+% Test Accuracy evaluation for CBS-1 + ESIM model
+% Test Accuracy evaluation for CKCNN (100k) model
+% Test Accuracy evaluation for CNN-MC [[Kim2014]] model
+% Test Accuracy evaluation for CT-LSTM [[Tai et al.2015]] model
+% Test Accuracy evaluation for DCNN [[Blunsom et al.2014]] model
+% Test Accuracy evaluation for DEIM model
+% Test Accuracy evaluation for DELTA (LSTM) model
+% Test Accuracy evaluation for Decomposable Attention Model + word2vec model
+% Test Accuracy evaluation for Densely-Connected Recurrent and Co-Attentive Network (encoder) model
+% Test Accuracy evaluation for Densely-Connected Recurrent and Co-Attentive Network Ensemble model
+% Test Accuracy evaluation for Densely-Connected Recurrent and Co-Attentive Network model
+% Test Accuracy evaluation for Distance-based Self-Attention Network model
+% Test Accuracy evaluation for EFL (Entailment as Few-shot Learner) + RoBERTa-large model
+% Test Accuracy evaluation for EFL model
+% Test Accuracy evaluation for ESIM + BERT (FarsTail, MultiNLI) model
+% Test Accuracy evaluation for ESIM + ELMo Ensemble model
+% Test Accuracy evaluation for ESIM + ELMo model
+% Test Accuracy evaluation for ESIM + fastText model
+% Test Accuracy evaluation for Enhanced Sequential Inference Model (Chen et al., [2017a]) model
+% Test Accuracy evaluation for Fine-Tuned LM-Pretrained Transformer model
+% Test Accuracy evaluation for FlexTCN-4 model
+% Test Accuracy evaluation for FlexTCN-6 model
+% Test Accuracy evaluation for GRU model
+% Test Accuracy evaluation for HBMP + word2vec model
+% Test Accuracy evaluation for IndRNN model
+% Test Accuracy evaluation for KIM Ensemble model
+% Test Accuracy evaluation for KIM model
+% Test Accuracy evaluation for LEM model
+% Test Accuracy evaluation for LSTM + BERT (concat) model
+% Test Accuracy evaluation for LSTM [[Tai et al.2015]] model
+% Test Accuracy evaluation for LSTM model
+% Test Accuracy evaluation for Lipschitz RNN model
+% Test Accuracy evaluation for MFAE model
+% Test Accuracy evaluation for MT-DNN model
+% Test Accuracy evaluation for MT-DNN-SMARTLARGEv0 model
+% Test Accuracy evaluation for MatchboxNet model
+% Test Accuracy evaluation for Metadrop model
+% Test Accuracy evaluation for NRDE model
+% Test Accuracy evaluation for Ntumpha model
+% Test Accuracy evaluation for ParsBERT model
+% Test Accuracy evaluation for RE2 model
+% Test Accuracy evaluation for RoBERTa-large + self-explaining layer model
+% Test Accuracy evaluation for RoBERTa-large 355M + Entailment as Few-shot Learner model
+% Test Accuracy evaluation for RoBERTa-large+Self-Explaining model
+% Test Accuracy evaluation for SJRC (BERT-Large +SRL) model
+% Test Accuracy evaluation for SLRC model
+% Test Accuracy evaluation for SMARTRoBERTa-LARGE model
+% Test Accuracy evaluation for SWEM-max model
+% Test Accuracy evaluation for SemBERT model
+% Test Accuracy evaluation for SepTr model
+% Test Accuracy evaluation for Stacked Bi-LSTMs (shortcut connections, max-pooling) model
+% Test Accuracy evaluation for Stacked Bi-LSTMs (shortcut connections, max-pooling, attention) model
+% Test Accuracy evaluation for Star-Transformer (no cross sentence attention) model
+% Test Accuracy evaluation for Stochastic Answer Network model
+% Test Accuracy evaluation for TSEM model
+% Test Accuracy evaluation for Translate-Source + fastText model
+% Test Accuracy evaluation for Translate-Target + fastText model
+% Test Accuracy evaluation for ULMFiT model
+% Test Accuracy evaluation for UnICORNN model
+% Test Accuracy evaluation for Unlexicalized features model
+% Test Accuracy evaluation for VAE model
+% Test Accuracy evaluation for ViT model
+% Test Accuracy evaluation for aESIM model
+% Test Accuracy evaluation for coRNN model
+% Test Accuracy evaluation for coRNN model
+% Test Accuracy evaluation for expRNN model
+% Test Accuracy evaluation for mBERT model
+% Test Accuracy evaluation for res15 w/ SSN(S=4, A=Sub) (2019) model
+% Test Accuracy evaluation for res15 w/ SSN(S=4, A=Sub) model
+% Test Accuracy evaluation for res8 w/ SSN(S=4, A=Sub) model
+10 fold Cross validation evaluation for Bert model
+10 fold Cross validation evaluation for CNN model
+10 fold Cross validation evaluation for CNN model
+10 fold Cross validation evaluation for CovidCTNet model
+10 fold Cross validation evaluation for GBCNet model
+10 fold Cross validation evaluation for MCNN-LSTM model
+10 fold Cross validation evaluation for SVM model
+10 fold Cross validation evaluation for mm model
+3-class test accuracy evaluation for Sanskar et al. model
+5 fold cross validation evaluation for AlexNet, MultiGrasp model
+5 fold cross validation evaluation for Fast Search model
+5 fold cross validation evaluation for GGCNN model
+5 fold cross validation evaluation for GR-ConvNet model
+5 fold cross validation evaluation for Multi-Modal Grasp Predictor model
+5 fold cross validation evaluation for ResNet50 multi-grasp predictor model
+5 fold cross validation evaluation for V2W-BERT model
+5 fold cross validation evaluation for grasp_det_seg_cnn (rgb only, IW split) model
+5-class test accuracy evaluation for VGG based model
+AP50 evaluation for D2Det (ResNet-101, single-scale test) model
+AP50 evaluation for D2Det (ResNet-101-DCN, multi-scale test) model
+AP50 evaluation for GFL + Test Time Augmentation model
+AP50 evaluation for HSD (Rest101, 768x768, single-scale test) model
+AP50 evaluation for MaskTrack R-CNN (ResNet-50, single-scale training and test) model
+AP50 evaluation for SipMask (ResNet-101, single-scale test) model
+AP50 evaluation for SipMask (ResNet-50, ms-train, single-scale test) model
+AP50 evaluation for SipMask (ResNet-50, single-scale test) model
+AP50 evaluation for SipMask++ (ResNet-101, single-scale test) model
+AP50 evaluation for aLRP Loss (ResNext-101-64x4d, DCN, multiscale test) model
+AP75 evaluation for D2Det (ResNet-101, single-scale test) model
+AP75 evaluation for D2Det (ResNet-101-DCN, multi-scale test) model
+AP75 evaluation for HSD (Rest101, 768x768, single-scale test) model
+AP75 evaluation for MaskTrack R-CNN (ResNet-50, single-scale training and test) model
+AP75 evaluation for SipMask (ResNet-101, single-scale test) model
+AP75 evaluation for SipMask (ResNet-50, ms-train, single-scale test) model
+AP75 evaluation for SipMask (ResNet-50, single-scale test) model
+AP75 evaluation for SipMask++ (ResNet-101, single-scale test) model
+AP75 evaluation for aLRP Loss (ResNext-101-64x4d, DCN, multiscale test) model
+AP75-H-Test evaluation for Res-UNet-R/H model
+AP75-H-Test evaluation for Unet3D model
+AP75-R-Test evaluation for Res-UNet-R/H model
+AP75-R-Test evaluation for Unet3D model
+APL evaluation for D2Det (ResNet-101, single-scale test) model
+APL evaluation for D2Det (ResNet-101-DCN, multi-scale test) model
+APL evaluation for HSD (Rest101, 768x768, single-scale test) model
+APL evaluation for SipMask (ResNet-101, single-scale test) model
+APL evaluation for SipMask (ResNet-50, single-scale test) model
+APL evaluation for SipMask++ (ResNet-101, single-scale test) model
+APL evaluation for aLRP Loss (ResNext-101-64x4d, DCN, multiscale test) model
+APM evaluation for D2Det (ResNet-101, single-scale test) model
+APM evaluation for D2Det (ResNet-101-DCN, multi-scale test) model
+APM evaluation for HSD (Rest101, 768x768, single-scale test) model
+APM evaluation for SipMask (ResNet-101, single-scale test) model
+APM evaluation for SipMask (ResNet-50, single-scale test) model
+APM evaluation for SipMask++ (ResNet-101, single-scale test) model
+APM evaluation for aLRP Loss (ResNext-101-64x4d, DCN, multiscale test) model
+APS evaluation for D2Det (ResNet-101, single-scale test) model
+APS evaluation for D2Det (ResNet-101-DCN, multi-scale test) model
+APS evaluation for HSD (Rest101, 768x768, single-scale test) model
+APS evaluation for SipMask (ResNet-101, single-scale test) model
+APS evaluation for SipMask (ResNet-50, single-scale test) model
+APS evaluation for SipMask++ (ResNet-101, single-scale test) model
+APS evaluation for aLRP Loss (ResNext-101-64x4d, DCN, multiscale test) model
+AR1 evaluation for MaskTrack R-CNN (ResNet-50, single-scale training and test) model
+AR1 evaluation for SipMask (ResNet-50, ms-train, single-scale test) model
+AR1 evaluation for SipMask (ResNet-50, single-scale test) model
+AR10 evaluation for MaskTrack R-CNN (ResNet-50, single-scale training and test) model
+AR10 evaluation for SipMask (ResNet-50, ms-train, single-scale test) model
+AR10 evaluation for SipMask (ResNet-50, single-scale test) model
+ASR-BLEU (Test) evaluation for En→Hokkien (Single-pass decoding) model
+ASR-BLEU (Test) evaluation for En→Hokkien (Three-stage) model
+ASR-BLEU (Test) evaluation for En→Hokkien (Two-pass decoding) model
+ASR-BLEU (Test) evaluation for En→Hokkien (Two-stage) model
+ASR-BLEU (Test) evaluation for Hokkien→En (Single-pass decoding) model
+ASR-BLEU (Test) evaluation for Hokkien→En (Three-stage) model
+ASR-BLEU (Test) evaluation for Hokkien→En (Two-pass decoding) model
+ASR-BLEU (Test) evaluation for Hokkien→En (Two-stage) model
+AUC (test) evaluation for ABN (C3D) model
+AUC (test) evaluation for AEI-G model
+AUC (test) evaluation for AOE-Net model
+AUC (test) evaluation for BSN model
+AUC (test) evaluation for Lin et al. model
+AUC evaluation for Cloze Test model
+Acc. (test) evaluation for BossNAS model
+Acc. (test) evaluation for V2Sa model
+Acc. (test) evaluation for kEffNet-B0 V2 16ch model
+Acc. (test) evaluation for kEffNet-B0 V2 2ch model
+Acc. (test) evaluation for µ2Net+ (ViT-L/16) model
+Accuracy  evaluation for Human benchmark model
+Accuracy (TEST-DB) evaluation for Feature-based approach (10 s segments) model
+Accuracy (TEST-DB) evaluation for Feature-based approach (no segmentation) model
+Accuracy (TEST-DB) evaluation for ResNet (16 CF, 60s SEG) model
+Accuracy (Test) evaluation for AG-Net model
+Accuracy (Test) evaluation for BANANAS model
+Accuracy (Test) evaluation for BOSS model
+Accuracy (Test) evaluation for BaLeNAS-TF model
+Accuracy (Test) evaluation for Binder model
+Accuracy (Test) evaluation for CABINET model
+Accuracy (Test) evaluation for CDARTS model
+Accuracy (Test) evaluation for CR-LSO model
+Accuracy (Test) evaluation for Chain-of-Table model
+Accuracy (Test) evaluation for DARTS (first order) model
+Accuracy (Test) evaluation for DARTS (second order) model
+Accuracy (Test) evaluation for DARTS- model
+Accuracy (Test) evaluation for DARTS-SaBN model
+Accuracy (Test) evaluation for DU-DARTS model
+Accuracy (Test) evaluation for Dater model
+Accuracy (Test) evaluation for DiNAS model
+Accuracy (Test) evaluation for DrNAS model
+Accuracy (Test) evaluation for ENAS model
+Accuracy (Test) evaluation for EPE-NAS (N=10) model
+Accuracy (Test) evaluation for EPE-NAS (N=100) model
+Accuracy (Test) evaluation for EPE-NAS (N=1000) model
+Accuracy (Test) evaluation for EPE-NAS (N=500) model
+Accuracy (Test) evaluation for FairNAS model
+Accuracy (Test) evaluation for GAE model
+Accuracy (Test) evaluation for GAEA DARTS (ERM) model
+Accuracy (Test) evaluation for GDAS model
+Accuracy (Test) evaluation for GEA model
+Accuracy (Test) evaluation for GenNAS model
+Accuracy (Test) evaluation for KNAS (k=40) model
+Accuracy (Test) evaluation for LEVER model
+Accuracy (Test) evaluation for Local search model
+Accuracy (Test) evaluation for MAPO + TABERTLarge (K = 3) model
+Accuracy (Test) evaluation for Mix SC model
+Accuracy (Test) evaluation for MutexMatch model
+Accuracy (Test) evaluation for NAR model
+Accuracy (Test) evaluation for NAS without training (N=10) model
+Accuracy (Test) evaluation for NAS without training (N=100) model
+Accuracy (Test) evaluation for NASBOT model
+Accuracy (Test) evaluation for OmniTab-Large model
+Accuracy (Test) evaluation for PRE-NAS model
+Accuracy (Test) evaluation for REA model
+Accuracy (Test) evaluation for RF-DARTS model
+Accuracy (Test) evaluation for RSPS model
+Accuracy (Test) evaluation for ReasTAP-Large model
+Accuracy (Test) evaluation for SETN model
+Accuracy (Test) evaluation for SNAS model
+Accuracy (Test) evaluation for Semi-MMDC model
+Accuracy (Test) evaluation for Shapley-NAS model
+Accuracy (Test) evaluation for Structured Attention model
+Accuracy (Test) evaluation for T5-3b(UnifiedSKG) model
+Accuracy (Test) evaluation for TAPAS-Large (pre-trained on SQA) model
+Accuracy (Test) evaluation for TAPEX-Large model
+Accuracy (Test) evaluation for TNAS model
+Accuracy (Test) evaluation for V2Sa model
+Accuracy (Test) evaluation for arch2vec model
+Accuracy (Test) evaluation for iDARTS model
+Accuracy (Test) evaluation for Λ-DARTS model
+Accuracy (Test) evaluation for α-DARTS model
+Accuracy (Test) evaluation for β-DARTS model
+Accuracy (Test) evaluation for β-RDARTS-L2 model
+Accuracy (Test) evaluation for β-SDARTS-RS model
+Accuracy (Test-P) evaluation for VisualBERT model
+Accuracy (Test-U) evaluation for VisualBERT model
+Accuracy (training-test) evaluation for ATHENA (roberta-base) model
+Accuracy (training-test) evaluation for ATHENA (roberta-large) model
+Accuracy (training-test) evaluation for Exp-Tree model
+Accuracy (training-test) evaluation for GROUP-ATT model
+Accuracy (training-test) evaluation for Generate and Rank model
+Accuracy (training-test) evaluation for Graph2Tree model
+Accuracy (training-test) evaluation for MWP-BERT model
+Accuracy (training-test) evaluation for Multi-view* (ours) model
+Accuracy (training-test) evaluation for Recall and Learn model
+Accuracy evaluation for GPT-3.5 Turbo (Self-Debugging with unit tests + trace) model
+Accuracy evaluation for GPT-4 (Self-Debugging with unit tests + trace) model
+Accuracy evaluation for Human Benchmark model
+Accuracy evaluation for Human benchmark model
+Accuracy evaluation for RoBERTa Large (translate test) model
+Accuracy evaluation for Shortest-Path Kernel model
+Accuracy evaluation for StarCoder 15.5B (Self-Debugging with unit tests + trace) model
+Accuracy evaluation for TESTA (ViT-B/16) model
+Accuracy evaluation for code-davinci-002 175B (Self-Debugging with unit tests + trace) model
+Accuracy evaluation for test model
+Accuracy(on validation set) evaluation for EAC model
+Accuracy(on validation set) evaluation for LResNet50E-IR (1 model with augmentation) model
+Accuracy(on validation set) evaluation for LResNet50E-IR (1 model) model
+Accuracy(on validation set) evaluation for LResNet50E-IR (5 models with augmentation) model
+Accuracy(on validation set) evaluation for Multi-task EfficientNet-B0 model
+Accuracy(on validation set) evaluation for ResNet50 model
+Accuracy(on validation set) evaluation for resnet18 model
+Accuracy(on validation set) evaluation for resnet18_noisy model
+Average F1 evaluation for Human Benchmark model
+Average Test Accuracy over all magnifications evaluation for WaveMix-224/10 model
+Avg. Test Rouge1 evaluation for HEPOS model
+Avg. Test Rouge1 evaluation for MemSum (extractive) model
+Avg. Test Rouge2 evaluation for HEPOS model
+Avg. Test Rouge2 evaluation for MemSum (extractive) model
+Avg. Test RougeLsum evaluation for HEPOS model
+Avg. Test RougeLsum evaluation for MemSum (extractive) model
+BLEU (Test set) evaluation for Control Prefixes (T5-large) model
+BLEU (Test set) evaluation for DataTuner_FC model
+BLEU (Test set) evaluation for TGen model
+BLEU-3 evaluation for COOT (ae-test split) - Only Appearance features model
+BLEU4 evaluation for COOT (ae-test split) - Only Appearance features model
+BLEU4 evaluation for MART (ae-test split) - Appearance + Flow model
+BLEU4 evaluation for VLCap (ae-test split) - Appearance + Language model
+BLEU4 evaluation for VLTinT (ae-test split) C3D/Ling model
+Bits per byte evaluation for GPT-2 Large 774M (test-time training on nearest neighbors) model
+CIDEr evaluation for COOT (ae-test split) - Only Appearance features model
+CIDEr evaluation for MART (ae-test split) - Appearance + Flow model
+CIDEr evaluation for VLCap (ae-test split) - Appearance + Language model
+CIDEr evaluation for VLTinT (ae-test split) C3D/Ling model
+Categorization (test) evaluation for GPV-2 model
+Categorization (test) evaluation for Unified-IOXL model
+Chamfer Distance evaluation for TestNet model
+Classification Accuracy (ID-test) evaluation for GHN-2 model
+Clinical cost score (validation data) evaluation for Inception Time model
+D17 test (F) evaluation for AGSS-VOS model
+D17 test (F) evaluation for BMVOS model
+D17 test (F) evaluation for FEELVOS model
+D17 test (F) evaluation for RANet model
+D17 test (F) evaluation for STG-Net model
+D17 test (F) evaluation for TBD model
+D17 test (F) evaluation for TVOS model
+D17 test (G) evaluation for AGSS-VOS model
+D17 test (G) evaluation for BMVOS model
+D17 test (G) evaluation for FEELVOS model
+D17 test (G) evaluation for RANet model
+D17 test (G) evaluation for STG-Net model
+D17 test (G) evaluation for TBD model
+D17 test (G) evaluation for TVOS model
+D17 test (J) evaluation for AGSS-VOS model
+D17 test (J) evaluation for BMVOS model
+D17 test (J) evaluation for FEELVOS model
+D17 test (J) evaluation for RANet model
+D17 test (J) evaluation for STG-Net model
+D17 test (J) evaluation for TBD model
+D17 test (J) evaluation for TVOS model
+Delta < 1.25 evaluation for Metric3D (ConvNeXt-Large, Zero-shot testing) model
+Delta < 1.25^2 evaluation for Metric3D (ConvNeXt-Large, Zero-shot testing) model
+Delta < 1.25^3 evaluation for Metric3D (ConvNeXt-Large, Zero-shot testing) model
+Denotation accuracy (test) evaluation for CABINET model
+Denotation accuracy (test) evaluation for ReasTAP-Large (weak supervision) model
+Denotation accuracy (test) evaluation for TAPAS-Large (weak supervision) model
+Denotation accuracy (test) evaluation for TAPEX-Large (weak supervision) model
+EM  evaluation for Human Benchmark model
+Exact Match Accuracy (Test) evaluation for DIN-SQL + GPT-4 model
+Exact Match Accuracy (Test) evaluation for Graphix-3B+Picard model
+Exact Match Accuracy (Test) evaluation for PET-SQL model
+Exact Match Accuracy (Test) evaluation for RESDSQL-3B + NatSQL model
+Exact Match Accuracy (Test) evaluation for RYANSQL (BERT) model
+Exact Match Accuracy (Test) evaluation for SADGA + GAP model
+Exact Match Accuracy (Test) evaluation for T5-3B + PICARD model
+Exact Match Accuracy (Test) evaluation for T5-SR model
+Execution Accuracy % (Test) evaluation for ChatGPT (Baseline) model
+Execution Accuracy % (Test) evaluation for Claude-2 (Baseline) model
+Execution Accuracy % (Test) evaluation for CoT + ChatGPT model
+Execution Accuracy % (Test) evaluation for Codex (Baseline) model
+Execution Accuracy % (Test) evaluation for DAIL-SQL + GPT-4 model
+Execution Accuracy % (Test) evaluation for DIN-SQL + GPT-4 model
+Execution Accuracy % (Test) evaluation for GPT-4 (Baseline) model
+Execution Accuracy % (Test) evaluation for MAC-SQL + GPT-4 model
+Execution Accuracy % (Test) evaluation for Palm-2 (Baseline) model
+Execution Accuracy (Test) evaluation for C3 + ChatGPT + Zero-Shot model
+Execution Accuracy (Test) evaluation for DAIL-SQL + GPT-4 + Self-Consistency model
+Execution Accuracy (Test) evaluation for DIN-SQL + GPT-4 model
+Execution Accuracy (Test) evaluation for Graphix-3B+PICARD model
+Execution Accuracy (Test) evaluation for INTERVENOR model
+Execution Accuracy (Test) evaluation for LEVER + Codex model
+Execution Accuracy (Test) evaluation for Language Agent Tree Search (GPT-3.5) model
+Execution Accuracy (Test) evaluation for MBR-Exec model
+Execution Accuracy (Test) evaluation for PET-SQL model
+Execution Accuracy (Test) evaluation for RESDSQL-3B + NatSQL model
+Execution Accuracy (Test) evaluation for Reviewer + Codex002 model
+Execution Accuracy (Test) evaluation for T5-3B + PICARD model
+Execution Accuracy (Test) evaluation for T5-3B+NatSQL+Token Preprocessing model
+Execution Accuracy (Test) evaluation for T5-SR model
+F-Measure (%) - Full Lexicon evaluation for TESTR model
+F-measure (%) - Full Lexicon evaluation for TESTR model
+F-measure (%) - Generic Lexicon evaluation for TESTR model
+F-measure (%) - No Lexicon evaluation for TESTR model
+F-measure (%) - Strong Lexicon evaluation for TESTR model
+F-measure (%) - Weak Lexicon evaluation for TESTR model
+F1 (Hidden Test Set) evaluation for CNN+RNN model
+F1 (Hidden Test Set) evaluation for ENCASE model
+F1 (Hidden Test Set) evaluation for Our proposed method Model Averaging(D + E + F) model
+F1 (Hidden Test Set) evaluation for ResNet + Expert Features model
+F1 evaluation for TESTED model
+FPS evaluation for Cloze Test model
+Frame (fps) evaluation for SipMask (ResNet-101, single-scale test) model
+Frame (fps) evaluation for SipMask (ResNet-50, single-scale test) model
+Frame (fps) evaluation for SipMask++ (ResNet-101, single-scale test) model
+GQA-test evaluation for EXP model
+GQA-test evaluation for REX-LXMERT model
+GQA-test evaluation for REX-VisualBert model
+GQA-test evaluation for VCIN model
+GQA-test evaluation for VQAE model
+Hardware Burden evaluation for D2Det (ResNet-101-DCN, multi-scale test) model
+Hardware Burden evaluation for HSD (Rest101, 768x768, single-scale test) model
+Hardware Burden evaluation for aLRP Loss (ResNext-101-64x4d, DCN, multiscale test) model
+Localization (test) evaluation for GPV-2 model
+Localization (test) evaluation for Mask R-CNN model
+Localization (test) evaluation for Unified-IOXL model
+MAE(test) evaluation for BMNet+ model
+MAE(test) evaluation for CounTR model
+MAE(test) evaluation for CounTX (uses text descriptions instead of visual exemplars) model
+MAE(test) evaluation for Counting-DETR model
+MAE(test) evaluation for FamNet model
+MAE(test) evaluation for LOCA model
+MAE(test) evaluation for LaoNet model
+MAE(test) evaluation for Omnicount (Open vocabulary, multi-label, without training) model
+MAE(test) evaluation for RCC model
+MAE(test) evaluation for SAFECount model
+MAE(test) evaluation for SPDCN model
+MAE(test) evaluation for SemAug-CounTR model
+MAE(test) evaluation for SemAug-SAFECount model
+MAP evaluation for H2FA R-CNN (clipart_test) model
+MAP evaluation for HSD (VGG16, 320x320, single-scale test) model
+MAP evaluation for HSD (VGG16, 512x512, single-scale test) model
+MCC evaluation for Human Benchmark model
+METEOR (Validation set) evaluation for BART model
+METEOR (Validation set) evaluation for LSTM model
+METEOR (Validation set) evaluation for T5 model
+METEOR (Validation set) evaluation for TGen model
+METEOR evaluation for COOT (ae-test split) - Only Appearance features model
+METEOR evaluation for MART (ae-test split) - Appearance + Flow model
+METEOR evaluation for VLCap (ae-test split) - Appearance + Language model
+METEOR evaluation for VLTinT (ae-test split) C3D/Ling model
+Mean IoU (test)  evaluation for MiB model
+Mean IoU (test)  evaluation for MiB+AWT model
+Mean IoU (test)  evaluation for PLOP model
+Mean IoU (test)  evaluation for RCNet-101 model
+Mean IoU (test)  evaluation for SATS-M model
+Mean IoU (test) evaluation for 2D–3D + 3 × 3 × 3 model
+Mean IoU (test) evaluation for DFormer-L model
+Mean IoU (test) evaluation for DLv3+ (Xception65) model
+Mean IoU (test) evaluation for DeepLabv3+ model
+Mean IoU (test) evaluation for DeepLabv3+-R50-Repeat Factor-Lovasz model
+Mean IoU (test) evaluation for EMSANet (2x ResNet-34 NBt1D, PanopticNDT version) model
+Mean IoU (test) evaluation for Exchanger+Mask2Former model
+Mean IoU (test) evaluation for Exchanger+Unet model
+Mean IoU (test) evaluation for HRNetv2 model
+Mean IoU (test) evaluation for LF (Segformer B2) model
+Mean IoU (test) evaluation for OCR-R50-Repeat Factor-Lovasz model
+Mean IoU (test) evaluation for SATS model
+Mean IoU (test) evaluation for SATS-M model
+Mean IoU (test) evaluation for SSUL+AWT model
+Mean IoU (test) evaluation for U-TAE model
+Mean IoU (test) evaluation for UPN model
+Mean IoU (test) evaluation for UPN-R50-Repeat Factor-Lovasz model
+Meta-test success rate (zero-shot) evaluation for MZ model
+Meta-test success rate (zero-shot) evaluation for MZ+Recon model
+Meta-test success rate evaluation for DnC model
+Meta-test success rate evaluation for MAML model
+Meta-test success rate evaluation for PEARL model
+Meta-test success rate evaluation for RL^2 model
+Operations per network pass evaluation for D2Det (ResNet-101-DCN, multi-scale test) model
+Operations per network pass evaluation for HSD (Rest101, 768x768, single-scale test) model
+Operations per network pass evaluation for aLRP Loss (ResNext-101-64x4d, DCN, multiscale test) model
+PCKh-0.5 evaluation for PCT (swin-b, test set) model
+PCKh-0.5 evaluation for PCT (swin-l, test set) model
+PCM-F1 (test) evaluation for T5-Large model
+PhysioNet Challenge score (test data) evaluation for 1D CNN Encoder model
+PhysioNet Challenge score 2020 (validation data) evaluation for 1D CNN Encoder model
+Pixel Accuracy evaluation for CrossFormer (ImageNet1k-pretrain, UPerNet, multi-scale test) model
+RMSE evaluation for Metric3D (ConvNeXt-Large, Zero-shot testing) model
+RMSE(test) evaluation for BMNet+ model
+RMSE(test) evaluation for CounTR model
+RMSE(test) evaluation for CounTX (uses text descriptions instead of visual exemplars) model
+RMSE(test) evaluation for Counting-DETR model
+RMSE(test) evaluation for FamNet model
+RMSE(test) evaluation for LOCA model
+RMSE(test) evaluation for LaoNet model
+RMSE(test) evaluation for Omnicount (Open vocabulary, multi-label, without training) model
+RMSE(test) evaluation for RCC model
+RMSE(test) evaluation for SAFECount model
+RMSE(test) evaluation for SPDCN model
+RMSE(test) evaluation for SemAug-CounTR model
+RMSE(test) evaluation for SemAug-SAFECount model
+ROC-AUC FAR evaluation for ACR-NTL (zero-shot, test anomaly ratio=1%) model
+ROC-AUC FAR evaluation for ACR-NTL (zero-shot, test anomaly ratio=20%) model
+ROUGE-L evaluation for COOT (ae-test split) - Only Appearance features model
+ROUGE-L evaluation for VLCap (ae-test split) - Appearance + Language model
+ROUGE-L evaluation for VLTinT (ae-test split) C3D/Ling model
+Recall@1 evaluation for BLIP-2 ViT-G (zero-shot, 1K test set) model
+Recall@1 evaluation for BLIP-2 ViT-L (zero-shot, 1K test set) model
+Recall@10 evaluation for BLIP-2 ViT-G (zero-shot, 1K test set) model
+Recall@10 evaluation for BLIP-2 ViT-L (zero-shot, 1K test set) model
+Recall@5 evaluation for BLIP-2 ViT-G (zero-shot, 1K test set) model
+Recall@5 evaluation for BLIP-2 ViT-L (zero-shot, 1K test set) model
+Segmentation (test) evaluation for Mask R-CNN model
+Segmentation (test) evaluation for Unified-IOXL model
+Test AP evaluation for 4xRSN-50(384×288) model
+Test AP evaluation for AggPose(256x192) model
+Test AP evaluation for AlphaPose model
+Test AP evaluation for Associative Embedding model
+Test AP evaluation for Associative Embedding+ model
+Test AP evaluation for BAPose model
+Test AP evaluation for BUCTD (CID-W32) model
+Test AP evaluation for CPN+ model
+Test AP evaluation for CRaWl model
+Test AP evaluation for CenterGroup model
+Test AP evaluation for ChebNet model
+Test AP evaluation for DGN model
+Test AP evaluation for DarkPose(384x288) model
+Test AP evaluation for DeeperGCN+virtual node model
+Test AP evaluation for DeeperGCN+virtual node+FLAG model
+Test AP evaluation for EGT model
+Test AP evaluation for EvoPose2D-L model
+Test AP evaluation for EvoPose2D-L(512x384) model
+Test AP evaluation for GCN model
+Test AP evaluation for GCN+FLAG model
+Test AP evaluation for GCN+virtual node model
+Test AP evaluation for GCN+virtual node+FLAG model
+Test AP evaluation for GIN model
+Test AP evaluation for GIN+FLAG model
+Test AP evaluation for GIN+virtual node model
+Test AP evaluation for GIN+virtual node+FLAG model
+Test AP evaluation for GIN-AK model
+Test AP evaluation for GINE+ w/ APPNP model
+Test AP evaluation for GINE+ w/ virtual nodes model
+Test AP evaluation for GPS model
+Test AP evaluation for Graphormer (pre-trained on PCQM4M) model
+Test AP evaluation for Graphormer model
+Test AP evaluation for HGG (AE+) model
+Test AP evaluation for HRNet-48(384x288) model
+Test AP evaluation for HRNet-W48 model
+Test AP evaluation for LitePose-S (Ours) model
+Test AP evaluation for LitePose-S model
+Test AP evaluation for MIPNet (HRNet-W48) model
+Test AP evaluation for MIPNet(384x288) model
+Test AP evaluation for MSPN(384x288) model
+Test AP evaluation for Mask R-CNN model
+Test AP evaluation for Nested GIN+virtual node (ens) model
+Test AP evaluation for Nested GIN+virtual node (ensemble) model
+Test AP evaluation for Nested GIN+virtual node model
+Test AP evaluation for OpenPifPaf model
+Test AP evaluation for PDF model
+Test AP evaluation for PHC-GNN model
+Test AP evaluation for PNA model
+Test AP evaluation for PNFS model
+Test AP evaluation for PersonLab model
+Test AP evaluation for Pose-AE model
+Test AP evaluation for Pose2Seg model
+Test AP evaluation for PoseFix model
+Test AP evaluation for PoseFix(384x288) model
+Test AP evaluation for Poseur(384x288) model
+Test AP evaluation for RMPE model
+Test AP evaluation for RTMPose(RTMPose-l, GT bounding boxes) model
+Test AP evaluation for RandomGIN-vn+FLAG model
+Test AP evaluation for ResNet-152 model
+Test AP evaluation for ResNet-50 model
+Test AP evaluation for SEFD model
+Test AP evaluation for TGT-Ag+TGT-At-DP model
+Test AP evaluation for TransPose(256x192) model
+Test AP evaluation for UniHCP (direct eval) model
+Test AP evaluation for ViTPose (ViTAE-G, GT bounding boxes) model
+Test AUC top 1 evaluation for CAILA model
+Test AUC top 1 evaluation for SymNet model
+Test AUC top 2 evaluation for CAILA model
+Test AUC top 2 evaluation for SymNet model
+Test AUC top 3 evaluation for CAILA model
+Test AUC top 3 evaluation for SymNet model
+Test Accuracy evaluation for AGDN (GAT-HA+3_heads) model
+Test Accuracy evaluation for AGDN (GAT-HA+3_heads+labels) model
+Test Accuracy evaluation for AGDN model
+Test Accuracy evaluation for AGDN+BoT model
+Test Accuracy evaluation for AGDN+BoT+self-KD model
+Test Accuracy evaluation for AGDN+BoT+self-KD+C&S model
+Test Accuracy evaluation for Aurora (ours, r=64) Aurora (ours, r=64) model
+Test Accuracy evaluation for Bi-LSTMs model
+Test Accuracy evaluation for C2MT model
+Test Accuracy evaluation for CLGNN model
+Test Accuracy evaluation for CNNs model
+Test Accuracy evaluation for Cluster-GAT model
+Test Accuracy evaluation for ClusterGCN (R-GCN aggr) model
+Test Accuracy evaluation for ClusterGCN (SAGE aggr) model
+Test Accuracy evaluation for ClusterGCN+residual+3 layers model
+Test Accuracy evaluation for CoLinkDistMLP model
+Test Accuracy evaluation for CoNAL model
+Test Accuracy evaluation for DAGNN model
+Test Accuracy evaluation for DeeperGCN model
+Test Accuracy evaluation for DeeperGCN+FLAG model
+Test Accuracy evaluation for E2EG (use raw text) model
+Test Accuracy evaluation for EGC-M (100k) model
+Test Accuracy evaluation for EGC-S (100k) model
+Test Accuracy evaluation for EigenNas (Zhu et al., 2022) model
+Test Accuracy evaluation for EnGCN model
+Test Accuracy evaluation for ExpC model
+Test Accuracy evaluation for FSGNN model
+Test Accuracy evaluation for FairNAS (Chu et al., 2021) model
+Test Accuracy evaluation for Fea2Fea-s3 model
+Test Accuracy evaluation for Full-batch GCN model
+Test Accuracy evaluation for Full-batch GraphSAGE model
+Test Accuracy evaluation for Full-batch R-GCN model
+Test Accuracy evaluation for GAMLP+MCR model
+Test Accuracy evaluation for GAMLP+RLU+SCR model
+Test Accuracy evaluation for GAMLP+RLU+SCR+C&S model
+Test Accuracy evaluation for GAMLP+SCR model
+Test Accuracy evaluation for GAMLP+SCR-m model
+Test Accuracy evaluation for GAT (NS) model
+Test Accuracy evaluation for GAT + C&S model
+Test Accuracy evaluation for GAT w/NS + C&S model
+Test Accuracy evaluation for GAT with NeighborSampling model
+Test Accuracy evaluation for GAT(norm.adj.)+label reuse+C&S model
+Test Accuracy evaluation for GAT+FLAG model
+Test Accuracy evaluation for GAT+label reuse+self KD model
+Test Accuracy evaluation for GAT+label+reuse+topo loss model
+Test Accuracy evaluation for GAT+norm. adj.+label reuse model
+Test Accuracy evaluation for GAT+norm. adj.+labels model
+Test Accuracy evaluation for GAT+norm.adj.+labels model
+Test Accuracy evaluation for GAT-node2vec + BoT + self-KD model
+Test Accuracy evaluation for GAT-node2vec + BoT model
+Test Accuracy evaluation for GCN model
+Test Accuracy evaluation for GCN+FLAG model
+Test Accuracy evaluation for GCN+linear+labels model
+Test Accuracy evaluation for GCN+residual+6 layers model
+Test Accuracy evaluation for GCN+residual+node2vec model
+Test Accuracy evaluation for GCN+virtual node model
+Test Accuracy evaluation for GCN+virtual node+FLAG model
+Test Accuracy evaluation for GCNII model
+Test Accuracy evaluation for GCN_res + 8 layers + FLAG model
+Test Accuracy evaluation for GCN_res + 8 layers model
+Test Accuracy evaluation for GCN_res + C&S model
+Test Accuracy evaluation for GCN_res + C&S_v2 model
+Test Accuracy evaluation for GIANT+XRT+GATv2 model
+Test Accuracy evaluation for GIANT-XRT+AGDN+BoT model
+Test Accuracy evaluation for GIANT-XRT+AGDN+BoT+self-KD model
+Test Accuracy evaluation for GIANT-XRT+GAMLP+MCR model
+Test Accuracy evaluation for GIANT-XRT+GAMLP+RLU (use raw text) model
+Test Accuracy evaluation for GIANT-XRT+GraphSAGE (use raw text) model
+Test Accuracy evaluation for GIANT-XRT+GraphSAINT(use raw text) model
+Test Accuracy evaluation for GIANT-XRT+MLP (use raw text) model
+Test Accuracy evaluation for GIANT-XRT+RevGAT+KD (use raw text) model
+Test Accuracy evaluation for GIANT-XRT+RevGAT+KD+DCN model
+Test Accuracy evaluation for GIANT-XRT+SAGN+MCR model
+Test Accuracy evaluation for GIANT-XRT+SAGN+MCR+C&S model
+Test Accuracy evaluation for GIANT-XRT+SAGN+SCR model
+Test Accuracy evaluation for GIANT-XRT+SAGN+SCR+C&S model
+Test Accuracy evaluation for GIANT-XRT+SAGN+SLE (use raw text) model
+Test Accuracy evaluation for GIANT-XRT+SAGN+SLE+C&S (use raw text) model
+Test Accuracy evaluation for GIN model
+Test Accuracy evaluation for GIN+FLAG model
+Test Accuracy evaluation for GIN+virtual node model
+Test Accuracy evaluation for GIN+virtual node+FLAG model
+Test Accuracy evaluation for GLEM+EnGCN model
+Test Accuracy evaluation for GLEM+GIANT+GAMLP model
+Test Accuracy evaluation for GLEM+GIANT+SAGN+SCR model
+Test Accuracy evaluation for GLEM+RevGAT model
+Test Accuracy evaluation for GLNN model
+Test Accuracy evaluation for GPS model
+Test Accuracy evaluation for GTAN model
+Test Accuracy evaluation for GTCN model
+Test Accuracy evaluation for GaAN model
+Test Accuracy evaluation for GraphSAGE (NS) model
+Test Accuracy evaluation for GraphSAGE + C&S + node2vec model
+Test Accuracy evaluation for GraphSAGE model
+Test Accuracy evaluation for GraphSAGE w/NS + C&S model
+Test Accuracy evaluation for GraphSAGE+FLAG model
+Test Accuracy evaluation for GraphSAGE_res_incep model
+Test Accuracy evaluation for GraphSAINT (R-GCN aggr) model
+Test Accuracy evaluation for GraphSAINT (SAGE aggr) model
+Test Accuracy evaluation for GraphSAINT + metapath2vec model
+Test Accuracy evaluation for GraphSAINT-inductive model
+Test Accuracy evaluation for HGConv model
+Test Accuracy evaluation for HGT (LADIES Sample) model
+Test Accuracy evaluation for HGT (TransE embs) model
+Test Accuracy evaluation for Hybrid CNNs (Text + All) model
+Test Accuracy evaluation for Hybrid CNNs (Text + Speaker) model
+Test Accuracy evaluation for ILL model
+Test Accuracy evaluation for InstanceGM model
+Test Accuracy evaluation for InstanceGM-SS model
+Test Accuracy evaluation for JKNet (GCN-based) model
+Test Accuracy evaluation for KNAS (Xu et al., 2021) model
+Test Accuracy evaluation for Knockoffs-SPR model
+Test Accuracy evaluation for LD+GAMLP model
+Test Accuracy evaluation for LD+GIANT+SAGN+SCR model
+Test Accuracy evaluation for LD+REVGAT model
+Test Accuracy evaluation for LDMLP(w/o ComplEx embs) model
+Test Accuracy evaluation for LDMLP(w/o ComplEx embs) model
+Test Accuracy evaluation for LEGNN + AS-Train model
+Test Accuracy evaluation for LEGNN model
+Test Accuracy evaluation for LMSPS (w/o embs) model
+Test Accuracy evaluation for LMSPS(w/o ComplEx embs) model
+Test Accuracy evaluation for LMSPS(w/o ComplEx embs) model
+Test Accuracy evaluation for LayerNAS model
+Test Accuracy evaluation for Linear + C&S model
+Test Accuracy evaluation for MLP + C&S model
+Test Accuracy evaluation for MLP model
+Test Accuracy evaluation for MLP+FLAG model
+Test Accuracy evaluation for MetaPath2vec model
+Test Accuracy evaluation for NARS model
+Test Accuracy evaluation for NARS-GAMLP model
+Test Accuracy evaluation for NARS-GAMLP+RLU model
+Test Accuracy evaluation for NARS-GAMLP+RLU+SCR model
+Test Accuracy evaluation for NARS-GAMLP+SCR model
+Test Accuracy evaluation for NARS-GAMLP+SCR-m model
+Test Accuracy evaluation for NARS_SAGN+SLE model
+Test Accuracy evaluation for NASI (Shu et al., 2021) model
+Test Accuracy evaluation for NCR (ResNet-18) model
+Test Accuracy evaluation for NeighborSampling (R-GCN aggr) model
+Test Accuracy evaluation for NeighborSampling (SAGE aggr) model
+Test Accuracy evaluation for Node2vec model
+Test Accuracy evaluation for Our Ensemble Learning-2 model
+Test Accuracy evaluation for PCAPass + LightGBM model
+Test Accuracy evaluation for PCAPass + XGBoost model
+Test Accuracy evaluation for PPO (Schulman et al., 2017) model
+Test Accuracy evaluation for PSHGCN (ComplEx embs) model
+Test Accuracy evaluation for PSHGCN model
+Test Accuracy evaluation for Plain Linear + C&S model
+Test Accuracy evaluation for Polynormer model
+Test Accuracy evaluation for R-GCN+FLAG model
+Test Accuracy evaluation for R-GSN + metapath2vec model
+Test Accuracy evaluation for R-GSN model
+Test Accuracy evaluation for R-GraphSAGE (NS) model
+Test Accuracy evaluation for R-HGNN model
+Test Accuracy evaluation for RE (Real et al., 2019) model
+Test Accuracy evaluation for RevGAT+N.Adj+LabelReuse+SelfKD model
+Test Accuracy evaluation for RevGAT+NormAdj+LabelReuse model
+Test Accuracy evaluation for RevGNN-112 model
+Test Accuracy evaluation for RpHGNN+LP+CR (LINE embs) model
+Test Accuracy evaluation for SAGN model
+Test Accuracy evaluation for SAGN+MCR model
+Test Accuracy evaluation for SAGN+SLE (4 stages) model
+Test Accuracy evaluation for SAGN+SLE (4 stages)+C&S model
+Test Accuracy evaluation for SAGN+SLE model
+Test Accuracy evaluation for SGC model
+Test Accuracy evaluation for SHADOW-GAT (PPR) model
+Test Accuracy evaluation for SIGN model
+Test Accuracy evaluation for SIGN model
+Test Accuracy evaluation for SIGN-XL model
+Test Accuracy evaluation for SPR model
+Test Accuracy evaluation for SeHGNN (ComplEx embs) model
+Test Accuracy evaluation for SeHGNN model
+Test Accuracy evaluation for SimTeG+TAPE+GraphSAGE model
+Test Accuracy evaluation for SimTeG+TAPE+RevGAT model
+Test Accuracy evaluation for Spec-MLP-Wide + C&S model
+Test Accuracy evaluation for TAPE+RevGAT model
+Test Accuracy evaluation for TE-NAS (Chen et al., 2021) model
+Test Accuracy evaluation for TransformerConv model
+Test Accuracy evaluation for UniMP model
+Test Accuracy evaluation for UniMP_large model
+Test Accuracy evaluation for UniMP_v2 model
+Test Accuracy evaluation for UnifiedQA model
+Test Accuracy evaluation for shaDow-GAT model
+Test CER evaluation for ConformerCTC-L (5-gram) model
+Test CER evaluation for ConformerCTC-L (no LM) model
+Test CER evaluation for QuartzNet15x5DE (CV-only, 5-gram) model
+Test CER evaluation for QuartzNet15x5DE (D37, 5-gram) model
+Test CER evaluation for wav2vec 2.0 XLS-R 1B (5-gram) model
+Test CER evaluation for wav2vec 2.0 XLS-R 1B + TEVR (5-gram) model
+Test Dice Multiclass evaluation for Baseline - DeepLabv3+ model
+Test Dice Multiclass evaluation for HCMUS-CPS-DLU-Net model
+Test Dice Multiclass evaluation for HCMUS-DeepLabv3+ model
+Test Dice Multiclass evaluation for HCMUS-SegFormer model
+Test Dice Multiclass evaluation for PUCP-MAnet model
+Test Dice Multiclass evaluation for PUCP-Unet model
+Test Dice Multiclass evaluation for PUCP-Unet++ model
+Test Error evaluation for Latent ODE model
+Test Error evaluation for Latent SDE model
+Test Error evaluation for ODE2VAE model
+Test Error evaluation for ODE2VAE-KL model
+Test Error evaluation for PDO-eConv (ours) model
+Test F1 score (private) evaluation for Conviformer-B model
+Test F1 score evaluation for Conviformer-B model
+Test F1 score evaluation for DAGNN model
+Test F1 score evaluation for DAGformer model
+Test F1 score evaluation for DiffPool w/ graphSAGE model
+Test F1 score evaluation for EGC-M (No Edge Features) model
+Test F1 score evaluation for EGC-S (No Edge Features) model
+Test F1 score evaluation for GAT model
+Test F1 score evaluation for GCN model
+Test F1 score evaluation for GCN+virtual node model
+Test F1 score evaluation for GIN model
+Test F1 score evaluation for GIN+virtual node model
+Test F1 score evaluation for GPS model
+Test F1 score evaluation for MPNN-Max (No Edge Features) model
+Test F1 score evaluation for PNA (No Edge Features) model
+Test F1 score evaluation for SAT model
+Test F1 score evaluation for SAT++ with Magnetic Laplacian model
+Test F1-Score evaluation for U2netme model
+Test Hits@100 evaluation for ** E2N** model
+Test Hits@100 evaluation for **Neural Common Neighbor ** model
+Test Hits@100 evaluation for AGDN model
+Test Hits@100 evaluation for DeepWalk model
+Test Hits@100 evaluation for GCN model
+Test Hits@100 evaluation for GraphSAGE model
+Test Hits@100 evaluation for MPLP model
+Test Hits@100 evaluation for Matrix Factorization model
+Test Hits@100 evaluation for NGNN + GCN model
+Test Hits@100 evaluation for NGNN + GraphSAGE model
+Test Hits@100 evaluation for NGNN + SEAL model
+Test Hits@100 evaluation for Node2vec model
+Test Hits@100 evaluation for RA+Edge Proposal Set model
+Test Hits@100 evaluation for Resource Allocation model
+Test Hits@100 evaluation for S3GRL (PoS Plus) model
+Test Hits@100 evaluation for SEAL model
+Test Hits@100 evaluation for SUREL+ model
+Test Hits@20 evaluation for AGDN (AUC loss) model
+Test Hits@20 evaluation for CFLP (w/ JKNet) model
+Test Hits@20 evaluation for DeepWalk model
+Test Hits@20 evaluation for E2N model
+Test Hits@20 evaluation for ELGNN model
+Test Hits@20 evaluation for GCN model
+Test Hits@20 evaluation for GCN+JKNet model
+Test Hits@20 evaluation for GIDN@YITU model
+Test Hits@20 evaluation for GraphSAGE model
+Test Hits@20 evaluation for GraphSAGE+Edge Proposal Set model
+Test Hits@20 evaluation for GraphSAGE+anchor distance model
+Test Hits@20 evaluation for LRGA + GCN model
+Test Hits@20 evaluation for MAD Learning model
+Test Hits@20 evaluation for Matrix Factorization model
+Test Hits@20 evaluation for NGNN + GCN model
+Test Hits@20 evaluation for NGNN + GraphSAGE model
+Test Hits@20 evaluation for NeuralCommonNeighbor model
+Test Hits@20 evaluation for Node2vec model
+Test Hits@20 evaluation for PLNLP model
+Test Hits@20 evaluation for PSG model
+Test Hits@20 evaluation for SEAL model
+Test Hits@50 evaluation for Adamic Adar+Edge Proposal Set model
+Test Hits@50 evaluation for DeepWalk model
+Test Hits@50 evaluation for DeeperGCN model
+Test Hits@50 evaluation for E2N model
+Test Hits@50 evaluation for Edge2Node model
+Test Hits@50 evaluation for GCN (val as input) model
+Test Hits@50 evaluation for GCN model
+Test Hits@50 evaluation for GIDN@YITU model
+Test Hits@50 evaluation for GraphSAGE (val as input) model
+Test Hits@50 evaluation for GraphSAGE model
+Test Hits@50 evaluation for LRGA + GCN model
+Test Hits@50 evaluation for Matrix Factorization model
+Test Hits@50 evaluation for NGNN + GCN model
+Test Hits@50 evaluation for NGNN + GraphSAGE model
+Test Hits@50 evaluation for Node2vec model
+Test Hits@50 evaluation for PLNLP (random walk aug.) model
+Test Hits@50 evaluation for PLNLP (val as input) model
+Test Hits@50 evaluation for PLNLP+ LRGA model
+Test Hits@50 evaluation for S3GRL (PoS Plus) model
+Test Hits@50 evaluation for SEAL-nofeat (val as input) model
+Test Hits@50 evaluation for SEAL-nofeat model
+Test Hits@50 evaluation for VQ-GNN (GAT) model
+Test Hits@50 evaluation for VQ-GNN (GCN) model
+Test Hits@50 evaluation for VQ-GNN (SAGE-Mean) model
+Test MAE evaluation for EGT + Triangular Attention model
+Test MAE evaluation for EGT model
+Test MAE evaluation for GCN model
+Test MAE evaluation for GCN model
+Test MAE evaluation for GCN-Virtual model
+Test MAE evaluation for GIN model
+Test MAE evaluation for GIN model
+Test MAE evaluation for GIN-virtual model
+Test MAE evaluation for GPS model
+Test MAE evaluation for GPTrans-L model
+Test MAE evaluation for GPTrans-T model
+Test MAE evaluation for GRIT model
+Test MAE evaluation for GRPE-Large model
+Test MAE evaluation for Graphormer  model
+Test MAE evaluation for Graphormer model
+Test MAE evaluation for MLP-Fingerprint model
+Test MAE evaluation for MLP-fingerprint model
+Test MAE evaluation for TGT-At model
+Test MAE evaluation for TIGT model
+Test MAE evaluation for TokenGT model
+Test MAE evaluation for Transformer-M model
+Test MAE evaluation for Uni-Mol+ model
+Test MRR evaluation for A*Net model
+Test MRR evaluation for AGDN w/GraphSAINT model
+Test MRR evaluation for AMAN model
+Test MRR evaluation for All-Ensemble model
+Test MRR evaluation for AutoBLM-KGBench model
+Test MRR evaluation for AutoSF model
+Test MRR evaluation for AutoWeird model
+Test MRR evaluation for CFG model
+Test MRR evaluation for ClusterGCN (GCN aggr) model
+Test MRR evaluation for ComplEx (250dim) model
+Test MRR evaluation for ComplEx (50dim) model
+Test MRR evaluation for ComplEx model
+Test MRR evaluation for ComplEx-Concat model
+Test MRR evaluation for ComplEx-N3-RP (100dim) model
+Test MRR evaluation for ComplEx-N3-RP (50dim) model
+Test MRR evaluation for ComplEx-N3-RP model
+Test MRR evaluation for ComplEx-RoBERTa model
+Test MRR evaluation for ComplEx^2 model
+Test MRR evaluation for CompoundE3D model
+Test MRR evaluation for DistMult (100dim) model
+Test MRR evaluation for DistMult (500dim) model
+Test MRR evaluation for DistMult model
+Test MRR evaluation for Full-batch GCN model
+Test MRR evaluation for Full-batch GraphSAGE model
+Test MRR evaluation for GCN2 model
+Test MRR evaluation for GFA-NN model
+Test MRR evaluation for GraphSAINT (GCN aggr) model
+Test MRR evaluation for InterHT model
+Test MRR evaluation for InterHT+ (256dim) model
+Test MRR evaluation for InterHT+ model
+Test MRR evaluation for MLP1 model
+Test MRR evaluation for MPLP model
+Test MRR evaluation for Matrix Factorization model
+Test MRR evaluation for NBFNet model
+Test MRR evaluation for NBOW model
+Test MRR evaluation for NGNN + SEAL model
+Test MRR evaluation for NeighborSampling (SAGE aggr) model
+Test MRR evaluation for Node2vec model
+Test MRR evaluation for NodePiece + AutoSF model
+Test MRR evaluation for PLNLP model
+Test MRR evaluation for PairRE (200dim) model
+Test MRR evaluation for PairRE model
+Test MRR evaluation for RNN model
+Test MRR evaluation for RelEns model
+Test MRR evaluation for Rot-Pro model
+Test MRR evaluation for RotPro model
+Test MRR evaluation for RotatE (250dim) model
+Test MRR evaluation for RotatE (50dim) model
+Test MRR evaluation for RotatE model
+Test MRR evaluation for S3GRL (PoS Plus) model
+Test MRR evaluation for SEAL model
+Test MRR evaluation for SUREL model
+Test MRR evaluation for Self-attention model
+Test MRR evaluation for StarGraph + TripleRE model
+Test MRR evaluation for TranS model
+Test MRR evaluation for TransE-Concat model
+Test MRR evaluation for TransE-RoBERTa model
+Test MRR evaluation for TransERR model
+Test MRR evaluation for TransERR model
+Test MRR evaluation for UniBi model
+Test ROC-AUC evaluation for AGDN model
+Test ROC-AUC evaluation for CIN model
+Test ROC-AUC evaluation for CIN-small model
+Test ROC-AUC evaluation for DGN model
+Test ROC-AUC evaluation for DeepAUC model
+Test ROC-AUC evaluation for DeeperGCN model
+Test ROC-AUC evaluation for DeeperGCN+FLAG model
+Test ROC-AUC evaluation for EGC-M (No Edge Features) model
+Test ROC-AUC evaluation for EGC-S (No Edge Features) model
+Test ROC-AUC evaluation for EGT model
+Test ROC-AUC evaluation for GAT + labels + node2vec model
+Test ROC-AUC evaluation for GAT+BOT+NGNN model
+Test ROC-AUC evaluation for GAT+BoT model
+Test ROC-AUC evaluation for GAT+EdgeFeatureAtt model
+Test ROC-AUC evaluation for GCN (in Julia) model
+Test ROC-AUC evaluation for GCN model
+Test ROC-AUC evaluation for GCN+FLAG model
+Test ROC-AUC evaluation for GCN+GraphNorm model
+Test ROC-AUC evaluation for GCN+virtual node model
+Test ROC-AUC evaluation for GEN + FLAG + node2vec model
+Test ROC-AUC evaluation for GIN model
+Test ROC-AUC evaluation for GIN+FLAG model
+Test ROC-AUC evaluation for GIN+virtual node model
+Test ROC-AUC evaluation for GIN+virtual node+FLAG model
+Test ROC-AUC evaluation for GIPA model
+Test ROC-AUC evaluation for GIPA(Wide&Deep) model
+Test ROC-AUC evaluation for GPS model
+Test ROC-AUC evaluation for GPTrans-B model
+Test ROC-AUC evaluation for GSAT model
+Test ROC-AUC evaluation for GSN model
+Test ROC-AUC evaluation for GaAN model
+Test ROC-AUC evaluation for GeniePath-BS model
+Test ROC-AUC evaluation for GraphSAGE model
+Test ROC-AUC evaluation for Graphormer (pre-trained on PCQM4M) model
+Test ROC-AUC evaluation for Graphormer + FPs model
+Test ROC-AUC evaluation for Graphormer model
+Test ROC-AUC evaluation for HIMP model
+Test ROC-AUC evaluation for LD+GAT model
+Test ROC-AUC evaluation for MLP model
+Test ROC-AUC evaluation for Nested GIN+virtual node (ens) model
+Test ROC-AUC evaluation for Nested GIN+virtual node model
+Test ROC-AUC evaluation for Neural FingerPrints model
+Test ROC-AUC evaluation for Node2vec model
+Test ROC-AUC evaluation for P-WL model
+Test ROC-AUC evaluation for PHC-GNN model
+Test ROC-AUC evaluation for PIN model
+Test ROC-AUC evaluation for PIN model
+Test ROC-AUC evaluation for PNA model
+Test ROC-AUC evaluation for RevGNN-Deep model
+Test ROC-AUC evaluation for RevGNN-Wide model
+Test ROC-AUC evaluation for UniMP model
+Test ROC-AUC evaluation for UniMP+CrossEdgeFeat model
+Test ROC-AUC evaluation for WEGL model
+Test ROC-AUC evaluation for directional GSN model
+Test ROGUE-1 evaluation for Pre-training-meets-Clustering-A-Hybrid-Extractive-Multi-Document-Summarization-Model model
+Test ROGUE-2 evaluation for Pre-training-meets-Clustering-A-Hybrid-Extractive-Multi-Document-Summarization-Model model
+Test ROGUE-L evaluation for NeuSyRE model
+Test Score evaluation for EncNet + JPU model
+Test Score evaluation for EncNet model
+
+1000 Rows. -- 1422295 msec.

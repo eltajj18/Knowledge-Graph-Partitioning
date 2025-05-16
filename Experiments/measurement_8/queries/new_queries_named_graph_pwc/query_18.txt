@@ -1,0 +1,22 @@
+# This query returns evaluation procedure names that contain specific keywords (cross, validation, or split).
+SPARQL
+PREFIX mls: <http://www.w3.org/ns/mls#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX mlso: <http://w3id.org/mlso/>
+
+SELECT DISTINCT ?procedureName
+FROM <http://example.org/graph/openml_tasks>
+WHERE {
+  ?procedure a mls:EvaluationProcedure;
+             rdfs:label ?procedureName.
+  
+  FILTER (
+    CONTAINS(LCASE(?procedureName), "cross") || 
+    CONTAINS(LCASE(?procedureName), "validation") ||
+    CONTAINS(LCASE(?procedureName), "split")
+  )
+}
+ORDER BY ?procedureName
+LIMIT 1000
+;

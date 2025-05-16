@@ -1,0 +1,479 @@
+Result of /data/leuven/370/vsc37064/new_queries_named_graph/query_16.txt:
+OpenLink Virtuoso Interactive SQL (Virtuoso)
+Version 07.20.3240 as of Mar 11 2025
+Type HELP; for help and EXIT; to exit.
+Connected to OpenLink Virtuoso
+Driver: 07.20.3240 OpenLink Virtuoso ODBC Driver
+catalog                                                                           catalogName
+LONG VARCHAR                                                                      LONG VARCHAR
+_______________________________________________________________________________
+
+http://w3id.org/mlsea/kaggle/dataset/312039                                                                                  (Real) Trade Weighted U.S. Dollar Index Collection
+http://w3id.org/mlsea/kaggle/dataset/963983                                                                                  08_U_of_Montreal_COVID-19_Image_Data_Collection
+http://w3id.org/mlsea/kaggle/dataset/4744215                                                                                  1D Signal Collection for Dietary Intake Analysis
+http://w3id.org/mlsea/kaggle/dataset/2775292                                                                                  2.5+ Million Rows Egyptian Datasets Collection
+http://w3id.org/mlsea/kaggle/dataset/1388875                                                                                  280000 US gov data catalog
+http://w3id.org/mlsea/kaggle/dataset/1754632                                                                                  3D Faces Collection Data
+http://w3id.org/mlsea/kaggle/dataset/2034342                                                                                  500 Polar Rocks from the Polar Rock Repository
+http://w3id.org/mlsea/kaggle/dataset/4599495                                                                                  A Collection of Dental X-ray Images for Analysis
+http://w3id.org/mlsea/kaggle/dataset/2775333                                                                                  A Comprehensive Collection of Hobbies
+http://w3id.org/mlsea/kaggle/dataset/3240210                                                                                  A Reddit Collection:Titles from Popular Subreddits
+http://w3id.org/mlsea/kaggle/dataset/532387                                                                                  AOL User Session Collection 500K
+http://w3id.org/mlsea/kaggle/dataset/4695008                                                                                  AP_collection
+http://w3id.org/mlsea/kaggle/dataset/679337                                                                                  AU bird scene photo collection
+http://w3id.org/mlsea/kaggle/dataset/4479982                                                                                  Abalone from the UCI Machine Learning Repository
+http://w3id.org/mlsea/kaggle/dataset/4453006                                                                                  Adult UCI Machine Learning Repository
+http://w3id.org/mlsea/kaggle/dataset/51759                                                                                  Advance Retail Sales Time Series Collection
+http://w3id.org/mlsea/kaggle/dataset/3476887                                                                                  Alan Watts Huge Collection
+http://w3id.org/mlsea/kaggle/dataset/2782713                                                                                  All time worldwide box office collection
+http://w3id.org/mlsea/kaggle/dataset/2424721                                                                                  Animal Crossing Catalog
+http://w3id.org/mlsea/kaggle/dataset/4934705                                                                                  Animal Crossing New Horizons Catalog
+http://w3id.org/mlsea/kaggle/dataset/661950                                                                                  Animal Crossing New Horizons Catalog
+http://w3id.org/mlsea/kaggle/dataset/1786546                                                                                  Animal Crossing New Horizons Catalog
+http://w3id.org/mlsea/kaggle/dataset/4696982                                                                                  Anime Collection
+http://w3id.org/mlsea/kaggle/dataset/4924390                                                                                  Annotated Bridge Image Collection
+http://w3id.org/mlsea/kaggle/dataset/162271                                                                                  Apex repository
+http://w3id.org/mlsea/kaggle/dataset/3629306                                                                                  Arabic Words Collection
+http://w3id.org/mlsea/kaggle/dataset/2691736                                                                                  Art Institute of Chicago Collection [Artworks]
+http://w3id.org/mlsea/kaggle/dataset/1426940                                                                                  Art-Dataset-Collection-TFRecords
+http://w3id.org/mlsea/kaggle/dataset/1424670                                                                                  Art_dataset_collection
+http://w3id.org/mlsea/kaggle/dataset/3951333                                                                                  Astronomical Object (Celestial Phenomena Catalog)
+http://w3id.org/mlsea/kaggle/dataset/4437451                                                                                  Astronomy Picture of the Day Data Collection
+http://w3id.org/mlsea/kaggle/dataset/4440526                                                                                  Astrophotography Collection
+http://w3id.org/mlsea/kaggle/dataset/1113930                                                                                  Astrophysical transient sources in catalogs
+http://w3id.org/mlsea/kaggle/dataset/870043                                                                                  Audible Complete Catalog
+http://w3id.org/mlsea/kaggle/dataset/705482                                                                                  Awesome Dataset Repository on GitHub
+http://w3id.org/mlsea/kaggle/dataset/3840457                                                                                  Bangla STT Dataset Collection
+http://w3id.org/mlsea/kaggle/dataset/3004975                                                                                  Biblio globus books catalog
+http://w3id.org/mlsea/kaggle/dataset/1708538                                                                                  Bioinformatics Collection
+http://w3id.org/mlsea/kaggle/dataset/1044194                                                                                  BlogCatalog
+http://w3id.org/mlsea/kaggle/dataset/4826672                                                                                  Bollywood Box Office Collection(2019-2023)
+http://w3id.org/mlsea/kaggle/dataset/2312707                                                                                  Bollywood Movies Box-Office Collection 2022
+http://w3id.org/mlsea/kaggle/dataset/3469804                                                                                  Bollywood movie box office collection Dataset
+http://w3id.org/mlsea/kaggle/dataset/2991450                                                                                  Book repository for all category books
+http://w3id.org/mlsea/kaggle/dataset/2180362                                                                                  BoxOfficeCollections
+http://w3id.org/mlsea/kaggle/dataset/4205273                                                                                  Breast Cancer dataset UCI- ML repository
+http://w3id.org/mlsea/kaggle/dataset/2619834                                                                                  CIC-IDS-Collection
+http://w3id.org/mlsea/kaggle/dataset/4900245                                                                                  CISA Known Exploited Vulnerabilities (KEV) Catalog
+http://w3id.org/mlsea/kaggle/dataset/2559771                                                                                  CISA Known Vulnerabilities and Exploits Catalogue
+http://w3id.org/mlsea/kaggle/dataset/2851062                                                                                  COCONUT: the COlleCtion of Open NatUral producTs.
+http://w3id.org/mlsea/kaggle/dataset/769043                                                                                  COVID-19 Chest X-Ray Image Repository
+http://w3id.org/mlsea/kaggle/dataset/570238                                                                                  COVID-19 Community Data Collection
+http://w3id.org/mlsea/kaggle/dataset/3480294                                                                                  COVID-19 Image Data Collection (IEEE)
+http://w3id.org/mlsea/kaggle/dataset/593947                                                                                  COVID-19 image data collection
+http://w3id.org/mlsea/kaggle/dataset/879322                                                                                  COVID-19 image data collection
+http://w3id.org/mlsea/kaggle/dataset/862993                                                                                  COVID-19 image dataset collection (volumes folder)
+http://w3id.org/mlsea/kaggle/dataset/768992                                                                                  COVID-19-Image-Repository-from-
+http://w3id.org/mlsea/kaggle/dataset/4117047                                                                                  California Room Books Collection
+http://w3id.org/mlsea/kaggle/dataset/3095424                                                                                  Cars Collection Dataset
+http://w3id.org/mlsea/kaggle/dataset/623095                                                                                  Cartier Jewelry - Catalog
+http://w3id.org/mlsea/kaggle/dataset/696299                                                                                  Catalog Cross-Selling
+http://w3id.org/mlsea/kaggle/dataset/2836119                                                                                  Catalog_Prediction
+http://w3id.org/mlsea/kaggle/dataset/4425492                                                                                  Catalogue Scoring Dataset
+http://w3id.org/mlsea/kaggle/dataset/4425550                                                                                  Catalogue Scoring Testing data
+http://w3id.org/mlsea/kaggle/dataset/2768615                                                                                  Catalogue de Messier
+http://w3id.org/mlsea/kaggle/dataset/2704247                                                                                  Catalogue of Mutation Database Websites
+http://w3id.org/mlsea/kaggle/dataset/3423654                                                                                  Chain-of-Thought collection
+http://w3id.org/mlsea/kaggle/dataset/58524                                                                                  ChineseMedicalCollection
+http://w3id.org/mlsea/kaggle/dataset/58567                                                                                  Classic Book Collection
+http://w3id.org/mlsea/kaggle/dataset/3299679                                                                                  Cloth catalogs
+http://w3id.org/mlsea/kaggle/dataset/4874985                                                                                  Collection
+http://w3id.org/mlsea/kaggle/dataset/1409233                                                                                  Collection Of Recipes From Foodnetwork.com
+http://w3id.org/mlsea/kaggle/dataset/740507                                                                                  Collection of 180+ poems
+http://w3id.org/mlsea/kaggle/dataset/3330001                                                                                  Collection of 34 Animal Species
+http://w3id.org/mlsea/kaggle/dataset/3771080                                                                                  Collection of Bestselling Japanese Manga
+http://w3id.org/mlsea/kaggle/dataset/577964                                                                                  Collection of COVID-19 articles, by DATE, HUGE
+http://w3id.org/mlsea/kaggle/dataset/841826                                                                                  Collection of Classification & Regression Datasets
+http://w3id.org/mlsea/kaggle/dataset/1972101                                                                                  Collection of Different Category of Leaf Images
+http://w3id.org/mlsea/kaggle/dataset/4671122                                                                                  Collection of Diverse Songs with Lyrics
+http://w3id.org/mlsea/kaggle/dataset/4292807                                                                                  Collection of Heterogeneous Trademark Images
+http://w3id.org/mlsea/kaggle/dataset/1770996                                                                                  Collection of Poetry
+http://w3id.org/mlsea/kaggle/dataset/854250                                                                                  Collection of Star Catalogues (HYC and NGCIC)
+http://w3id.org/mlsea/kaggle/dataset/2442560                                                                                  Collection of licensed sponsors of workers
+http://w3id.org/mlsea/kaggle/dataset/873626                                                                                  Collection of news articles
+http://w3id.org/mlsea/kaggle/dataset/1800057                                                                                  Collection of student, school and degree data
+http://w3id.org/mlsea/kaggle/dataset/4303229                                                                                  Collection pictures herpes vs. impetigo
+http://w3id.org/mlsea/kaggle/dataset/3515239                                                                                  CollectionOfInsectImages
+http://w3id.org/mlsea/kaggle/dataset/4265753                                                                                  Collectionof3x5butchertables
+http://w3id.org/mlsea/kaggle/dataset/1844353                                                                                  Collections of Audio Files
+http://w3id.org/mlsea/kaggle/dataset/203748                                                                                  Collections of the museums of France
+http://w3id.org/mlsea/kaggle/dataset/707827                                                                                  Collections of top grossing movies
+http://w3id.org/mlsea/kaggle/dataset/3639407                                                                                  Commodities Futures Collection
+http://w3id.org/mlsea/kaggle/dataset/9877                                                                                  Complete Kaggle Datasets Collection
+http://w3id.org/mlsea/kaggle/dataset/4253005                                                                                  Comprehensive Chemical Compounds Catalog
+http://w3id.org/mlsea/kaggle/dataset/2275805                                                                                  Course Catalog 2021-2022
+http://w3id.org/mlsea/kaggle/dataset/1867162                                                                                  Covid-19 Public Repository Data
+http://w3id.org/mlsea/kaggle/dataset/71191                                                                                  Credit Default Data Set from UCI Repository
+http://w3id.org/mlsea/kaggle/dataset/449792                                                                                  Criterion Movies Collection
+http://w3id.org/mlsea/kaggle/dataset/2926807                                                                                  DATASET COLLECTION
+http://w3id.org/mlsea/kaggle/dataset/5000                                                                                  DSL Corpus Collection (DSLCC)
+http://w3id.org/mlsea/kaggle/dataset/2941562                                                                                  DarazBD Men's Bags Collection
+http://w3id.org/mlsea/kaggle/dataset/3470806                                                                                  Data Repository
+http://w3id.org/mlsea/kaggle/dataset/566025                                                                                  Data Repository by Johns Hopkins CSSE
+http://w3id.org/mlsea/kaggle/dataset/1686805                                                                                  Data Science Interview 👩‍💻Questions Collection📂
+http://w3id.org/mlsea/kaggle/dataset/592486                                                                                  Data Science YouTube Channel Collection to Learn
+http://w3id.org/mlsea/kaggle/dataset/1668954                                                                                  Data collection
+http://w3id.org/mlsea/kaggle/dataset/57864                                                                                  Dataset Hospital RVUs Patient Collections Doctor
+http://w3id.org/mlsea/kaggle/dataset/3237252                                                                                  Dataset collection cp
+http://w3id.org/mlsea/kaggle/dataset/3474436                                                                                  DatesCatalog
+http://w3id.org/mlsea/kaggle/dataset/2788959                                                                                  Debt Collection Complaints (India)
+http://w3id.org/mlsea/kaggle/dataset/312024                                                                                  Delinquency Rate Time Series Collection
+http://w3id.org/mlsea/kaggle/dataset/4597645                                                                                  Denoising Audio Collection
+http://w3id.org/mlsea/kaggle/dataset/107889                                                                                  Denver Open Data Catalog - Campaign Contributions
+http://w3id.org/mlsea/kaggle/dataset/2331166                                                                                  Disney+ Hotstar Tv and Movie Catalog
+http://w3id.org/mlsea/kaggle/dataset/1747903                                                                                  Driver Behavior Collection Data
+http://w3id.org/mlsea/kaggle/dataset/3827700                                                                                  Driver Behavior Collection Data
+http://w3id.org/mlsea/kaggle/dataset/4450929                                                                                  Dry Bean Dataset from UCI-ML Repository
+http://w3id.org/mlsea/kaggle/dataset/939646                                                                                  Dutch Social media collection
+http://w3id.org/mlsea/kaggle/dataset/51703                                                                                  E-Commerce Retail Sales Series Data Collection
+http://w3id.org/mlsea/kaggle/dataset/3840887                                                                                  E-commerce catalog
+http://w3id.org/mlsea/kaggle/dataset/2026387                                                                                  ECG_h5_collection
+http://w3id.org/mlsea/kaggle/dataset/3605679                                                                                  Earthquakes in Indonesia (catalog v2 by @Agapitus)
+http://w3id.org/mlsea/kaggle/dataset/729475                                                                                  Eating Sound Collection
+http://w3id.org/mlsea/kaggle/dataset/1479000                                                                                  Eating Sound Collection - Extracted MFCC Features
+http://w3id.org/mlsea/kaggle/dataset/1225930                                                                                  Eating Sound Collection_competition
+http://w3id.org/mlsea/kaggle/dataset/2301124                                                                                  EmailSpamcollection
+http://w3id.org/mlsea/kaggle/dataset/4873755                                                                                  English Movie Subtitle Collection
+http://w3id.org/mlsea/kaggle/dataset/3787518                                                                                  FHJ cMooc Repository
+http://w3id.org/mlsea/kaggle/dataset/4441748                                                                                  FHJ cMooc Repository
+http://w3id.org/mlsea/kaggle/dataset/3908941                                                                                  Fake_Bills_Repository
+http://w3id.org/mlsea/kaggle/dataset/4849323                                                                                  Fallout Games Weapons Collection
+http://w3id.org/mlsea/kaggle/dataset/966590                                                                                  Films Division of India Catalog
+http://w3id.org/mlsea/kaggle/dataset/3928958                                                                                  Floral Diversity: A Collection of Beautiful Blooms
+http://w3id.org/mlsea/kaggle/dataset/2867108                                                                                  Font Collection
+http://w3id.org/mlsea/kaggle/dataset/2588942                                                                                  GC2 Collection of Golf Swing images
+http://w3id.org/mlsea/kaggle/dataset/1861792                                                                                  GDPR Fines Repository
+http://w3id.org/mlsea/kaggle/dataset/2593023                                                                                  GSOD SHANGHAI,CHINA 42 stations data collections
+http://w3id.org/mlsea/kaggle/dataset/4388881                                                                                  GSR Collection for Mental Strain
+http://w3id.org/mlsea/kaggle/dataset/401454                                                                                  GTZAN Genre Collection
+http://w3id.org/mlsea/kaggle/dataset/3388                                                                                  GTZAN music/speech collection
+http://w3id.org/mlsea/kaggle/dataset/2456593                                                                                  Gano Cat Breed Image Collection
+http://w3id.org/mlsea/kaggle/dataset/1593642                                                                                  Garbage_Collection_Dockship
+http://w3id.org/mlsea/kaggle/dataset/933180                                                                                  Genes Expressions Datasets Collection
+http://w3id.org/mlsea/kaggle/dataset/2924240                                                                                  German Univ. Courses: Comprehensive Catalog
+http://w3id.org/mlsea/kaggle/dataset/2845194                                                                                  GitHub Public Repository Metadata
+http://w3id.org/mlsea/kaggle/dataset/3876743                                                                                  Github repository 2008-2009
+http://w3id.org/mlsea/kaggle/dataset/2089510                                                                                  Global Landslide Catalog
+http://w3id.org/mlsea/kaggle/dataset/2323075                                                                                  Global Landslide Catalog
+http://w3id.org/mlsea/kaggle/dataset/4536180                                                                                  Global Landslide Catalog Export
+http://w3id.org/mlsea/kaggle/dataset/3612807                                                                                  Global Landslide Catalog NASA
+http://w3id.org/mlsea/kaggle/dataset/4618007                                                                                  Global Landslide Catalog NASA - Updated
+http://w3id.org/mlsea/kaggle/dataset/1507784                                                                                  Global Terrorism Catalogue
+http://w3id.org/mlsea/kaggle/dataset/5049036                                                                                  Global Weather Repository
+http://w3id.org/mlsea/kaggle/dataset/58470                                                                                  GoT collection
+http://w3id.org/mlsea/kaggle/dataset/495280                                                                                  Gold Coast City - Waste Collection Points.
+http://w3id.org/mlsea/kaggle/dataset/503305                                                                                  Google-Github-Repository-Analsysis
+http://w3id.org/mlsea/kaggle/dataset/1399783                                                                                  Gross GST Collections in India
+http://w3id.org/mlsea/kaggle/dataset/4242831                                                                                  Guitar Chord Audio Collection
+http://w3id.org/mlsea/kaggle/dataset/4229616                                                                                  HR Metrics and Analytics Repository
+http://w3id.org/mlsea/kaggle/dataset/1066070                                                                                  HTML BR Collection
+http://w3id.org/mlsea/kaggle/dataset/4682356                                                                                  Handwritten Medical Prescriptions Collection
+http://w3id.org/mlsea/kaggle/dataset/2552915                                                                                  Handwritten digit collection 10x10
+http://w3id.org/mlsea/kaggle/dataset/1818838                                                                                  Harry_Potter_movie_BO_Collection
+http://w3id.org/mlsea/kaggle/dataset/3762644                                                                                  Healthcare Patient Satisfaction - Data Collection
+http://w3id.org/mlsea/kaggle/dataset/972430                                                                                  Hipparcos Star Astronomy Catalog
+http://w3id.org/mlsea/kaggle/dataset/51709                                                                                  Homeownership Rate Time Series Collection
+http://w3id.org/mlsea/kaggle/dataset/3792660                                                                                  Horoscopes collection
+http://w3id.org/mlsea/kaggle/dataset/802024                                                                                  Huge Collection of Reddit Votes
+http://w3id.org/mlsea/kaggle/dataset/33972                                                                                  IAU Named Stars Catalog
+http://w3id.org/mlsea/kaggle/dataset/3104092                                                                                  Image collection
+http://w3id.org/mlsea/kaggle/dataset/3088144                                                                                  InceptionV3 Workout Model Collection
+http://w3id.org/mlsea/kaggle/dataset/51711                                                                                  Income Gini Ratio Time Series Collection
+http://w3id.org/mlsea/kaggle/dataset/51712                                                                                  Income Inequality Time Series Collection
+http://w3id.org/mlsea/kaggle/dataset/4298069                                                                                  India Trek Explorer: HTML Data Collection of Trek
+http://w3id.org/mlsea/kaggle/dataset/3624509                                                                                  India Tuberculosis Data Collection
+http://w3id.org/mlsea/kaggle/dataset/2468728                                                                                  Indian Movie Collection 2022 - box office mojo
+http://w3id.org/mlsea/kaggle/dataset/3677811                                                                                  Indian Weather Repository ( Daily Updating )
+http://w3id.org/mlsea/kaggle/dataset/4544093                                                                                  IndianWeatherRepository
+http://w3id.org/mlsea/kaggle/dataset/312031                                                                                  Industrial Production Time Series Collection
+http://w3id.org/mlsea/kaggle/dataset/3635449                                                                                  Infant Mortality Rate India - Data Collection
+http://w3id.org/mlsea/kaggle/dataset/4388528                                                                                  Intriguing Coding Puzzles: A Diverse Collection
+http://w3id.org/mlsea/kaggle/dataset/2253536                                                                                  Italian Earthquake Catalogue 1985 2020
+http://w3id.org/mlsea/kaggle/dataset/3120599                                                                                  KEGG Pathways Dataset Collection
+http://w3id.org/mlsea/kaggle/dataset/51736                                                                                  Kansas State Government Tax Collections Data
+http://w3id.org/mlsea/kaggle/dataset/57207                                                                                  Kenya Data Sets Collection Election,Geography
+http://w3id.org/mlsea/kaggle/dataset/4046973                                                                                  LLM Feedback Collection
+http://w3id.org/mlsea/kaggle/dataset/1567970                                                                                  League Of Legends Champions Repository
+http://w3id.org/mlsea/kaggle/dataset/868846                                                                                  Learning Analytics Link Collection
+http://w3id.org/mlsea/kaggle/dataset/2737699                                                                                  Leather Outfits Collection
+http://w3id.org/mlsea/kaggle/dataset/2726974                                                                                  Leipzig Corpora Collection Filtered En Sentences
+http://w3id.org/mlsea/kaggle/dataset/2726977                                                                                  Leipzig Corpora Collection Non En sentences
+http://w3id.org/mlsea/kaggle/dataset/4126425                                                                                  Letterboxd Collections / Movie Franchises
+http://w3id.org/mlsea/kaggle/dataset/2864579                                                                                  LoRA collection
+http://w3id.org/mlsea/kaggle/dataset/2832123                                                                                  Lora-collection
+http://w3id.org/mlsea/kaggle/dataset/2914835                                                                                  LoraCollection
+http://w3id.org/mlsea/kaggle/dataset/2943896                                                                                  Lora_Collection
+http://w3id.org/mlsea/kaggle/dataset/47308                                                                                  MAtrixware REsearch Collection (MAREC) Data
+http://w3id.org/mlsea/kaggle/dataset/2171379                                                                                  MCU Worldwide Box Office Collection
+http://w3id.org/mlsea/kaggle/dataset/3641082                                                                                  MMFA art collection
+http://w3id.org/mlsea/kaggle/dataset/2862542                                                                                  Manzy stage IG live collection
+http://w3id.org/mlsea/kaggle/dataset/3606949                                                                                  Mapillary Vistas Image Data Collection
+http://w3id.org/mlsea/kaggle/dataset/1178988                                                                                  Mars2020-Image-Catalogue
+http://w3id.org/mlsea/kaggle/dataset/520034                                                                                  Massdrop Catalog
+http://w3id.org/mlsea/kaggle/dataset/703731                                                                                  Melanoma foldered collection
+http://w3id.org/mlsea/kaggle/dataset/2857721                                                                                  Met Museum New York Collection [Paintings]
+http://w3id.org/mlsea/kaggle/dataset/4150193                                                                                  Mickey Mouse Film Collection
+http://w3id.org/mlsea/kaggle/dataset/3433331                                                                                  Monash Time Series Forecasting Repository
+http://w3id.org/mlsea/kaggle/dataset/3252004                                                                                  Monograph Catalog - Barry Greenwood UFO Archive
+http://w3id.org/mlsea/kaggle/dataset/2797210                                                                                  MorseCode_Sound_Collections
+http://w3id.org/mlsea/kaggle/dataset/953817                                                                                  Movies Collection Dataset
+http://w3id.org/mlsea/kaggle/dataset/1747911                                                                                  Multi-race - Driver Behavior Collection Data
+http://w3id.org/mlsea/kaggle/dataset/837957                                                                                  Museum Of Modern Art Collection
+http://w3id.org/mlsea/kaggle/dataset/836                                                                                  Museum of Modern Art Collection
+http://w3id.org/mlsea/kaggle/dataset/48294                                                                                  Museum of Modern Art Collection
+http://w3id.org/mlsea/kaggle/dataset/650753                                                                                  Music MIDI Collection
+http://w3id.org/mlsea/kaggle/dataset/350920                                                                                  My Movie Collection
+http://w3id.org/mlsea/kaggle/dataset/4437366                                                                                  NASA's Curiosity Rover Data Collection
+http://w3id.org/mlsea/kaggle/dataset/1745495                                                                                  NFT Collections
+http://w3id.org/mlsea/kaggle/dataset/2508808                                                                                  NFT Top Collections (Timeseries)
+http://w3id.org/mlsea/kaggle/dataset/2396                                                                                  NYC City Hall Library Catalog
+http://w3id.org/mlsea/kaggle/dataset/4847970                                                                                  NYC TLC Trip Record Data Repository
+http://w3id.org/mlsea/kaggle/dataset/34051                                                                                  NYS Key Credit Collection: Beginning 2010
+http://w3id.org/mlsea/kaggle/dataset/1171347                                                                                  Nearby Galaxy Catalog
+http://w3id.org/mlsea/kaggle/dataset/2920210                                                                                  Nepali Hate Speech Collection
+http://w3id.org/mlsea/kaggle/dataset/444069                                                                                  Nepali rupees collection
+http://w3id.org/mlsea/kaggle/dataset/51718                                                                                  Net Migration Flow Time Series Collection
+http://w3id.org/mlsea/kaggle/dataset/2475177                                                                                  Netflix Disney+ Prime Video Hulu Shows Collection
+http://w3id.org/mlsea/kaggle/dataset/36757                                                                                  Network Intrusion Data Set collection
+http://w3id.org/mlsea/kaggle/dataset/2714333                                                                                  New Horizons Catalog
+http://w3id.org/mlsea/kaggle/dataset/2579215                                                                                  New Horizons Catalog | Animal Crossing
+http://w3id.org/mlsea/kaggle/dataset/1929226                                                                                  New York Public Library's menu collection
+http://w3id.org/mlsea/kaggle/dataset/2814032                                                                                  NewChic Product Catalog (Customer Segmentation)
+http://w3id.org/mlsea/kaggle/dataset/1453010                                                                                  Novel COVID-19 Chestxray Repository
+http://w3id.org/mlsea/kaggle/dataset/49833                                                                                  Oakland SB272 Enterprise IT Systems Catalog
+http://w3id.org/mlsea/kaggle/dataset/3955509                                                                                  Online Retail (UCI ML Repository Dataset)
+http://w3id.org/mlsea/kaggle/dataset/758094                                                                                  Online Retail Data Set from ML Repository
+http://w3id.org/mlsea/kaggle/dataset/745526                                                                                  Online Retail II Data Set from ML Repository
+http://w3id.org/mlsea/kaggle/dataset/3488507                                                                                  Ontario Government Art Collection 2019
+http://w3id.org/mlsea/kaggle/dataset/2311129                                                                                  OntoUML/UFO Catalog
+http://w3id.org/mlsea/kaggle/dataset/155                                                                                  Open Exoplanet Catalogue
+http://w3id.org/mlsea/kaggle/dataset/3948965                                                                                  Open Problems 2 Submits Collection
+http://w3id.org/mlsea/kaggle/dataset/1751056                                                                                  OpenSea Collections
+http://w3id.org/mlsea/kaggle/dataset/1791491                                                                                  Opencv Images Collection
+http://w3id.org/mlsea/kaggle/dataset/1861525                                                                                  Opensea collections
+http://w3id.org/mlsea/kaggle/dataset/803100                                                                                  PHL Exoplanet Catalog
+http://w3id.org/mlsea/kaggle/dataset/4383054                                                                                  PPG Collection for Cognitive Strain
+http://w3id.org/mlsea/kaggle/dataset/4131807                                                                                  Paintings Collection
+http://w3id.org/mlsea/kaggle/dataset/4274559                                                                                  Personal Burmese book collection
+http://w3id.org/mlsea/kaggle/dataset/909913                                                                                  Personal receipt collection
+http://w3id.org/mlsea/kaggle/dataset/4569879                                                                                  Pgn collection
+http://w3id.org/mlsea/kaggle/dataset/427279                                                                                  Phishing Email Collection
+http://w3id.org/mlsea/kaggle/dataset/762252                                                                                  Pitt Quantum Repository (106,066 molecules)
+http://w3id.org/mlsea/kaggle/dataset/3855031                                                                                  Pokemon Card Collection Dataset🌟🌟
+http://w3id.org/mlsea/kaggle/dataset/44796                                                                                  Pop Music Collection
+http://w3id.org/mlsea/kaggle/dataset/18420                                                                                  Practice makes master: Movie Collection Analysis
+http://w3id.org/mlsea/kaggle/dataset/2966703                                                                                  Product Catalogue Challenge 2023
+http://w3id.org/mlsea/kaggle/dataset/1761664                                                                                  Profanities in English - collection
+http://w3id.org/mlsea/kaggle/dataset/2060606                                                                                  Project collection
+http://w3id.org/mlsea/kaggle/dataset/3506580                                                                                  Prophet_Muhammad(PBUH)_Hadiths_Collection
+http://w3id.org/mlsea/kaggle/dataset/8508                                                                                  Quotes Collection
+http://w3id.org/mlsea/kaggle/dataset/4205281                                                                                  RSS News Feed Collection: Sky News & NYT
+http://w3id.org/mlsea/kaggle/dataset/3652669                                                                                  Rainfall (July) Data Collection - India IMD
+http://w3id.org/mlsea/kaggle/dataset/1016568                                                                                  Rainforest Audio Features mega collections
+http://w3id.org/mlsea/kaggle/dataset/2898681                                                                                  Random AF Lora Collection
+http://w3id.org/mlsea/kaggle/dataset/866686                                                                                  Random Image Collection
+http://w3id.org/mlsea/kaggle/dataset/3008265                                                                                  Rarity_NFT_Collection
+http://w3id.org/mlsea/kaggle/dataset/51727                                                                                  Real Median Income Data Collection
+http://w3id.org/mlsea/kaggle/dataset/758646                                                                                  Real World Documents Collections
+http://w3id.org/mlsea/kaggle/dataset/1442008                                                                                  Regis Collection
+http://w3id.org/mlsea/kaggle/dataset/51728                                                                                  Rental Vacancy Rate Data Collection
+http://w3id.org/mlsea/kaggle/dataset/928993                                                                                  Repository Standard_Liver Lesion_Segmentation
+http://w3id.org/mlsea/kaggle/dataset/534380                                                                                  Repository of Coronavirus Genomes
+http://w3id.org/mlsea/kaggle/dataset/51731                                                                                  Resident Population Time Series Collection
+http://w3id.org/mlsea/kaggle/dataset/51732                                                                                  Retail and Retailers Sales Time Series Collection
+http://w3id.org/mlsea/kaggle/dataset/784659                                                                                  Ring_Collection (Jewels)
+http://w3id.org/mlsea/kaggle/dataset/1037070                                                                                  Robert Frost Collection
+http://w3id.org/mlsea/kaggle/dataset/41757                                                                                  SF SF Civic Art Collection
+http://w3id.org/mlsea/kaggle/dataset/4300616                                                                                  SMS SPAM Collection
+http://w3id.org/mlsea/kaggle/dataset/1272480                                                                                  SMS Smishing Collection Data Set
+http://w3id.org/mlsea/kaggle/dataset/4543547                                                                                  SMS Spam Collection
+http://w3id.org/mlsea/kaggle/dataset/3918201                                                                                  SMS Spam Collection
+http://w3id.org/mlsea/kaggle/dataset/24210                                                                                  SMS Spam Collection
+http://w3id.org/mlsea/kaggle/dataset/1542754                                                                                  SMS Spam Collection
+http://w3id.org/mlsea/kaggle/dataset/2771680                                                                                  SMS Spam Collection
+http://w3id.org/mlsea/kaggle/dataset/2780231                                                                                  SMS Spam Collection
+http://w3id.org/mlsea/kaggle/dataset/3913477                                                                                  SMS Spam Collection
+http://w3id.org/mlsea/kaggle/dataset/2660681                                                                                  SMS Spam Collection (Text Classification)
+http://w3id.org/mlsea/kaggle/dataset/29096                                                                                  SMS Spam Collection Data Set
+http://w3id.org/mlsea/kaggle/dataset/642160                                                                                  SMS Spam Collection Data Set
+http://w3id.org/mlsea/kaggle/dataset/483                                                                                  SMS Spam Collection Dataset
+http://w3id.org/mlsea/kaggle/dataset/2641401                                                                                  SMS Spam Collection.
+http://w3id.org/mlsea/kaggle/dataset/4764704                                                                                  SMS Spam collection
+http://w3id.org/mlsea/kaggle/dataset/3546985                                                                                  SMS spam Collection Dataset
+http://w3id.org/mlsea/kaggle/dataset/4295287                                                                                  SMS spam collection
+http://w3id.org/mlsea/kaggle/dataset/4676731                                                                                  SMS-Spam-Collection
+http://w3id.org/mlsea/kaggle/dataset/1342765                                                                                  SMSSPAM Collection
+http://w3id.org/mlsea/kaggle/dataset/2455185                                                                                  SMSSPamCollection
+http://w3id.org/mlsea/kaggle/dataset/3131714                                                                                  SMSSpamCollection
+http://w3id.org/mlsea/kaggle/dataset/6485                                                                                  SMSSpamCollection
+http://w3id.org/mlsea/kaggle/dataset/1342742                                                                                  SMSSpamCollection
+http://w3id.org/mlsea/kaggle/dataset/1125556                                                                                  SMSSpamCollection
+http://w3id.org/mlsea/kaggle/dataset/1457563                                                                                  SMSSpamCollection
+http://w3id.org/mlsea/kaggle/dataset/1707019                                                                                  SMSSpamCollection
+http://w3id.org/mlsea/kaggle/dataset/1696690                                                                                  SMSSpamCollection
+http://w3id.org/mlsea/kaggle/dataset/1031674                                                                                  SMSSpamCollection
+http://w3id.org/mlsea/kaggle/dataset/1090522                                                                                  SMSSpamCollection
+http://w3id.org/mlsea/kaggle/dataset/3956941                                                                                  SMSSpamCollection
+http://w3id.org/mlsea/kaggle/dataset/3645155                                                                                  SMSSpamCollection
+http://w3id.org/mlsea/kaggle/dataset/1762854                                                                                  SMSSpamCollection messages
+http://w3id.org/mlsea/kaggle/dataset/1457634                                                                                  SMSSpamCollection.csv
+http://w3id.org/mlsea/kaggle/dataset/697598                                                                                  SMSSpamCollection.tsv
+http://w3id.org/mlsea/kaggle/dataset/3136825                                                                                  SMSSpamCollection2
+http://w3id.org/mlsea/kaggle/dataset/2688070                                                                                  SMSSpamCollection2
+http://w3id.org/mlsea/kaggle/dataset/1431910                                                                                  SMSSpamCollectionDataset
+http://w3id.org/mlsea/kaggle/dataset/1352421                                                                                  SMSSpamMessageCollection
+http://w3id.org/mlsea/kaggle/dataset/2821215                                                                                  SMSSpanCollection
+http://w3id.org/mlsea/kaggle/dataset/4170778                                                                                  SMS_Spam_Collection
+http://w3id.org/mlsea/kaggle/dataset/51734                                                                                  SNAP Benefits Recipients Data Collection
+http://w3id.org/mlsea/kaggle/dataset/1908138                                                                                  SPP Base models collection
+http://w3id.org/mlsea/kaggle/dataset/3968541                                                                                  Sales, Product, and Customer Insight Repository
+http://w3id.org/mlsea/kaggle/dataset/1018314                                                                                  Satellite Catalog December 2020
+http://w3id.org/mlsea/kaggle/dataset/64137                                                                                  Science videos caption collection
+http://w3id.org/mlsea/kaggle/dataset/34296                                                                                  Seattle Idea Collection for Youth & Budgeting
+http://w3id.org/mlsea/kaggle/dataset/34357                                                                                  Seattle Library Collection Inventory
+http://w3id.org/mlsea/kaggle/dataset/1409773                                                                                  Selma Lagerlöf Collection
+http://w3id.org/mlsea/kaggle/dataset/2926260                                                                                  Shenhe - LoRA Collection of Trauter's
+http://w3id.org/mlsea/kaggle/dataset/3177312                                                                                  Slim Stack Gettext-catalog
+http://w3id.org/mlsea/kaggle/dataset/2883697                                                                                  Sneaker Image Collection
+http://w3id.org/mlsea/kaggle/dataset/4130033                                                                                  Sociolla: All Brands Products Catalog
+http://w3id.org/mlsea/kaggle/dataset/2743363                                                                                  SoftwareReusableRepository
+http://w3id.org/mlsea/kaggle/dataset/1611218                                                                                  Soil Data Collection
+http://w3id.org/mlsea/kaggle/dataset/1968489                                                                                  Solana NFT Collections
+http://w3id.org/mlsea/kaggle/dataset/541200                                                                                  Solid Waste and Recycling Collection Routes
+http://w3id.org/mlsea/kaggle/dataset/998174                                                                                  Source Hans Font's Collection
+http://w3id.org/mlsea/kaggle/dataset/2277197                                                                                  Spam or Ham collection dataset
+http://w3id.org/mlsea/kaggle/dataset/16722                                                                                  Spatial Data Repository (satellite data and more)
+http://w3id.org/mlsea/kaggle/dataset/1941683                                                                                  Spiderman: NWH India collection (day-wise)
+http://w3id.org/mlsea/kaggle/dataset/1981902                                                                                  Stardew Valley FULL Catalog
+http://w3id.org/mlsea/kaggle/dataset/2063999                                                                                  State/UT-Wise Annual Blood Collection - 2018-19
+http://w3id.org/mlsea/kaggle/dataset/3561911                                                                                  Suicides in India - Data Collection
+http://w3id.org/mlsea/kaggle/dataset/3629853                                                                                  Supplies Catalog
+http://w3id.org/mlsea/kaggle/dataset/4528273                                                                                  TFT (Teamfight Tatics) - Full Catalogue
+http://w3id.org/mlsea/kaggle/dataset/2325056                                                                                  Tanzania Revenue Authority Tax Collection 97 to 22
+http://w3id.org/mlsea/kaggle/dataset/3257718                                                                                  Tayko Software Cataloger
+http://w3id.org/mlsea/kaggle/dataset/4906383                                                                                  Text file collection
+http://w3id.org/mlsea/kaggle/dataset/4472059                                                                                  The Cocktail DB: Recipe Collection
+http://w3id.org/mlsea/kaggle/dataset/1729826                                                                                  The Criterion Collection
+http://w3id.org/mlsea/kaggle/dataset/2394627                                                                                  The Criterion Collection: Scary Movies
+http://w3id.org/mlsea/kaggle/dataset/1819                                                                                  The Examiner - Spam Clickbait Catalog
+http://w3id.org/mlsea/kaggle/dataset/3632964                                                                                  The Flavors of India: A Recipe Collection
+http://w3id.org/mlsea/kaggle/dataset/2024                                                                                  The Tate Collection
+http://w3id.org/mlsea/kaggle/dataset/3510876                                                                                  The Ultimate Collection of Top 10,000 Movies
+http://w3id.org/mlsea/kaggle/dataset/4014746                                                                                  The Ultimate Country Code Repository
+http://w3id.org/mlsea/kaggle/dataset/4796738                                                                                  Time series datasets collection
+http://w3id.org/mlsea/kaggle/dataset/1510721                                                                                  Tom and Jerry Cartoon Complete Frames Collection
+http://w3id.org/mlsea/kaggle/dataset/2761088                                                                                  Top 200 NFT Collections on ETH
+http://w3id.org/mlsea/kaggle/dataset/4317826                                                                                  Top Goodreads Books Collection (1980-2023)
+http://w3id.org/mlsea/kaggle/dataset/1868315                                                                                  Top NFT Collections
+http://w3id.org/mlsea/kaggle/dataset/51738                                                                                  Total Construction Spending Data Collection
+http://w3id.org/mlsea/kaggle/dataset/51740                                                                                  Total Operating Expenses Time Series Collection
+http://w3id.org/mlsea/kaggle/dataset/51743                                                                                  Total Revenue Time Series Collection
+http://w3id.org/mlsea/kaggle/dataset/4581719                                                                                  Trash Wheel Collection Data
+http://w3id.org/mlsea/kaggle/dataset/1600248                                                                                  Turkish SMS Collection
+http://w3id.org/mlsea/kaggle/dataset/29184                                                                                  Twitter Data Repository
+http://w3id.org/mlsea/kaggle/dataset/3151495                                                                                  Tycho Astrometry Catalog
+http://w3id.org/mlsea/kaggle/dataset/4238189                                                                                  U.S. Government Revenue Collections
+http://w3id.org/mlsea/kaggle/dataset/3389600                                                                                  UCI ML Repository - Bank Marketing
+http://w3id.org/mlsea/kaggle/dataset/162456                                                                                  UCI Machine Learning repository
+http://w3id.org/mlsea/kaggle/dataset/1396839                                                                                  UCI SMS Spam Collection Data Set
+http://w3id.org/mlsea/kaggle/dataset/1925827                                                                                  UCI_SMS_SpamCollection
+http://w3id.org/mlsea/kaggle/dataset/2815341                                                                                  Udacity Course Catalog
+http://w3id.org/mlsea/kaggle/dataset/3406865                                                                                  Ugandan Data Collection Prompts
+http://w3id.org/mlsea/kaggle/dataset/4292964                                                                                  Ullu Media Content Metadata Collection
+http://w3id.org/mlsea/kaggle/dataset/2898791                                                                                  Ultimate Data Science Book Collection
+http://w3id.org/mlsea/kaggle/dataset/1416293                                                                                  Ultralytics YOLOv5 Git Repository (Monthly)
+http://w3id.org/mlsea/kaggle/dataset/4661581                                                                                  Unetcollection
+http://w3id.org/mlsea/kaggle/dataset/3252024                                                                                  Union Catalog - Barry Greenwood UFO Archive
+http://w3id.org/mlsea/kaggle/dataset/2010452                                                                                  Unsplash Image Collection
+http://w3id.org/mlsea/kaggle/dataset/1730795                                                                                  Unsplash random images collection
+http://w3id.org/mlsea/kaggle/dataset/3229804                                                                                  Urdu-Poetry-Mega-Collection
+http://w3id.org/mlsea/kaggle/dataset/432460                                                                                  Used-cars-catalog
+http://w3id.org/mlsea/kaggle/dataset/51746                                                                                  Value of Manufacturers Inventories Data Collection
+http://w3id.org/mlsea/kaggle/dataset/51745                                                                                  Value of Manufacturers' Shipments Data Collection
+http://w3id.org/mlsea/kaggle/dataset/2641266                                                                                  Vehicle Data Collection Industry
+http://w3id.org/mlsea/kaggle/dataset/4642343                                                                                  WaterQuality_vs_WasteCollection
+http://w3id.org/mlsea/kaggle/dataset/874443                                                                                  Web Series: Ultimate Collection
+http://w3id.org/mlsea/kaggle/dataset/4369506                                                                                  Webz.io News Dataset Repository
+http://w3id.org/mlsea/kaggle/dataset/868579                                                                                  Wiki Deadlink Collection
+http://w3id.org/mlsea/kaggle/dataset/4147975                                                                                  Wine Quality - UCI Machine Learning Repository
+http://w3id.org/mlsea/kaggle/dataset/1298181                                                                                  World Bank Indicators Collection
+http://w3id.org/mlsea/kaggle/dataset/1362252                                                                                  World Bank collection of development indicators
+http://w3id.org/mlsea/kaggle/dataset/3678699                                                                                  World Weather Repository ( Daily Updating )
+http://w3id.org/mlsea/kaggle/dataset/1225447                                                                                  YTTTS Speech Collection
+http://w3id.org/mlsea/kaggle/dataset/4826990                                                                                  Yale Bright Star Catalog
+http://w3id.org/mlsea/kaggle/dataset/1358584                                                                                  Yale Bright Star Catalog version 5
+http://w3id.org/mlsea/kaggle/dataset/4372166                                                                                  Yet another AI images collection
+http://w3id.org/mlsea/kaggle/dataset/1285312                                                                                  Yingkaisha Keras Unet Collection
+http://w3id.org/mlsea/kaggle/dataset/914405                                                                                  You-tube Spam Collections
+http://w3id.org/mlsea/kaggle/dataset/555294                                                                                  YouTube Spam Collection
+http://w3id.org/mlsea/kaggle/dataset/4902629                                                                                  YouTube Spam Collection
+http://w3id.org/mlsea/kaggle/dataset/141926                                                                                  YouTube Spam Collection Data Set
+http://w3id.org/mlsea/kaggle/dataset/3309142                                                                                  Youtube Spam Collection
+http://w3id.org/mlsea/kaggle/dataset/1250232                                                                                  brainfuck-collection
+http://w3id.org/mlsea/kaggle/dataset/3038973                                                                                  cars catalog categorical data
+http://w3id.org/mlsea/kaggle/dataset/1452546                                                                                  catalog
+http://w3id.org/mlsea/kaggle/dataset/902975                                                                                  catalog
+http://w3id.org/mlsea/kaggle/dataset/4811081                                                                                  catalog.json
+http://w3id.org/mlsea/kaggle/dataset/4417255                                                                                  catalog_digitization_dataset
+http://w3id.org/mlsea/kaggle/dataset/748666                                                                                  catalogueoflife_chinese
+http://w3id.org/mlsea/kaggle/dataset/905964                                                                                  catalogvnatural
+http://w3id.org/mlsea/kaggle/dataset/3155178                                                                                  cicidscollection-18
+http://w3id.org/mlsea/kaggle/dataset/2770476                                                                                  collection
+http://w3id.org/mlsea/kaggle/dataset/4092238                                                                                  collection of film datasets
+http://w3id.org/mlsea/kaggle/dataset/2124253                                                                                  collection of girls videos
+http://w3id.org/mlsea/kaggle/dataset/2155381                                                                                  collection of swap f videos
+http://w3id.org/mlsea/kaggle/dataset/4635216                                                                                  collection-url
+http://w3id.org/mlsea/kaggle/dataset/4205119                                                                                  collection_for_cv_subject
+http://w3id.org/mlsea/kaggle/dataset/3078655                                                                                  country-by-country data collection since 1960
+http://w3id.org/mlsea/kaggle/dataset/4716069                                                                                  credit_score_competition_data_catalog
+http://w3id.org/mlsea/kaggle/dataset/1181177                                                                                  crx_UCI_ML_repository
+http://w3id.org/mlsea/kaggle/dataset/1948423                                                                                  dataset 1_7 for source catalogue nside 128
+http://w3id.org/mlsea/kaggle/dataset/4627588                                                                                  files_collection
+http://w3id.org/mlsea/kaggle/dataset/4046280                                                                                  gluonts repository dataset
+http://w3id.org/mlsea/kaggle/dataset/1207342                                                                                  grf-replays-collection
+http://w3id.org/mlsea/kaggle/dataset/1284796                                                                                  gtzan-genre-collection
+http://w3id.org/mlsea/kaggle/dataset/757470                                                                                  https://livrepository.liverpool.ac.et
+http://w3id.org/mlsea/kaggle/dataset/1555797                                                                                  image collections
+http://w3id.org/mlsea/kaggle/dataset/1758188                                                                                  image_cataloguer
+http://w3id.org/mlsea/kaggle/dataset/2484762                                                                                  keras_unet_collection
+http://w3id.org/mlsea/kaggle/dataset/5051531                                                                                  kimm - keras image model repository
+http://w3id.org/mlsea/kaggle/dataset/1853131                                                                                  leaf disease dataset (collection)
+http://w3id.org/mlsea/kaggle/dataset/3966089                                                                                  llm_7b_collections
+http://w3id.org/mlsea/kaggle/dataset/4997409                                                                                  manzy-stage-ig-live-collection-2024
+http://w3id.org/mlsea/kaggle/dataset/4882050                                                                                  math_&_python_code_datasets_HF_collection
+http://w3id.org/mlsea/kaggle/dataset/973303                                                                                  mixedcollection
+http://w3id.org/mlsea/kaggle/dataset/1942660                                                                                  ml_collection
+http://w3id.org/mlsea/kaggle/dataset/3501837                                                                                  ml_collections
+http://w3id.org/mlsea/kaggle/dataset/4021334                                                                                  model collection
+http://w3id.org/mlsea/kaggle/dataset/846445                                                                                  movie_opening_collections
+http://w3id.org/mlsea/kaggle/dataset/2812664                                                                                  nansana collections
+http://w3id.org/mlsea/kaggle/dataset/4839248                                                                                  ner-collections-natasha
+http://w3id.org/mlsea/kaggle/dataset/2701181                                                                                  otto-submissions-collection
+http://w3id.org/mlsea/kaggle/dataset/3602847                                                                                  productcatalog-and-glove
+http://w3id.org/mlsea/kaggle/dataset/1856275                                                                                  pytorch gan collection
+http://w3id.org/mlsea/kaggle/dataset/548210                                                                                  resemblyzer Github repository
+http://w3id.org/mlsea/kaggle/dataset/1456445                                                                                  scRNA-seq CYTOTRACE collection of datasets
+http://w3id.org/mlsea/kaggle/dataset/1500968                                                                                  scRNA-seq bone marrow collection of datasets
+http://w3id.org/mlsea/kaggle/dataset/1643479                                                                                  scRNA-seq collection of cancer cell lines
+http://w3id.org/mlsea/kaggle/dataset/1543295                                                                                  scRNA-seq datasets collection
+http://w3id.org/mlsea/kaggle/dataset/655225                                                                                  sms spam collection
+http://w3id.org/mlsea/kaggle/dataset/3958850                                                                                  sms+spam+collection
+http://w3id.org/mlsea/kaggle/dataset/1525825                                                                                  sms-spam collection
+http://w3id.org/mlsea/kaggle/dataset/3003744                                                                                  smscollection
+http://w3id.org/mlsea/kaggle/dataset/3898102                                                                                  smsspamcollection
+http://w3id.org/mlsea/kaggle/dataset/26089                                                                                  smsspamcollection
+http://w3id.org/mlsea/kaggle/dataset/3434817                                                                                  smsspamcollection
+http://w3id.org/mlsea/kaggle/dataset/1354555                                                                                  smsspammessagecollections
+http://w3id.org/mlsea/kaggle/dataset/4054899                                                                                  tensor_collection_1024_2sec_correct
+http://w3id.org/mlsea/kaggle/dataset/3925865                                                                                  tensor_collection_41_1s_3000_noisy
+http://w3id.org/mlsea/kaggle/dataset/2806571                                                                                  vae-collection
+http://w3id.org/mlsea/kaggle/dataset/2257431                                                                                  waymo_Collection_1587
+http://w3id.org/mlsea/kaggle/dataset/258827                                                                                  yolo_v3_h5_format_repository
+http://w3id.org/mlsea/kaggle/dataset/3848021                                                                                  🌌 Magic Card Sets Catalog 📖
+http://w3id.org/mlsea/kaggle/dataset/2008872                                                                                  🍷 Vinello.eu Wine Catalogue
+http://w3id.org/mlsea/kaggle/dataset/3783927                                                                                  💰 Luxury Treasures Collection
+http://w3id.org/mlsea/kaggle/dataset/2138823                                                                                  📑 Top Self-Help Books 📚📕 2022 Collection 📌
+http://w3id.org/mlsea/kaggle/dataset/2141804                                                                                  📕 Words - Parts of Speech 📰 Collection 2022 📌
+http://w3id.org/mlsea/kaggle/dataset/3938888                                                                                  🤗 Complete HuggingFace model catalogue
+
+467 Rows. -- 2085 msec.
