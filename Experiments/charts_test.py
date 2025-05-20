@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 # Configuration
-LOG_DIR = "/home/eltaj-amirli/Desktop/Knowledge-Graph-Partitioning/Experiments/Experiment 1 HPC/monitor.log"  # Update this path
+LOG_DIR = "/home/eltaj-amirli/Desktop/Knowledge-Graph-Partitioning/Experiments/Experiment 1 HPC/"  # Update this path
 OUTPUT_DIR = "/home/eltaj-amirli/Desktop/Knowledge-Graph-Partitioning/Experiments/output_plot_test.png"  # Update this path
 
 def process_log_file(file_path, output_dir):
