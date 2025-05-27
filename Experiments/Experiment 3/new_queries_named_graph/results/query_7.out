@@ -77,9 +77,8 @@ fntest_sh distribution                                                          
 iris_test_upload distribution                                                                                  iris_test_upload                                                                                  https://api.openml.org/data/v1/download/21378938/iris_test_upload.arff
 leaktest distribution                                                                                  leaktest                                                                                  https://api.openml.org/data/v1/download/22045793/leaktest.arff
 mytestdataset distribution                                                                                  mytestdataset                                                                                  
-test distribution                                                                                  test                                                                                  https://api.openml.org/data/v1/download/22044976/test.arff
-test distribution                                                                                  test                                                                                  https://api.openml.org/data/v1/download/22044554/test.arff
 test distribution                                                                                  test                                                                                  https://api.openml.org/data/v1/download/21801029/test.arff
+test distribution                                                                                  test                                                                                  https://api.openml.org/data/v1/download/22044976/test.arff
 test distribution                                                                                  test                                                                                  
 test distribution                                                                                  test                                                                                  
 test distribution                                                                                  test                                                                                  
@@ -88,6 +87,7 @@ test distribution                                                               
 test distribution                                                                                  test                                                                                  
 test distribution                                                                                  test                                                                                  
 test distribution                                                                                  test                                                                                  
+test distribution                                                                                  test                                                                                  https://api.openml.org/data/v1/download/22044554/test.arff
 test001 distribution                                                                                  test001                                                                                  https://api.openml.org/data/v1/download/21794256/test001.arff
 test3 distribution                                                                                  test3                                                                                  https://api.openml.org/data/v1/download/22044559/test3.arff
 test4 distribution                                                                                  test4                                                                                  https://api.openml.org/data/v1/download/22044590/test4.arff
@@ -129,4 +129,4 @@ train distribution                                                              
 train_bbb distribution                                                                                  train_bbb                                                                                  
 trains distribution                                                                                  trains                                                                                  https://api.openml.org/data/v1/download/52/trains.arff
 
-120 Rows. -- 1549 msec.
+120 Rows. -- 81 msec.

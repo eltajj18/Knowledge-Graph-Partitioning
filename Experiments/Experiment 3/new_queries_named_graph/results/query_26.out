@@ -1,4 +1,4 @@
-Result of /data/leuven/370/vsc37064/new_queries_named_graph/query_44.txt:
+Result of /data/leuven/370/vsc37064/new_queries_named_graph/query_26.txt:
 OpenLink Virtuoso Interactive SQL (Virtuoso)
 Version 07.20.3240 as of Mar 11 2025
 Type HELP; for help and EXIT; to exit.
@@ -23,4 +23,4 @@ oracle success evaluation for Self-Monitoring Navigation Agent (no beam search; 
 spl evaluation for Self-Monitoring Navigation Agent (no beam search; Progress Inference) model
 success evaluation for Self-Monitoring Navigation Agent (no beam search; Progress Inference) model
 
-14 Rows. -- 875235 msec.
+14 Rows. -- 1105139 msec.

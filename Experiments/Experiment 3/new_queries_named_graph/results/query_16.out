@@ -153,8 +153,8 @@ http://w3id.org/mlsea/kaggle/dataset/933180                                     
 http://w3id.org/mlsea/kaggle/dataset/2924240                                                                                  German Univ. Courses: Comprehensive Catalog
 http://w3id.org/mlsea/kaggle/dataset/2845194                                                                                  GitHub Public Repository Metadata
 http://w3id.org/mlsea/kaggle/dataset/3876743                                                                                  Github repository 2008-2009
-http://w3id.org/mlsea/kaggle/dataset/2089510                                                                                  Global Landslide Catalog
 http://w3id.org/mlsea/kaggle/dataset/2323075                                                                                  Global Landslide Catalog
+http://w3id.org/mlsea/kaggle/dataset/2089510                                                                                  Global Landslide Catalog
 http://w3id.org/mlsea/kaggle/dataset/4536180                                                                                  Global Landslide Catalog Export
 http://w3id.org/mlsea/kaggle/dataset/3612807                                                                                  Global Landslide Catalog NASA
 http://w3id.org/mlsea/kaggle/dataset/4618007                                                                                  Global Landslide Catalog NASA - Updated
@@ -287,15 +287,15 @@ http://w3id.org/mlsea/kaggle/dataset/41757                                      
 http://w3id.org/mlsea/kaggle/dataset/4300616                                                                                  SMS SPAM Collection
 http://w3id.org/mlsea/kaggle/dataset/1272480                                                                                  SMS Smishing Collection Data Set
 http://w3id.org/mlsea/kaggle/dataset/4543547                                                                                  SMS Spam Collection
-http://w3id.org/mlsea/kaggle/dataset/3918201                                                                                  SMS Spam Collection
-http://w3id.org/mlsea/kaggle/dataset/24210                                                                                  SMS Spam Collection
 http://w3id.org/mlsea/kaggle/dataset/1542754                                                                                  SMS Spam Collection
+http://w3id.org/mlsea/kaggle/dataset/24210                                                                                  SMS Spam Collection
+http://w3id.org/mlsea/kaggle/dataset/3918201                                                                                  SMS Spam Collection
 http://w3id.org/mlsea/kaggle/dataset/2771680                                                                                  SMS Spam Collection
 http://w3id.org/mlsea/kaggle/dataset/2780231                                                                                  SMS Spam Collection
 http://w3id.org/mlsea/kaggle/dataset/3913477                                                                                  SMS Spam Collection
 http://w3id.org/mlsea/kaggle/dataset/2660681                                                                                  SMS Spam Collection (Text Classification)
-http://w3id.org/mlsea/kaggle/dataset/29096                                                                                  SMS Spam Collection Data Set
 http://w3id.org/mlsea/kaggle/dataset/642160                                                                                  SMS Spam Collection Data Set
+http://w3id.org/mlsea/kaggle/dataset/29096                                                                                  SMS Spam Collection Data Set
 http://w3id.org/mlsea/kaggle/dataset/483                                                                                  SMS Spam Collection Dataset
 http://w3id.org/mlsea/kaggle/dataset/2641401                                                                                  SMS Spam Collection.
 http://w3id.org/mlsea/kaggle/dataset/4764704                                                                                  SMS Spam collection
@@ -304,17 +304,17 @@ http://w3id.org/mlsea/kaggle/dataset/4295287                                    
 http://w3id.org/mlsea/kaggle/dataset/4676731                                                                                  SMS-Spam-Collection
 http://w3id.org/mlsea/kaggle/dataset/1342765                                                                                  SMSSPAM Collection
 http://w3id.org/mlsea/kaggle/dataset/2455185                                                                                  SMSSPamCollection
-http://w3id.org/mlsea/kaggle/dataset/3131714                                                                                  SMSSpamCollection
 http://w3id.org/mlsea/kaggle/dataset/6485                                                                                  SMSSpamCollection
-http://w3id.org/mlsea/kaggle/dataset/1342742                                                                                  SMSSpamCollection
 http://w3id.org/mlsea/kaggle/dataset/1125556                                                                                  SMSSpamCollection
+http://w3id.org/mlsea/kaggle/dataset/3131714                                                                                  SMSSpamCollection
+http://w3id.org/mlsea/kaggle/dataset/1031674                                                                                  SMSSpamCollection
+http://w3id.org/mlsea/kaggle/dataset/1090522                                                                                  SMSSpamCollection
+http://w3id.org/mlsea/kaggle/dataset/1342742                                                                                  SMSSpamCollection
+http://w3id.org/mlsea/kaggle/dataset/3645155                                                                                  SMSSpamCollection
 http://w3id.org/mlsea/kaggle/dataset/1457563                                                                                  SMSSpamCollection
 http://w3id.org/mlsea/kaggle/dataset/1707019                                                                                  SMSSpamCollection
 http://w3id.org/mlsea/kaggle/dataset/1696690                                                                                  SMSSpamCollection
-http://w3id.org/mlsea/kaggle/dataset/1031674                                                                                  SMSSpamCollection
-http://w3id.org/mlsea/kaggle/dataset/1090522                                                                                  SMSSpamCollection
 http://w3id.org/mlsea/kaggle/dataset/3956941                                                                                  SMSSpamCollection
-http://w3id.org/mlsea/kaggle/dataset/3645155                                                                                  SMSSpamCollection
 http://w3id.org/mlsea/kaggle/dataset/1762854                                                                                  SMSSpamCollection messages
 http://w3id.org/mlsea/kaggle/dataset/1457634                                                                                  SMSSpamCollection.csv
 http://w3id.org/mlsea/kaggle/dataset/697598                                                                                  SMSSpamCollection.tsv
@@ -411,8 +411,8 @@ http://w3id.org/mlsea/kaggle/dataset/141926                                     
 http://w3id.org/mlsea/kaggle/dataset/3309142                                                                                  Youtube Spam Collection
 http://w3id.org/mlsea/kaggle/dataset/1250232                                                                                  brainfuck-collection
 http://w3id.org/mlsea/kaggle/dataset/3038973                                                                                  cars catalog categorical data
-http://w3id.org/mlsea/kaggle/dataset/1452546                                                                                  catalog
 http://w3id.org/mlsea/kaggle/dataset/902975                                                                                  catalog
+http://w3id.org/mlsea/kaggle/dataset/1452546                                                                                  catalog
 http://w3id.org/mlsea/kaggle/dataset/4811081                                                                                  catalog.json
 http://w3id.org/mlsea/kaggle/dataset/4417255                                                                                  catalog_digitization_dataset
 http://w3id.org/mlsea/kaggle/dataset/748666                                                                                  catalogueoflife_chinese
@@ -460,8 +460,8 @@ http://w3id.org/mlsea/kaggle/dataset/655225                                     
 http://w3id.org/mlsea/kaggle/dataset/3958850                                                                                  sms+spam+collection
 http://w3id.org/mlsea/kaggle/dataset/1525825                                                                                  sms-spam collection
 http://w3id.org/mlsea/kaggle/dataset/3003744                                                                                  smscollection
-http://w3id.org/mlsea/kaggle/dataset/3898102                                                                                  smsspamcollection
 http://w3id.org/mlsea/kaggle/dataset/26089                                                                                  smsspamcollection
+http://w3id.org/mlsea/kaggle/dataset/3898102                                                                                  smsspamcollection
 http://w3id.org/mlsea/kaggle/dataset/3434817                                                                                  smsspamcollection
 http://w3id.org/mlsea/kaggle/dataset/1354555                                                                                  smsspammessagecollections
 http://w3id.org/mlsea/kaggle/dataset/4054899                                                                                  tensor_collection_1024_2sec_correct
@@ -476,4 +476,4 @@ http://w3id.org/mlsea/kaggle/dataset/2138823                                    
 http://w3id.org/mlsea/kaggle/dataset/2141804                                                                                  📕 Words - Parts of Speech 📰 Collection 2022 📌
 http://w3id.org/mlsea/kaggle/dataset/3938888                                                                                  🤗 Complete HuggingFace model catalogue
 
-467 Rows. -- 2085 msec.
+467 Rows. -- 1581 msec.

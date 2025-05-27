@@ -1009,4 +1009,4 @@ Run 10000060                                                                    
 Run 10000060                                                                                                                                                                    run 10000060 average_cost evaluation                                                                                                                                                                    https://api.openml.org/data/download/20920644/predictions.arff
 Run 10000060                                                                                                                                                                    run 10000060 kappa evaluation                                                                                                                                                                    https://api.openml.org/data/download/20920644/predictions.arff
 
-1000 Rows. -- 291369 msec.
+1000 Rows. -- 249519 msec.

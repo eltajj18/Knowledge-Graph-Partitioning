@@ -1,5 +1,4 @@
 # This query returns data catalog names that contain specific keywords (repository, collection, or catalog).
-
 SPARQL
 PREFIX mls: <http://www.w3.org/ns/mls#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>

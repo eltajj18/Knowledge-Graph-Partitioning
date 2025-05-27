@@ -11,57 +11,69 @@ query_1_time.out,query_2_time.out,query_3_time.out,query_4_time.out,query_5_time
 212,95,1824,3708,241954,236,113,2939,324,291,2221,304663,630212,607530,2519,1289,9575,263,83,35688,173,152,1309,217,961,600231,2952,8853,1370,2314,6801,40881,605,696,23125,8961,121,9368,227,270,1153,2715,59,61085,9828,2278,6421,6911,1594,7339,94624,87542,88053
 
 
-Query Number	Average Time
-Query 1	309.60
-Query 2	100.80
-Query 3	2142.50
-Query 4	3391.30
-Query 5	217821.90
-Query 6	226.60
-Query 7	203.20
-Query 8	2891.80
-Query 9	432.30
-Query 10	1038.20
-Query 11	2482.90
-Query 12	394989.90
-Query 13	606905.70
-Query 14	584902.10
-Query 15	3841.20
-Query 16	1158.90
-Query 17	10102.90
-Query 18	318.90
-Query 19	97.00
-Query 20	31002.90
-Query 21	237.30
-Query 22	167.20
-Query 23	1514.00
-Query 24	202.90
-Query 25	814.90
-Query 26	590807.00
-Query 27	3483.80
-Query 28	7972.10
-Query 29	1393.60
-Query 30	2298.90
-Query 31	6790.00
-Query 32	361.10
-Query 33	774.40
-Query 34	25698.90
-Query 35	7881.90
-Query 36	164.00
-Query 37	8353.80
-Query 38	206.40
-Query 39	248.90
-Query 40	1032.20
-Query 41	2433.90
-Query 42	61.40
-Query 43	54300.40
-Query 44	9053.90
-Query 45	2067.80
-Query 46	10394.10
-Query 47	6156.90
-Query 48	1340.90
-Query 49	10501.10
-Query 50	87208.90
-Query 51	74868.90
-Query 52	75102.90
-Query 53	75402.90
+query_ID  average_time (ms)
+ query_1              309.6
+ query_2              110.3
+ query_3             2122.5
+ query_4             3390.5
+ query_5           217721.9
+ query_6              222.3
+ query_7              194.9
+ query_8             2851.8
+ query_9              478.3
+query_10             1443.3
+query_11             2207.4
+query_12           356747.9
+query_13           606330.2
+query_14           590262.0
+query_15             3852.3
+query_16             1183.1
+query_17            10442.7
+query_18              311.6
+query_19              145.4
+query_20            30921.9
+query_21              217.2
+query_22              177.9
+query_23             1538.7
+query_24              206.3
+query_25              815.4
+query_26           597800.5
+query_27             3468.1
+query_28             8021.9
+query_29             1370.8
+query_30             2143.1
+query_31             6650.9
+query_32            37144.0
+query_33              352.7
+query_34              713.5
+query_35            27670.9
+query_36             7778.3
+query_37              159.8
+query_38             8318.0
+query_39              203.4
+query_40              246.6
+query_41             1026.7
+query_42             2343.5
+query_43               60.3
+query_44            55882.8
+query_45             9299.6
+query_46             2117.3
+query_47            10008.9
+query_48             6231.5
+query_49             1365.9
+query_50             9754.0
+query_51            86937.9
+query_52            75921.0
+query_53            76138.5
+
+
+
+
+category  average_time          std_dev
+SSP        1942.025         2418.714752
+SSK        1183.1           0
+SSO       35168.330769      93547.65524
+MultiSource  103647.478261 197494.55325
+SQ          36566.15    106729.63
+IQ         70983.62     179976.01
+CQ        29089.68      31614.06

@@ -11,8 +11,24 @@ query_15_time.out,query_16_time.out,query_29_time.out
 1336,854,979
 
 
+SQ - 16
+IQ - 15,29
+
+
 
 Query	         Average Time (ms)
-query_15_time.out	1615.0
-query_16_time.out	860.0
+query_15_time.out	1611.9
+query_16_time.out	878.5
 query_29_time.out	972.4
+
+
+
+
+
+category	average_time	std_dev
+SSK          1154.27     325.86
+
+#For SQ and IQ values I combined it with pwc
+SQ           995.575      849.469437
+IQ        58050.86 241939.640606
+      

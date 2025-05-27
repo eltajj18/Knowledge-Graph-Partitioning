@@ -1009,4 +1009,4 @@ Test ROGUE-L evaluation for NeuSyRE model
 Test Score evaluation for EncNet + JPU model
 Test Score evaluation for EncNet model
 
-1000 Rows. -- 1422295 msec.
+1000 Rows. -- 1139909 msec.

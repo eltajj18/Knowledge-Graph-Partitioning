@@ -14,4 +14,4 @@ http://w3id.org/mlsea/openml/evaluationMeasure/recall                           
 http://w3id.org/mlsea/openml/evaluationMeasure/unweighted_recall                                                                                  unweighted_recall
 http://w3id.org/mlsea/openml/evaluationMeasure/weighted_recall                                                                                  weighted_recall
 
-5 Rows. -- 34 msec.
+5 Rows. -- 25 msec.

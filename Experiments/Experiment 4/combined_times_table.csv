@@ -12,55 +12,68 @@ query_1_time.out,query_2_time.out,query_3_time.out,query_4_time.out,query_5_time
 
 
 
-Query	        Average Time (ms)
-query_1_time.out	898.3
-query_2_time.out	135.8
-query_3_time.out	2486.1
-query_4_time.out	4111.0
-query_5_time.out	201010.1
-query_6_time.out	298.3
-query_7_time.out	275.7
-query_8_time.out	2527.1
-query_9_time.out	781.0
-query_10_time.out	1415.0
-query_11_time.out	2003.0
-query_12_time.out	561603.3
-query_13_time.out	558835.4
-query_14_time.out	515942.4
-query_15_time.out	3241.0
-query_16_time.out	1443.6
-query_17_time.out	9708.1
-query_18_time.out	191.9
-query_19_time.out	92.6
-query_20_time.out	60594.0
-query_21_time.out	120.4
-query_22_time.out	297.0
-query_23_time.out	1467.1
-query_24_time.out	574.3
-query_25_time.out	798.0
-query_26_time.out	511924.4
-query_27_time.out	2735.4
-query_28_time.out	7263.0
-query_29_time.out	1089.0
-query_30_time.out	1799.0
-query_31_time.out	5485.4
-query_32_time.out	27600.0
-query_33_time.out	563.7
-query_34_time.out	36699.0
-query_35_time.out	6942.0
-query_36_time.out	85.0
-query_37_time.out	8016.0
-query_38_time.out	122.0
-query_39_time.out	991.0
-query_40_time.out	2000.0
-query_41_time.out	30.0
-query_42_time.out	34567.0
-query_43_time.out	6123.0
-query_44_time.out	1456.0
-query_45_time.out	9242.0
-query_46_time.out	3290.0
-query_47_time.out	1318.0
-query_48_time.out	13914.0
-query_49_time.out	991180.0
-query_50_time.out	946253.0
-query_51_time.out	944636.0
+
+query_ID  average_time (ms)
+ query_1         920.857143
+ query_2         134.857143
+ query_3        2460.571429
+ query_4        4055.857143
+ query_5      201583.000000
+ query_6         312.571429
+ query_7         275.428571
+ query_8        2516.000000
+ query_9         738.714286
+query_10        1531.000000
+query_11        2289.142857
+query_12      566543.428571
+query_13      558503.428571
+query_14      510096.714286
+query_15        3215.571429
+query_16        1450.285714
+query_17        9762.571429
+query_18         187.714286
+query_19          93.000000
+query_20       59943.000000
+query_21         116.714286
+query_22         292.285714
+query_23        1555.428571
+query_24         584.000000
+query_25         802.571429
+query_26      505896.857143
+query_27        2738.428571
+query_28        7273.714286
+query_29        1072.571429
+query_30        1794.000000
+query_31        5656.142857
+query_32       28542.857143
+query_33         101.714286
+query_34         539.000000
+query_35       32998.285714
+query_36        7000.000000
+query_37         109.857143
+query_38        8110.571429
+query_39         114.714286
+query_40         137.000000
+query_41         984.571429
+query_42        2084.000000
+query_43          28.285714
+query_44       33793.714286
+query_45        6311.714286
+query_46        1474.714286
+query_47        9223.000000
+query_48        3386.285714
+query_49        1283.428571
+query_50       14745.571429
+query_51      989457.428571
+query_52      945021.571429
+query_53      941788.000000
+
+
+category  average_time          std_dev
+SSP         1896.642857         2303.892164
+SSK        1450.285714        0.000000
+SSO         52686.681319       149227.094525  
+MultiSource  207169.968944        339001.871161
+SQ          57623.39      169641.56
+IQ         64139.19       158143.15
+CQ       229324.88        399782.09

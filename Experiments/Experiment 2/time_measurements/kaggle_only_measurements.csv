@@ -10,13 +10,23 @@ query_1_time.out,query_2_time.out,query_3_time.out,query_4_time.out,query_5_time
 16,18,16,16,19,17,17,16,19,17,18,17,17,18,1281,806,19,16,17,20,18,18,17,17,16,16,17,17,884,16,16,16,15,16,17,17,16,18,15,17,17,16,17
 16,16,16,17,18,17,17,16,17,16,17,16,17,17,1282,795,18,16,17,20,18,16,17,17,16,16,16,17,896,15,17,16,16,16,16,16,16,17,17,16,17,16,15
 
-
+SQ - 16
+IQ - 15,29
 
 
 
 Queries that have results: 15,16,29
 
-Query	            Average Time (ms)
-query_15_time.out	1295.8
-query_16_time.out	828.6
+Query ID	Average Time (ms)	
+query_15_time.out	1375.8	
+query_16_time.out	828.6	
 query_29_time.out	883.5
+
+
+category  average_time     std_dev
+ SSK       1029.3          246.035485
+
+# IQ,SQ, and CQ values I combined it with pwc and OpenML
+SQ          741.291667      663.97912
+IQ          46385.775676 160409.288389
+CQ        13246.9     15159.314587

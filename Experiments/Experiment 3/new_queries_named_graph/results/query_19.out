@@ -825,4 +825,4 @@ validation mean average precision
 weighted-F1 score
 weighted_recall
 
-816 Rows. -- 538 msec.
+816 Rows. -- 213 msec.
