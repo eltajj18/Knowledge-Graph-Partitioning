@@ -12,7 +12,7 @@ query_1_time.out,query_2_time.out,query_3_time.out,query_4_time.out,query_5_time
     
 
 
-Query ID	Average Time (ms)         Average Time (s) without first run
+Query ID	Average Time (ms)         
  query_1              659.8
  query_2              398.3
  query_3             1335.7

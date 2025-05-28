@@ -87,3 +87,75 @@ MultiSource 111729.37  246622.21
 SQ          1068.09 634.230481
 IQ         84670.963333 221400.31463
 CQ       11162.069231   10084.097791
+
+
+
+
+
+#The results below are in the case we ignore the first run:
+Query ID	Average Time (ms)  
+query_1	708.44
+query_2	667.67
+query_3	1728.00
+query_4	3163.22
+query_5	180943.89
+query_6	206.78
+query_7	42.78
+query_8	2447.44
+query_9	1026.11
+query_10	655.56
+query_11	1922.67
+query_12	318.44
+query_13	680134.89
+query_14	664387.78
+query_15	4735.78
+query_16	1104.44
+query_17	9299.22
+query_18	114.00
+query_19	117.67
+query_20	40262.11
+query_21	45.11
+query_22	42.44
+query_23	966.56
+query_24	642.00
+query_25	654.78
+query_26	580752.44
+query_27	7301.44
+query_28	10714.22
+query_29	1634.78
+query_30	2215.67
+query_31	4408.00
+query_32	21206.00
+query_33	90.11
+query_34	652.67
+query_35	26992.44
+query_36	6961.44
+query_37	284.11
+query_38	7758.78
+query_39	124.67
+query_40	129.22
+query_41	1226.22
+query_42	2025.78
+query_43	26.78
+query_44	24585.00
+query_45	2618.78
+query_46	1465.67
+query_47	2764.44
+query_48	2899.22
+query_49	751.56
+query_50	15036.11
+query_51	27530.00
+query_52	17952.89
+query_53	17966.78
+
+
+
+category  average_time     std_dev
+SSP        1638.48         2169.07
+SSK        1104.44          0   
+SSO        7207.93     11231.22
+MultiSource 98408.25  214105.15
+
+SQ     892.13             647.25 
+IQ         74521.82     192368.43
+CQ       10756.7      9705.28
