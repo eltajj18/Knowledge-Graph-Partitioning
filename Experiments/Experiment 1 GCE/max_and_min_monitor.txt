@@ -1,0 +1,98 @@
+Memory usage maxima:         
+Time: 300 s, Memory: 61.78%  
+Time: 7200 s, Memory: 60.60% 
+Time: 10800 s, Memory: 61.28%
+Time: 14700 s, Memory: 61.72%
+Time: 18000 s, Memory: 62.25%
+Time: 18600 s, Memory: 62.24%
+Time: 19200 s, Memory: 62.35%
+Time: 22200 s, Memory: 62.82%
+Time: 25800 s, Memory: 63.47%
+Time: 29400 s, Memory: 64.05%
+
+Memory usage minima:         
+Time: 600 s, Memory: 2.27%   
+Time: 7500 s, Memory: 60.59% 
+Time: 11100 s, Memory: 61.25%
+Time: 15000 s, Memory: 61.65%
+Time: 18300 s, Memory: 62.21%
+Time: 18900 s, Memory: 62.24%
+Time: 19500 s, Memory: 62.34%
+Time: 22500 s, Memory: 62.81%
+Time: 26100 s, Memory: 63.44%
+Time: 29700 s, Memory: 64.04%
+
+CPU usage maxima:
+Time: 1500 s, CPU: 30.86%
+Time: 2100 s, CPU: 34.35%
+Time: 2700 s, CPU: 65.89%
+Time: 4200 s, CPU: 37.96%
+Time: 4800 s, CPU: 33.88%
+Time: 5400 s, CPU: 35.04%
+Time: 6300 s, CPU: 58.35%
+Time: 7500 s, CPU: 35.99%
+Time: 8100 s, CPU: 34.45%
+Time: 8700 s, CPU: 29.86%
+Time: 9600 s, CPU: 64.06%
+Time: 11100 s, CPU: 34.04%
+Time: 11700 s, CPU: 32.15%
+Time: 12300 s, CPU: 31.23%
+Time: 13200 s, CPU: 68.38%
+Time: 14700 s, CPU: 34.18%
+Time: 15300 s, CPU: 28.84%
+Time: 16200 s, CPU: 31.28%
+Time: 17100 s, CPU: 63.74%
+Time: 18900 s, CPU: 31.92%
+Time: 20100 s, CPU: 32.44%
+Time: 21000 s, CPU: 62.21%
+Time: 22500 s, CPU: 34.58%
+Time: 23100 s, CPU: 30.69%
+Time: 23700 s, CPU: 30.43%
+Time: 24600 s, CPU: 65.33%
+Time: 26100 s, CPU: 32.88%
+Time: 26700 s, CPU: 30.98%
+Time: 27300 s, CPU: 27.47%
+Time: 28500 s, CPU: 60.45%
+Time: 29400 s, CPU: 33.48%
+
+CPU usage minima:
+Time: 1800 s, CPU: 23.93%
+Time: 2400 s, CPU: 24.80%
+Time: 3900 s, CPU: 18.07%
+Time: 4500 s, CPU: 25.05%
+Time: 5100 s, CPU: 27.41%
+Time: 5700 s, CPU: 25.90%
+Time: 7200 s, CPU: 24.86%
+Time: 7800 s, CPU: 28.02%
+Time: 8400 s, CPU: 21.22%
+Time: 9000 s, CPU: 21.45%
+Time: 10800 s, CPU: 20.77%
+Time: 11400 s, CPU: 27.59%
+Time: 12000 s, CPU: 23.34%
+Time: 12600 s, CPU: 24.91%
+Time: 14400 s, CPU: 15.02%
+Time: 15000 s, CPU: 24.20%
+Time: 15600 s, CPU: 18.51%
+Time: 16500 s, CPU: 18.05%
+Time: 18300 s, CPU: 21.42%
+Time: 19800 s, CPU: 21.26%
+Time: 20400 s, CPU: 19.51%
+Time: 22200 s, CPU: 15.29%
+Time: 22800 s, CPU: 24.86%
+Time: 23400 s, CPU: 22.40%
+Time: 24300 s, CPU: 23.92%
+Time: 25800 s, CPU: 21.14%
+Time: 26400 s, CPU: 28.01%
+Time: 27000 s, CPU: 21.57%
+Time: 27900 s, CPU: 20.96%
+Time: 29100 s, CPU: 28.19%
+Time: 29700 s, CPU: 16.10% 
+
+
+query_order = [
+    1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 1, 2, 20, 21, 22, 23, 24, 25, 26, 
+    27, 28, 29, 2, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 4, 40, 41, 42, 43, 44, 
+    45, 46, 47, 48, 49, 50, 51, 52, 53, 6, 7, 8, 9
+]
+
+
