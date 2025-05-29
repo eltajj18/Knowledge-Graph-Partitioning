@@ -6,7 +6,7 @@ time = []       # Time (s)
 memory = []     # %mem
 cpu = []     # %cpu
 
-with open('/home/eltaj-amirli/Desktop/Knowledge-Graph-Partitioning/Experiments/Experiment 7/pwc_monitor.log', 'r') as file:
+with open('/home/eltaj-amirli/Desktop/KG Partitioning/Knowledge-Graph-Partitioning/Experiments/Experiment 1 GCE/monitor.log', 'r') as file:
     next(file)  # Skip the header line
     for line in file:
         parts = line.strip().split()
@@ -39,6 +39,6 @@ plt.tight_layout()
 plt.yticks(range(0, 101, 5))  # Showing from 0 to 100 in steps of 1
 
 # Save plot
-output_path = "/home/eltaj-amirli/Desktop/Knowledge-Graph-Partitioning/Experiments/output_plot_experiment7.png"
+output_path = "/home/eltaj-amirli/Desktop/Knowledge-Graph-Partitioning/Experiments/output_plot_experiment1_gcc.png"
 plt.savefig(output_path)
 plt.close()
