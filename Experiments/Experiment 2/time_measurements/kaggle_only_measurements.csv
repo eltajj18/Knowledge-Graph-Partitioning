@@ -17,11 +17,10 @@ IQ - 15,29
 
 Queries that have results: 15,16,29
 
-Query ID	Average Time (ms)	
-query_15_time.out	1375.8	
-query_16_time.out	828.6	
-query_29_time.out	883.5
-
+Query ID	Average Time (ms) Standard Deviation (ms) CV	
+query_15        1375.8          260.181014            0.19
+query_16         828.6          67.107675             0.08
+query_29         883.5          14.410066             0.02
 
 category  average_time     std_dev
  SSK       1029.3          246.035485
