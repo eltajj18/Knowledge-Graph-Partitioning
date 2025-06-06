@@ -1,0 +1,15 @@
+# This query returns machine learning implementations.
+SPARQL
+PREFIX mls: <http://www.w3.org/ns/mls#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?implementationName
+FROM <http://example.org/_http___www.w3.org_ns_mls_Implementation_>
+FROM <http://example.org/_http___www_w3_org_2000_01_rdf_schema_label_>
+WHERE {
+  ?implementation a mls:Implementation;
+                  rdfs:label ?implementationName.
+}
+ORDER BY ?implementationName
+LIMIT 1000
+;

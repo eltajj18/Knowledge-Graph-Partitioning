@@ -23,8 +23,8 @@ values5 = [2830,1285,2186,2614,10481,124,96,1781,314,770,1212,501074,790676,7995
 ]
 
 # Calculate the total sum
-total_sum = sum(values1) 
+total_sum = sum(values1) + sum(values2)+sum(values3)+sum(values4) 
 
 
 print(f"The total sum is: {total_sum}")
-print(6300000-total_sum)
+print(14400000 - total_sum)

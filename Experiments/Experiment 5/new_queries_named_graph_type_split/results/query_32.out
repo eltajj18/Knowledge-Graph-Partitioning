@@ -1,0 +1,1012 @@
+Result of /data/leuven/370/vsc37064/new_queries_named_graph_type_split/query_32.txt:
+OpenLink Virtuoso Interactive SQL (Virtuoso)
+Version 07.20.3240 as of Mar 11 2025
+Type HELP; for help and EXIT; to exit.
+Connected to OpenLink Virtuoso
+Driver: 07.20.3240 OpenLink Virtuoso ODBC Driver
+characteristicName                                                                featureCount
+LONG VARCHAR                                                                      LONG VARCHAR
+_______________________________________________________________________________
+
+FCFP6_1024_999 number of missing values                                                                                  1083
+FCFP6_1024_1008 number of missing values                                                                                  1083
+FCFP6_1024_1009 data-type                                                                                  1083
+FCFP6_1024_1012 data-type                                                                                  1083
+FCFP6_1024_1014 number of missing values                                                                                  1083
+FCFP6_1024_1018 data-type                                                                                  1083
+FCFP6_1024_1018 number of missing values                                                                                  1083
+FCFP6_1024_101 data-type                                                                                  1083
+MEDIAN_PXC50 data-type                                                                                  1083
+FCFP6_1024_111 number of missing values                                                                                  1083
+FCFP6_1024_113 data-type                                                                                  1083
+FCFP6_1024_113 number of missing values                                                                                  1083
+FCFP6_1024_114 data-type                                                                                  1083
+FCFP6_1024_116 number of missing values                                                                                  1083
+FCFP6_1024_121 number of missing values                                                                                  1083
+FCFP6_1024_123 number of missing values                                                                                  1083
+FCFP6_1024_124 data-type                                                                                  1083
+FCFP6_1024_125 data-type                                                                                  1083
+FCFP6_1024_135 data-type                                                                                  1083
+FCFP6_1024_137 data-type                                                                                  1083
+FCFP6_1024_145 number of missing values                                                                                  1083
+FCFP6_1024_148 data-type                                                                                  1083
+FCFP6_1024_151 data-type                                                                                  1083
+FCFP6_1024_152 data-type                                                                                  1083
+FCFP6_1024_154 number of missing values                                                                                  1083
+FCFP6_1024_160 number of missing values                                                                                  1083
+FCFP6_1024_169 data-type                                                                                  1083
+FCFP6_1024_170 number of missing values                                                                                  1083
+FCFP6_1024_174 data-type                                                                                  1083
+FCFP6_1024_179 number of missing values                                                                                  1083
+FCFP6_1024_181 number of missing values                                                                                  1083
+FCFP6_1024_185 number of missing values                                                                                  1083
+FCFP6_1024_188 number of missing values                                                                                  1083
+FCFP6_1024_190 data-type                                                                                  1083
+FCFP6_1024_196 number of missing values                                                                                  1083
+FCFP6_1024_19 data-type                                                                                  1083
+FCFP6_1024_200 data-type                                                                                  1083
+FCFP6_1024_204 data-type                                                                                  1083
+FCFP6_1024_212 data-type                                                                                  1083
+FCFP6_1024_215 number of missing values                                                                                  1083
+FCFP6_1024_216 data-type                                                                                  1083
+FCFP6_1024_217 data-type                                                                                  1083
+FCFP6_1024_220 data-type                                                                                  1083
+FCFP6_1024_220 number of missing values                                                                                  1083
+FCFP6_1024_226 number of missing values                                                                                  1083
+FCFP6_1024_22 number of missing values                                                                                  1083
+FCFP6_1024_230 number of missing values                                                                                  1083
+FCFP6_1024_239 number of missing values                                                                                  1083
+FCFP6_1024_243 data-type                                                                                  1083
+FCFP6_1024_247 data-type                                                                                  1083
+FCFP6_1024_249 data-type                                                                                  1083
+FCFP6_1024_252 number of missing values                                                                                  1083
+FCFP6_1024_259 data-type                                                                                  1083
+FCFP6_1024_263 data-type                                                                                  1083
+FCFP6_1024_265 number of missing values                                                                                  1083
+FCFP6_1024_267 data-type                                                                                  1083
+FCFP6_1024_268 data-type                                                                                  1083
+FCFP6_1024_26 data-type                                                                                  1083
+FCFP6_1024_269 number of missing values                                                                                  1083
+FCFP6_1024_271 number of missing values                                                                                  1083
+FCFP6_1024_273 data-type                                                                                  1083
+FCFP6_1024_277 data-type                                                                                  1083
+FCFP6_1024_278 number of missing values                                                                                  1083
+FCFP6_1024_27 number of missing values                                                                                  1083
+FCFP6_1024_279 data-type                                                                                  1083
+FCFP6_1024_279 number of missing values                                                                                  1083
+FCFP6_1024_282 data-type                                                                                  1083
+FCFP6_1024_283 number of missing values                                                                                  1083
+FCFP6_1024_285 data-type                                                                                  1083
+FCFP6_1024_291 number of missing values                                                                                  1083
+FCFP6_1024_292 data-type                                                                                  1083
+FCFP6_1024_296 data-type                                                                                  1083
+FCFP6_1024_302 data-type                                                                                  1083
+FCFP6_1024_303 data-type                                                                                  1083
+FCFP6_1024_304 number of missing values                                                                                  1083
+FCFP6_1024_305 number of missing values                                                                                  1083
+FCFP6_1024_307 number of missing values                                                                                  1083
+FCFP6_1024_308 number of missing values                                                                                  1083
+FCFP6_1024_30 number of missing values                                                                                  1083
+FCFP6_1024_309 data-type                                                                                  1083
+FCFP6_1024_311 data-type                                                                                  1083
+FCFP6_1024_314 number of missing values                                                                                  1083
+FCFP6_1024_315 data-type                                                                                  1083
+FCFP6_1024_316 number of missing values                                                                                  1083
+FCFP6_1024_318 data-type                                                                                  1083
+FCFP6_1024_319 number of missing values                                                                                  1083
+FCFP6_1024_320 number of missing values                                                                                  1083
+FCFP6_1024_322 data-type                                                                                  1083
+FCFP6_1024_325 number of missing values                                                                                  1083
+FCFP6_1024_32 number of missing values                                                                                  1083
+FCFP6_1024_335 data-type                                                                                  1083
+FCFP6_1024_335 number of missing values                                                                                  1083
+FCFP6_1024_337 number of missing values                                                                                  1083
+FCFP6_1024_342 data-type                                                                                  1083
+FCFP6_1024_346 number of missing values                                                                                  1083
+FCFP6_1024_349 data-type                                                                                  1083
+FCFP6_1024_350 data-type                                                                                  1083
+FCFP6_1024_355 number of missing values                                                                                  1083
+FCFP6_1024_356 data-type                                                                                  1083
+FCFP6_1024_358 number of missing values                                                                                  1083
+FCFP6_1024_35 data-type                                                                                  1083
+FCFP6_1024_360 data-type                                                                                  1083
+FCFP6_1024_363 data-type                                                                                  1083
+FCFP6_1024_367 data-type                                                                                  1083
+FCFP6_1024_367 number of missing values                                                                                  1083
+FCFP6_1024_368 number of missing values                                                                                  1083
+FCFP6_1024_371 data-type                                                                                  1083
+FCFP6_1024_372 data-type                                                                                  1083
+FCFP6_1024_378 number of missing values                                                                                  1083
+FCFP6_1024_380 data-type                                                                                  1083
+FCFP6_1024_380 number of missing values                                                                                  1083
+FCFP6_1024_382 data-type                                                                                  1083
+FCFP6_1024_383 number of missing values                                                                                  1083
+FCFP6_1024_386 data-type                                                                                  1083
+FCFP6_1024_388 number of missing values                                                                                  1083
+FCFP6_1024_393 data-type                                                                                  1083
+FCFP6_1024_402 data-type                                                                                  1083
+FCFP6_1024_405 number of missing values                                                                                  1083
+FCFP6_1024_406 number of missing values                                                                                  1083
+FCFP6_1024_40 number of missing values                                                                                  1083
+FCFP6_1024_409 data-type                                                                                  1083
+FCFP6_1024_414 data-type                                                                                  1083
+FCFP6_1024_416 number of missing values                                                                                  1083
+FCFP6_1024_418 number of missing values                                                                                  1083
+FCFP6_1024_41 data-type                                                                                  1083
+FCFP6_1024_419 number of missing values                                                                                  1083
+FCFP6_1024_420 number of missing values                                                                                  1083
+FCFP6_1024_424 number of missing values                                                                                  1083
+FCFP6_1024_425 data-type                                                                                  1083
+FCFP6_1024_431 number of missing values                                                                                  1083
+FCFP6_1024_432 data-type                                                                                  1083
+FCFP6_1024_432 number of missing values                                                                                  1083
+FCFP6_1024_433 number of missing values                                                                                  1083
+FCFP6_1024_457 number of missing values                                                                                  1083
+FCFP6_1024_461 number of missing values                                                                                  1083
+FCFP6_1024_466 number of missing values                                                                                  1083
+FCFP6_1024_467 number of missing values                                                                                  1083
+FCFP6_1024_469 data-type                                                                                  1083
+FCFP6_1024_475 number of missing values                                                                                  1083
+FCFP6_1024_477 number of missing values                                                                                  1083
+FCFP6_1024_478 data-type                                                                                  1083
+FCFP6_1024_478 number of missing values                                                                                  1083
+FCFP6_1024_0 number of missing values                                                                                  1083
+FCFP6_1024_1000 data-type                                                                                  1083
+FCFP6_1024_1000 number of missing values                                                                                  1083
+FCFP6_1024_1004 number of missing values                                                                                  1083
+FCFP6_1024_1005 number of missing values                                                                                  1083
+FCFP6_1024_1006 number of missing values                                                                                  1083
+FCFP6_1024_1008 data-type                                                                                  1083
+FCFP6_1024_1009 number of missing values                                                                                  1083
+FCFP6_1024_1012 number of missing values                                                                                  1083
+FCFP6_1024_1014 data-type                                                                                  1083
+FCFP6_1024_1015 data-type                                                                                  1083
+FCFP6_1024_1015 number of missing values                                                                                  1083
+FCFP6_1024_1016 data-type                                                                                  1083
+FCFP6_1024_1016 number of missing values                                                                                  1083
+FCFP6_1024_1017 data-type                                                                                  1083
+FCFP6_1024_1017 number of missing values                                                                                  1083
+FCFP6_1024_101 number of missing values                                                                                  1083
+FCFP6_1024_1019 data-type                                                                                  1083
+FCFP6_1024_1021 number of missing values                                                                                  1083
+FCFP6_1024_1022 number of missing values                                                                                  1083
+FCFP6_1024_1023 data-type                                                                                  1083
+FCFP6_1024_1023 number of missing values                                                                                  1083
+MEDIAN_PXC50 number of missing values                                                                                  1083
+FCFP6_1024_102 data-type                                                                                  1083
+FCFP6_1024_104 data-type                                                                                  1083
+FCFP6_1024_106 data-type                                                                                  1083
+FCFP6_1024_106 number of missing values                                                                                  1083
+FCFP6_1024_107 data-type                                                                                  1083
+FCFP6_1024_107 number of missing values                                                                                  1083
+FCFP6_1024_108 data-type                                                                                  1083
+FCFP6_1024_109 data-type                                                                                  1083
+FCFP6_1024_109 number of missing values                                                                                  1083
+FCFP6_1024_114 number of missing values                                                                                  1083
+FCFP6_1024_115 data-type                                                                                  1083
+FCFP6_1024_115 number of missing values                                                                                  1083
+FCFP6_1024_116 data-type                                                                                  1083
+FCFP6_1024_117 data-type                                                                                  1083
+FCFP6_1024_117 number of missing values                                                                                  1083
+FCFP6_1024_118 data-type                                                                                  1083
+FCFP6_1024_11 data-type                                                                                  1083
+FCFP6_1024_120 data-type                                                                                  1083
+FCFP6_1024_121 data-type                                                                                  1083
+FCFP6_1024_122 number of missing values                                                                                  1083
+FCFP6_1024_124 number of missing values                                                                                  1083
+FCFP6_1024_125 number of missing values                                                                                  1083
+FCFP6_1024_127 data-type                                                                                  1083
+FCFP6_1024_127 number of missing values                                                                                  1083
+FCFP6_1024_129 data-type                                                                                  1083
+FCFP6_1024_131 data-type                                                                                  1083
+FCFP6_1024_131 number of missing values                                                                                  1083
+FCFP6_1024_132 data-type                                                                                  1083
+FCFP6_1024_132 number of missing values                                                                                  1083
+FCFP6_1024_135 number of missing values                                                                                  1083
+FCFP6_1024_136 data-type                                                                                  1083
+FCFP6_1024_137 number of missing values                                                                                  1083
+FCFP6_1024_139 data-type                                                                                  1083
+FCFP6_1024_139 number of missing values                                                                                  1083
+FCFP6_1024_142 data-type                                                                                  1083
+FCFP6_1024_142 number of missing values                                                                                  1083
+FCFP6_1024_143 data-type                                                                                  1083
+FCFP6_1024_143 number of missing values                                                                                  1083
+FCFP6_1024_144 data-type                                                                                  1083
+FCFP6_1024_146 data-type                                                                                  1083
+FCFP6_1024_146 number of missing values                                                                                  1083
+FCFP6_1024_148 number of missing values                                                                                  1083
+FCFP6_1024_14 number of missing values                                                                                  1083
+FCFP6_1024_149 data-type                                                                                  1083
+FCFP6_1024_149 number of missing values                                                                                  1083
+FCFP6_1024_150 data-type                                                                                  1083
+FCFP6_1024_150 number of missing values                                                                                  1083
+FCFP6_1024_151 number of missing values                                                                                  1083
+FCFP6_1024_152 number of missing values                                                                                  1083
+FCFP6_1024_153 data-type                                                                                  1083
+FCFP6_1024_153 number of missing values                                                                                  1083
+FCFP6_1024_155 data-type                                                                                  1083
+FCFP6_1024_155 number of missing values                                                                                  1083
+FCFP6_1024_156 data-type                                                                                  1083
+FCFP6_1024_156 number of missing values                                                                                  1083
+FCFP6_1024_157 data-type                                                                                  1083
+FCFP6_1024_158 data-type                                                                                  1083
+FCFP6_1024_158 number of missing values                                                                                  1083
+FCFP6_1024_15 data-type                                                                                  1083
+FCFP6_1024_15 number of missing values                                                                                  1083
+FCFP6_1024_159 data-type                                                                                  1083
+FCFP6_1024_159 number of missing values                                                                                  1083
+FCFP6_1024_160 data-type                                                                                  1083
+FCFP6_1024_161 data-type                                                                                  1083
+FCFP6_1024_161 number of missing values                                                                                  1083
+FCFP6_1024_162 data-type                                                                                  1083
+FCFP6_1024_166 data-type                                                                                  1083
+FCFP6_1024_166 number of missing values                                                                                  1083
+FCFP6_1024_168 data-type                                                                                  1083
+FCFP6_1024_168 number of missing values                                                                                  1083
+FCFP6_1024_172 data-type                                                                                  1083
+FCFP6_1024_172 number of missing values                                                                                  1083
+FCFP6_1024_173 data-type                                                                                  1083
+FCFP6_1024_174 number of missing values                                                                                  1083
+FCFP6_1024_176 data-type                                                                                  1083
+FCFP6_1024_178 data-type                                                                                  1083
+FCFP6_1024_178 number of missing values                                                                                  1083
+FCFP6_1024_17 data-type                                                                                  1083
+FCFP6_1024_179 data-type                                                                                  1083
+FCFP6_1024_181 data-type                                                                                  1083
+FCFP6_1024_182 data-type                                                                                  1083
+FCFP6_1024_182 number of missing values                                                                                  1083
+FCFP6_1024_183 data-type                                                                                  1083
+FCFP6_1024_183 number of missing values                                                                                  1083
+FCFP6_1024_184 number of missing values                                                                                  1083
+FCFP6_1024_186 data-type                                                                                  1083
+FCFP6_1024_186 number of missing values                                                                                  1083
+FCFP6_1024_188 data-type                                                                                  1083
+FCFP6_1024_18 data-type                                                                                  1083
+FCFP6_1024_193 data-type                                                                                  1083
+FCFP6_1024_193 number of missing values                                                                                  1083
+FCFP6_1024_195 data-type                                                                                  1083
+FCFP6_1024_195 number of missing values                                                                                  1083
+FCFP6_1024_196 data-type                                                                                  1083
+FCFP6_1024_1 data-type                                                                                  1083
+FCFP6_1024_1 number of missing values                                                                                  1083
+FCFP6_1024_19 number of missing values                                                                                  1083
+FCFP6_1024_200 number of missing values                                                                                  1083
+FCFP6_1024_201 data-type                                                                                  1083
+FCFP6_1024_204 number of missing values                                                                                  1083
+FCFP6_1024_205 data-type                                                                                  1083
+FCFP6_1024_205 number of missing values                                                                                  1083
+FCFP6_1024_206 data-type                                                                                  1083
+FCFP6_1024_206 number of missing values                                                                                  1083
+FCFP6_1024_207 data-type                                                                                  1083
+FCFP6_1024_207 number of missing values                                                                                  1083
+FCFP6_1024_210 data-type                                                                                  1083
+FCFP6_1024_211 data-type                                                                                  1083
+FCFP6_1024_212 number of missing values                                                                                  1083
+FCFP6_1024_213 number of missing values                                                                                  1083
+FCFP6_1024_214 data-type                                                                                  1083
+FCFP6_1024_215 data-type                                                                                  1083
+FCFP6_1024_216 number of missing values                                                                                  1083
+FCFP6_1024_217 number of missing values                                                                                  1083
+FCFP6_1024_21 number of missing values                                                                                  1083
+FCFP6_1024_221 data-type                                                                                  1083
+FCFP6_1024_221 number of missing values                                                                                  1083
+FCFP6_1024_223 data-type                                                                                  1083
+FCFP6_1024_223 number of missing values                                                                                  1083
+FCFP6_1024_226 data-type                                                                                  1083
+FCFP6_1024_230 data-type                                                                                  1083
+FCFP6_1024_232 data-type                                                                                  1083
+FCFP6_1024_232 number of missing values                                                                                  1083
+FCFP6_1024_233 data-type                                                                                  1083
+FCFP6_1024_233 number of missing values                                                                                  1083
+FCFP6_1024_235 number of missing values                                                                                  1083
+FCFP6_1024_236 data-type                                                                                  1083
+FCFP6_1024_236 number of missing values                                                                                  1083
+FCFP6_1024_238 data-type                                                                                  1083
+FCFP6_1024_238 number of missing values                                                                                  1083
+FCFP6_1024_239 data-type                                                                                  1083
+FCFP6_1024_240 data-type                                                                                  1083
+FCFP6_1024_242 data-type                                                                                  1083
+FCFP6_1024_244 data-type                                                                                  1083
+FCFP6_1024_244 number of missing values                                                                                  1083
+FCFP6_1024_245 data-type                                                                                  1083
+FCFP6_1024_245 number of missing values                                                                                  1083
+FCFP6_1024_248 data-type                                                                                  1083
+FCFP6_1024_24 number of missing values                                                                                  1083
+FCFP6_1024_251 data-type                                                                                  1083
+FCFP6_1024_251 number of missing values                                                                                  1083
+FCFP6_1024_252 data-type                                                                                  1083
+FCFP6_1024_256 data-type                                                                                  1083
+FCFP6_1024_256 number of missing values                                                                                  1083
+FCFP6_1024_257 data-type                                                                                  1083
+FCFP6_1024_257 number of missing values                                                                                  1083
+FCFP6_1024_258 data-type                                                                                  1083
+FCFP6_1024_258 number of missing values                                                                                  1083
+FCFP6_1024_259 number of missing values                                                                                  1083
+FCFP6_1024_260 data-type                                                                                  1083
+FCFP6_1024_262 number of missing values                                                                                  1083
+FCFP6_1024_264 data-type                                                                                  1083
+FCFP6_1024_266 data-type                                                                                  1083
+FCFP6_1024_268 number of missing values                                                                                  1083
+FCFP6_1024_26 number of missing values                                                                                  1083
+FCFP6_1024_269 data-type                                                                                  1083
+FCFP6_1024_271 data-type                                                                                  1083
+FCFP6_1024_272 data-type                                                                                  1083
+FCFP6_1024_274 number of missing values                                                                                  1083
+FCFP6_1024_276 data-type                                                                                  1083
+FCFP6_1024_278 data-type                                                                                  1083
+FCFP6_1024_280 data-type                                                                                  1083
+FCFP6_1024_280 number of missing values                                                                                  1083
+FCFP6_1024_281 data-type                                                                                  1083
+FCFP6_1024_282 number of missing values                                                                                  1083
+FCFP6_1024_283 data-type                                                                                  1083
+FCFP6_1024_284 data-type                                                                                  1083
+FCFP6_1024_284 number of missing values                                                                                  1083
+FCFP6_1024_28 data-type                                                                                  1083
+FCFP6_1024_28 number of missing values                                                                                  1083
+FCFP6_1024_289 data-type                                                                                  1083
+FCFP6_1024_291 data-type                                                                                  1083
+FCFP6_1024_295 data-type                                                                                  1083
+FCFP6_1024_298 data-type                                                                                  1083
+FCFP6_1024_301 number of missing values                                                                                  1083
+FCFP6_1024_302 number of missing values                                                                                  1083
+FCFP6_1024_303 number of missing values                                                                                  1083
+FCFP6_1024_304 data-type                                                                                  1083
+FCFP6_1024_305 data-type                                                                                  1083
+FCFP6_1024_306 data-type                                                                                  1083
+FCFP6_1024_306 number of missing values                                                                                  1083
+FCFP6_1024_310 data-type                                                                                  1083
+FCFP6_1024_311 number of missing values                                                                                  1083
+FCFP6_1024_314 data-type                                                                                  1083
+FCFP6_1024_315 number of missing values                                                                                  1083
+FCFP6_1024_316 data-type                                                                                  1083
+FCFP6_1024_318 number of missing values                                                                                  1083
+FCFP6_1024_319 data-type                                                                                  1083
+FCFP6_1024_320 data-type                                                                                  1083
+FCFP6_1024_321 data-type                                                                                  1083
+FCFP6_1024_321 number of missing values                                                                                  1083
+FCFP6_1024_322 number of missing values                                                                                  1083
+FCFP6_1024_323 data-type                                                                                  1083
+FCFP6_1024_323 number of missing values                                                                                  1083
+FCFP6_1024_324 data-type                                                                                  1083
+FCFP6_1024_327 data-type                                                                                  1083
+FCFP6_1024_328 data-type                                                                                  1083
+FCFP6_1024_328 number of missing values                                                                                  1083
+FCFP6_1024_329 data-type                                                                                  1083
+FCFP6_1024_329 number of missing values                                                                                  1083
+FCFP6_1024_330 data-type                                                                                  1083
+FCFP6_1024_331 data-type                                                                                  1083
+FCFP6_1024_331 number of missing values                                                                                  1083
+FCFP6_1024_333 number of missing values                                                                                  1083
+FCFP6_1024_337 data-type                                                                                  1083
+FCFP6_1024_338 data-type                                                                                  1083
+FCFP6_1024_338 number of missing values                                                                                  1083
+FCFP6_1024_33 data-type                                                                                  1083
+FCFP6_1024_33 number of missing values                                                                                  1083
+FCFP6_1024_339 number of missing values                                                                                  1083
+FCFP6_1024_341 data-type                                                                                  1083
+FCFP6_1024_341 number of missing values                                                                                  1083
+FCFP6_1024_342 number of missing values                                                                                  1083
+FCFP6_1024_343 number of missing values                                                                                  1083
+FCFP6_1024_346 data-type                                                                                  1083
+FCFP6_1024_347 data-type                                                                                  1083
+FCFP6_1024_347 number of missing values                                                                                  1083
+FCFP6_1024_348 data-type                                                                                  1083
+FCFP6_1024_348 number of missing values                                                                                  1083
+FCFP6_1024_34 number of missing values                                                                                  1083
+FCFP6_1024_349 number of missing values                                                                                  1083
+FCFP6_1024_350 number of missing values                                                                                  1083
+FCFP6_1024_351 number of missing values                                                                                  1083
+FCFP6_1024_356 number of missing values                                                                                  1083
+FCFP6_1024_357 data-type                                                                                  1083
+FCFP6_1024_357 number of missing values                                                                                  1083
+FCFP6_1024_35 number of missing values                                                                                  1083
+FCFP6_1024_360 number of missing values                                                                                  1083
+FCFP6_1024_361 data-type                                                                                  1083
+FCFP6_1024_363 number of missing values                                                                                  1083
+FCFP6_1024_364 number of missing values                                                                                  1083
+FCFP6_1024_365 data-type                                                                                  1083
+FCFP6_1024_365 number of missing values                                                                                  1083
+FCFP6_1024_368 data-type                                                                                  1083
+FCFP6_1024_36 data-type                                                                                  1083
+FCFP6_1024_370 number of missing values                                                                                  1083
+FCFP6_1024_371 number of missing values                                                                                  1083
+FCFP6_1024_374 number of missing values                                                                                  1083
+FCFP6_1024_377 data-type                                                                                  1083
+FCFP6_1024_378 data-type                                                                                  1083
+FCFP6_1024_37 data-type                                                                                  1083
+FCFP6_1024_37 number of missing values                                                                                  1083
+FCFP6_1024_379 data-type                                                                                  1083
+FCFP6_1024_379 number of missing values                                                                                  1083
+FCFP6_1024_381 data-type                                                                                  1083
+FCFP6_1024_381 number of missing values                                                                                  1083
+FCFP6_1024_382 number of missing values                                                                                  1083
+FCFP6_1024_383 data-type                                                                                  1083
+FCFP6_1024_384 data-type                                                                                  1083
+FCFP6_1024_384 number of missing values                                                                                  1083
+FCFP6_1024_385 number of missing values                                                                                  1083
+FCFP6_1024_38 data-type                                                                                  1083
+FCFP6_1024_38 number of missing values                                                                                  1083
+FCFP6_1024_390 data-type                                                                                  1083
+FCFP6_1024_393 number of missing values                                                                                  1083
+FCFP6_1024_396 data-type                                                                                  1083
+FCFP6_1024_396 number of missing values                                                                                  1083
+FCFP6_1024_398 data-type                                                                                  1083
+FCFP6_1024_398 number of missing values                                                                                  1083
+FCFP6_1024_39 number of missing values                                                                                  1083
+FCFP6_1024_399 number of missing values                                                                                  1083
+FCFP6_1024_401 data-type                                                                                  1083
+FCFP6_1024_401 number of missing values                                                                                  1083
+FCFP6_1024_402 number of missing values                                                                                  1083
+FCFP6_1024_404 data-type                                                                                  1083
+FCFP6_1024_404 number of missing values                                                                                  1083
+FCFP6_1024_405 data-type                                                                                  1083
+FCFP6_1024_406 data-type                                                                                  1083
+FCFP6_1024_407 number of missing values                                                                                  1083
+FCFP6_1024_40 data-type                                                                                  1083
+FCFP6_1024_409 number of missing values                                                                                  1083
+FCFP6_1024_410 data-type                                                                                  1083
+FCFP6_1024_410 number of missing values                                                                                  1083
+FCFP6_1024_412 data-type                                                                                  1083
+FCFP6_1024_415 data-type                                                                                  1083
+FCFP6_1024_416 data-type                                                                                  1083
+FCFP6_1024_418 data-type                                                                                  1083
+FCFP6_1024_41 number of missing values                                                                                  1083
+FCFP6_1024_419 data-type                                                                                  1083
+FCFP6_1024_420 data-type                                                                                  1083
+FCFP6_1024_421 data-type                                                                                  1083
+FCFP6_1024_422 data-type                                                                                  1083
+FCFP6_1024_422 number of missing values                                                                                  1083
+FCFP6_1024_424 data-type                                                                                  1083
+FCFP6_1024_425 number of missing values                                                                                  1083
+FCFP6_1024_426 number of missing values                                                                                  1083
+FCFP6_1024_427 data-type                                                                                  1083
+FCFP6_1024_427 number of missing values                                                                                  1083
+FCFP6_1024_428 data-type                                                                                  1083
+FCFP6_1024_428 number of missing values                                                                                  1083
+FCFP6_1024_42 number of missing values                                                                                  1083
+FCFP6_1024_429 data-type                                                                                  1083
+FCFP6_1024_429 number of missing values                                                                                  1083
+FCFP6_1024_430 data-type                                                                                  1083
+FCFP6_1024_430 number of missing values                                                                                  1083
+FCFP6_1024_433 data-type                                                                                  1083
+FCFP6_1024_434 data-type                                                                                  1083
+FCFP6_1024_434 number of missing values                                                                                  1083
+FCFP6_1024_435 data-type                                                                                  1083
+FCFP6_1024_435 number of missing values                                                                                  1083
+FCFP6_1024_438 number of missing values                                                                                  1083
+FCFP6_1024_443 data-type                                                                                  1083
+FCFP6_1024_443 number of missing values                                                                                  1083
+FCFP6_1024_445 data-type                                                                                  1083
+FCFP6_1024_445 number of missing values                                                                                  1083
+FCFP6_1024_446 data-type                                                                                  1083
+FCFP6_1024_446 number of missing values                                                                                  1083
+FCFP6_1024_447 data-type                                                                                  1083
+FCFP6_1024_447 number of missing values                                                                                  1083
+FCFP6_1024_44 data-type                                                                                  1083
+FCFP6_1024_44 number of missing values                                                                                  1083
+FCFP6_1024_450 data-type                                                                                  1083
+FCFP6_1024_452 data-type                                                                                  1083
+FCFP6_1024_452 number of missing values                                                                                  1083
+FCFP6_1024_453 data-type                                                                                  1083
+FCFP6_1024_453 number of missing values                                                                                  1083
+FCFP6_1024_458 data-type                                                                                  1083
+FCFP6_1024_459 number of missing values                                                                                  1083
+FCFP6_1024_460 number of missing values                                                                                  1083
+FCFP6_1024_462 data-type                                                                                  1083
+FCFP6_1024_462 number of missing values                                                                                  1083
+FCFP6_1024_463 data-type                                                                                  1083
+FCFP6_1024_464 data-type                                                                                  1083
+FCFP6_1024_464 number of missing values                                                                                  1083
+FCFP6_1024_466 data-type                                                                                  1083
+FCFP6_1024_467 data-type                                                                                  1083
+FCFP6_1024_468 data-type                                                                                  1083
+FCFP6_1024_469 number of missing values                                                                                  1083
+FCFP6_1024_471 data-type                                                                                  1083
+FCFP6_1024_472 data-type                                                                                  1083
+FCFP6_1024_472 number of missing values                                                                                  1083
+FCFP6_1024_474 data-type                                                                                  1083
+FCFP6_1024_474 number of missing values                                                                                  1083
+FCFP6_1024_475 data-type                                                                                  1083
+FCFP6_1024_476 data-type                                                                                  1083
+FCFP6_1024_476 number of missing values                                                                                  1083
+FCFP6_1024_47 data-type                                                                                  1083
+FCFP6_1024_479 data-type                                                                                  1083
+FCFP6_1024_479 number of missing values                                                                                  1083
+FCFP6_1024_480 number of missing values                                                                                  1083
+FCFP6_1024_482 data-type                                                                                  1083
+FCFP6_1024_0 data-type                                                                                  1083
+FCFP6_1024_9 data-type                                                                                  1083
+FCFP6_1024_9 number of missing values                                                                                  1083
+FCFP6_1024_999 data-type                                                                                  1083
+FCFP6_1024_1004 data-type                                                                                  1083
+FCFP6_1024_1005 data-type                                                                                  1083
+FCFP6_1024_1006 data-type                                                                                  1083
+FCFP6_1024_1013 data-type                                                                                  1083
+FCFP6_1024_1013 number of missing values                                                                                  1083
+FCFP6_1024_1019 number of missing values                                                                                  1083
+FCFP6_1024_1021 data-type                                                                                  1083
+FCFP6_1024_1022 data-type                                                                                  1083
+FCFP6_1024_102 number of missing values                                                                                  1083
+FCFP6_1024_104 number of missing values                                                                                  1083
+FCFP6_1024_108 number of missing values                                                                                  1083
+FCFP6_1024_111 data-type                                                                                  1083
+FCFP6_1024_118 number of missing values                                                                                  1083
+FCFP6_1024_11 number of missing values                                                                                  1083
+FCFP6_1024_120 number of missing values                                                                                  1083
+FCFP6_1024_122 data-type                                                                                  1083
+FCFP6_1024_123 data-type                                                                                  1083
+FCFP6_1024_129 number of missing values                                                                                  1083
+FCFP6_1024_136 number of missing values                                                                                  1083
+FCFP6_1024_144 number of missing values                                                                                  1083
+FCFP6_1024_145 data-type                                                                                  1083
+FCFP6_1024_14 data-type                                                                                  1083
+FCFP6_1024_154 data-type                                                                                  1083
+FCFP6_1024_157 number of missing values                                                                                  1083
+FCFP6_1024_162 number of missing values                                                                                  1083
+FCFP6_1024_169 number of missing values                                                                                  1083
+FCFP6_1024_170 data-type                                                                                  1083
+FCFP6_1024_171 data-type                                                                                  1083
+FCFP6_1024_171 number of missing values                                                                                  1083
+FCFP6_1024_173 number of missing values                                                                                  1083
+FCFP6_1024_176 number of missing values                                                                                  1083
+FCFP6_1024_17 number of missing values                                                                                  1083
+FCFP6_1024_180 data-type                                                                                  1083
+FCFP6_1024_180 number of missing values                                                                                  1083
+FCFP6_1024_184 data-type                                                                                  1083
+FCFP6_1024_185 data-type                                                                                  1083
+FCFP6_1024_18 number of missing values                                                                                  1083
+FCFP6_1024_190 number of missing values                                                                                  1083
+FCFP6_1024_199 data-type                                                                                  1083
+FCFP6_1024_199 number of missing values                                                                                  1083
+FCFP6_1024_201 number of missing values                                                                                  1083
+FCFP6_1024_210 number of missing values                                                                                  1083
+FCFP6_1024_211 number of missing values                                                                                  1083
+FCFP6_1024_213 data-type                                                                                  1083
+FCFP6_1024_214 number of missing values                                                                                  1083
+FCFP6_1024_21 data-type                                                                                  1083
+FCFP6_1024_22 data-type                                                                                  1083
+FCFP6_1024_235 data-type                                                                                  1083
+FCFP6_1024_240 number of missing values                                                                                  1083
+FCFP6_1024_242 number of missing values                                                                                  1083
+FCFP6_1024_243 number of missing values                                                                                  1083
+FCFP6_1024_247 number of missing values                                                                                  1083
+FCFP6_1024_248 number of missing values                                                                                  1083
+FCFP6_1024_24 data-type                                                                                  1083
+FCFP6_1024_249 number of missing values                                                                                  1083
+FCFP6_1024_260 number of missing values                                                                                  1083
+FCFP6_1024_261 data-type                                                                                  1083
+FCFP6_1024_261 number of missing values                                                                                  1083
+FCFP6_1024_262 data-type                                                                                  1083
+FCFP6_1024_263 number of missing values                                                                                  1083
+FCFP6_1024_264 number of missing values                                                                                  1083
+FCFP6_1024_265 data-type                                                                                  1083
+FCFP6_1024_266 number of missing values                                                                                  1083
+FCFP6_1024_267 number of missing values                                                                                  1083
+FCFP6_1024_272 number of missing values                                                                                  1083
+FCFP6_1024_273 number of missing values                                                                                  1083
+FCFP6_1024_274 data-type                                                                                  1083
+FCFP6_1024_276 number of missing values                                                                                  1083
+FCFP6_1024_277 number of missing values                                                                                  1083
+FCFP6_1024_27 data-type                                                                                  1083
+FCFP6_1024_281 number of missing values                                                                                  1083
+FCFP6_1024_285 number of missing values                                                                                  1083
+FCFP6_1024_286 data-type                                                                                  1083
+FCFP6_1024_286 number of missing values                                                                                  1083
+FCFP6_1024_289 number of missing values                                                                                  1083
+FCFP6_1024_292 number of missing values                                                                                  1083
+FCFP6_1024_295 number of missing values                                                                                  1083
+FCFP6_1024_296 number of missing values                                                                                  1083
+FCFP6_1024_298 number of missing values                                                                                  1083
+FCFP6_1024_301 data-type                                                                                  1083
+FCFP6_1024_307 data-type                                                                                  1083
+FCFP6_1024_308 data-type                                                                                  1083
+FCFP6_1024_30 data-type                                                                                  1083
+FCFP6_1024_309 number of missing values                                                                                  1083
+FCFP6_1024_310 number of missing values                                                                                  1083
+FCFP6_1024_324 number of missing values                                                                                  1083
+FCFP6_1024_325 data-type                                                                                  1083
+FCFP6_1024_327 number of missing values                                                                                  1083
+FCFP6_1024_32 data-type                                                                                  1083
+FCFP6_1024_330 number of missing values                                                                                  1083
+FCFP6_1024_333 data-type                                                                                  1083
+FCFP6_1024_336 data-type                                                                                  1083
+FCFP6_1024_336 number of missing values                                                                                  1083
+FCFP6_1024_339 data-type                                                                                  1083
+FCFP6_1024_343 data-type                                                                                  1083
+FCFP6_1024_34 data-type                                                                                  1083
+FCFP6_1024_351 data-type                                                                                  1083
+FCFP6_1024_354 data-type                                                                                  1083
+FCFP6_1024_354 number of missing values                                                                                  1083
+FCFP6_1024_355 data-type                                                                                  1083
+FCFP6_1024_358 data-type                                                                                  1083
+FCFP6_1024_361 number of missing values                                                                                  1083
+FCFP6_1024_364 data-type                                                                                  1083
+FCFP6_1024_36 number of missing values                                                                                  1083
+FCFP6_1024_370 data-type                                                                                  1083
+FCFP6_1024_372 number of missing values                                                                                  1083
+FCFP6_1024_374 data-type                                                                                  1083
+FCFP6_1024_377 number of missing values                                                                                  1083
+FCFP6_1024_385 data-type                                                                                  1083
+FCFP6_1024_386 number of missing values                                                                                  1083
+FCFP6_1024_388 data-type                                                                                  1083
+FCFP6_1024_390 number of missing values                                                                                  1083
+FCFP6_1024_391 data-type                                                                                  1083
+FCFP6_1024_391 number of missing values                                                                                  1083
+FCFP6_1024_394 data-type                                                                                  1083
+FCFP6_1024_394 number of missing values                                                                                  1083
+FCFP6_1024_39 data-type                                                                                  1083
+FCFP6_1024_399 data-type                                                                                  1083
+FCFP6_1024_403 data-type                                                                                  1083
+FCFP6_1024_403 number of missing values                                                                                  1083
+FCFP6_1024_407 data-type                                                                                  1083
+FCFP6_1024_412 number of missing values                                                                                  1083
+FCFP6_1024_413 data-type                                                                                  1083
+FCFP6_1024_413 number of missing values                                                                                  1083
+FCFP6_1024_414 number of missing values                                                                                  1083
+FCFP6_1024_415 number of missing values                                                                                  1083
+FCFP6_1024_421 number of missing values                                                                                  1083
+FCFP6_1024_426 data-type                                                                                  1083
+FCFP6_1024_42 data-type                                                                                  1083
+FCFP6_1024_431 data-type                                                                                  1083
+FCFP6_1024_438 data-type                                                                                  1083
+FCFP6_1024_444 data-type                                                                                  1083
+FCFP6_1024_444 number of missing values                                                                                  1083
+FCFP6_1024_450 number of missing values                                                                                  1083
+FCFP6_1024_457 data-type                                                                                  1083
+FCFP6_1024_458 number of missing values                                                                                  1083
+FCFP6_1024_459 data-type                                                                                  1083
+FCFP6_1024_460 data-type                                                                                  1083
+FCFP6_1024_461 data-type                                                                                  1083
+FCFP6_1024_463 number of missing values                                                                                  1083
+FCFP6_1024_468 number of missing values                                                                                  1083
+FCFP6_1024_471 number of missing values                                                                                  1083
+FCFP6_1024_477 data-type                                                                                  1083
+FCFP6_1024_47 number of missing values                                                                                  1083
+FCFP6_1024_480 data-type                                                                                  1083
+FCFP6_1024_482 number of missing values                                                                                  1083
+FCFP6_1024_486 number of missing values                                                                                  1083
+FCFP6_1024_487 data-type                                                                                  1083
+FCFP6_1024_492 number of missing values                                                                                  1083
+FCFP6_1024_494 number of missing values                                                                                  1083
+FCFP6_1024_496 data-type                                                                                  1083
+FCFP6_1024_497 data-type                                                                                  1083
+FCFP6_1024_498 data-type                                                                                  1083
+FCFP6_1024_4 number of missing values                                                                                  1083
+FCFP6_1024_501 data-type                                                                                  1083
+FCFP6_1024_502 number of missing values                                                                                  1083
+FCFP6_1024_50 data-type                                                                                  1083
+FCFP6_1024_511 data-type                                                                                  1083
+FCFP6_1024_523 number of missing values                                                                                  1083
+FCFP6_1024_528 data-type                                                                                  1083
+FCFP6_1024_532 number of missing values                                                                                  1083
+FCFP6_1024_536 data-type                                                                                  1083
+FCFP6_1024_53 data-type                                                                                  1083
+FCFP6_1024_541 data-type                                                                                  1083
+FCFP6_1024_541 number of missing values                                                                                  1083
+FCFP6_1024_544 number of missing values                                                                                  1083
+FCFP6_1024_54 number of missing values                                                                                  1083
+FCFP6_1024_558 number of missing values                                                                                  1083
+FCFP6_1024_55 number of missing values                                                                                  1083
+FCFP6_1024_559 data-type                                                                                  1083
+FCFP6_1024_562 data-type                                                                                  1083
+FCFP6_1024_562 number of missing values                                                                                  1083
+FCFP6_1024_564 data-type                                                                                  1083
+FCFP6_1024_570 data-type                                                                                  1083
+FCFP6_1024_570 number of missing values                                                                                  1083
+FCFP6_1024_573 data-type                                                                                  1083
+FCFP6_1024_574 data-type                                                                                  1083
+FCFP6_1024_576 number of missing values                                                                                  1083
+FCFP6_1024_580 data-type                                                                                  1083
+FCFP6_1024_580 number of missing values                                                                                  1083
+FCFP6_1024_588 number of missing values                                                                                  1083
+FCFP6_1024_589 number of missing values                                                                                  1083
+FCFP6_1024_591 data-type                                                                                  1083
+FCFP6_1024_594 number of missing values                                                                                  1083
+FCFP6_1024_597 number of missing values                                                                                  1083
+FCFP6_1024_59 data-type                                                                                  1083
+FCFP6_1024_599 number of missing values                                                                                  1083
+FCFP6_1024_604 data-type                                                                                  1083
+FCFP6_1024_607 number of missing values                                                                                  1083
+FCFP6_1024_609 number of missing values                                                                                  1083
+FCFP6_1024_611 data-type                                                                                  1083
+FCFP6_1024_611 number of missing values                                                                                  1083
+FCFP6_1024_613 data-type                                                                                  1083
+FCFP6_1024_614 data-type                                                                                  1083
+FCFP6_1024_615 number of missing values                                                                                  1083
+FCFP6_1024_61 data-type                                                                                  1083
+FCFP6_1024_619 number of missing values                                                                                  1083
+FCFP6_1024_620 data-type                                                                                  1083
+FCFP6_1024_626 data-type                                                                                  1083
+FCFP6_1024_627 number of missing values                                                                                  1083
+FCFP6_1024_633 data-type                                                                                  1083
+FCFP6_1024_634 data-type                                                                                  1083
+FCFP6_1024_636 number of missing values                                                                                  1083
+FCFP6_1024_637 data-type                                                                                  1083
+FCFP6_1024_63 data-type                                                                                  1083
+FCFP6_1024_642 data-type                                                                                  1083
+FCFP6_1024_642 number of missing values                                                                                  1083
+FCFP6_1024_645 data-type                                                                                  1083
+FCFP6_1024_648 data-type                                                                                  1083
+FCFP6_1024_648 number of missing values                                                                                  1083
+FCFP6_1024_656 number of missing values                                                                                  1083
+FCFP6_1024_659 data-type                                                                                  1083
+FCFP6_1024_660 number of missing values                                                                                  1083
+FCFP6_1024_662 number of missing values                                                                                  1083
+FCFP6_1024_670 data-type                                                                                  1083
+FCFP6_1024_670 number of missing values                                                                                  1083
+FCFP6_1024_677 data-type                                                                                  1083
+FCFP6_1024_677 number of missing values                                                                                  1083
+FCFP6_1024_678 data-type                                                                                  1083
+FCFP6_1024_67 number of missing values                                                                                  1083
+FCFP6_1024_679 number of missing values                                                                                  1083
+FCFP6_1024_685 number of missing values                                                                                  1083
+FCFP6_1024_686 number of missing values                                                                                  1083
+FCFP6_1024_68 number of missing values                                                                                  1083
+FCFP6_1024_693 data-type                                                                                  1083
+FCFP6_1024_697 number of missing values                                                                                  1083
+FCFP6_1024_699 data-type                                                                                  1083
+FCFP6_1024_699 number of missing values                                                                                  1083
+FCFP6_1024_701 data-type                                                                                  1083
+FCFP6_1024_707 number of missing values                                                                                  1083
+FCFP6_1024_712 number of missing values                                                                                  1083
+FCFP6_1024_715 number of missing values                                                                                  1083
+FCFP6_1024_718 number of missing values                                                                                  1083
+FCFP6_1024_720 data-type                                                                                  1083
+FCFP6_1024_720 number of missing values                                                                                  1083
+FCFP6_1024_726 data-type                                                                                  1083
+FCFP6_1024_726 number of missing values                                                                                  1083
+FCFP6_1024_728 number of missing values                                                                                  1083
+FCFP6_1024_729 number of missing values                                                                                  1083
+FCFP6_1024_736 number of missing values                                                                                  1083
+FCFP6_1024_737 data-type                                                                                  1083
+FCFP6_1024_740 number of missing values                                                                                  1083
+FCFP6_1024_748 data-type                                                                                  1083
+FCFP6_1024_74 data-type                                                                                  1083
+FCFP6_1024_749 number of missing values                                                                                  1083
+FCFP6_1024_753 number of missing values                                                                                  1083
+FCFP6_1024_754 number of missing values                                                                                  1083
+FCFP6_1024_762 number of missing values                                                                                  1083
+FCFP6_1024_763 data-type                                                                                  1083
+FCFP6_1024_763 number of missing values                                                                                  1083
+FCFP6_1024_766 data-type                                                                                  1083
+FCFP6_1024_782 number of missing values                                                                                  1083
+FCFP6_1024_783 data-type                                                                                  1083
+FCFP6_1024_783 number of missing values                                                                                  1083
+FCFP6_1024_784 data-type                                                                                  1083
+FCFP6_1024_784 number of missing values                                                                                  1083
+FCFP6_1024_786 data-type                                                                                  1083
+FCFP6_1024_791 number of missing values                                                                                  1083
+FCFP6_1024_794 number of missing values                                                                                  1083
+FCFP6_1024_795 data-type                                                                                  1083
+FCFP6_1024_799 number of missing values                                                                                  1083
+FCFP6_1024_800 number of missing values                                                                                  1083
+FCFP6_1024_803 data-type                                                                                  1083
+FCFP6_1024_806 data-type                                                                                  1083
+FCFP6_1024_808 data-type                                                                                  1083
+FCFP6_1024_808 number of missing values                                                                                  1083
+FCFP6_1024_813 data-type                                                                                  1083
+FCFP6_1024_813 number of missing values                                                                                  1083
+FCFP6_1024_827 number of missing values                                                                                  1083
+FCFP6_1024_828 data-type                                                                                  1083
+FCFP6_1024_830 data-type                                                                                  1083
+FCFP6_1024_833 number of missing values                                                                                  1083
+FCFP6_1024_834 number of missing values                                                                                  1083
+FCFP6_1024_835 number of missing values                                                                                  1083
+FCFP6_1024_838 number of missing values                                                                                  1083
+FCFP6_1024_843 data-type                                                                                  1083
+FCFP6_1024_843 number of missing values                                                                                  1083
+FCFP6_1024_847 data-type                                                                                  1083
+FCFP6_1024_853 data-type                                                                                  1083
+FCFP6_1024_853 number of missing values                                                                                  1083
+FCFP6_1024_854 number of missing values                                                                                  1083
+FCFP6_1024_859 data-type                                                                                  1083
+FCFP6_1024_861 data-type                                                                                  1083
+FCFP6_1024_861 number of missing values                                                                                  1083
+FCFP6_1024_862 number of missing values                                                                                  1083
+FCFP6_1024_864 number of missing values                                                                                  1083
+FCFP6_1024_867 data-type                                                                                  1083
+FCFP6_1024_867 number of missing values                                                                                  1083
+FCFP6_1024_86 number of missing values                                                                                  1083
+FCFP6_1024_871 data-type                                                                                  1083
+FCFP6_1024_873 data-type                                                                                  1083
+FCFP6_1024_873 number of missing values                                                                                  1083
+FCFP6_1024_874 data-type                                                                                  1083
+FCFP6_1024_874 number of missing values                                                                                  1083
+FCFP6_1024_876 number of missing values                                                                                  1083
+FCFP6_1024_878 number of missing values                                                                                  1083
+FCFP6_1024_882 data-type                                                                                  1083
+FCFP6_1024_884 number of missing values                                                                                  1083
+FCFP6_1024_887 number of missing values                                                                                  1083
+FCFP6_1024_88 data-type                                                                                  1083
+FCFP6_1024_889 data-type                                                                                  1083
+FCFP6_1024_895 number of missing values                                                                                  1083
+FCFP6_1024_896 data-type                                                                                  1083
+FCFP6_1024_896 number of missing values                                                                                  1083
+FCFP6_1024_897 data-type                                                                                  1083
+FCFP6_1024_898 data-type                                                                                  1083
+FCFP6_1024_89 data-type                                                                                  1083
+FCFP6_1024_901 data-type                                                                                  1083
+FCFP6_1024_902 number of missing values                                                                                  1083
+FCFP6_1024_904 data-type                                                                                  1083
+FCFP6_1024_911 number of missing values                                                                                  1083
+FCFP6_1024_916 data-type                                                                                  1083
+FCFP6_1024_918 number of missing values                                                                                  1083
+FCFP6_1024_922 data-type                                                                                  1083
+FCFP6_1024_924 number of missing values                                                                                  1083
+FCFP6_1024_926 data-type                                                                                  1083
+FCFP6_1024_926 number of missing values                                                                                  1083
+FCFP6_1024_929 number of missing values                                                                                  1083
+FCFP6_1024_930 data-type                                                                                  1083
+FCFP6_1024_930 number of missing values                                                                                  1083
+FCFP6_1024_933 data-type                                                                                  1083
+FCFP6_1024_934 number of missing values                                                                                  1083
+FCFP6_1024_935 number of missing values                                                                                  1083
+FCFP6_1024_939 number of missing values                                                                                  1083
+FCFP6_1024_943 data-type                                                                                  1083
+FCFP6_1024_947 data-type                                                                                  1083
+FCFP6_1024_960 data-type                                                                                  1083
+FCFP6_1024_963 number of missing values                                                                                  1083
+FCFP6_1024_96 data-type                                                                                  1083
+FCFP6_1024_972 number of missing values                                                                                  1083
+FCFP6_1024_973 number of missing values                                                                                  1083
+FCFP6_1024_976 number of missing values                                                                                  1083
+FCFP6_1024_978 number of missing values                                                                                  1083
+FCFP6_1024_97 data-type                                                                                  1083
+FCFP6_1024_980 data-type                                                                                  1083
+FCFP6_1024_982 number of missing values                                                                                  1083
+FCFP6_1024_984 data-type                                                                                  1083
+FCFP6_1024_98 data-type                                                                                  1083
+FCFP6_1024_989 data-type                                                                                  1083
+FCFP6_1024_997 data-type                                                                                  1083
+FCFP6_1024_997 number of missing values                                                                                  1083
+FCFP6_1024_99 number of missing values                                                                                  1083
+FCFP6_1024_1001 number of missing values                                                                                  1083
+FCFP6_1024_1002 data-type                                                                                  1083
+FCFP6_1024_1002 number of missing values                                                                                  1083
+FCFP6_1024_100 data-type                                                                                  1083
+FCFP6_1024_100 number of missing values                                                                                  1083
+FCFP6_1024_112 data-type                                                                                  1083
+FCFP6_1024_126 data-type                                                                                  1083
+FCFP6_1024_138 number of missing values                                                                                  1083
+FCFP6_1024_140 data-type                                                                                  1083
+FCFP6_1024_140 number of missing values                                                                                  1083
+FCFP6_1024_147 data-type                                                                                  1083
+FCFP6_1024_483 data-type                                                                                  1083
+FCFP6_1024_487 number of missing values                                                                                  1083
+FCFP6_1024_488 data-type                                                                                  1083
+FCFP6_1024_488 number of missing values                                                                                  1083
+FCFP6_1024_491 data-type                                                                                  1083
+FCFP6_1024_491 number of missing values                                                                                  1083
+FCFP6_1024_492 data-type                                                                                  1083
+FCFP6_1024_496 number of missing values                                                                                  1083
+FCFP6_1024_497 number of missing values                                                                                  1083
+FCFP6_1024_49 data-type                                                                                  1083
+FCFP6_1024_49 number of missing values                                                                                  1083
+FCFP6_1024_499 data-type                                                                                  1083
+FCFP6_1024_499 number of missing values                                                                                  1083
+FCFP6_1024_502 data-type                                                                                  1083
+FCFP6_1024_505 data-type                                                                                  1083
+FCFP6_1024_505 number of missing values                                                                                  1083
+FCFP6_1024_507 data-type                                                                                  1083
+FCFP6_1024_507 number of missing values                                                                                  1083
+FCFP6_1024_508 number of missing values                                                                                  1083
+FCFP6_1024_509 number of missing values                                                                                  1083
+FCFP6_1024_510 data-type                                                                                  1083
+FCFP6_1024_511 number of missing values                                                                                  1083
+FCFP6_1024_513 data-type                                                                                  1083
+FCFP6_1024_513 number of missing values                                                                                  1083
+FCFP6_1024_514 number of missing values                                                                                  1083
+FCFP6_1024_515 data-type                                                                                  1083
+FCFP6_1024_515 number of missing values                                                                                  1083
+FCFP6_1024_516 data-type                                                                                  1083
+FCFP6_1024_51 data-type                                                                                  1083
+FCFP6_1024_519 data-type                                                                                  1083
+FCFP6_1024_520 number of missing values                                                                                  1083
+FCFP6_1024_522 data-type                                                                                  1083
+FCFP6_1024_522 number of missing values                                                                                  1083
+FCFP6_1024_523 data-type                                                                                  1083
+FCFP6_1024_525 data-type                                                                                  1083
+FCFP6_1024_525 number of missing values                                                                                  1083
+FCFP6_1024_526 number of missing values                                                                                  1083
+FCFP6_1024_527 data-type                                                                                  1083
+FCFP6_1024_527 number of missing values                                                                                  1083
+FCFP6_1024_528 number of missing values                                                                                  1083
+FCFP6_1024_52 data-type                                                                                  1083
+FCFP6_1024_52 number of missing values                                                                                  1083
+FCFP6_1024_529 data-type                                                                                  1083
+FCFP6_1024_529 number of missing values                                                                                  1083
+FCFP6_1024_530 data-type                                                                                  1083
+FCFP6_1024_532 data-type                                                                                  1083
+FCFP6_1024_538 number of missing values                                                                                  1083
+FCFP6_1024_53 number of missing values                                                                                  1083
+FCFP6_1024_540 data-type                                                                                  1083
+FCFP6_1024_540 number of missing values                                                                                  1083
+FCFP6_1024_542 data-type                                                                                  1083
+FCFP6_1024_544 data-type                                                                                  1083
+FCFP6_1024_545 data-type                                                                                  1083
+FCFP6_1024_545 number of missing values                                                                                  1083
+FCFP6_1024_546 data-type                                                                                  1083
+FCFP6_1024_546 number of missing values                                                                                  1083
+FCFP6_1024_547 data-type                                                                                  1083
+FCFP6_1024_547 number of missing values                                                                                  1083
+FCFP6_1024_548 data-type                                                                                  1083
+FCFP6_1024_54 data-type                                                                                  1083
+FCFP6_1024_549 data-type                                                                                  1083
+FCFP6_1024_549 number of missing values                                                                                  1083
+FCFP6_1024_550 data-type                                                                                  1083
+FCFP6_1024_550 number of missing values                                                                                  1083
+FCFP6_1024_551 data-type                                                                                  1083
+FCFP6_1024_551 number of missing values                                                                                  1083
+FCFP6_1024_552 number of missing values                                                                                  1083
+FCFP6_1024_554 data-type                                                                                  1083
+FCFP6_1024_554 number of missing values                                                                                  1083
+FCFP6_1024_556 data-type                                                                                  1083
+FCFP6_1024_556 number of missing values                                                                                  1083
+FCFP6_1024_557 data-type                                                                                  1083
+FCFP6_1024_557 number of missing values                                                                                  1083
+FCFP6_1024_55 data-type                                                                                  1083
+FCFP6_1024_560 number of missing values                                                                                  1083
+FCFP6_1024_567 data-type                                                                                  1083
+FCFP6_1024_567 number of missing values                                                                                  1083
+FCFP6_1024_56 data-type                                                                                  1083
+FCFP6_1024_56 number of missing values                                                                                  1083
+FCFP6_1024_569 number of missing values                                                                                  1083
+FCFP6_1024_571 number of missing values                                                                                  1083
+FCFP6_1024_572 data-type                                                                                  1083
+FCFP6_1024_572 number of missing values                                                                                  1083
+FCFP6_1024_573 number of missing values                                                                                  1083
+FCFP6_1024_574 number of missing values                                                                                  1083
+FCFP6_1024_575 data-type                                                                                  1083
+FCFP6_1024_575 number of missing values                                                                                  1083
+FCFP6_1024_578 data-type                                                                                  1083
+FCFP6_1024_57 number of missing values                                                                                  1083
+FCFP6_1024_581 number of missing values                                                                                  1083
+FCFP6_1024_582 data-type                                                                                  1083
+FCFP6_1024_582 number of missing values                                                                                  1083
+FCFP6_1024_584 data-type                                                                                  1083
+FCFP6_1024_585 data-type                                                                                  1083
+FCFP6_1024_585 number of missing values                                                                                  1083
+FCFP6_1024_590 number of missing values                                                                                  1083
+FCFP6_1024_591 number of missing values                                                                                  1083
+FCFP6_1024_592 data-type                                                                                  1083
+FCFP6_1024_593 data-type                                                                                  1083
+FCFP6_1024_593 number of missing values                                                                                  1083
+FCFP6_1024_594 data-type                                                                                  1083
+FCFP6_1024_595 data-type                                                                                  1083
+FCFP6_1024_595 number of missing values                                                                                  1083
+FCFP6_1024_597 data-type                                                                                  1083
+FCFP6_1024_598 data-type                                                                                  1083
+FCFP6_1024_59 number of missing values                                                                                  1083
+FCFP6_1024_599 data-type                                                                                  1083
+FCFP6_1024_600 number of missing values                                                                                  1083
+FCFP6_1024_602 data-type                                                                                  1083
+FCFP6_1024_602 number of missing values                                                                                  1083
+FCFP6_1024_604 number of missing values                                                                                  1083
+FCFP6_1024_605 data-type                                                                                  1083
+FCFP6_1024_607 data-type                                                                                  1083
+FCFP6_1024_608 data-type                                                                                  1083
+FCFP6_1024_608 number of missing values                                                                                  1083
+FCFP6_1024_609 data-type                                                                                  1083
+FCFP6_1024_610 data-type                                                                                  1083
+FCFP6_1024_610 number of missing values                                                                                  1083
+FCFP6_1024_612 data-type                                                                                  1083
+FCFP6_1024_613 number of missing values                                                                                  1083
+FCFP6_1024_614 number of missing values                                                                                  1083
+FCFP6_1024_615 data-type                                                                                  1083
+FCFP6_1024_616 data-type                                                                                  1083
+FCFP6_1024_616 number of missing values                                                                                  1083
+FCFP6_1024_617 data-type                                                                                  1083
+FCFP6_1024_617 number of missing values                                                                                  1083
+FCFP6_1024_618 data-type                                                                                  1083
+FCFP6_1024_618 number of missing values                                                                                  1083
+FCFP6_1024_619 data-type                                                                                  1083
+FCFP6_1024_620 number of missing values                                                                                  1083
+FCFP6_1024_621 data-type                                                                                  1083
+FCFP6_1024_621 number of missing values                                                                                  1083
+FCFP6_1024_624 number of missing values                                                                                  1083
+FCFP6_1024_626 number of missing values                                                                                  1083
+FCFP6_1024_627 data-type                                                                                  1083
+FCFP6_1024_628 data-type                                                                                  1083
+FCFP6_1024_628 number of missing values                                                                                  1083
+
+1000 Rows. -- 39133 msec.

@@ -1,0 +1,33 @@
+Result of /data/leuven/370/vsc37064/new_queries_named_graph_predicated_grouped/query_51.txt:
+OpenLink Virtuoso Interactive SQL (Virtuoso)
+Version 07.20.3240 as of Mar 11 2025
+Type HELP; for help and EXIT; to exit.
+Connected to OpenLink Virtuoso
+Driver: 07.20.3240 OpenLink Virtuoso ODBC Driver
+label                                                                             runID                                                                             maxPrecision                                                                      hpLabels                                                                          hpSettingValues
+LONG VARCHAR                                                                      LONG VARCHAR                                                                      LONG VARCHAR                                                                      LONG VARCHAR                                                                      LONG VARCHAR
+_______________________________________________________________________________
+
+scikeras.wrappers.KerasClassifier(1)                                                                                  http://w3id.org/mlsea/openml/run/10559888                                                                                  0.988723415114582                                                                                  batch_size
+epochs
+loss
+model
+optimizer
+random_state
+run_eagerly
+shuffle
+validation_split
+verbose
+warm_start                                                                                  32
+5
+'categorical_crossentropy'
+{'oml-python:serialized_object': 'function', 'value': '__main__.cnn_model_1'}
+'Adam'
+39019
+false
+true
+0.0
+1
+false
+
+1 Rows. -- 44764 msec.

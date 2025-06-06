@@ -1,0 +1,1012 @@
+Result of /data/leuven/370/vsc37064/new_queries_named_graph_type_split/query_29.txt:
+OpenLink Virtuoso Interactive SQL (Virtuoso)
+Version 07.20.3240 as of Mar 11 2025
+Type HELP; for help and EXIT; to exit.
+Connected to OpenLink Virtuoso
+Driver: 07.20.3240 OpenLink Virtuoso ODBC Driver
+datasetName
+LONG VARCHAR
+_______________________________________________________________________________
+
+ Pinhão - 1st Training
+ VIDIT’20 validation set
+(D) P BERT 1.5 fast 1 TEST
+./test_explotaacion_de_datos.csv
+/content/test
+/kaggle/input/arabic-summarization-contest
+00000test_01
+001_task1_test.csv
+010423ֹֹ_5train3val2test
+01ocak_validation_outputs
+02-bert-training
+02TEST
+0305testinfer
+0616_latest
+08012023_opticalFlow_test_112x112
+0820test04mse
+0914_coat_test
+0dd1cebea57-test80-v6-dd
+1-precent-training-set
+10 latest reviews of each London Mcdonald's
+10-X Filings - Test
+1003test
+100k Validation Records for CTR Prediction
+100ms javascript docs for testing (not refined)
+100tvtest
+1018-img-test
+102-test-crop
+10foldtrainingdata
+10june_maskrcnn_latestmodel
+10june_maskrcnn_testy
+10w_data_test
+11june_unetplusresnet34_test
+11sept_effiv2s_testhigheriterations
+123456789_xsq_caltech_test
+123Test
+128test135to155
+12aug_unetplusseresnet_test512
+12sept_effib2_test
+12sept_effiv2_test
+13aug_mitunet_test
+13aug_unetmitb3_test
+13aug_unetmitb4_test
+13march_dense121_test
+14june_Unetseresnet50stackedresnet50d_test
+14nov_convnextlargein22ft1k_20epochstraintest
+15 sences train and test
+150-epoch Udacity training
+15aralik-segm-smp-training-TESTset-with-fullaug
+15aralik-segm-smp-training-imagenet-fullaug
+15aug_unetplusseresnet101_test
+15k_45_FINAL_VALIDATION_DATA
+15nov_convnextlargein22ft1k_15epochstraintest
+15textures test input
+16 Factor Personality Test Responses
+16 Personality Factors - Personality Test
+16jan_resnet50_test
+16nov_convnextlargein22ft1k_9epochstesttrain
+16nov_convnextlargein22ft1k_9epochstraintest
+16okt_effib1ns_test
+16sept_swins_testfold0
+17live test
+18-rows-test
+1876 to 2022 test cricket data
+18april_effib0_test
+18jan_resnet50_test
+18——test
+19june_unetplusseresnet50_test
+19june_unettimmresnest50d_test
+1D_BarcodeTesting2
+1D_BarcodeTraining
+1_2weights_brats_training_dr_unet104
+1_3weights_brats_training_dr_unet104
+1_min_test_1_2
+1_min_test_2_2
+1ee1aba5ed-test60-2020-test77-nov2021-2tb7p
+1ee1aba5ed-test80-martojul2023-2tb7p
+1inputTest10min
+1june_timmeffib4_test
+1k connect4 validation set
+1st_7days_train_validation_set
+2-test
+2.03.TestData
+2.5Dtesting
+20 Percent Training Set_0
+20 Percent Training Set_sumo
+20-Bn Jester TFRecord (20 Classes) Validation
+200 Hour Yoga Teacher Training Rishikesh
+200 Hour Yoga Teacher Training Rishikesh
+200 hour yoga teacher training rishikesh
+2006 - 2011 NYS Math Test Results By Grade Dataset
+2017 2018 SHSAT Admissions Test Offers By Schools
+2017-2018 SHSAT Admissions Test Offers
+2017_teste
+2017test_final
+2019-2nd-ml-month-with-kakr-correct-test
+2019-training-data
+2019-training-data-temp
+2019-training-data2
+2019-training-data3
+20190917_01_UMAP_input_raw_train_test
+2019_test set
+20201109TabNetTest2
+20201109TabNet_Test
+20201109TabNet_Test1
+20201109TabNet_Test3
+20201109_Test4
+20201111TabNet_Test_model_V1
+20201124_ensemble_1_test.csv
+20201221test
+2020_testx
+2020_testy
+2021 SAT Stats (Student Admissions Test)
+2021-06-05 UFC Contest Dummy Submission
+2021-06-26 UFC Contest Dummy Submission
+2021-06-26 UFC Contest JavoClown Submission
+2021-06-26 UFC Contest mdabbert Submission
+2021-07-17 UFC Contest mdabbert Submission
+2021-07-24 UFC Contest Dummy Submission
+2021-07-24 UFC Contest Submission - mdabbert
+2021-07-31 UFC Contest Dummy Submission
+2021-07-31 UFC Contest mdabbert Submission
+2021-08-07 UFC 265 Contest Dummy Submission
+2021-08-07 UFC 265 mdabbert Contest Submission
+2021_tianchi_oppo_query_pair_match_nlp_contest
+2021_train/test_NIRF
+2022-11-14-sentiment-test
+20220415_topk_gru_test_model
+20220719_prompt_test
+20220719_testvalloss_spanlabel_dlv3_mergespan
+20220809_Test_Reports_Good_Bad
+20220906test
+2022_DATA_FUNGICLEF_TEST
+2023 HELMET LABORATORY TESTING PERFORMANCE RESULTS
+2023 IEEE GRSS DATA FUSION CONTEST
+2023DLCV_hw1_1_test
+2023dlcv_hw1-3-test-data_new
+2023dlcv_hw1_1_test_data
+2023dlcv_hw1_2_test_data_yes
+2023dlcv_hw1_3_test_data
+2024TDBTEST
+20april_effib0_test
+20april_effibo_test
+20june_timmresnest50d_test
+20subat_test_models
+21april_effib0_testcut
+22aralik-segm-smp-training-fullaug-stats-newD
+22aralik-stage2-ThumbTileClsf-training-newData
+22sept_effiv2s_6000iterationstest
+23sept_effib6test
+256-trainingset
+256_test
+25aug_test
+25aug_test1
+25aug_unetplusseresnet101_fold4test
+25aug_unetplusseresnet101_test
+25aug_unetplusseresnet101_test890
+26aug_segformermitb5_test
+26aug_testsegformermitb2
+26march_effib0_test
+26march_effib1ns_test
+27june_yolov7_test3
+27sept_effib6_test
+27sept_testalphafold
+27septtestdeepddgserver
+28aug_segformermitb5_fold1test
+28jan_test
+28sept_effib0_8000iterationstest
+28x28testdataset
+29Aralik-segm-training-NEWD-effnetb3
+29Aralik-segm-training-NEWD-effnetb3-19ep
+29aug_unetplusseresnet101_test
+29march_effib3_test
+2D-Arome-Testset
+2DCNN Training SKF
+2DCNN Training _tfrecord
+2D_BarcodeTesting2
+2d_validation
+2july_segformer_test
+2nd Assignment DMT (Public test set)
+2ndaugust_test
+2sept_coatdoafmer_test
+2training-rounds
+300 Hour Yoga Teacher Training Rishikesh
+300 Hour Yoga Teacher Training Rishikesh
+300 Test Photos
+300 of the World's Greatest Small Arms
+300k_Validation
+30_min_test_1_1
+30aug_unetplusseresnet101_test200epochsauxloss
+30mart_fulldata_basecentervalidation
+30may_mitb2_test
+31aug_uneteffib6_test50epochs
+330_test
+384_eb7_test
+3D CNN_TrainingV1_Debug_epo17_fold6_head800
+3D MT Dataset TestAndVal
+3D-Arpege-Testset
+3G_test
+3fold_test
+3graytest
+3rgbtest
+4 kelas training
+40k_aspect_test
+443 test images
+443-test-images
+4_test
+4okt_effiv2ink21_test4folds
+4sq_training_data_for_binary_lgb_v9_gpu
+500 Greatest Songs of All Time
+500 Greatest Songs of All Time Rolling Stones
+500 hour Yoga Teacher Training Rishikesh
+5000 No flip test 無翻轉測試
+50InputTest
+50States2k_test
+50inputtest
+512*512 testing
+512x512 hybrid mfp-fsm validation
+512x512 test images
+512x512 test_mask
+567testdata
+5G Network Slicing Training Dataset
+5G Throughput / Speedtest mmWave Dataset
+5_lang_train_test_new
+5_min_test_1_2
+5_min_test_2_2
+5f train test val dataset
+5sept_unetefficientnetb6_test200epochs
+6733_test
+6aug_test3
+6may_efib0_nofliptest
+6okt_effiv2s_test
+6sept_test
+6sept_testcoat200epochs
+7 - hypothesis testing data
+7008 translation test dataset
+7028FinalTest🌱
+7028_0219test
+7028test-0221
+721 Weight Training Workouts
+7350_test_fold1_midModel
+74k + Vietnamese Graduation Exam Testscores
+7aug_test6
+7jan_katest
+7jan_test0.578
+7july_transforms_test
+7okt_maxnetl_test
+7th_anime_v3_testC
+7th_v3_testC
+80%-test
+80%_test_data
+80-20 train test Data science bowls 2018
+80training10val10testing
+893 Monet Test Paintings (TFRecords)
+8aug_test1
+8aug_test5
+8aug_testwithwholeimage
+8august-test6
+8june_timmefficientnetb0_test
+8sept_EfficientNetB6_test
+8sept_RSNAtest
+8sept_uneteffib6_test
+94test
+95% Test Accuracy
+9_25_output_bert_lgb_test_new_base
+9_26_output_bert_lgb_test_large_clean
+9_28_output_bert_lgb_test_large_no_clean
+9july_yolov7_test
+9june_Unetseresnet50stackedddynamicpool_test
+9june_maskrcnn50_test
+9march_seresnet504d_noaugintraining
+9sept_effnetm_test
+A Level Computer Science NEA Target Audience Test
+A Level Computer Science NEA Testing Results
+A Visual and Intuitive Train-Test Pattern
+A test case data set with requirements
+A test for YOLOV8 in the streets of Egypt
+A well Cleaned Train & Test datasets using Excel
+A-B testing
+A/B TESTING OF THEME
+A/B Test - Hypothesis - Python
+A/B Test - Marketing Campaign dataset
+A/B Test Aggregated Data
+A/B Test Data (App)
+A/B Test Data (Online Store)
+A/B Test Dataset
+A/B Test Results
+A/B Test User-Aggregated Results
+A/B Test of Online advertising
+A/B Testing
+A/B Testing
+A/B Testing
+A/B Testing
+A/B Testing
+A/B Testing Data
+A/B Testing Data
+A/B Testing Data Conversinon
+A/B Testing Data Set
+A/B Testing DataSet
+A/B Testing Dataset
+A/B Testing Randomized Experiment
+A/B Testing Results
+A/B Testing datasets
+A/B Testing for Web Page Design
+A/B test
+A/B test Cookie-cats
+A/B test Cookie-cats
+A/B test data
+A/B test data
+A/B test data
+A/B testing
+A/B testing
+A/B testing -instagram marketing strategy
+A/B testing Dataset
+A/B testing dataset
+A/B testing e commerce website
+A01_Titanic_Test01
+A1 testcases
+A2 Test
+A2Dre test
+AAPL.test
+AB TEST
+AB Test
+AB Test
+AB Test Project
+AB Testing
+AB Testing
+AB Testing
+AB Testing
+AB Testing Data
+AB Testing Dataset
+AB Testing Dataset
+AB test
+AB_Test12
+AB_Test_data.csv
+AB_Test_practice_case
+AB_Testing
+AB_Testing_Bidding
+AB_test
+AB_testing_facebook
+ACB Training
+ACDC_traintest_split
+ACLED Protests & violence in Indonesia 2015-2019
+ADEChallengeData2016WithTest
+ADJUSTED Tomato OD Test JSON
+ADNI-TEST
+AE - Classification test
+AES2024|Starter|TrainTest
+AFL test 2
+AFM-Test
+AFM-test1
+AFM-testingnewcurves
+AI & DS Coursera Trainings
+AI Image- Human Image Training Data For Sniffusion
+AI cup flower contest
+AI project Gestalt test data
+AI-Test
+AI4 code testbaseline
+AI4ALL_TestData
+AI4ALL_TrainingData
+AI4Bharat/IndicQA Bangla Test
+AIC-1(Validation)
+AIC24-VideoFeatures-Test
+AIC24TrainingExternal
+AIC24VidTestExternal
+AICV Final Public Test Img 480
+AICV Final Public Test Img 800
+AICV IMG TEST
+AICV MS 256 Public Test
+AICV MS 288 Public Test
+AICV MS 480 Public Test
+AICV MS Public Test
+AICV Private Test 800 Spec
+AICV Private Test Wav
+AICV Public Test 1024 Spec
+AICV Public Test 1s Split Wav
+AICV Public Test 512 Spec
+AICV Public Test Img MelSpec 512
+AICV Public Test MS Img
+AICV Public Test MelSpec 128
+AICV Public Test MelSpec 256
+AICV Public Test MelSpec 384x768
+AICV Public Test Mfcc Npy
+AICV Public Test PNG
+AICV Public Test Spec 800 Same Len Img
+AICV Public Test Wav Same Len
+AICV Test Final Public Data
+AIDA/testc
+AIM Lab TEST DATASET
+AIMO Training Set Solutions
+AISHELL-2 Test Android
+AISHELL-2 Test IOS
+AISHELL-2 Test Mic
+AK's Test Dataset
+ALASKA2 Test TFRecords
+ALB-ITES Raw Test Dataset
+ALCL_test
+AMEX Parquet Test in CSV
+AMEX Training Data - Parquet Partitions
+AMEX Training Pickle Dataset
+AMEX Training Pickle File v2
+AMEX default prediction test data in parquet file
+AMEX splitted test parquet files by customer ID
+AN2DL_split_NO_TEST
+ANGIO MODEL TESTING
+ANLI test
+ANOVA Test |Applications of ANOVA | One-way ANOVA
+API - Test Creation 5
+API Test Automation
+APIS_test_data
+APTOS2019 Test for Probe
+ASAG train-test split
+ASAP-Review-Testing-Set
+ASAP-Review-Training-Set
+ASL ALPHABET TEST
+ASL Alphabet New Test
+ASL Alphabet Test
+ASL Alphabet Training Set 937 images
+ASL Training Transformer
+ASL-Signs Training Dataset -- DuckDB Format
+ASL-test-images
+ASLFR-qsj-test
+ASL_Frank_test
+ASL_TestData
+ASNR-MICCAI-BraTS2023-GLI-Challenge-ValidationData
+ASTHAM-TEST
+ATK-12K for Animation VFI training
+AUG-TEST
+A_B TEST
+A_B_TESTING
+A_Backdoor_11_test
+A_Backdoor_12_test
+Abalone_Test_Dataset
+AbelValidation_neg10-pos1
+AbelValidation_neg5-pos1
+Abott_test
+Abschlussprojekt_DataAnalysis_Alfatraining_Apr2024
+Abschlussprojekt_Python_Alfatraining_Feb_2024
+Abschlussprojekt_SQL_Alfatraining_Jan_2024
+Abschlussprojekt_Statistik_Alfatraining_Dez_2023
+Abstraction and Reasoning Challenge Data - Latest
+Acceleration Data of a Loose Bolt (Junker Test)
+Accenture_CreditScore_TrainingDataSet
+Accuracy Test
+Accuracy Test 2
+Achat en ligne test
+Actual test data
+ActualTest
+Ad A/B Testing
+Adhil's Plant Diseases Test Dataset
+Aditya_Testing_Images
+Adobe-test-embeddings
+Adult Test
+Adult income(train, test) dataset
+Adversary_test
+AerialImageTestDatabase
+Africa biomass test data
+Age Test Dataset
+Agrifarm plant test
+Ai lab test
+AirDigit/test
+Air_quality_test
+Airbnb - Training and Testing Data
+Airborne and Waterborne Training Dataset
+Airbus Aircraft Test Dataset
+Aire Pollution Train&Test
+Airline_training
+AlexNetTrainingExercise
+Algılanan Stres Testi Sonuçları
+All Indian ODI and TEST Cricketers with statistics
+All Test Cricket Innings
+All weights For Testing pfe master
+All_test
+All_test_folder
+All_training_with_mask
+Alligned faces test
+Alltestdata
+Alok_test
+Alone - Ultimate test of human will.
+Alpha-Version Fullscale IQ Test Responses
+AlphaFold v4 PDB Files for CAFA5 Test & Train
+Alternate-training-BART-checkpoint2
+Alzheimer | ALLFTD T_Test
+Amazon 10+Year Stock Data [Latest][1997-2020]
+Amazon Review Testset
+Amazon Stock Data(Oct 2019 - July 2020)[LATEST]
+Amazon-10Year-Stock-Data-Latest1997-2020
+Amazon-Stock-Data(Oct-2019---July-2020)LATEST
+Amazon_test_dataset
+Amengtest
+America's Greatest Workplaces for Women 2024
+Ames Train and Test Set
+Amex default prediction test data
+Amex training data for EDA
+Amex training data parquet file
+Amex: Test Batch Data
+Amex_parquet_train_test_fe_dart
+Amiens2019_test
+Analyse_Training_Deficiencies
+Analytics Avengers_Test
+Analyze A/B tests
+Analyze_A/B_test_results
+Analyze_ab_test_results_Notebook
+Analyzing A/B Test Results
+Analyzing NYC Public School Test Result Scores
+Anand_face_for_testing
+Anbn14-test-valid
+AndreiTest
+Android & iOS Devices Benchmark Test Results
+Animal Testing in the US in 2016
+Animal_Test_v3
+Animated Movies Testing
+Anime_naruto_test2
+Annythroid Training Data
+Anomaly Test Minibatches
+AnsaradaTest
+Anti Spoof Data NPZ 1 Test
+Antidoping athlete test Usadas
+Apache_Training_Data.json
+Apple Stock Data - Live and Latest - From IPO Date
+Apple Stock Data(Oct 2019 - July 2020)[LATEST]
+Application Test Status Data
+Aqua-Test
+Arabic Dataset for Commonsense Validation¬†
+Arabic test
+Arabizi Dialect Training Data
+Arcface Embedding for test
+Are you also bad with faces? - Face memory test
+Argoverse-HD (Detection-Only, Test)
+Argoverse-HD (Full-Stack, Test)
+Arima101Test
+Arthropod Taxonomy Orders Object Detection Testset
+Artificial signal data for signal alignment testing
+Artworks Training Data
+Assignment2_testcases
+Attendance_training
+Audio Test Data
+Audio files generated after training TTS
+AudioDataTest
+AudioTest
+Audio_test
+Audiotest
+AugFER2013_scaled_rgb_224_224_Just Training
+Aug_training_dataset
+Augmented validation dataset COCO VQA v2.0
+Author Profiling Train Test
+AutoGluon_Test_1
+Automobile-test
+Automobile_Test01
+Autonomous Driving validation data
+B6FeaturesTest
+BARCS_3class_test
+BARCS_Classifier2_test
+BATAI_dataset_without_validation
+BB TEST 1
+BBC Test2
+BBGCNtest
+BBG_TEST
+BBM409 Assignment2 Test Prediction Datas
+BCDTestnpy
+BD - SHS test English data google translated
+BDC Training Gender and Age
+BDD100K test
+BDM_Compettition_2024_Test_Social_Credit_Score
+BEA-2019 (test)
+BERT-Training-BookReview-Dataset
+BEV_train_test
+BIKE_TEST
+BKAINAVER_TrainingData
+BLM Protest Locations
+BM25 Base Training Set
+BMC_TrainingData
+BMS - 1 of 2 - 384x768 - Train - w/ Validation
+BMS TFRecord 256x512 test
+BMSrougeAllTest
+BNG(spect_test)
+BNG(spectf_test)
+BOOL Training & Checking
+BRATS23 Validation + Saved Model
+BRATS_2018_Training
+BRATS_2018_Validation
+BRATS_2023_Training
+BRATS_2023_Training
+BRATS_2023_Training_T1C_npy
+BRATS_2023_Training_T2F_240_npy
+BRATS_2023_Training_T2F_npy
+BRATS_2023_Training_T2W_npy
+BRATS_20_TrainingData_data_png_1
+BRATS_20_Training_masks_png
+BRATS_20_Training_masks_png_1
+BRATS_20_Validation_data_png_1
+BRtest
+BSATestBohdan
+BSETestingData
+BURST Box Exemplar-guided (test) 
+BURST Common Class-guided (test)
+BURST Long-tail Class-guided (test)
+BURST Mask Exemplar-guided (test)
+BURST Open-world Class-guided (test)
+BURST Point Exemplar-guided (test)
+BURST-test
+Baackdoor_test_2
+Backdoor_test_5_correct
+Backdoor_test_6
+Backtest for a trading strategy
+Backtested Data
+Baidu Curated Test Set
+Banana Test
+Band_pass_TrainTest_G2NET_audio_wave_data
+Bandpass Waveform TFRecords Creation test 0 - 4
+Bangla Transcript Test
+BanglaLekha-Isolated (Train & Test Split)
+Bangladesh COVID-19 Testing Centers & Kiosks
+Bank Churn (test)
+Bank Data : Testing
+Bank Personal Loan Modelling(best for training)
+Banking training and Testing data
+Banknote_Test UP MLP
+Bark-101 Train-Test Split
+Base de dados de testes
+Basophile_test
+Battery test data - fast formation study
+BddTest
+Beantraining
+Bechdel Test
+Bechdel Test Movies (as of Feb 28, 2023)
+Behaviour Dataset Test Adobe
+Benefits of interactive videos for training
+Benetech_TrainingData
+Bengali Validation
+Bengali_Model_Test
+BenoMaqdahKaggleTest
+Berkshire Hathaway - Stock - Latest and Updated
+Berlin Contest Dataset
+Berserk-Heroes-Validation
+Beru Test
+Best Roberta AFter correcte validation
+Best Software Training Institute in Chennai
+Better-CV-Test
+BiblioData_Hackathon_test
+Big 5 test data
+Big Five Personality Test
+Big Five Personality Test - Removed NaN and 0
+Big Five, MBTI and TIPI Test Results
+Big Fiver Personality Test NEO IPIP 300 Pakistan
+Big Mart Sales Test Data
+BigEarthNet (official test set)
+BigEarthNet-S1 (official test set)
+Bigearthnetcorinetfrecordtest
+Bigmart train & test data
+Bike Sharing Demand_test and train
+Bike_Sharing_Demand_Test
+BinaryTest
+Bioquad_test
+BirdCLEF 2024 - Training Subset
+BirdCLEF 2024 EfficientVit Training Dataset
+BirdCLEF 2024 Training Soundscape MFCC
+BirdCLEF Soundscape Training
+BirdCLEF2020 Validation Audio and Ground Truth
+BirdCLEF2020 soundscape validation
+BirdCLEF2023_Training_Data
+BirdCLEF23: Pretraining is All you Need [Train] ds
+BirdCLEF24: Pretraining [Train] model
+Bitcoin_test_dataset
+Blank-test1
+BloodTest
+Blortzk HuBMAP Test Overlapping Tiled Images
+Blue Bot Dataset: Train, Test, Validate
+Blue Origin's reusable rocket test (DDL-F1)
+Boat Photos Test 1
+BoneAge_training_selection12297
+Book Image Sorter Test
+Book Image Sorter Training
+BookTest
+Books Price Predictions Test&Train Sets
+Border Gavaskar Trophy (India vs Australia tests)
+BoucleTest
+BraTS 2019 (Train/Test/Valid)
+BraTS2020 Dataset (Training + Validation)
+BraTS2021_Training and Validation
+BraTS2021_Training_Data_Son
+BraTS2023-SSA-Training-Dataset
+BraTS_training_FLAIR_1_niftis
+BraTS_training_FLAIR_2_niftis
+BraTS_training_FLAIR_3_niftis
+BraTS_training_FLAIR_4_niftis
+BraTS_training_T1wCE_1_niftis
+BraTS_training_T1wCE_2_niftis
+BraTS_training_T1wCE_3_niftis
+BraTS_training_T1wCE_4_niftis
+BraTS_training_T1w_niftis
+BraTS_training_T2w_1_niftis
+BraTS_training_T2w_2_niftis
+BraTS_training_T2w_3_niftis
+BraTS_training_T2w_4_niftis
+BraTs-Dataset-training-npy
+BraTs-training-dataset-numpy
+BrackishMOT_Test
+Brain CT npy test
+Brain Tumor Segmentation Training and Test Sets
+Brain Tumor Test Benign
+Brain Tumor Test Malignant
+BrainImageTest
+BrainSightAI_test_data
+BrainsTest
+Brats2018-Training-Half
+Brazilian Protest
+Breast Cancer Data Testing
+Breast cancer ICPR contest
+Breast_test
+Bu101-test
+Building-test
+Bulldozer Training Dataset
+Business Case: Yulu - Hypothesis Testing
+Byte Test
+BỘ TEST NGƯỜI NỔI TIẾNG
+C-NMC_training_data
+CA4-test
+CAFA3 test embeddings
+CAFA5 PDB Test
+CAFA5_Train_Test_data
+CAIL2019-SCM - test
+CALLHOME Spanish Speech (Test)
+CARLA-64 Training
+CART, RF train and test datasets
+CASIA-Test-dataset
+CAT: Context Adjustment Training
+CAr test
+CBC Laboratory Testing
+CBIS dataset Shearlet Test
+CBIS dataset Shearlet Validation
+CBIS-test
+CCCD Test Dataset
+CG_test
+CHASEDB1_test
+CICIDS2018-train-test-dataset
+CIFAR-10 Training Set in CSV
+CIFAR-10(.zip for train and test)
+CIFAR10 RGB Training Images
+CIFAR10-test
+CIFAR10_ValViTest_thin_mask
+CLIP_EMBED_Company_Test
+CLIP_Embeds_Test_Time
+CLOUD TEST IMAGES
+CLPR: Ragnar and 467 training sets
+CMI_cleaned_training_data
+CMI_subtest
+CMS NSC Revalidation Letters Mailed
+CMeEE_test_span_data
+CNN-Test2
+CNN-dataset-for-training-happy-transformer
+CNN-dataset-validation-for-happy-transformer
+COCO 2014 test
+COCO Captions Karpathy Test
+COCO Captions test
+COCO count-test
+COCO test-challenge
+COCO test-dev
+COCO-Stuff test
+COCO2017_Test
+COCO2017_Test
+COCO_Test_2017_Images
+COCO_VQA_test
+CODTest
+COMP4471 Group Project Test Set
+COMP9417_project_test
+COTS Fold4 Validation Dataset
+COTS_YoloXs_test
+COTS_test
+COTS_train_test_split
+COVID - 19 Combined Latest
+COVID - CEARÁ - TESTES
+COVID 19 Testing Tracking in States in USA
+COVID 19 survey - PPE and testing
+COVID TEST NEW 1
+COVID Test Data
+COVID-19 CT segmentation Training dataset
+COVID-19 DATASETS (Vaccination, Testing etc)
+COVID-19 Data with Testing
+COVID-19 Dataset Bangladesh [Latest]
+COVID-19 Diagnostic Lab Testing 2020
+COVID-19 Diagnostic Laboratory Testing (PCR)
+COVID-19 Diagnostic Laboratory Testing Time Series
+COVID-19 India Latest Update(25-03-2020)
+COVID-19 Latest Data from WHO
+COVID-19 OWID testing data
+COVID-19 Pathology Test Totals SA2, Queensland AUS
+COVID-19 Racial Data - Tests performed and Deaths
+COVID-19 Rorschach test dataset
+COVID-19 State & County Testing Site Need Analysis
+COVID-19 Statewise Testing Details India
+COVID-19 Statewise Vaccine Doses - India [Latest]
+COVID-19 World Testing Progress
+COVID-19 Xray Dataset (Train & Test Sets)
+COVID-19 testing
+COVID-19 testing centres count in India
+COVID-19_Diagnostic_PCR_Testing
+COVID-19_Tests
+COVID-tests
+COVID19 Indian Testing Labs
+COVID19 World Testing Count-Rate All Countries
+COVID19 Worldwide Testing Data
+COVID19 lateral flow test images
+COVID19TestingData
+COVID19_Train_Test_mask_dataset
+COVIDx_test_folder
+CQT Dataset Encode JPEG - Test
+CQT Dataset Encode PNG - Test - No whiten
+CQT G2Net EfficientNetV2 Training
+CQT G2Net Test [0 - 1]
+CQT G2Net Test [2 - 3]
+CQT G2Net Test [4 - 5]
+CQT G2Net Test [6 - 7]
+CRM Analyst Test
+CRMTest
+CR_Test
+CS155_Proj1_Test_Feats_v1_8
+CS50-3-External Validation
+CSE 547 Test data
+CSI_satelite_testset
+CSV Upload Test
+CSVFer2013-TestVald
+CT TESTING DATA BRAIN
+CT TRAINING DATA BRAIN
+CT-1-test
+CTBRAINTESTPNG
+CT_testnoncivid
+CUB200-2011 with train/test split
+CUB_test
+CV_GA2_test-data
+CV_GA2_training-data
+CV_TEST
+CV_Testing
+CWT TFRecords pp test part1
+CWT TFRecords pp test part2
+CWT TFRecords pp test part3
+CWT TFRecords pp test part4
+CWT TFRecords pp test part5
+CWT-KM TFRecords pp test part1
+CWT-KM TFRecords pp test part2
+CWT-KM TFRecords pp test part3
+CWT-KM TFRecords pp test part4
+CW_Test_Train
+CXR Test Images
+CZ4501 PCS TEST DETERMNSTIC
+Calc-Training-Full
+California Test Score Data
+Call Tests Measurements for MOS prediction
+Canadian Potato chips October 2022 - testing
+CancerNormalTestData
+CancerTestDataSet
+Candidates_test_data
+CapstoneMazdaTestingSet
+CapstoneMazdaTrainingSet
+Captcha_test_data
+CaptionTest
+Caption_data_CROHME_2014_test
+Captioning_test
+Car price Testing data
+CarTest
+CarTrainTest2
+Career_bot_test
+CarlaTest
+Cars Reliability Test 2022
+Cars_test
+CarteNormal2DragTest
+Cartest
+Cassava Leaf Disease (Ensemble Tests)
+Cassava Test Images
+Cassava-Fastai-Model_test
+Cassava_CSPResneXt50_lb0.877_training_weights
+Cassava_EffNet_B3_lb0.898_training_weights
+Cat Image Test
+CatDog_Test_data
+Catalogue Scoring Testing data
+Cats Dogs Test Dataset Rearranged
+Cats Dogs Training Data Rearranged
+Cats and Dogs [no test data]
+Cats and dogs v512-test
+Cats vs Dogs Training8000Test2000
+Cattell's 16 Personality Factors Test
+Cebradata for GAN training
+CelebA-Test
+Cell samples test
+Celldata_test_V3
+Chainsaw Testing
+Challenge1 TrainingData
+Challenge_1 Test
+Challenge_2 Test
+Charles_test_1_cardtranslation
+ChaseDB1_train_DRIVE_test1
+Chase_train_test
+ChatGPT Software Testing Study
+ChatGPT-software-testing
+Chatbot Training Dataset
+CheckMismatch.testDTF
+CheckPoint2D_SegmentationTest
+Cheese Test CSV
+Chelsea-Test-20220211
+Chest Test
+Chest X-Ray test (diff sizes)
+Chi-Square Tests
+Chi-test
+Chicago West Nile Virus Mosquito Test Results
+Children's Book Test
+Children's Book Test Common noun
+Chinese-CLIP-Test-Result-Data
+Chunked training data for predict taxi fares
+Cifartest10
+Cipla Contest
+CityPersons_trainvaltest
+Cityscapes test
+Cityspaces_test
+Class-guided - common - test
+Class-guided - long-tail - test
+Class-guided - open-world - test
+ClassificationDataTraining
+Clean Training Set
+Clean_Testset_SEGAN
+Cleaned Benetech Training Data
+Cleaned Day-Trading Training Data
+Cleaned Test and Train data for House Price
+Cleaned Training Labels (21-23) for BirdCLEF2023
+Cleaned_products_training_data_K
+Clear test_data final
+Cloth3D++-test
+Cloud-Test
+CloudsTest
+Clustering Validation Measures
+Cna_comp_test_ss
+Cobol_Python_Test_Dataset
+Cocacola-test-1
+Code Contests Dataset
+CodeContests
+CodeXGLUE - AdvTest
+CodeXGLUE - WebQueryTest
+Codeforces Contest Standings
+Codility Data scientist test 2022
+Coding Test Dataset
+Coding Tests Data
+Coding Tests Dataset
+Coffee Taste Test
+CokeTest
+Cola Train Test
+College Placement Test Score Improvement Program
+Colordectestion
+Colorization_Train_and_Test
+Combat Pokemon Dataset for training
+Combine test data
+Combine_face_test
+Combined Train and test dataset of house pricing
+Combined_twitter_dataset_for_training
+Commom Test - Multiclass Classification Dataset
+Common Statistical Tests
+CommonLit Albert Training
+CommonSenseValidation
+CommonSenseValidationDataset
+Commonlit_Deberta_training
+Competetive course contest dataset
+Competition Test Data
+Compiling Multiple Topic Test Logs in Json Format
+Complete ANN with significance testing
+Complete Blood Count (CBC) Test
+Complete Blood Count (CBC) Test
+Complete Blood Count (CBC) Test
+CompleteTrainingDataset
+Compressed_test
+Computational Thinking Test and Result Data
+Computer Aided Gastrointestinal Disease Detection
+Computer Monitor Extra Validation
+Conceptual Captions Dataset (Train and Validation)
+ConcreteStrengthData.csv
+Configtest
+Consideration of Future Consequences Test
+Consistent Test Bowlers
+Constant Q Transform Dataset - Test
+Content Time Test
+Contest
+Continue training GPT2 1 Ep
+Continue training Pretrain S-MultiMAE
+Contrastive Language Image Pretraining by openai
+Controlled Rotated Photos Test
+Controlled Straight Photos Test
+Cookie Cats Mobile Games AB Testing 2021
+Copy of Tests
+Corona Tested Dataset
+Corona virus latest data 2023
+Coronavirus 2019-2020 latest dataset
+Coronavirus Dataset LATEST
+Coronavirus total and positive tests in Sweden
+Country Data test 2020
+Country_latest_data
+Covid 19 Tested Individuals
+Covid 19 latest data
+Covid 4-Class UnderBal Resized (Test-Train Only)
+Covid Testing data by Lex Friedman (All countries)
+Covid Tests
+Covid in African Countries - Latest Data
+Covid in North America - Latest Data
+Covid in Oceania - Latest Data
+Covid in South America - Latest Data
+
+1000 Rows. -- 1472 msec.

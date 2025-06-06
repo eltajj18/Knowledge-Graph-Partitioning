@@ -1,0 +1,36 @@
+# This query returns scientific work titles along with their abstracts and author names that contain specific keywords (neural, deep, or learning).
+SPARQL
+PREFIX mls: <http://www.w3.org/ns/mls#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX mlso: <http://w3id.org/mlso/>
+PREFIX fabio: <http://purl.org/spar/fabio/>
+
+SELECT ?workTitle ?abstract ?authorName
+FROM <http://example.org/_http___w3id.org_mlso_ScientificWork_>
+FROM <http://example.org/_http___www_w3_org_2000_01_rdf_schema_label_>
+FROM <http://example.org/_http___purl_org_dc_terms_title_>
+FROM <http://example.org/graph_H>
+FROM <http://example.org/_http___purl_org_dc_terms_creator_>
+WHERE {
+  ?work a mlso:ScientificWork;
+        dcterms:title ?workTitle.
+  
+  OPTIONAL {
+    ?work fabio:abstract ?abstract.
+  }
+  
+  OPTIONAL {
+    ?work dcterms:creator ?author.
+    ?author rdfs:label ?authorName.
+  }
+  
+  FILTER (
+    CONTAINS(LCASE(?workTitle), "neural") || 
+    CONTAINS(LCASE(?workTitle), "deep") ||
+    CONTAINS(LCASE(?workTitle), "learning")
+  )
+}
+ORDER BY ?workTitle
+LIMIT 1000
+;

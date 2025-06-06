@@ -1,0 +1,17 @@
+# This query finds the most common software requirements.
+SPARQL
+PREFIX mls: <http://www.w3.org/ns/mls#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX sd: <https://w3id.org/okn/o/sd#>
+
+SELECT ?requirement (COUNT(DISTINCT ?software) as ?softwareCount)
+FROM <http://example.org/_http___www.w3.org_ns_mls_Software_>
+FROM <http://example.org/_https___w3id_org_okn_o_sd_softwareRequirements_>
+WHERE {
+  ?software a mls:Software;
+            sd:softwareRequirements ?requirement.
+}
+GROUP BY ?requirement
+ORDER BY DESC(?softwareCount)
+LIMIT 1000 
+;

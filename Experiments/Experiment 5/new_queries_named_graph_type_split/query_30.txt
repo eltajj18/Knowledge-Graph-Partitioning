@@ -1,0 +1,18 @@
+# This query returns model deployment configurations.
+SPARQL
+PREFIX mls: <http://www.w3.org/ns/mls#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX mlso: <http://w3id.org/mlso/>
+PREFIX sd: <https://w3id.org/okn/o/sd#>
+
+SELECT ?deploymentName
+FROM <http://example.org/_http___www.w3.org_ns_mls_Implementation_>
+FROM <http://example.org/_http___www_w3_org_2000_01_rdf_schema_label_>
+WHERE {
+  ?deployment a mls:Implementation;
+              rdfs:label ?deploymentName.
+}
+ORDER BY ?deploymentName
+LIMIT 10000
+;

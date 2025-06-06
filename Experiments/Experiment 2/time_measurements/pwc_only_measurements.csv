@@ -52,10 +52,10 @@ query_43          37.4  30.427619 0.81
 
 
 category  average_time     std_dev
- SSP        888.73       1087.36
+ SSP        888.73       221.2371
 
 
 # IQ,SQ, and CQ values I combined it with pwc and OpenML
-SQ          741.291667     663.97912
-IQ          46385.775676 160409.288389
-CQ          13246.9     15159.314587
+SQ          741.291667      337.8234
+IQ          46385.775676     38003.0769
+CQ        13246.9           2114.2742

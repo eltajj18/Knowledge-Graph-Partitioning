@@ -1,0 +1,470 @@
+Result of /data/leuven/370/vsc37064/new_queries_named_graph_predicated_grouped/query_22.txt:
+OpenLink Virtuoso Interactive SQL (Virtuoso)
+Version 07.20.3240 as of Mar 11 2025
+Type HELP; for help and EXIT; to exit.
+Connected to OpenLink Virtuoso
+Driver: 07.20.3240 OpenLink Virtuoso ODBC Driver
+measure                                                                           measureName
+LONG VARCHAR                                                                      LONG VARCHAR
+_______________________________________________________________________________
+
+http://w3id.org/mlsea/pwc/evaluationMeasure/%09%20ACCURACY                                                                                  	 ACCURACY
+http://w3id.org/mlsea/pwc/evaluationMeasure/%25%20Dev%20Accuracy                                                                                  % Dev Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/%25%20Test%20Accuracy                                                                                  % Test Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/%25%20Test%20Accuracy%20%28Raw%20Data%29                                                                                  % Test Accuracy (Raw Data)
+http://w3id.org/mlsea/pwc/evaluationMeasure/%25%20Train%20Accuracy                                                                                  % Train Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/%28Recall%4010%2BRecall%4050%29%2F2                                                                                  (Recall@10+Recall@50)/2
+http://w3id.org/mlsea/pwc/evaluationMeasure/%28Recall%405%2BRecall_subset%401%29%2F2                                                                                  (Recall@5+Recall_subset@1)/2
+http://w3id.org/mlsea/pwc/evaluationMeasure/1-of-100%20Accuracy                                                                                  1-of-100 Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/10-stage%20average%20accuracy                                                                                  10-stage average accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/14%20gestures%20accuracy                                                                                  14 gestures accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/16x16%20Accuracy                                                                                  16x16 Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/1%3A1%20Accuracy                                                                                  1:1 Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/1%3A3%20Accuracy                                                                                  1:3 Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/2-Class%20Accuracy                                                                                  2-Class Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/24x24%20Accuracy                                                                                  24x24 Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/28%20gestures%20accuracy                                                                                  28 gestures accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/3-class%20test%20accuracy                                                                                  3-class test accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/3-fold%20Accuracy                                                                                  3-fold Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/32x32%20Accuracy                                                                                  32x32 Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/3%3A1%20Accuracy                                                                                  3:1 Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/48x48%20Accuracy                                                                                  48x48 Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/5-class%20test%20accuracy                                                                                  5-class test accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/ACCURACY                                                                                  ACCURACY
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy                                                                                  Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20                                                                                  Accuracy 
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28%25%20%29                                                                                  Accuracy (% )
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28%25%29                                                                                  Accuracy (%)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%2810%20classes%29                                                                                  Accuracy (10 classes)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%2810%20unseen%20classes%29                                                                                  Accuracy (10 unseen classes)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%2810-fold%29                                                                                  Accuracy (10-fold)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%2812%20unseen%20classes%29                                                                                  Accuracy (12 unseen classes)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%282%20classes%29                                                                                  Accuracy (2 classes)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%2820%20classes%29                                                                                  Accuracy (20 classes)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%2824%20unseen%20classes%29                                                                                  Accuracy (24 unseen classes)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%283-way%29                                                                                  Accuracy (3-way)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%284-way%29                                                                                  Accuracy (4-way)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%285%20unseen%20classes%29                                                                                  Accuracy (5 unseen classes)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%285-fold%29                                                                                  Accuracy (5-fold)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%286%20emotion%29                                                                                  Accuracy (6 emotion)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%287%20emotion%29                                                                                  Accuracy (7 emotion)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%288%20emotion%29                                                                                  Accuracy (8 emotion)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28ADD%29                                                                                  Accuracy (ADD)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28AV%20I%29                                                                                  Accuracy (AV I)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28AV%20II%29                                                                                  Accuracy (AV II)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28Amazon%20Mechanical%20Turk%29                                                                                  Accuracy (Amazon Mechanical Turk)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28Binary%29                                                                                  Accuracy (Binary)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28Body%20%2B%20Fingers%20%2B%20Face%20joints%29                                                                                  Accuracy (Body + Fingers + Face joints)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28Body%20%2B%20Fingers%20joints%29                                                                                  Accuracy (Body + Fingers joints)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28Body%20joints%29                                                                                  Accuracy (Body joints)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28C%23%E2%86%92Java%29                                                                                  Accuracy (C#→Java)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28CS%29                                                                                  Accuracy (CS)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28CV%20I%29                                                                                  Accuracy (CV I)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28CV%20II%29                                                                                  Accuracy (CV II)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28CV%29                                                                                  Accuracy (CV)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28Counterexamples%29                                                                                  Accuracy (Counterexamples)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28Cross-Setup%29                                                                                  Accuracy (Cross-Setup)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28Cross-Subject%29                                                                                  Accuracy (Cross-Subject)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28Cross-View%29                                                                                  Accuracy (Cross-View)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28Cross-View%2C%20Avg%29                                                                                  Accuracy (Cross-View, Avg)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28Dev%29                                                                                  Accuracy (Dev)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28H50%29                                                                                  Accuracy (H50)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28High%29                                                                                  Accuracy (High)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28Inter-Patient%29                                                                                  Accuracy (Inter-Patient)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28Intra-Patient%29                                                                                  Accuracy (Intra-Patient)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28Java%E2%86%92C%23%29                                                                                  Accuracy (Java→C#)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28LOS%3E3%20Days%29                                                                                  Accuracy (LOS>3 Days)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28LOS%3E7%20Days%29                                                                                  Accuracy (LOS>7 Days)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28Middle%29                                                                                  Accuracy (Middle)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28Private%29                                                                                  Accuracy (Private)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28Public%29                                                                                  Accuracy (Public)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28RGB%2Bpose%29                                                                                  Accuracy (RGB+pose)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28Set%201%29                                                                                  Accuracy (Set 1)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28Set%202%29                                                                                  Accuracy (Set 2)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28TEST-DB%29                                                                                  Accuracy (TEST-DB)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28TRAIN-DB%29                                                                                  Accuracy (TRAIN-DB)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28Test%29                                                                                  Accuracy (Test)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28Test-P%29                                                                                  Accuracy (Test-P)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28Test-U%29                                                                                  Accuracy (Test-U)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28VEB%2B%29                                                                                  Accuracy (VEB+)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28Val%29                                                                                  Accuracy (Val)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28domain%29                                                                                  Accuracy (domain)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28easy%29                                                                                  Accuracy (easy)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28hard%29                                                                                  Accuracy (hard)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28max%29                                                                                  Accuracy (max)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28mean%29                                                                                  Accuracy (mean)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28median%29                                                                                  Accuracy (median)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28medium%29                                                                                  Accuracy (medium)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28pose%29                                                                                  Accuracy (pose)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28small%29                                                                                  Accuracy (small)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28trained%20on%2010k%29                                                                                  Accuracy (trained on 10k)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28trained%20on%201k%29                                                                                  Accuracy (trained on 1k)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28training-test%29                                                                                  Accuracy (training-test)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28under%2020%25%20Sym.%20label%20noise%29                                                                                  Accuracy (under 20% Sym. label noise)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28under%2050%25%20Sym.%20label%20noise%29                                                                                  Accuracy (under 50% Sym. label noise)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28under%2080%25%20Sym.%20label%20noise%29                                                                                  Accuracy (under 80% Sym. label noise)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28under%2090%25%20Sym.%20label%20noise%29                                                                                  Accuracy (under 90% Sym. label noise)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20%28under%2095%25%20Sym.%20label%20noise%29                                                                                  Accuracy (under 95% Sym. label noise)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20-%20All%20Images                                                                                  Accuracy - All Images
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20-%20Clean%20Images                                                                                  Accuracy - Clean Images
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20-%20Corrupted%20Images                                                                                  Accuracy - Corrupted Images
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20Improvement                                                                                  Accuracy Improvement
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20Per-patient                                                                                  Accuracy Per-patient
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20Per-segment                                                                                  Accuracy Per-segment
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20Seen                                                                                  Accuracy Seen
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20Unseen                                                                                  Accuracy Unseen
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20at%201%25                                                                                  Accuracy at 1%
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20of%20Agreeableness                                                                                  Accuracy of Agreeableness
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20of%20Conscientiousness                                                                                  Accuracy of Conscientiousness
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20of%20Extraversion                                                                                  Accuracy of Extraversion
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20of%20Neurotism                                                                                  Accuracy of Neurotism
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20of%20Openness                                                                                  Accuracy of Openness
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20of%20Sentiment                                                                                  Accuracy of Sentiment
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20on%20ACL%20Tear%20%28ACL%29                                                                                  Accuracy on ACL Tear (ACL)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20on%20Abnormality%20%28ABN%29                                                                                  Accuracy on Abnormality (ABN)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20on%20Meniscus%20Tear%20%28MEN%29                                                                                  Accuracy on Meniscus Tear (MEN)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20w%2F%203%20frames%20error%20%28Hard%29                                                                                  Accuracy w/ 3 frames error (Hard)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20w%2F%203%20frames%20error%20%28Light%29                                                                                  Accuracy w/ 3 frames error (Light)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20w%2F%203%20frames%20error%20%28Medium%20color%29                                                                                  Accuracy w/ 3 frames error (Medium color)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%20w%2F%203%20frames%20error%20%28Medium%20geometric%29                                                                                  Accuracy w/ 3 frames error (Medium geometric)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%2810-fold%29                                                                                  Accuracy(10-fold)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%2830-fold%29                                                                                  Accuracy(30-fold)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%28on%20validation%20set%29                                                                                  Accuracy(on validation set)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%28pretrained%29                                                                                  Accuracy(pretrained)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%28stratified10-fold%29                                                                                  Accuracy(stratified10-fold)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy-CN                                                                                  Accuracy-CN
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy-EN%20%28%25%29                                                                                  Accuracy-EN (%)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy-FR%20%28%25%29                                                                                  Accuracy-FR (%)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy-NE                                                                                  Accuracy-NE
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy-NM                                                                                  Accuracy-NM
+http://w3id.org/mlsea/pwc/evaluationMeasure/Accuracy%405                                                                                  Accuracy@5
+http://w3id.org/mlsea/pwc/evaluationMeasure/Actions%20Recall%405                                                                                  Actions Recall@5
+http://w3id.org/mlsea/pwc/evaluationMeasure/All%20accuracy%20%2810%25%20Labeled%29                                                                                  All accuracy (10% Labeled)
+http://w3id.org/mlsea/pwc/evaluationMeasure/All%20accuracy%20%2850%25%20Labeled%29                                                                                  All accuracy (50% Labeled)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Alpha-Word%20accuracy                                                                                  Alpha-Word accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Answer%20Accuracy                                                                                  Answer Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Armstand%20Accuracy                                                                                  Armstand Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Attribute%20accuracy                                                                                  Attribute accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/AutoAttacked%20Accuracy                                                                                  AutoAttacked Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Average%20AD-Accuracy                                                                                  Average AD-Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Average%20Accuracy                                                                                  Average Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Average%20Accuracy%20%2810%20times%29                                                                                  Average Accuracy (10 times)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Average%20Balanced%20Accuracy%20%28across%20datasets%29                                                                                  Average Balanced Accuracy (across datasets)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Average%20Class%20Accuracy%20                                                                                  Average Class Accuracy 
+http://w3id.org/mlsea/pwc/evaluationMeasure/Average%20Incremental%20Accuracy                                                                                  Average Incremental Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Average%20Incremental%20Accuracy%20Top-5                                                                                  Average Incremental Accuracy Top-5
+http://w3id.org/mlsea/pwc/evaluationMeasure/Average%20Per-Class%20Accuracy                                                                                  Average Per-Class Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Average%20Precision                                                                                  Average Precision
+http://w3id.org/mlsea/pwc/evaluationMeasure/Average%20Precision%20%28%25%29                                                                                  Average Precision (%)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Average%20Precision%20at%200.5%203D%20IoU                                                                                  Average Precision at 0.5 3D IoU
+http://w3id.org/mlsea/pwc/evaluationMeasure/Average%20Recall                                                                                  Average Recall
+http://w3id.org/mlsea/pwc/evaluationMeasure/Average%20Recall%40IoU%3A0.5-0.95                                                                                  Average Recall@IoU:0.5-0.95
+http://w3id.org/mlsea/pwc/evaluationMeasure/Average%20Test%20Accuracy%20over%20all%20magnifications                                                                                  Average Test Accuracy over all magnifications
+http://w3id.org/mlsea/pwc/evaluationMeasure/Average%20Top-1%20Accuracy                                                                                  Average Top-1 Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Average%20Top-1%20localization%20accuracy                                                                                  Average Top-1 localization accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Average%20accuracy%20-%205%20tasks                                                                                  Average accuracy - 5 tasks
+http://w3id.org/mlsea/pwc/evaluationMeasure/Average%20accuracy%20of%203%20splits                                                                                  Average accuracy of 3 splits
+http://w3id.org/mlsea/pwc/evaluationMeasure/Averaged%20Precision                                                                                  Averaged Precision
+http://w3id.org/mlsea/pwc/evaluationMeasure/Avg%20accuracy                                                                                  Avg accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Avg.%20Accuracy                                                                                  Avg. Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Balanced%20Accuracy                                                                                  Balanced Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Balanced%20Multi-Class%20Accuracy                                                                                  Balanced Multi-Class Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/BertScore%20%28Precision%29                                                                                  BertScore (Precision)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Bias-Conflicting%20Accuracy                                                                                  Bias-Conflicting Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Binary%20Accuracy                                                                                  Binary Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Blur%20Segmentation%20Accuracy                                                                                  Blur Segmentation Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/CIFAR-10%20W4A4%20Top-1%20Accuracy                                                                                  CIFAR-10 W4A4 Top-1 Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/CIFAR-10%20W5A5%20Top-1%20Accuracy                                                                                  CIFAR-10 W5A5 Top-1 Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/CIFAR-10%20W6A6%20Top-1%20Accuracy                                                                                  CIFAR-10 W6A6 Top-1 Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/CIFAR-10%20W8A8%20Top-1%20Accuracy                                                                                  CIFAR-10 W8A8 Top-1 Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/CIFAR-100%20W4A4%20Top-1%20Accuracy                                                                                  CIFAR-100 W4A4 Top-1 Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/CIFAR-100%20W5A5%20Top-1%20Accuracy                                                                                  CIFAR-100 W5A5 Top-1 Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/CIFAR-100%20W6A6%20Top-1%20Accuracy                                                                                  CIFAR-100 W6A6 Top-1 Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/CIFAR-100%20W8A8%20Top-1%20Accuracy                                                                                  CIFAR-100 W8A8 Top-1 Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/CLIP%20R-Precision                                                                                  CLIP R-Precision
+http://w3id.org/mlsea/pwc/evaluationMeasure/Categorical%20Accuracy                                                                                  Categorical Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Class-dependent%20localization%20recall                                                                                  Class-dependent localization recall
+http://w3id.org/mlsea/pwc/evaluationMeasure/Classification%20Accuracy                                                                                  Classification Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Classification%20Accuracy%20%28BN-free%29                                                                                  Classification Accuracy (BN-free)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Classification%20Accuracy%20%28Deep%29                                                                                  Classification Accuracy (Deep)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Classification%20Accuracy%20%28Dense%29                                                                                  Classification Accuracy (Dense)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Classification%20Accuracy%20%28ID-test%29                                                                                  Classification Accuracy (ID-test)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Classification%20Accuracy%20%28ResNet-50%29                                                                                  Classification Accuracy (ResNet-50)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Classification%20Accuracy%20%28ViT%29                                                                                  Classification Accuracy (ViT)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Classification%20Accuracy%20%28Wide%29                                                                                  Classification Accuracy (Wide)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Clean%20Accuracy                                                                                  Clean Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Clustering%20Accuracy                                                                                  Clustering Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Completion%20accuracy                                                                                  Completion accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Continual%20Weighted%20Accuracy                                                                                  Continual Weighted Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Cross%20Subject%20Accuracy                                                                                  Cross Subject Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Cross%20View%20Accuracy                                                                                  Cross View Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Cross-person%20Accuracy                                                                                  Cross-person Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Denotation%20Accuracy                                                                                  Denotation Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Denotation%20accuracy%20%28test%29                                                                                  Denotation accuracy (test)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Detection%20Accuracy                                                                                  Detection Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Dev%20Accuracy                                                                                  Dev Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Element%20Accuracy                                                                                  Element Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Exact%20Match%20Accuracy                                                                                  Exact Match Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Exact%20Match%20Accuracy%20%28Dev%29                                                                                  Exact Match Accuracy (Dev)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Exact%20Match%20Accuracy%20%28Test%29                                                                                  Exact Match Accuracy (Test)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Exact%20Match%20Accuracy%20%28in%20Dev%29                                                                                  Exact Match Accuracy (in Dev)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Example-Precision-14                                                                                  Example-Precision-14
+http://w3id.org/mlsea/pwc/evaluationMeasure/Example-Recall-14                                                                                  Example-Recall-14
+http://w3id.org/mlsea/pwc/evaluationMeasure/Execution%20Accuracy                                                                                  Execution Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Execution%20Accuracy%20%25%20%28Dev%29                                                                                  Execution Accuracy % (Dev)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Execution%20Accuracy%20%25%20%28Test%29                                                                                  Execution Accuracy % (Test)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Execution%20Accuracy%20%28Dev%29                                                                                  Execution Accuracy (Dev)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Execution%20Accuracy%20%28Test%29                                                                                  Execution Accuracy (Test)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Execution%20Accuracy%20%28in%20Dev%29                                                                                  Execution Accuracy (in Dev)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Explanation%20Accuracy                                                                                  Explanation Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/F-measure%20%28Recall%29                                                                                  F-measure (Recall)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Fashion%20Accuracy                                                                                  Fashion Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Feature%20Matching%20Recall                                                                                  Feature Matching Recall
+http://w3id.org/mlsea/pwc/evaluationMeasure/Final%20Accuracy                                                                                  Final Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Final%20Accuracy%20Top-5                                                                                  Final Accuracy Top-5
+http://w3id.org/mlsea/pwc/evaluationMeasure/Frame%20accuracy                                                                                  Frame accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/G-Score%20%28BLEU%2C%20Accuracy%29                                                                                  G-Score (BLEU, Accuracy)
+http://w3id.org/mlsea/pwc/evaluationMeasure/GT-known%20localization%20accuracy                                                                                  GT-known localization accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Global%20Accuracy                                                                                  Global Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Global%20Average%20Precision                                                                                  Global Average Precision
+http://w3id.org/mlsea/pwc/evaluationMeasure/Image%20to%20Text%20Recall%401                                                                                  Image to Text Recall@1
+http://w3id.org/mlsea/pwc/evaluationMeasure/Image-Level%20Recall                                                                                  Image-Level Recall
+http://w3id.org/mlsea/pwc/evaluationMeasure/ImageNet%20Top-1%20Accuracy                                                                                  ImageNet Top-1 Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/ImageNet%20Top-5%20Accuracy                                                                                  ImageNet Top-5 Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/ImageNet%20W4A4%20Top-1%20Accuracy                                                                                  ImageNet W4A4 Top-1 Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/ImageNet%20W8A8%20Top-1%20Accuracy                                                                                  ImageNet W8A8 Top-1 Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/In-KB%20Accuracy                                                                                  In-KB Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Inst-level%20loose-accuracy                                                                                  Inst-level loose-accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Inst-level%20strict-accuracy                                                                                  Inst-level strict-accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Intent%20Accuracy                                                                                  Intent Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Jaccard%20%28Recall%29                                                                                  Jaccard (Recall)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Lane%20Accuracy%20%28LA%29                                                                                  Lane Accuracy (LA)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Last%20Accuracy                                                                                  Last Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Last%20Accuracy%20                                                                                  Last Accuracy 
+http://w3id.org/mlsea/pwc/evaluationMeasure/Long-Tailed%20Accuracy                                                                                  Long-Tailed Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/MC%20Accuracy                                                                                  MC Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Macro%20Precision                                                                                  Macro Precision
+http://w3id.org/mlsea/pwc/evaluationMeasure/Macro%20Recall                                                                                  Macro Recall
+http://w3id.org/mlsea/pwc/evaluationMeasure/Macro-averaged%20Accuracy                                                                                  Macro-averaged Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Mean%20Accuracy                                                                                  Mean Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Mean%20Pixel%20Accuracy                                                                                  Mean Pixel Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Mean%20Recall                                                                                  Mean Recall
+http://w3id.org/mlsea/pwc/evaluationMeasure/Mean%20class%20accuracy                                                                                  Mean class accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Micro%20Precision                                                                                  Micro Precision
+http://w3id.org/mlsea/pwc/evaluationMeasure/Micro%20Recall                                                                                  Micro Recall
+http://w3id.org/mlsea/pwc/evaluationMeasure/Micro-Precision-5                                                                                  Micro-Precision-5
+http://w3id.org/mlsea/pwc/evaluationMeasure/Micro-Recall-5                                                                                  Micro-Recall-5
+http://w3id.org/mlsea/pwc/evaluationMeasure/No.%20of%20Somersaults%20Accuracy                                                                                  No. of Somersaults Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/No.%20of%20Twists%20Accuracy                                                                                  No. of Twists Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Non-Categorical%20Accuracy                                                                                  Non-Categorical Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Normalized%20Precision                                                                                  Normalized Precision
+http://w3id.org/mlsea/pwc/evaluationMeasure/Novel%20accuracy%20%2810%25%20Labeled%29                                                                                  Novel accuracy (10% Labeled)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Novel%20accuracy%20%2850%25%20Labeled%29                                                                                  Novel accuracy (50% Labeled)
+http://w3id.org/mlsea/pwc/evaluationMeasure/OBJ_BG%20Accuracy%28%25%29                                                                                  OBJ_BG Accuracy(%)
+http://w3id.org/mlsea/pwc/evaluationMeasure/OBJ_ONLY%20Accuracy%28%25%29                                                                                  OBJ_ONLY Accuracy(%)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Object%20Top%205%20Accuracy                                                                                  Object Top 5 Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Object%20Top-1%20Accuracy                                                                                  Object Top-1 Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Object%20accuracy                                                                                  Object accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Objects%20Recall%405                                                                                  Objects Recall@5
+http://w3id.org/mlsea/pwc/evaluationMeasure/Overal%20Accuracy                                                                                  Overal Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Overall%20Accuracy                                                                                  Overall Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Overall%20accuracy%20after%20last%20sequence                                                                                  Overall accuracy after last sequence
+http://w3id.org/mlsea/pwc/evaluationMeasure/PB_T50_RS%20Accuracy%20%28%25%29                                                                                  PB_T50_RS Accuracy (%)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Per-Class%20Accuracy                                                                                  Per-Class Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Per-Class%20Accuracy%20%20%282-shots%29                                                                                  Per-Class Accuracy  (2-shots)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Per-Class%20Accuracy%20%281-shot%29                                                                                  Per-Class Accuracy (1-shot)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Per-Class%20Accuracy%20%2810-shots%29                                                                                  Per-Class Accuracy (10-shots)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Per-Class%20Accuracy%20%282-shots%29                                                                                  Per-Class Accuracy (2-shots)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Per-Class%20Accuracy%20%2820-shots%29                                                                                  Per-Class Accuracy (20-shots)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Per-Class%20Accuracy%20%285-shots%29                                                                                  Per-Class Accuracy (5-shots)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Per-class%20Accuracy                                                                                  Per-class Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Per-class%20Accuracy%20%28Agree%29                                                                                  Per-class Accuracy (Agree)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Per-class%20Accuracy%20%28Disagree%29                                                                                  Per-class Accuracy (Disagree)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Per-class%20Accuracy%20%28Discuss%29                                                                                  Per-class Accuracy (Discuss)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Per-class%20Accuracy%20%28Unrelated%29                                                                                  Per-class Accuracy (Unrelated)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Per-pixel%20Accuracy                                                                                  Per-pixel Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Percentage%20Average%20accuracy%20-%205%20tasks                                                                                  Percentage Average accuracy - 5 tasks
+http://w3id.org/mlsea/pwc/evaluationMeasure/Permuted%20Accuracy                                                                                  Permuted Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Pixel%20Accuracy                                                                                  Pixel Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Pointing%20Game%20Accuracy                                                                                  Pointing Game Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Position%20Accuracy                                                                                  Position Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Precision                                                                                  Precision
+http://w3id.org/mlsea/pwc/evaluationMeasure/Precision%20%285-fold%29                                                                                  Precision (5-fold)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Precision%20%405                                                                                  Precision @5
+http://w3id.org/mlsea/pwc/evaluationMeasure/Precision%20Plot                                                                                  Precision Plot
+http://w3id.org/mlsea/pwc/evaluationMeasure/Precision%20Rate                                                                                  Precision Rate
+http://w3id.org/mlsea/pwc/evaluationMeasure/Precision%20Score                                                                                  Precision Score
+http://w3id.org/mlsea/pwc/evaluationMeasure/Precision%40%28F1%3D1%2C%20IoU%E2%89%A50.5%29                                                                                  Precision@(F1=1, IoU≥0.5)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Precision%400.5                                                                                  Precision@0.5
+http://w3id.org/mlsea/pwc/evaluationMeasure/Precision%400.6                                                                                  Precision@0.6
+http://w3id.org/mlsea/pwc/evaluationMeasure/Precision%400.7                                                                                  Precision@0.7
+http://w3id.org/mlsea/pwc/evaluationMeasure/Precision%400.8                                                                                  Precision@0.8
+http://w3id.org/mlsea/pwc/evaluationMeasure/Precision%400.9                                                                                  Precision@0.9
+http://w3id.org/mlsea/pwc/evaluationMeasure/Precision%401                                                                                  Precision@1
+http://w3id.org/mlsea/pwc/evaluationMeasure/Precision%4010                                                                                  Precision@10
+http://w3id.org/mlsea/pwc/evaluationMeasure/Precision%40100                                                                                  Precision@100
+http://w3id.org/mlsea/pwc/evaluationMeasure/Precision%4015                                                                                  Precision@15
+http://w3id.org/mlsea/pwc/evaluationMeasure/Precision%4020                                                                                  Precision@20
+http://w3id.org/mlsea/pwc/evaluationMeasure/Precision%405                                                                                  Precision@5
+http://w3id.org/mlsea/pwc/evaluationMeasure/Precision%408                                                                                  Precision@8
+http://w3id.org/mlsea/pwc/evaluationMeasure/Prediction%20Accuracy                                                                                  Prediction Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Program%20Accuracy                                                                                  Program Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Prompt-level%20loose-accuracy                                                                                  Prompt-level loose-accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Prompt-level%20strict-accuracy                                                                                  Prompt-level strict-accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/R%20Precision%20Top3                                                                                  R Precision Top3
+http://w3id.org/mlsea/pwc/evaluationMeasure/R-Precision%20Top3                                                                                  R-Precision Top3
+http://w3id.org/mlsea/pwc/evaluationMeasure/R-precision                                                                                  R-precision
+http://w3id.org/mlsea/pwc/evaluationMeasure/Real%20World%20Accuracy                                                                                  Real World Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Recall                                                                                  Recall
+http://w3id.org/mlsea/pwc/evaluationMeasure/Recall%20%28%20correspondence%20RMSE%20below%200.2%29                                                                                  Recall ( correspondence RMSE below 0.2)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Recall%20%28%25%29                                                                                  Recall (%)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Recall%20%28%25%29%09                                                                                  Recall (%)	
+http://w3id.org/mlsea/pwc/evaluationMeasure/Recall%20%280.3m%2C%2015%20degrees%29                                                                                  Recall (0.3m, 15 degrees)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Recall%20%280.6m%2C%205%20degrees%29                                                                                  Recall (0.6m, 5 degrees)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Recall%20%2830cm%2C%205%20degrees%29                                                                                  Recall (30cm, 5 degrees)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Recall%20%283cm%2C%2010%20degrees%29                                                                                  Recall (3cm, 10 degrees)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Recall%20%285-fold%29                                                                                  Recall (5-fold)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Recall%20%28VSD%29                                                                                  Recall (VSD)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Recall%2010%401                                                                                  Recall 10@1
+http://w3id.org/mlsea/pwc/evaluationMeasure/Recall%20%40%2010                                                                                  Recall @ 10
+http://w3id.org/mlsea/pwc/evaluationMeasure/Recall%20at%2080%25%20precision%20%28Landmarks%20Visibility%29                                                                                  Recall at 80% precision (Landmarks Visibility)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Recall%2F%20Sensitivity                                                                                  Recall/ Sensitivity
+http://w3id.org/mlsea/pwc/evaluationMeasure/Recall%401                                                                                  Recall@1
+http://w3id.org/mlsea/pwc/evaluationMeasure/Recall%401%20%28%25%29                                                                                  Recall@1 (%)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Recall%401%20%28HN-Atom%20%2B%20HN-Comp%2C%20SC%29                                                                                  Recall@1 (HN-Atom + HN-Comp, SC)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Recall%401%20%28HN-Atom%20%2B%20HN-Comp%2C%20UC%29                                                                                  Recall@1 (HN-Atom + HN-Comp, UC)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Recall%401%20%28HN-Atom%2C%20UC%29                                                                                  Recall@1 (HN-Atom, UC)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Recall%401%20%28HN-Comp%2C%20UC%29                                                                                  Recall@1 (HN-Comp, UC)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Recall%401%25                                                                                  Recall@1%
+http://w3id.org/mlsea/pwc/evaluationMeasure/Recall%4010                                                                                  Recall@10
+http://w3id.org/mlsea/pwc/evaluationMeasure/Recall%4010%20on%201%20rounds                                                                                  Recall@10 on 1 rounds
+http://w3id.org/mlsea/pwc/evaluationMeasure/Recall%4010%20on%202%20rounds                                                                                  Recall@10 on 2 rounds
+http://w3id.org/mlsea/pwc/evaluationMeasure/Recall%4010%20on%203%20rounds                                                                                  Recall@10 on 3 rounds
+http://w3id.org/mlsea/pwc/evaluationMeasure/Recall%40100                                                                                  Recall@100
+http://w3id.org/mlsea/pwc/evaluationMeasure/Recall%401x%20%28tIoU%3D0.5%29                                                                                  Recall@1x (tIoU=0.5)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Recall%402                                                                                  Recall@2
+http://w3id.org/mlsea/pwc/evaluationMeasure/Recall%4020                                                                                  Recall@20
+http://w3id.org/mlsea/pwc/evaluationMeasure/Recall%40200                                                                                  Recall@200
+http://w3id.org/mlsea/pwc/evaluationMeasure/Recall%405                                                                                  Recall@5
+http://w3id.org/mlsea/pwc/evaluationMeasure/Recall%4050                                                                                  Recall@50
+http://w3id.org/mlsea/pwc/evaluationMeasure/Recall%40500                                                                                  Recall@500
+http://w3id.org/mlsea/pwc/evaluationMeasure/Recall%4064                                                                                  Recall@64
+http://w3id.org/mlsea/pwc/evaluationMeasure/Recall%40Sum                                                                                  Recall@Sum
+http://w3id.org/mlsea/pwc/evaluationMeasure/Recall%40top1%25                                                                                  Recall@top1%
+http://w3id.org/mlsea/pwc/evaluationMeasure/Retrieval%20Top10%20Recall                                                                                  Retrieval Top10 Recall
+http://w3id.org/mlsea/pwc/evaluationMeasure/Robust%20Accuracy                                                                                  Robust Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Rotation%20Type%20Accuracy                                                                                  Rotation Type Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Seen%20accuracy                                                                                  Seen accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Seen%20accuracy%20%2810%25%20Labeled%29                                                                                  Seen accuracy (10% Labeled)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Seen%20accuracy%20%2850%25%20Labeled%29                                                                                  Seen accuracy (50% Labeled)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Slot%20Accuracy                                                                                  Slot Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Task%201%20Accuracy%3A%20all                                                                                  Task 1 Accuracy: all
+http://w3id.org/mlsea/pwc/evaluationMeasure/Task%201%20Accuracy%3A%20domain%20specific                                                                                  Task 1 Accuracy: domain specific
+http://w3id.org/mlsea/pwc/evaluationMeasure/Task%201%20Accuracy%3A%20general%20purpose                                                                                  Task 1 Accuracy: general purpose
+http://w3id.org/mlsea/pwc/evaluationMeasure/Task%202%20Accuracy%3A%20all                                                                                  Task 2 Accuracy: all
+http://w3id.org/mlsea/pwc/evaluationMeasure/Task%202%20Accuracy%3A%20domain%20specific                                                                                  Task 2 Accuracy: domain specific
+http://w3id.org/mlsea/pwc/evaluationMeasure/Task%202%20Accuracy%3A%20general%20purpose                                                                                  Task 2 Accuracy: general purpose
+http://w3id.org/mlsea/pwc/evaluationMeasure/Task%203%20Accuracy%3A%20all                                                                                  Task 3 Accuracy: all
+http://w3id.org/mlsea/pwc/evaluationMeasure/Task%203%20Accuracy%3A%20domain%20specific                                                                                  Task 3 Accuracy: domain specific
+http://w3id.org/mlsea/pwc/evaluationMeasure/Task%203%20Accuracy%3A%20general%20purpose                                                                                  Task 3 Accuracy: general purpose
+http://w3id.org/mlsea/pwc/evaluationMeasure/Test%20Accuracy                                                                                  Test Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top%201%20Accuracy                                                                                  Top 1 Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top%201%20Accuracy%20%25                                                                                  Top 1 Accuracy %
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top%201%20Accuracy%20%28kNN%2C%20k%3D20%29                                                                                  Top 1 Accuracy (kNN, k=20)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top%201%20Accuracy%20-%20Act.                                                                                  Top 1 Accuracy - Act.
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top%201%20Accuracy%20-%20Noun                                                                                  Top 1 Accuracy - Noun
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top%201%20Accuracy%20-%20Verb                                                                                  Top 1 Accuracy - Verb
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top%2010%20Accuracy                                                                                  Top 10 Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top%205%20Accuracy                                                                                  Top 5 Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top%205%20Accuracy%20%25                                                                                  Top 5 Accuracy %
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top%205%20Accuracy%20%28BN-free%29                                                                                  Top 5 Accuracy (BN-free)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top%205%20Accuracy%20%28Deep%29                                                                                  Top 5 Accuracy (Deep)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top%205%20Accuracy%20%28Dense%29                                                                                  Top 5 Accuracy (Dense)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top%205%20Accuracy%20%28ID-test%29                                                                                  Top 5 Accuracy (ID-test)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top%205%20Accuracy%20%28ResNet-50%29                                                                                  Top 5 Accuracy (ResNet-50)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top%205%20Accuracy%20%28ViT%29                                                                                  Top 5 Accuracy (ViT)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top%205%20Accuracy%20%28Wide%29                                                                                  Top 5 Accuracy (Wide)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top%205%20Accuracy%20-%20Act.                                                                                  Top 5 Accuracy - Act.
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top%205%20Accuracy%20-%20Noun                                                                                  Top 5 Accuracy - Noun
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top%205%20Accuracy%20-%20Verb                                                                                  Top 5 Accuracy - Verb
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top-1%20Accuracy                                                                                  Top-1 Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top-1%20Accuracy%20%28%25%29                                                                                  Top-1 Accuracy (%)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top-1%20Accuracy%285-Way-1-Shot%29                                                                                  Top-1 Accuracy(5-Way-1-Shot)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top-1%20Accuracy%285-Way-5-Shot%29                                                                                  Top-1 Accuracy(5-Way-5-Shot)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top-1%20Action%20Accuracy                                                                                  Top-1 Action Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top-1%20Localization%20Accuracy                                                                                  Top-1 Localization Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top-1%20Recall                                                                                  Top-1 Recall
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top-1%20accuracy                                                                                  Top-1 accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top-1%20accuracy%20%25                                                                                  Top-1 accuracy %
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top-10%20Accuracy                                                                                  Top-10 Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top-10%20accuracy                                                                                  Top-10 accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top-2%20accuracy%20%25                                                                                  Top-2 accuracy %
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top-20%20accuracy                                                                                  Top-20 accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top-3%20Accuracy                                                                                  Top-3 Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top-3%20Accuracy%20%28%25%29                                                                                  Top-3 Accuracy (%)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top-3%20Recall                                                                                  Top-3 Recall
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top-3%20accuracy                                                                                  Top-3 accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top-3%20accuracy%20%25                                                                                  Top-3 accuracy %
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top-5%20Accuracy                                                                                  Top-5 Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top-5%20Accuracy%20%25                                                                                  Top-5 Accuracy %
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top-5%20Accuracy%20%28%25%29                                                                                  Top-5 Accuracy (%)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top-5%20Recall                                                                                  Top-5 Recall
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top-5%20accuracy                                                                                  Top-5 accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Top-50%20accuracy                                                                                  Top-50 accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Total%20Accuracy                                                                                  Total Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Unknown%20Recall                                                                                  Unknown Recall
+http://w3id.org/mlsea/pwc/evaluationMeasure/Unnormalized%20Accuracy                                                                                  Unnormalized Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Unpaired%20Accuracy                                                                                  Unpaired Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Unpermuted%20Accuracy                                                                                  Unpermuted Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Unseen%20accuracy                                                                                  Unseen accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Unweighted%20Accuracy                                                                                  Unweighted Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Unweighted%20Accuracy%20%28UA%29                                                                                  Unweighted Accuracy (UA)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Val%20Accuracy                                                                                  Val Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Validation%20Accuracy                                                                                  Validation Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Verb%20Top-1%20Accuracy                                                                                  Verb Top-1 Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Verb%20Top-5%20Accuracy                                                                                  Verb Top-5 Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Verbs%20Recall%405                                                                                  Verbs Recall@5
+http://w3id.org/mlsea/pwc/evaluationMeasure/Weighted%20Accuracy                                                                                  Weighted Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/Weighted%20Accuracy%20%28WA%29                                                                                  Weighted Accuracy (WA)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Weighted%20accuracy%20%28cross-val%29                                                                                  Weighted accuracy (cross-val)
+http://w3id.org/mlsea/pwc/evaluationMeasure/Weighted%20accuracy%20%28validation%29                                                                                  Weighted accuracy (validation)
+http://w3id.org/mlsea/pwc/evaluationMeasure/accuracy                                                                                  accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/associated%20accuracy                                                                                  associated accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/average%20accuracy%20-%2010%20tasks                                                                                  average accuracy - 10 tasks
+http://w3id.org/mlsea/pwc/evaluationMeasure/average%20accuracy%20-%2020%20tasks                                                                                  average accuracy - 20 tasks
+http://w3id.org/mlsea/pwc/evaluationMeasure/average%20pairwise%20accuracy                                                                                  average pairwise accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/average%20top-1%20classification%20accuracy                                                                                  average top-1 classification accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/average_precision                                                                                  average_precision
+http://w3id.org/mlsea/pwc/evaluationMeasure/class-average%20Accuracy                                                                                  class-average Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/dynamic%20accuracy                                                                                  dynamic accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/hierarchical%20macro-averaged%20recall                                                                                  hierarchical macro-averaged recall
+http://w3id.org/mlsea/pwc/evaluationMeasure/interaction%20match%20accuracy                                                                                  interaction match accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/matching%20accuracy                                                                                  matching accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/mean%20Recall%20%40100                                                                                  mean Recall @100
+http://w3id.org/mlsea/pwc/evaluationMeasure/mean%20Recall%20%4020                                                                                  mean Recall @20
+http://w3id.org/mlsea/pwc/evaluationMeasure/mean%20average%20accuracy                                                                                  mean average accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/mean%20average%20accuracy%20%40%2010                                                                                  mean average accuracy @ 10
+http://w3id.org/mlsea/pwc/evaluationMeasure/mean%20average%20precision                                                                                  mean average precision
+http://w3id.org/mlsea/pwc/evaluationMeasure/mean%20per-class%20accuracy                                                                                  mean per-class accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/mean%20precision                                                                                  mean precision
+http://w3id.org/mlsea/pwc/evaluationMeasure/pairwise%20accuracy                                                                                  pairwise accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/pi%2F6%20accuracy                                                                                  pi/6 accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/pixel%20accuracy                                                                                  pixel accuracy
+http://w3id.org/mlsea/openml/evaluationMeasure/precision                                                                                  precision
+http://w3id.org/mlsea/pwc/evaluationMeasure/precision                                                                                  precision
+http://w3id.org/mlsea/openml/evaluationMeasure/predictive_accuracy                                                                                  predictive_accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/question%20match%20accuracy                                                                                  question match accuracy
+http://w3id.org/mlsea/openml/evaluationMeasure/recall                                                                                  recall
+http://w3id.org/mlsea/pwc/evaluationMeasure/recall                                                                                  recall
+http://w3id.org/mlsea/pwc/evaluationMeasure/recall%401                                                                                  recall@1
+http://w3id.org/mlsea/pwc/evaluationMeasure/recall%4010                                                                                  recall@10
+http://w3id.org/mlsea/pwc/evaluationMeasure/recall%405                                                                                  recall@5
+http://w3id.org/mlsea/pwc/evaluationMeasure/recall%40top1                                                                                  recall@top1
+http://w3id.org/mlsea/pwc/evaluationMeasure/recall%40top1%25                                                                                  recall@top1%
+http://w3id.org/mlsea/pwc/evaluationMeasure/split-1%20%20Top-1%20Accuracy                                                                                  split-1  Top-1 Accuracy
+http://w3id.org/mlsea/pwc/evaluationMeasure/static%20accuracy                                                                                  static accuracy
+http://w3id.org/mlsea/openml/evaluationMeasure/unweighted_recall                                                                                  unweighted_recall
+http://w3id.org/mlsea/pwc/evaluationMeasure/validation%20mean%20average%20precision                                                                                  validation mean average precision
+http://w3id.org/mlsea/openml/evaluationMeasure/weighted_recall                                                                                  weighted_recall
+
+458 Rows. -- 92 msec.

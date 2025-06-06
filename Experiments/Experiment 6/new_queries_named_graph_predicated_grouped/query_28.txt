@@ -1,0 +1,32 @@
+# This query returns features with their characteristics.
+SPARQL
+PREFIX mls: <http://www.w3.org/ns/mls#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX mlso: <http://w3id.org/mlso/>
+PREFIX dcat: <http://www.w3.org/ns/dcat#>
+
+SELECT ?featureName ?characteristicName ?characteristicValue
+FROM <http://example.org/_http___www.w3.org_ns_mls_Feature_>
+FROM <http://example.org/_http___www_w3_org_2000_01_rdf_schema_label_>
+FROM <http://example.org/_http___www_w3_org_ns_mls_hasQuality_>
+FROM <http://example.org/graph_A>
+WHERE {
+  ?feature a mls:Feature;
+           rdfs:label ?featureName.
+  
+  OPTIONAL {
+    ?feature mls:hasQuality ?characteristic.
+    ?characteristic rdfs:label ?characteristicName;
+                    mls:hasValue ?characteristicValue.
+  }
+  
+  FILTER (
+    CONTAINS(LCASE(?featureName), "input") || 
+    CONTAINS(LCASE(?featureName), "output") ||
+    CONTAINS(LCASE(?featureName), "label")
+  )
+}
+ORDER BY ?featureName
+LIMIT 1000
+;

@@ -1,0 +1,58 @@
+SPARQL
+PREFIX mls: <http://www.w3.org/ns/mls#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX dcat: <http://www.w3.org/ns/dcat#>
+PREFIX prov: <http://www.w3.org/ns/prov#>
+PREFIX mlso: <http://w3id.org/mlso/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT 
+  STR(COALESCE(?label, ?title)) AS ?implementation,
+  STR(GROUP_CONCAT(DISTINCT ?pub; separator=',\n')) AS ?publication,
+  STR(GROUP_CONCAT(DISTINCT ?algo; separator=',\n')) AS ?algorithm,
+  STR(GROUP_CONCAT(DISTINCT ?hyperP; separator=',\n')) AS ?hyperParameter
+FROM <http://example.org/_http___www.w3.org_ns_mls_Implementation_>
+FROM <http://example.org/_http___www_w3_org_2000_01_rdf_schema_label_>
+FROM <http://example.org/_http___www_w3_org_ns_dcat_landingPage_>
+FROM <http://example.org/_http___purl_org_dc_terms_title_>
+FROM <http://example.org/_http___purl_org_dc_terms_description_>
+FROM <http://example.org/_http___w3id_org_mlso_hasRelatedImplementation_>
+FROM <http://example.org/_http___purl_org_dc_terms_source_>
+FROM <http://example.org/_http___www_w3_org_ns_mls_implements_>
+FROM <http://example.org/_http___www_w3_org_ns_mls_hasHyperParameter_>
+WHERE {
+  {
+    ?implemId a mls:Implementation ;
+              rdfs:label ?label .
+    FILTER (CONTAINS(LCASE(?label), "bagging"))
+  }
+  UNION
+  {
+    ?implemId a mls:Implementation ;
+              dcterms:description ?desc ;
+              dcterms:title ?title .
+    FILTER (CONTAINS(LCASE(?desc), "bagging"))
+  }
+
+  OPTIONAL {
+    ?pubId mlso:hasRelatedImlpementation ?implemId ;
+           rdf:type mlso:ScientificWork ;
+           dcterms:source ?pub .
+  }
+
+  OPTIONAL {
+    ?implemId mls:implements ?algoId .
+    ?algoId rdfs:label ?algo .
+  }
+
+  OPTIONAL {
+    ?implemId mls:hasHyperParameter ?hyperPID .
+    ?hyperPID dcterms:description ?hyperP_desc ;
+              dcterms:title ?hyperP_title .
+    BIND(STR(CONCAT(STR(?hyperP_title), ": ", STR(?hyperP_desc))) AS ?hyperP)
+  }
+}
+GROUP BY ?label ?title
+LIMIT 1000;
+

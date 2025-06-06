@@ -1,0 +1,1012 @@
+Result of /data/leuven/370/vsc37064/new_queries_named_graph_type_split/query_33.txt:
+OpenLink Virtuoso Interactive SQL (Virtuoso)
+Version 07.20.3240 as of Mar 11 2025
+Type HELP; for help and EXIT; to exit.
+Connected to OpenLink Virtuoso
+Driver: 07.20.3240 OpenLink Virtuoso ODBC Driver
+algorithmName                                                                     algorithmType
+LONG VARCHAR                                                                      LONG VARCHAR
+_______________________________________________________________________________
+
+(2+1)D Convolution                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/(2+1)DConvolution
+1-bit Adam                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/1-bitAdam
+1-bit LAMB                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/1-bitLAMB
+1D CNN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/1DCNN
+1cycle                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/1cycle
+1x1 Convolution                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/1x1Convolution
+2D DWT                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/2DDWT
+3-Augment                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/3-Augment
+3D CNN                                                                                  
+3D Convolution                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/3DConvolution
+3D Dynamic Scene Graph                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/3DDynamicSceneGraph
+3D ResNet-RS                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/3DResNet-RS
+3D SA                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/3DSA
+3DIS                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/3DIS
+3DSSD                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/3DSSD
+3d gaussian splatting                                                                                  
+4D A*                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/4DA*
+A2C                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/A2C
+A2U                                                                                  
+A3C                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/A3C
+ABC                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ABC
+ABCNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ABCNet
+ACER                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ACER
+ACGPN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ACGPN
+ACNN block                                                                                  
+ACTKR                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ACTKR
+AD-GCL                                                                                  
+ADA                                                                                  
+ADELE                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ADELE
+ADMM                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ADMM
+AE                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AE
+AEDA                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AEDA
+AGCN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AGCN
+AHAF                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AHAF
+ALAE                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ALAE
+ALBEF                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ALBEF
+ALBERT                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ALBERT
+ALCN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ALCN
+ALDA                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ALDA
+ALDEN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ALDEN
+ALDI++                                                                                  
+ALI                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ALI
+ALIGN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ALIGN
+ALIS                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ALIS
+ALP-GMM                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ALP-GMM
+ALQ and AMQ                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ALQandAMQ
+ALS                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ALS
+ALiBi                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ALiBi
+AM                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AM
+AMP                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AMP
+AMSBound                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AMSBound
+AMSGrad                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AMSGrad
+APA                                                                                  
+APPNP                                                                                  
+APPO                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/APPO
+ARCH                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ARCH
+ARM-Net                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ARM-Net
+ARMA                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ARMA
+ARShoe                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ARShoe
+ARiA                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ARiA
+ASFF                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ASFF
+ASLFeat                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ASLFeat
+ASPP                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ASPP
+ASU                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ASU
+ASVI                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ASVI
+ATMO                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ATMO
+ATSS                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ATSS
+AUCC                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AUCC
+AUCO ResNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AUCOResNet
+AVSlowFast                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AVSlowFast
+AWARE                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AWARE
+AWD-LSTM                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AWD-LSTM
+Absolute Position Encodings                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AbsolutePositionEncodings
+AccoMontage                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AccoMontage
+Accordion                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Accordion
+Accumulating Eligibility Trace                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AccumulatingEligibilityTrace
+Accuracy-Robustness Area (ARA)                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Accuracy-RobustnessArea(ARA)
+Activation Normalization                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ActivationNormalization
+Activation Regularization                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ActivationRegularization
+Active Convolution                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ActiveConvolution
+AdaBound                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AdaBound
+AdaDelta                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AdaDelta
+AdaGPR                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AdaGPR
+AdaGrad                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AdaGrad
+AdaHessian                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AdaHessian
+AdaMax                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AdaMax
+AdaMod                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AdaMod
+AdaRNN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AdaRNN
+AdaShift                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AdaShift
+AdaSmooth                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AdaSmooth
+AdaSqrt                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AdaSqrt
+Adabelief                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Adabelief
+Adafactor                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Adafactor
+Adam                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Adam
+AdamW                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AdamW
+Adapter                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Adapter
+Adaptive Dropout                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AdaptiveDropout
+Adaptive Feature Pooling                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AdaptiveFeaturePooling
+Adaptive Input Representations                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AdaptiveInputRepresentations
+Adaptive Instance Normalization                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AdaptiveInstanceNormalization
+Adaptive Loss                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AdaptiveLoss
+Adaptive Masking                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AdaptiveMasking
+Adaptive NMS                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AdaptiveNMS
+Adaptive Softmax                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AdaptiveSoftmax
+Adaptive Span Transformer                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AdaptiveSpanTransformer
+AdaptiveBins                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AdaptiveBins
+Adaptively Sparse Transformer                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AdaptivelySparseTransformer
+Additive Attention                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AdditiveAttention
+AdvProp                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AdvProp
+Adversarial Color Enhancement                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AdversarialColorEnhancement
+Adversarial Soft Advantage Fitting (ASAF)                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AdversarialSoftAdvantageFitting(ASAF)
+Adversarial Solarization                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AdversarialSolarization
+AffCorrs                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AffCorrs
+Affine Coupling                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AffineCoupling
+Affine Operator                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AffineOperator
+AggMo                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AggMo
+Agglomerative Contextual Decomposition                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AgglomerativeContextualDecomposition
+Aggregated Learning                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AggregatedLearning
+Aging Evolution                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AgingEvolution
+AlexNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AlexNet
+AlignPS                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AlignPS
+All-Attention Layer                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/All-AttentionLayer
+AlphaFold                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AlphaFold
+AlphaStar                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AlphaStar
+AlphaZero                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AlphaZero
+AltCLIP                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AltCLIP
+AltDiffusion                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AltDiffusion
+AlterNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AlterNet
+AmoebaNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AmoebaNet
+Annealing SNNL                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AnnealingSNNL
+Anti-Alias Downsampling                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Anti-AliasDownsampling
+Anycost GAN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AnycostGAN
+Ape-X                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Ape-X
+Ape-X DPG                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Ape-XDPG
+Ape-X DQN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Ape-XDQN
+Apollo                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Apollo
+ArcFace                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ArcFace
+Assemble-ResNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Assemble-ResNet
+Associative LSTM                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AssociativeLSTM
+Asynchronous Interaction Aggregation                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AsynchronousInteractionAggregation
+AttLWB                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AttLWB
+Attention Dropout                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AttentionDropout
+Attention Feature Filters                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AttentionFeatureFilters
+Attention Free Transformer                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AttentionFreeTransformer
+Attention Gate                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AttentionGate
+Attention Mesh                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AttentionMesh
+Attention Sinks                                                                                  
+Attention-augmented Convolution                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Attention-augmentedConvolution
+Attentional Liquid Warping GAN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AttentionalLiquidWarpingGAN
+Attentive Normalization                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AttentiveNormalization
+Attribute2Font                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Attribute2Font
+AugMix                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AugMix
+Augmented SBERT                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AugmentedSBERT
+Auto-Classifier                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Auto-Classifier
+AutoAugment                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AutoAugment
+AutoDropout                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AutoDropout
+AutoEncoder                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AutoEncoder
+AutoGAN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AutoGAN
+AutoGL                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AutoGL
+AutoInt                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AutoInt
+AutoML-Zero                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AutoML-Zero
+AutoParsimony                                                                                  
+AutoSmart                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AutoSmart
+AutoSync                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AutoSync
+AutoTinyBERT                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AutoTinyBERT
+Auxiliary Batch Normalization                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AuxiliaryBatchNormalization
+Auxiliary Classifier                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AuxiliaryClassifier
+Average Pooling                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AveragePooling
+Axial Attention                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/AxialAttention
+BAGUA                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BAGUA
+BAM                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BAM
+BART                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BART
+BASE                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BASE
+BASNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BASNet
+BERT                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BERT
+BFO                                                                                  
+BIDeN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BIDeN
+BIMAN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BIMAN
+BLANC                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BLANC
+BLIP                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BLIP
+BLOOM                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BLOOM
+BLOOMZ                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BLOOMZ
+BP-Transformer                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BP-Transformer
+BPE                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BPE
+BRepNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BRepNet
+BS-Net                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BS-Net
+BTF                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BTF
+BTmPG                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BTmPG
+BYOL                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BYOL
+Balanced Feature Pyramid                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BalancedFeaturePyramid
+Balanced L1 Loss                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BalancedL1Loss
+Barlow Twins                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BarlowTwins
+Base Boosting                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BaseBoosting
+BasicVSR                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BasicVSR
+Batch Normalization                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BatchNormalization
+Batch Normalization                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Batch_Normalization
+Batch Nuclear-norm Maximization                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BatchNuclear-normMaximization
+BatchChannel Normalization                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BatchChannelNormalization
+BatchFormer                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BatchFormer
+Batchboost                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Batchboost
+Bayesian REX                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BayesianREX
+Beta-VAE                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Beta-VAE
+BezierAlign                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BezierAlign
+Bi-attention                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Bi-attention
+Bi3D                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Bi3D
+BiDet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BiDet
+BiFPN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BiFPN
+BiGAN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BiGAN
+BiGCN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BiGCN
+BiGG                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BiGG
+BiGRU                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BiGRU
+BiLSTM                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BiLSTM
+BiSeNet V2                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BiSeNetV2
+Big-Little Module                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Big-LittleModule
+Big-Little Net                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Big-LittleNet
+BigBiGAN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BigBiGAN
+BigBird                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BigBird
+BigGAN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BigGAN
+BigGAN-deep                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BigGAN-deep
+Bilateral Grid                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BilateralGrid
+Bilateral Guided Aggregation Layer                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BilateralGuidedAggregationLayer
+BinaryBERT                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BinaryBERT
+BlendMask                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BlendMask
+Blended Diffusion                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BlendedDiffusion
+Blender                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Blender
+Blink Communication                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BlinkCommunication
+Blue River Controls                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BlueRiverControls
+Boom Layer                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BoomLayer
+Boost-GNN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Boost-GNN
+Bort                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Bort
+Bottleneck Residual Block                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BottleneckResidualBlock
+Bottleneck Transformer                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BottleneckTransformer
+Bottleneck Transformer Block                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BottleneckTransformerBlock
+Bottom-up Path Augmentation                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Bottom-upPathAugmentation
+BoundaryNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BoundaryNet
+Branch attention                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Branchattention
+Bridge-net                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Bridge-net
+BytePS                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/BytePS
+ByteScheduler                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ByteScheduler
+C3-AMP                                                                                  
+CABiNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CABiNet
+CAG                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CAG
+CAM                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CAM
+CAMoE                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CAMoE
+CANINE                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CANINE
+CARAFE                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CARAFE
+CARLA                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CARLA
+CBAM                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CBAM
+CBHG                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CBHG
+CBNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CBNet
+CBoW Word2Vec                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CBoWWord2Vec
+CCAC                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CCAC
+CCNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CCNet
+CCT                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CCT
+CDCC-NET                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CDCC-NET
+CDEP                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CDEP
+CDIL-CNN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CDIL-CNN
+CEAL                                                                                  
+CELU                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CELU
+CGMM                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CGMM
+CGNN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CGNN
+CGRU                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CGRU
+CHM                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CHM
+CIDA                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CIDA
+CInC Flow                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CInCFlow
+CKConv                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CKConv
+CLIP                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CLIP
+CLIPort                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CLIPort
+CLRNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CLRNet
+CMCL                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CMCL
+CNN BiLSTM                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CNNBiLSTM
+COCO-FUNIT                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/COCO-FUNIT
+COLA                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/COLA
+COP-KMeans                                                                                  
+CORAD                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CORAD
+CP N3                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CPN3
+CP conv                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CPconv
+CP-N3                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CP-N3
+CP-N3-RP                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CP-N3-RP
+CPC v2                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CPCv2
+CPE                                                                                  
+CPM-2                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CPM-2
+CPN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CPN
+CPVT                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CPVT
+CR-NET                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CR-NET
+CRF                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CRF
+CRF-RNN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CRF-RNN
+CRISS                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CRISS
+CRN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CRN
+CReLU                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CReLU
+CS-GAN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CS-GAN
+CSGLD                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CSGLD
+CSL                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CSL
+CSPDarknet53                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CSPDarknet53
+CSPDenseNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CSPDenseNet
+CSPDenseNet-Elastic                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CSPDenseNet-Elastic
+CSPPeleeNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CSPPeleeNet
+CSPResNeXt                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CSPResNeXt
+CSPResNeXt Block                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CSPResNeXtBlock
+CT-Layer                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CT-Layer
+CT3D                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CT3D
+CTAB-GAN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CTAB-GAN
+CTAL                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CTAL
+CTC Loss                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CTCLoss
+CTRL                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CTRL
+CTracker                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CTracker
+CV-MIM                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CV-MIM
+CVRL                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CVRL
+CW-ERM                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CW-ERM
+CaiT                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CaiT
+Calculation of Price Graphs Reversal Point Using Average Regression Lines Method                                                                                  
+Canonical Partition                                                                                  
+Canvas Method                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CanvasMethod
+CapsNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CapsNet
+Capsule Network                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CapsuleNetwork
+Cascade Corner Pooling                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CascadeCornerPooling
+Cascade Mask R-CNN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CascadeMaskR-CNN
+Cascade R-CNN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CascadeR-CNN
+CascadePSP                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CascadePSP
+Categorical Modularity                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CategoricalModularity
+Causal Convolution                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CausalConvolution
+Causal inference                                                                                  
+CayleyNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CayleyNet
+CeiT                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CeiT
+Center Pooling                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CenterPooling
+CenterMask                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CenterMask
+CenterNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CenterNet
+CenterPoint                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CenterPoint
+CenterTrack                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CenterTrack
+CentripetalNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CentripetalNet
+Channel & Spatial attention                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Channel&Spatialattention
+Channel Attention Module                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ChannelAttentionModule
+Channel Shuffle                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ChannelShuffle
+Channel Squeeze and Spatial Excitation                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ChannelSqueezeandSpatialExcitation
+Channel attention                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Channelattention
+Channel-wise Cross Attention                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Channel-wiseCrossAttention
+Channel-wise Cross Fusion Transformer                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Channel-wiseCrossFusionTransformer
+Channel-wise Soft Attention                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Channel-wiseSoftAttention
+CharacterBERT                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CharacterBERT
+Characteristic Functions                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CharacteristicFunctions
+Charformer                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Charformer
+CheXNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CheXNet
+ChebNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ChebNet
+Child-Tuning                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Child-Tuning
+Chimera                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Chimera
+Chinchilla                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Chinchilla
+Chinese Pre-trained Unbalanced Transformer                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ChinesePre-trainedUnbalancedTransformer
+ClariNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ClariNet
+Class Activation Guided Attention Mechanism                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ClassActivationGuidedAttentionMechanism
+Class Attention                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ClassAttention
+Class-MLP                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Class-MLP
+ClassSR                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ClassSR
+ClipBERT                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ClipBERT
+Clipped Double Q-learning                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ClippedDoubleQ-learning
+Cluster-GCN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Cluster-GCN
+ClusterFit                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ClusterFit
+Co-Correcting                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Co-Correcting
+CoBERL                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CoBERL
+CoLU                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CoLU
+CoOp                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CoOp
+CoT Prompting                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CoTPrompting
+CoVA                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CoVA
+CoVR                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CoVR
+CoVe                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CoVe
+CoaT                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CoaT
+CodeBERT                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CodeBERT
+CodeGen                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CodeGen
+CodeSLAM                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CodeSLAM
+CodeT5                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CodeT5
+Collaborative Distillation                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CollaborativeDistillation
+ColorJitter                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ColorJitter
+Colorization                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Colorization
+Colorization Transformer                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ColorizationTransformer
+ComiRec                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ComiRec
+Compact Global Descriptor                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CompactGlobalDescriptor
+ComplEx-N3                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ComplEx-N3
+ComplEx-N3-RP                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ComplEx-N3-RP
+Composite Fields                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CompositeFields
+Compressed Memory                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CompressedMemory
+Compressive Transformer                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CompressiveTransformer
+Computation Redistribution                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ComputationRedistribution
+ConViT                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ConViT
+Concatenated Skip Connection                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ConcatenatedSkipConnection
+Concatenation Affinity                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ConcatenationAffinity
+Concrete Dropout                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ConcreteDropout
+Concurrent Spatial and Channel Squeeze & Excitation                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ConcurrentSpatialandChannelSqueeze&Excitation
+CondConv                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CondConv
+CondInst                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CondInst
+Conditional Batch Normalization                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ConditionalBatchNormalization
+Conditional DBlock                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ConditionalDBlock
+Conditional Instance Normalization                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ConditionalInstanceNormalization
+Conditional Positional Encoding                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ConditionalPositionalEncoding
+Conffusion                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Conffusion
+Content-Conditioned Style Encoder                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Content-ConditionedStyleEncoder
+Content-based Attention                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Content-basedAttention
+Context Enhancement Module                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ContextEnhancementModule
+Contextual Residual Aggregation                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ContextualResidualAggregation
+Contextualized Topic Models                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ContextualizedTopicModels
+Contractive Autoencoder                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ContractiveAutoencoder
+Contrastive Learning                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ContrastiveLearning
+Contrastive Multiview Coding                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ContrastiveMultiviewCoding
+Contrastive Predictive Coding                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ContrastivePredictiveCoding
+ControlVAE                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ControlVAE
+ConvBERT                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ConvBERT
+ConvLSTM                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ConvLSTM
+ConvMLP                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ConvMLP
+ConvNeXt                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ConvNeXt
+ConvTasNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ConvTasNet
+Convolution                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Convolution
+CoordConv                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CoordConv
+Coordinate attention                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Coordinateattention
+Copy-Paste                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Copy-Paste
+Coresets                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Coresets
+Corner Pooling                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CornerPooling
+CornerNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CornerNet
+CornerNet-Saccade                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CornerNet-Saccade
+CornerNet-Squeeze                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CornerNet-Squeeze
+CornerNet-Squeeze Hourglass                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CornerNet-SqueezeHourglass
+CornerNet-Squeeze Hourglass Module                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CornerNet-SqueezeHourglassModule
+CosLU                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CosLU
+Cosine Annealing                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CosineAnnealing
+Cosine Normalization                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CosineNormalization
+Cosine Power Annealing                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CosinePowerAnnealing
+Counterfactuals                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Counterfactuals
+Cross-Attention Module                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Cross-AttentionModule
+Cross-Covariance Attention                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Cross-CovarianceAttention
+Cross-Scale Non-Local Attention                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Cross-ScaleNon-LocalAttention
+Cross-View Training                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Cross-ViewTraining
+Cross-encoder Reranking                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Cross-encoderReranking
+Cross-resolution features                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Cross-resolutionfeatures
+CrossTransformers                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CrossTransformers
+CrossViT                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CrossViT
+Crossbow                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Crossbow
+CuBERT                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CuBERT
+CubeRE                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CubeRE
+CurricularFace                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CurricularFace
+CurvVAE                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CurvVAE
+CutBlur                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CutBlur
+CutMix                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CutMix
+Cutout                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Cutout
+CvT                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CvT
+Cycle Consistency Loss                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CycleConsistencyLoss
+Cycle-CenterNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Cycle-CenterNet
+CycleGAN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CycleGAN
+Cyclical Learning Rate Policy                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/CyclicalLearningRatePolicy
+D4PG                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/D4PG
+DABMD                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DABMD
+DAC                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DAC
+DAEL                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DAEL
+DAFNe                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DAFNe
+DAGNN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DAGNN
+DALL·E 2                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DALL·E2
+DAMO-YOLO                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DAMO-YOLO
+DANCE                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DANCE
+DANet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DANet
+DAPO                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DAPO
+DARTS                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DARTS
+DARTS Max-W                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DARTSMax-W
+DASPP                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DASPP
+DAU-ConvNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DAU-ConvNet
+DBGAN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DBGAN
+DBlock                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DBlock
+DCGAN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DCGAN
+DCLS                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DCLS
+DCN-V2                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DCN-V2
+DCNN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DCNN
+DD-PPO                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DD-PPO
+DDPG                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DDPG
+DDParser                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DDParser
+DDQL                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DDQL
+DDSP                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DDSP
+DE-GAN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DE-GAN
+DECA                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DECA
+DELG                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DELG
+DELU                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DELU
+DEQ                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DEQ
+DEXTR                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DEXTR
+DExTra                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DExTra
+DFA                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DFA
+DFDNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DFDNet
+DG-Net                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DG-Net
+DGCNN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DGCNN
+DGI                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DGI
+DGRF                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DGRF
+DIME                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DIME
+DINO                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DINO
+DIoU-NMS                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DIoU-NMS
+DKL                                                                                  
+DLA                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DLA
+DMA                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DMA
+DMAGE                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DMAGE
+DMVFN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DMVFN
+DNAS                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DNAS
+DNN2LR                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DNN2LR
+DOLG                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DOLG
+DPG                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DPG
+DPN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DPN
+DPN Block                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DPNBlock
+DPT                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DPT
+DQN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DQN
+DROID-SLAM                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DROID-SLAM
+DRPNN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DRPNN
+DSAM loss                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DSAMloss
+DSGN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DSGN
+DSPT                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DSPT
+DSelect-k                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DSelect-k
+DTW                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DTW
+DU-GAN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DU-GAN
+DV3 Attention Block                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DV3AttentionBlock
+DV3 Convolution Block                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DV3ConvolutionBlock
+DVD-GAN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DVD-GAN
+DVD-GAN DBlock                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DVD-GANDBlock
+DVD-GAN GBlock                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DVD-GANGBlock
+Darknet-19                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Darknet-19
+Darknet-53                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Darknet-53
+DeBERTa                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DeBERTa
+DeCLUTR                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DeCLUTR
+DeLighT                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DeLighT
+DeLighT Block                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DeLighTBlock
+Deactivable Skip Connection                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DeactivableSkipConnection
+DecomCAM                                                                                  
+Decorrelated Batch Normalization                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DecorrelatedBatchNormalization
+DeeBERT                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DeeBERT
+Deep Belief Network                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DeepBeliefNetwork
+Deep Belief Network                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Deep_Belief_Network
+Deep Boltzmann Machine                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DeepBoltzmannMachine
+Deep Ensembles                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DeepEnsembles
+Deep LSTM Reader                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DeepLSTMReader
+Deep Sets                                                                                  
+Deep Voice 3                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DeepVoice3
+Deep-CAPTCHA                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Deep-CAPTCHA
+Deep-MAC                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Deep-MAC
+DeepCluster                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DeepCluster
+DeepDrug                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DeepDrug
+DeepIR                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DeepIR
+DeepLab                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DeepLab
+DeepLabv2                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DeepLabv2
+DeepLabv3                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DeepLabv3
+DeepMask                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DeepMask
+DeepSIM                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DeepSIM
+DeepViT                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DeepViT
+DeepWalk                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DeepWalk
+DeepZero                                                                                  
+Deflation                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Deflation
+Deformable Attention Module                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DeformableAttentionModule
+Deformable ConvNets                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DeformableConvNets
+Deformable Convolution                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DeformableConvolution
+Deformable DETR                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DeformableDETR
+Deformable Kernel                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DeformableKernel
+Deformable Position-Sensitive RoI Pooling                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DeformablePosition-SensitiveRoIPooling
+Deformable RoI Pooling                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DeformableRoIPooling
+DeiT                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DeiT
+DeltaConv                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DeltaConv
+Demon                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Demon
+Demon ADAM                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DemonADAM
+Demon CM                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DemonCM
+Denoised Smoothing                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DenoisedSmoothing
+Denoising Autoencoder                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DenoisingAutoencoder
+Denoising Score Matching                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DenoisingScoreMatching
+Dense Block                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DenseBlock
+Dense Connections                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DenseConnections
+Dense Contrastive Learning                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DenseContrastiveLearning
+Dense Synthesized Attention                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DenseSynthesizedAttention
+DenseNAS                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DenseNAS
+DenseNAS-A                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DenseNAS-A
+DenseNAS-B                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DenseNAS-B
+DenseNAS-C                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DenseNAS-C
+DenseNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DenseNet
+DenseNet-Elastic                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DenseNet-Elastic
+Depth-wise Plane Sweeping                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Depth-wisePlaneSweeping
+Depthwise Convolution                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DepthwiseConvolution
+Depthwise Dilated Separable Convolution                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DepthwiseDilatedSeparableConvolution
+Depthwise Fire Module                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DepthwiseFireModule
+Depthwise Separable Convolution                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DepthwiseSeparableConvolution
+DetNAS                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DetNAS
+DetNASNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DetNASNet
+DetNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DetNet
+Detr                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Detr
+DiCE Unit                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DiCEUnit
+DiCENet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DiCENet
+Dice Loss                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DiceLoss
+DiffAugment                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DiffAugment
+DiffPool                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DiffPool
+DifferNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DifferNet
+Differentiable Hyperparameter Search                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DifferentiableHyperparameterSearch
+Differentiable NAS                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DifferentiableNAS
+Differential Diffusion                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DifferentialDiffusion
+Diffusion                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Diffusion
+Dilated Bottleneck Block                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DilatedBottleneckBlock
+Dilated Bottleneck with Projection Block                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DilatedBottleneckwithProjectionBlock
+Dilated Causal Convolution                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DilatedCausalConvolution
+Dilated Convolution                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DilatedConvolution
+Dilated Sliding Window Attention                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DilatedSlidingWindowAttention
+DimConv                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DimConv
+DimFuse                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DimFuse
+Directional Sparse Filtering                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DirectionalSparseFiltering
+Discrete Cosine Transform                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DiscreteCosineTransform
+Discriminative Adversarial Search                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DiscriminativeAdversarialSearch
+Discriminative Fine-Tuning                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DiscriminativeFine-Tuning
+Discriminative Regularization                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DiscriminativeRegularization
+Disentangled Attention Mechanism                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DisentangledAttentionMechanism
+Disentangled Attribution Curves                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DisentangledAttributionCurves
+Disp R-CNN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DispR-CNN
+DistDGL                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DistDGL
+DistanceNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DistanceNet
+DistilBERT                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DistilBERT
+Distributed Shampoo                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DistributedShampoo
+Distributional Generalization                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DistributionalGeneralization
+Dorylus                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Dorylus
+Dot-Product Attention                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Dot-ProductAttention
+DouZero                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DouZero
+Double DQN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DoubleDQN
+Double Q-learning                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DoubleQ-learning
+Drafting Network                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DraftingNetwork
+Dreamix                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Dreamix
+DropAttack                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DropAttack
+DropBlock                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DropBlock
+DropConnect                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DropConnect
+DropPath                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DropPath
+DropPathway                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DropPathway
+Dropout                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Dropout
+Dual Softmax Loss                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DualSoftmaxLoss
+DualCL                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DualCL
+DualGCN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DualGCN
+Dueling Network                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DuelingNetwork
+DyGED                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DyGED
+DynaBERT                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DynaBERT
+Dynamic Convolution                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DynamicConvolution
+Dynamic Keypoint Head                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DynamicKeypointHead
+Dynamic Memory Network                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DynamicMemoryNetwork
+Dynamic R-CNN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DynamicR-CNN
+Dynamic SmoothL1 Loss                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DynamicSmoothL1Loss
+DynamicConv                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/DynamicConv
+E-Branchformer                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/E-Branchformer
+E-MBConv                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/E-MBConv
+E-swish                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/E-swish
+E2EAdaptiveDistTraining                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/E2EAdaptiveDistTraining
+EBC                                                                                  
+EBM                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/EBM
+ECA-Net                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ECA-Net
+ECANet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ECANet
+ED-GNN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ED-GNN
+EEND                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/EEND
+EESP                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/EESP
+EGT                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/EGT
+ELECTRA                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ELECTRA
+ELMo                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ELMo
+ELR                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ELR
+ELU                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ELU
+ELiSH                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ELiSH
+EMEA                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/EMEA
+EMF                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/EMF
+EMQAP                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/EMQAP
+ENIGMA                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ENIGMA
+ENet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ENet
+ENet Bottleneck                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ENetBottleneck
+ENet Dilated Bottleneck                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ENetDilatedBottleneck
+ENet Initial Block                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ENetInitialBlock
+ERNIE                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ERNIE
+ERNIE-GEN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ERNIE-GEN
+ERU                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ERU
+ESACL                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ESACL
+ESIM                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ESIM
+ESP                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ESP
+ESPNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ESPNet
+ESPNetv2                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ESPNetv2
+ETC                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ETC
+EVM                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/EVM
+EWC                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/EWC
+Early Dropout                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/EarlyDropout
+Early Stopping                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/EarlyStopping
+Early Stopping                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Early_Stopping
+Early exiting                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Earlyexiting
+EdgeBoxes                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/EdgeBoxes
+EdgeFlow                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/EdgeFlow
+Effective Squeeze-and-Excitation Block                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/EffectiveSqueeze-and-ExcitationBlock
+Efficient Channel Attention                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/EfficientChannelAttention
+EfficientDet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/EfficientDet
+EfficientNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/EfficientNet
+EfficientNetV2                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/EfficientNetV2
+EfficientUNet++                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/EfficientUNet++
+Elastic Dense Block                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ElasticDenseBlock
+Elastic ResNeXt Block                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ElasticResNeXtBlock
+ElasticFace                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ElasticFace
+Electric                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Electric
+Eligibility Trace                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/EligibilityTrace
+Embedded Dot Product Affinity                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/EmbeddedDotProductAffinity
+Embedded Gaussian Affinity                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/EmbeddedGaussianAffinity
+Embedding Dropout                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/EmbeddingDropout
+EmbraceNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/EmbraceNet
+End-To-End Memory Network                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/End-To-EndMemoryNetwork
+Energy Based Process                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/EnergyBasedProcess
+Enhanced Fusion Framework                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/EnhancedFusionFramework
+Ensemble Clustering                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/EnsembleClustering
+Entropy Regularization                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/EntropyRegularization
+Epsilon Greedy Exploration                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/EpsilonGreedyExploration
+Error Back Proragation Network                                                                                  
+EsViT                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/EsViT
+Estimation Statistics                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/EstimationStatistics
+Euclidean Norm Regularization                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/EuclideanNormRegularization
+EvoNorms                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/EvoNorms
+Exact Fusion Model                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ExactFusionModel
+Expected Sarsa                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ExpectedSarsa
+Experience Replay                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ExperienceReplay
+Exponential Decay                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ExponentialDecay
+ExtremeNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ExtremeNet
+F2DNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/F2DNet
+FA                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FA
+FAVOR+                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FAVOR+
+FBNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FBNet
+FBNet Block                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FBNetBlock
+FCN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FCN
+FCOS                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FCOS
+FCPose                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FCPose
+FEFM                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FEFM
+FEM                                                                                  
+FFB6D                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FFB6D
+FFF                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FFF
+FFMv1                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FFMv1
+FFMv2                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FFMv2
+FGA                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FGA
+FIERCE                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FIERCE
+FINCH Clustering                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FINCHClustering
+FLAVA                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FLAVA
+FLAVR                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FLAVR
+FLICA                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FLICA
+FLIP                                                                                  
+FM with splines                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FMwithsplines
+FMix                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FMix
+FORK                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FORK
+FPG                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FPG
+FPN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FPN
+FSAF                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FSAF
+FT-Transformer                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FT-Transformer
+Factorized Dense Synthesized Attention                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FactorizedDenseSynthesizedAttention
+Factorized Random Synthesized Attention                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FactorizedRandomSynthesizedAttention
+FairMOT                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FairMOT
+FashionCLIP                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FashionCLIP
+Fast AutoAugment                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FastAutoAugment
+Fast Minimum-Norm Attack                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FastMinimum-NormAttack
+Fast R-CNN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FastR-CNN
+Fast Sample Re-Weighting                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FastSampleRe-Weighting
+Fast Voxel Query                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FastVoxelQuery
+Fast-OCR                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Fast-OCR
+Fast-YOLOv2                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Fast-YOLOv2
+Fast-YOLOv3                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Fast-YOLOv3
+Fast-YOLOv4-SmallObj                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Fast-YOLOv4-SmallObj
+FastGCN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FastGCN
+FastMoE                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FastMoE
+FastPitch                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FastPitch
+FastSGT                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FastSGT
+FastSpeech 2                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FastSpeech2
+FastSpeech 2s                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FastSpeech2s
+Fast_BAT                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Fast_BAT
+Faster R-CNN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FasterR-CNN
+Fastformer                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Fastformer
+Fawkes                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Fawkes
+FcaNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FcaNet
+Feature Intertwiner                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FeatureIntertwiner
+Feature Selection                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FeatureSelection
+Feature-Centric Voting                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Feature-CentricVoting
+FeatureNMS                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FeatureNMS
+Feedback Memory                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FeedbackMemory
+Feedback Transformer                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FeedbackTransformer
+Feedforward Network                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FeedforwardNetwork
+FiLM Module                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FiLMModule
+Filter Response Normalization                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FilterResponseNormalization
+Fire Module                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FireModule
+Firefly algorithm                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Fireflyalgorithm
+Fisher-BRC                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Fisher-BRC
+Fishr                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Fishr
+FixMatch                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FixMatch
+FixRes                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FixRes
+Fixed Factorized Attention                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FixedFactorizedAttention
+Fixup Initialization                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FixupInitialization
+Flan-T5                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Flan-T5
+Florence                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Florence
+Flow Alignment Module                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FlowAlignmentModule
+Flow Matching                                                                                  
+Flow Normalization                                                                                  
+Focal Loss                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FocalLoss
+Focal Transformers                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FocalTransformers
+Focus                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Focus
+Forward gradient                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Forwardgradient
+Fourier Contour Embedding                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FourierContourEmbedding
+FoveaBox                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FoveaBox
+Fractal Block                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FractalBlock
+FractalNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FractalNet
+Fragmentation                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Fragmentation
+Fraternal Dropout                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FraternalDropout
+FreeAnchor                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FreeAnchor
+Funnel Transformer                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FunnelTransformer
+FuseFormer                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FuseFormer
+FuseFormer Block                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/FuseFormerBlock
+G-GLN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/G-GLN
+G-GLN Neuron                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/G-GLNNeuron
+G-NIA                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/G-NIA
+G3D                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/G3D
+GA                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GA
+GAGNN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GAGNN
+GAIL                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GAIL
+GALA                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GALA
+GAM                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GAM
+GAN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GAN
+GAN Feature Matching                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GANFeatureMatching
+GAN Hinge Loss                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GANHingeLoss
+GAN Least Squares Loss                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GANLeastSquaresLoss
+GAN-TTS                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GAN-TTS
+GANformer                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GANformer
+GAP-Layer                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GAP-Layer
+GAT                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GAT
+GATv2                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GATv2
+GBO                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GBO
+GBST                                                                                  
+GBlock                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GBlock
+GCA                                                                                  
+GCN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GCN
+GCNFN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GCNFN
+GCNII                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GCNII
+GCNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GCNet
+GCT                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GCT
+GCU                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GCU
+GECO                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GECO
+GEE                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GEE
+GELU                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GELU
+GENet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GENet
+GEOMANCER                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GEOMANCER
+GER                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GER
+GFP-GAN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GFP-GAN
+GFSA                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GFSA
+GGS-NNs                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GGS-NNs
+GHM-C                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GHM-C
+GHM-R                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GHM-R
+GIC                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GIC
+GIN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GIN
+GLIDE                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GLIDE
+GLM                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GLM
+GLN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GLN
+GLOW                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GLOW
+GLU                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GLU
+GMI                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GMI
+GMVAE                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GMVAE
+GNNCL                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GNNCL
+GNS                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GNS
+GPFL                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GPFL
+GPS                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GPS
+GPSA                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GPSA
+GPT                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GPT
+GPT-2                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GPT-2
+GPT-3                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GPT-3
+GPT-4                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GPT-4
+GPT-Neo                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GPT-Neo
+GPT-NeoX                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GPT-NeoX
+GPipe                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GPipe
+GRANDE                                                                                  
+GRIN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GRIN
+GRLIA                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GRLIA
+GRU                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GRU
+GRoIE                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GRoIE
+GShard                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GShard
+GSoP-Net                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GSoP-Net
+GTS                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GTS
+GTrXL                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GTrXL
+GaAN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GaAN
+Galactica                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Galactica
+Gated Convolution                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GatedConvolution
+Gated Convolution Network                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GatedConvolutionNetwork
+Gather-Excite Networks                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Gather-ExciteNetworks
+Gaussian Process                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GaussianProcess
+GeGLU                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GeGLU
+GenSAM                                                                                  
+Generalized Focal Loss                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GeneralizedFocalLoss
+Generalized Mean Pooling                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GeneralizedMeanPooling
+GeniePath                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GeniePath
+Ghost Bottleneck                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GhostBottleneck
+Ghost Module                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GhostModule
+GhostNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GhostNet
+GloVe                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GloVe
+Global Average Pooling                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GlobalAveragePooling
+Global Context Block                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GlobalContextBlock
+Global Convolutional Network                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GlobalConvolutionalNetwork
+Global Local Attention Module                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GlobalLocalAttentionModule
+Global Sub-Sampled Attention                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GlobalSub-SampledAttention
+Global and Sliding Window Attention                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GlobalandSlidingWindowAttention
+Global-Local Attention                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Global-LocalAttention
+Glow-TTS                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Glow-TTS
+Go-Explore                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Go-Explore
+Good Feature Matching                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GoodFeatureMatching
+GoogLeNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GoogLeNet
+GraRep                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GraRep
+Grab                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Grab
+GradDrop                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GradDrop
+Gradient Checkpointing                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GradientCheckpointing
+Gradient Clipping                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GradientClipping
+Gradient Normalization                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GradientNormalization
+Gradient Sparsification                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GradientSparsification
+Gradient-Based Subword Tokenization                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Gradient-BasedSubwordTokenization
+GradientDICE                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GradientDICE
+Gradual Self-Training                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GradualSelf-Training
+Grammatical evolution + Q-learning                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Grammaticalevolution+Q-learning
+Graph Contrastive Coding                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GraphContrastiveCoding
+Graph Convolutional Networks                                                                                  
+Graph Neural Network                                                                                  
+Graph Self-Attention                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GraphSelf-Attention
+Graph Transformer                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GraphTransformer
+Graph2Tree                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Graph2Tree
+GraphCL                                                                                  
+GraphESN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GraphESN
+GraphSAGE                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GraphSAGE
+GraphSAINT                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GraphSAINT
+Gravity                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Gravity
+GreedyNAS                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GreedyNAS
+GreedyNAS-A                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GreedyNAS-A
+GreedyNAS-B                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GreedyNAS-B
+GreedyNAS-C                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GreedyNAS-C
+Grid R-CNN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GridR-CNN
+Grid Sensitive                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GridSensitive
+GridMask                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GridMask
+Griffin-Lim Algorithm                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Griffin-LimAlgorithm
+Group Normalization                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GroupNormalization
+GroupDNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GroupDNet
+Grouped Convolution                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GroupedConvolution
+Grouped-query attention                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Grouped-queryattention
+Groupwise Point Convolution                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GroupwisePointConvolution
+GrowNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GrowNet
+Guided Anchoring                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GuidedAnchoring
+Gumbel Activation                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GumbelActivation
+Gumbel Softmax                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/GumbelSoftmax
+H-BEMD                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/H-BEMD
+H2O DL                                                                                  
+H3DNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/H3DNet
+HANet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HANet
+HAPPIER                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HAPPIER
+HBMP                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HBMP
+HDCGAN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HDCGAN
+HEGCN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HEGCN
+HGS                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HGS
+HINT                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HINT
+HITNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HITNet
+HMGNN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HMGNN
+HOC                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HOC
+HOPE                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HOPE
+HPO                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HPO
+HRNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HRNet
+HRank                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HRank
+HS-ResNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HS-ResNet
+HTC                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HTC
+HTCN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HTCN
+HalluciNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HalluciNet
+HaloNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HaloNet
+Hamburger                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Hamburger
+Handwritten OCR                                                                                  
+Hard Sigmoid                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HardSigmoid
+Hard Swish                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HardSwish
+HardELiSH                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HardELiSH
+Harm-Net                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Harm-Net
+Harmonic Block                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HarmonicBlock
+Harris Hawks optimization (HHO)                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HarrisHawksoptimization(HHO)
+Heatmap                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Heatmap
+Hermite Activation                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HermiteActivation
+Herring                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Herring
+Hi-LANDER                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Hi-LANDER
+HiFi-GAN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HiFi-GAN
+HiSD                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HiSD
+Hierarchical Feature Fusion                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HierarchicalFeatureFusion
+Hierarchical MTL                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HierarchicalMTL
+Hierarchical Network Dissection                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HierarchicalNetworkDissection
+Hierarchical Softmax                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HierarchicalSoftmax
+Hierarchical VAE                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HierarchicalVAE
+Hierarchical-Split Block                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Hierarchical-SplitBlock
+High-level backbone                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/High-levelbackbone
+High-resolution input                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/High-resolutioninput
+Highway Layer                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HighwayLayer
+Highway Network                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HighwayNetwork
+Highway networks                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Highwaynetworks
+Hit-Detector                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Hit-Detector
+Holographic Reduced Representation                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HolographicReducedRepresentation
+Hopfield Layer                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HopfieldLayer
+Hourglass Module                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HourglassModule
+Huber loss                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Huberloss
+Hybrid AWT                                                                                  
+Hydra                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/Hydra
+HypE                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HypE
+HyperDenseNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HyperDenseNet
+HyperHyperNetwork                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HyperHyperNetwork
+HyperNetwork                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HyperNetwork
+HyperSA                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HyperSA
+HyperTree MetaModel                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/HyperTreeMetaModel
+I-BERT                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/I-BERT
+I3DR-Net                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/I3DR-Net
+IAN                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/IAN
+IB-BERT                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/IB-BERT
+IC-SBP                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/IC-SBP
+ICA                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ICA
+IFBlock                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/IFBlock
+IFNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/IFNet
+IGSA                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/IGSA
+IICNet                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/IICNet
+ILVR                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/ILVR
+IMGEP                                                                                  http://w3id.org/mlso/vocab/ml_algorithm/IMGEP
+
+1000 Rows. -- 136 msec.

@@ -1,0 +1,21 @@
+# This query returns task names and their associated dataset names.
+SPARQL
+PREFIX mls: <http://www.w3.org/ns/mls#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX mlso: <http://w3id.org/mlso/>
+
+SELECT ?taskName ?datasetName
+FROM <http://example.org/_http___www.w3.org_ns_mls_Task_>
+FROM <http://example.org/_http___www_w3_org_2000_01_rdf_schema_label_>
+FROM <http://example.org/_http___www_w3_org_ns_mls_definedOn_>
+WHERE {
+  ?task a mls:Task;
+        rdfs:label ?taskName.
+  
+  ?task mls:definedOn ?dataset.
+  ?dataset rdfs:label ?datasetName.
+}
+ORDER BY ?taskName
+LIMIT 1000
+;

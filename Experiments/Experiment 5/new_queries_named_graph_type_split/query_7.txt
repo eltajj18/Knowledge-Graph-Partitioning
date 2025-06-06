@@ -1,0 +1,33 @@
+# This query returns dataset distribution names along with their datasets and download URLs that contain specific keywords (train, test, or validation).
+SPARQL
+PREFIX mls: <http://www.w3.org/ns/mls#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX mlso: <http://w3id.org/mlso/>
+PREFIX dcat: <http://www.w3.org/ns/dcat#>
+
+SELECT ?distributionName ?datasetName ?downloadURL
+FROM <http://example.org/_http___www.w3.org_ns_dcat_Distribution_>
+FROM <http://example.org/_http___www_w3_org_2000_01_rdf_schema_label_>
+FROM <http://example.org/_http___www_w3_org_ns_dcat_distribution_>
+FROM <http://example.org/_http___www_w3_org_ns_dcat_downloadURL_>
+WHERE {
+  ?distribution a dcat:Distribution;
+                rdfs:label ?distributionName.
+  
+  ?dataset dcat:distribution ?distribution.
+  ?dataset rdfs:label ?datasetName.
+  
+  OPTIONAL {
+    ?distribution dcat:downloadURL ?downloadURL.
+  }
+  
+  FILTER (
+    CONTAINS(LCASE(?distributionName), "train") || 
+    CONTAINS(LCASE(?distributionName), "test") ||
+    CONTAINS(LCASE(?distributionName), "validation")
+  )
+}
+ORDER BY ?datasetName ?distributionName
+LIMIT 1000
+;

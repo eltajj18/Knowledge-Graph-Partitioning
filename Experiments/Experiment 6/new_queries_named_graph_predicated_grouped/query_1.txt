@@ -1,0 +1,14 @@
+#Query to find all Machine Learning Algorithms and their types:
+SPARQL
+PREFIX mlso: <http://w3id.org/mlso/>
+PREFIX mls: <http://www.w3.org/ns/mls#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?algorithm ?algorithmType
+FROM <http://example.org/_http___www.w3.org_ns_mls_Algorithm_>
+FROM <http://example.org/_http___w3id_org_mlso_hasAlgorithmType_>       
+WHERE {
+    ?algorithm rdf:type mls:Algorithm .
+    ?algorithm mlso:hasAlgorithmType ?algorithmType .
+}
+;

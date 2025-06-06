@@ -1,0 +1,1012 @@
+Result of /data/leuven/370/vsc37064/new_queries_named_graph_predicated_grouped/query_12.txt:
+OpenLink Virtuoso Interactive SQL (Virtuoso)
+Version 07.20.3240 as of Mar 11 2025
+Type HELP; for help and EXIT; to exit.
+Connected to OpenLink Virtuoso
+Driver: 07.20.3240 OpenLink Virtuoso ODBC Driver
+evaluationName
+LONG VARCHAR
+_______________________________________________________________________________
+
+	 ACCURACY evaluation for HSANR model
+	 ACCURACY evaluation for SCAN model
+	 ACCURACY evaluation for Single-Noun Prior model
+	 ACCURACY evaluation for TEMI CLIP ViT-L (openai) model
+	 ACCURACY evaluation for TEMI DINO ViT-B model
+	 ACCURACY evaluation for TEMI MSN ViT-L model
+ Content Ordering evaluation for HierarchicalEncoder + NR + IR model
+ Content Selection (F1) evaluation for HierarchicalEncoder + NR + IR model
+ Human listening average results evaluation for SymphonyNet model
+ KIN evaluation for BERT model
+ KIN evaluation for PIXEL model
+ LUO evaluation for BERT model
+ LUO evaluation for PIXEL model
+ Macro-F1 evaluation for CatBoost model
+ Macro-F1 evaluation for Character-BERT+RS model
+ Macro-F1 evaluation for Linear model model
+ Macro-F1 evaluation for Watchog model
+ Over evaluation for AdaBoost model
+ Over evaluation for BART MNLI zero-shot model
+ Over evaluation for GPT-2 model
+ Over evaluation for GPT-3 model
+ Over evaluation for GPT-3 zero-shot model
+ Over evaluation for GPT-Neo model
+ Over evaluation for Human (crowdsourced) model
+ Over evaluation for Plurality-class model
+ Over evaluation for T-Few model
+ RMSE (SE, Gluteus Maximus) evaluation for ImpCollege model
+ RMSE (SE, Gluteus Medius) evaluation for ImpCollege model
+ RMSE (SE, Hamstrings) evaluation for ImpCollege model
+ RMSE (SE, Quadriceps) evaluation for ImpCollege model
+ RMSE (Subject-exposed) evaluation for IMP - Force plate and kinematic data model
+ RMSE (Subject-exposed) evaluation for IMP - Force plate data only model
+ RMSE (Subject-exposed) evaluation for IMP - Kinematic data only model
+ Rank-1 (All Search) evaluation for AGW (ResNet-50) model
+ Rank-1 (Indoor Search) evaluation for AGW (ResNet-50) model
+ Rank-1 evaluation for 3DSL model
+ Rank-1 evaluation for ABD-Net model
+ Rank-1 evaluation for AD-ViT model
+ Rank-1 evaluation for AGW (ResNet-50) model
+ Rank-1 evaluation for Aligned++ model
+ Rank-1 evaluation for BDB model
+ Rank-1 evaluation for BPBreID model
+ Rank-1 evaluation for BYOL (self-supervised) model
+ Rank-1 evaluation for BYOL model
+ Rank-1 evaluation for BoT (ResNet-50) model
+ Rank-1 evaluation for CAL model
+ Rank-1 evaluation for CM-LSP-GE model
+ Rank-1 evaluation for CaceNet model
+ Rank-1 evaluation for CaceNet model
+ Rank-1 evaluation for DARI (generalization) model
+ Rank-1 evaluation for DF (generalization) model
+ Rank-1 evaluation for DG-Net model
+ Rank-1 evaluation for DGL (weakly-supervised) model
+ Rank-1 evaluation for DiP (without RK) model
+ Rank-1 evaluation for F-LGPR model
+ Rank-1 evaluation for FED model
+ Rank-1 evaluation for FSAM model
+ Rank-1 evaluation for GI-ReID model
+ Rank-1 evaluation for HCGA model
+ Rank-1 evaluation for IGOAS model
+ Rank-1 evaluation for IICS (generalization) model
+ Rank-1 evaluation for IICS model
+ Rank-1 evaluation for LDS model
+ Rank-1 evaluation for LGPR model
+ Rank-1 evaluation for LUPerson model
+ Rank-1 evaluation for MGN (generalization) model
+ Rank-1 evaluation for MGN model
+ Rank-1 evaluation for MGN model
+ Rank-1 evaluation for MHN model
+ Rank-1 evaluation for MoCo v2 (self-supervised) model
+ Rank-1 evaluation for MoCo v2 model
+ Rank-1 evaluation for OS-Net model
+ Rank-1 evaluation for PCB model
+ Rank-1 evaluation for PLR-OS model
+ Rank-1 evaluation for Part-Aligned model
+ Rank-1 evaluation for Pyramid model
+ Rank-1 evaluation for RRID model
+ Rank-1 evaluation for ReFace model
+ Rank-1 evaluation for ReFace model
+ Rank-1 evaluation for SBS (ResNet-50) model
+ Rank-1 evaluation for SimCLR (self-supervised) model
+ Rank-1 evaluation for SimCLR model
+ Rank-1 evaluation for SirNet model
+ Rank-1 evaluation for TDB model
+ Rank-1 evaluation for TransReID model
+ Rank-1 evaluation for Tricks model
+ Rank-1 evaluation for Triplet (self-supervised) model
+ Rank-1 evaluation for Triplet model
+ Rank-1 evaluation for VPM model
+ Rank-1 evaluation for Word4Per (fuse) model
+ Rank-1 evaluation for Word4Per (fuse) model
+ Rank-1 evaluation for Word4Per model
+ Rank-1 evaluation for Word4Per model
+ Rank-1 evaluation for uPMnet model
+ Rank-5 evaluation for DG-Net model
+ Rank-5 evaluation for PCB model
+ Rank-5 evaluation for Part-Aligned model
+ Rank-5 evaluation for Tricks model
+ Runtime (s) evaluation for EPC model
+ Runtime (s) evaluation for EPC++ model
+ Runtime (s) evaluation for LightDepth model
+ Runtime (s) evaluation for Multi-Mono-SF model
+ Runtime (s) evaluation for Self-Mono-SF model
+ SSIM evaluation for DMFN model
+ SSIM evaluation for Deep Dynamic Residual Attention Network model
+ Strict Detection (Pr.) evaluation for B2B model
+ Strict Detection (Pr.) evaluation for BERT-base model
+ Strict Detection (Pr.) evaluation for DateBERT model
+ Strict Detection (Pr.) evaluation for R2R model
+ Strict Detection (Re.) evaluation for B2B model
+ Strict Detection (Re.) evaluation for BERT-base model
+ Strict Detection (Re.) evaluation for DateBERT model
+ Strict Detection (Re.) evaluation for R2R model
+ Wasserstein Distance (WD) evaluation for BERT (BASE) model
+ Wasserstein Distance (WD) evaluation for BERT (LARGE) model
+ Wasserstein Distance (WD) evaluation for E5 (BASE) model
+ Wasserstein Distance (WD) evaluation for E5 (LARGE) model
+ Wasserstein Distance (WD) evaluation for FastText (Crawl) model
+ Wasserstein Distance (WD) evaluation for FastText (News) model
+ Wasserstein Distance (WD) evaluation for GPT-3.5-turbo (0-shot) model
+ Wasserstein Distance (WD) evaluation for GPT-3.5-turbo (1-shot) model
+ Wasserstein Distance (WD) evaluation for GPT-3.5-turbo (10-shot) model
+ Wasserstein Distance (WD) evaluation for GPT-3.5-turbo (3-shot) model
+ Wasserstein Distance (WD) evaluation for GPT-3.5-turbo (5-shot) model
+ Wasserstein Distance (WD) evaluation for GPT-4 (0-shot) model
+ Wasserstein Distance (WD) evaluation for GPT-4 (1-shot) model
+ Wasserstein Distance (WD) evaluation for GPT-4 (100-shot) model
+ Wasserstein Distance (WD) evaluation for GPT-4 (3-shot) model
+ Wasserstein Distance (WD) evaluation for GPT-4 (5-shot) model
+ Wasserstein Distance (WD) evaluation for GloVe model
+ Wasserstein Distance (WD) evaluation for all-mpnet (BASE) model
+ box AP evaluation for ADLIK-Faster (T: Faster R-CNN vit-base S: Faster R-CNN deit-small) model
+ box AP evaluation for ScaleDet model
+ mAP (All Search) evaluation for AGW (ResNet-50) model
+ mAP (Indoor Search) evaluation for AGW (ResNet-50) model
+ mAP evaluation for 3DSL model
+ mAP evaluation for ABD-Net model
+ mAP evaluation for AD-ViT model
+ mAP evaluation for AGW (ResNet-50) model
+ mAP evaluation for AWADA model
+ mAP evaluation for ActionFormer model
+ mAP evaluation for Aligned++ model
+ mAP evaluation for BDB model
+ mAP evaluation for BoT (ResNet-50) model
+ mAP evaluation for CAL model
+ mAP evaluation for CaceNet model
+ mAP evaluation for CaceNet model
+ mAP evaluation for DG-Net model
+ mAP evaluation for F-LGPR model
+ mAP evaluation for FSAM model
+ mAP evaluation for GI-ReID model
+ mAP evaluation for GeoCLIP model
+ mAP evaluation for ILLUME model
+ mAP evaluation for LGPR model
+ mAP evaluation for LUPerson model
+ mAP evaluation for MGN model
+ mAP evaluation for MGN model
+ mAP evaluation for MHN model
+ mAP evaluation for MILA model
+ mAP evaluation for OS-Net model
+ mAP evaluation for PCB model
+ mAP evaluation for PLR-OS model
+ mAP evaluation for Pyramid model
+ mAP evaluation for RRID model
+ mAP evaluation for ReFace model
+ mAP evaluation for ReFace model
+ mAP evaluation for SBS (ResNet-50) model
+ mAP evaluation for SirNet model
+ mAP evaluation for TDB model
+ mAP evaluation for TransReID model
+ mAP evaluation for UnAV model
+ mAP evaluation for VPM model
+ mINP (All Search) evaluation for AGW (ResNet-50) model
+ mINP (Indoor Search) evaluation for AGW (ResNet-50) model
+ mINP evaluation for ABD-Net model
+ mINP evaluation for AGW (ResNet-50) model
+ mINP evaluation for Aligned++ model
+ mINP evaluation for BDB model
+ mINP evaluation for BoT (ResNet-50) model
+ mINP evaluation for CaceNet model
+ mINP evaluation for CaceNet model
+ mINP evaluation for DG-Net model
+ mINP evaluation for F-LGPR model
+ mINP evaluation for LGPR model
+ mINP evaluation for LUPerson model
+ mINP evaluation for MGN model
+ mINP evaluation for MGN model
+ mINP evaluation for MHN model
+ mINP evaluation for OS-Net model
+ mINP evaluation for PCB model
+ mINP evaluation for PLR-OS model
+ mINP evaluation for Pyramid model
+ mINP evaluation for RRID model
+ mINP evaluation for SBS (ResNet-50) model
+ mINP evaluation for TDB model
+ mINP evaluation for TransReID model
+ mINP evaluation for VPM model
+ three pixel error evaluation for AnyNet model
+ three pixel error evaluation for HITNET model
+# Correct Groups evaluation for BERT (BASE) model
+# Correct Groups evaluation for BERT (LARGE) model
+# Correct Groups evaluation for DistilBERT (BASE) model
+# Correct Groups evaluation for E5 (BASE) model
+# Correct Groups evaluation for E5 (LARGE) model
+# Correct Groups evaluation for ELMo (LARGE) model
+# Correct Groups evaluation for FastText (Crawl) model
+# Correct Groups evaluation for FastText (News) model
+# Correct Groups evaluation for GPT-3.5-turbo (0-shot) model
+# Correct Groups evaluation for GPT-3.5-turbo (1-shot) model
+# Correct Groups evaluation for GPT-3.5-turbo (10-shot) model
+# Correct Groups evaluation for GPT-3.5-turbo (3-shot) model
+# Correct Groups evaluation for GPT-3.5-turbo (5-shot) model
+# Correct Groups evaluation for GPT-4 (0-shot) model
+# Correct Groups evaluation for GPT-4 (1-shot) model
+# Correct Groups evaluation for GPT-4 (100-shot) model
+# Correct Groups evaluation for GPT-4 (3-shot) model
+# Correct Groups evaluation for GPT-4 (5-shot) model
+# Correct Groups evaluation for GloVe model
+# Correct Groups evaluation for Human Performance model
+# Correct Groups evaluation for RoBERTa (LARGE) model
+# Correct Groups evaluation for all-mpnet (BASE) model
+# M Params evaluation for BiC model
+# M Params evaluation for DER w/o Pruning model
+# M Params evaluation for DyTox model
+# M Params evaluation for E2E model
+# M Params evaluation for TCIL model
+# M Params evaluation for TCIL-Lite model
+# M Params evaluation for WA model
+# M Params evaluation for iCaRL model
+# Parameters evaluation for BART-IT model
+# Parameters evaluation for IT5-base model
+# Parameters evaluation for mBART model
+# Parameters evaluation for mT5 model
+# Solved Walls evaluation for BERT (BASE) model
+# Solved Walls evaluation for BERT (LARGE) model
+# Solved Walls evaluation for DistilBERT (BASE) model
+# Solved Walls evaluation for E5 (BASE) model
+# Solved Walls evaluation for E5 (LARGE) model
+# Solved Walls evaluation for ELMo (LARGE) model
+# Solved Walls evaluation for FastText (Crawl) model
+# Solved Walls evaluation for FastText (News) model
+# Solved Walls evaluation for GPT-3.5-turbo (0-shot) model
+# Solved Walls evaluation for GPT-3.5-turbo (1-shot) model
+# Solved Walls evaluation for GPT-3.5-turbo (10-shot) model
+# Solved Walls evaluation for GPT-3.5-turbo (3-shot) model
+# Solved Walls evaluation for GPT-3.5-turbo (5-shot) model
+# Solved Walls evaluation for GPT-4 (0-shot) model
+# Solved Walls evaluation for GPT-4 (1-shot) model
+# Solved Walls evaluation for GPT-4 (100-shot) model
+# Solved Walls evaluation for GPT-4 (3-shot) model
+# Solved Walls evaluation for GPT-4 (5-shot) model
+# Solved Walls evaluation for GloVe model
+# Solved Walls evaluation for Human Performance model
+# Solved Walls evaluation for RoBERTa (LARGE) model
+# Solved Walls evaluation for all-mpnet (BASE) model
+# of clusters (k) evaluation for ACOL-GAR model
+# of clusters (k) evaluation for DEC model
+# of clusters (k) evaluation for DTI-Clustering model
+# of clusters (k) evaluation for IMSAT model
+#Params evaluation for ParT model
+#Params evaluation for ParticleNet model
+% < 11.25 evaluation for Bae et al. model
+% < 11.25 evaluation for Floors are Flat model
+% < 11.25 evaluation for PolyMaX(ConvNeXt-L) model
+% < 11.25 evaluation for iDisc model
+% < 22.5 evaluation for Bae et al. model
+% < 22.5 evaluation for Floors are Flat model
+% < 22.5 evaluation for PolyMaX(ConvNeXt-L) model
+% < 22.5 evaluation for iDisc model
+% < 30 evaluation for Bae et al. model
+% < 30 evaluation for Floors are Flat model
+% < 30 evaluation for PolyMaX(ConvNeXt-L) model
+% < 30 evaluation for iDisc model
+% Dev Accuracy evaluation for MT-DNN-SMARTLARGEv0 model
+% Dev Accuracy evaluation for SMARTRoBERTa-LARGE model
+% Test Accuracy (Raw Data) evaluation for FlexTCN-6 model
+% Test Accuracy evaluation for + Unigram and bigram features model
+% Test Accuracy evaluation for 100D DF-LSTM model
+% Test Accuracy evaluation for 100D LSTM encoders model
+% Test Accuracy evaluation for 100D LSTMs w/ word-by-word attention model
+% Test Accuracy evaluation for 1024D GRU encoders w/ unsupervised 'skip-thoughts' pre-training model
+% Test Accuracy evaluation for 150D Multiway Attention Network Ensemble model
+% Test Accuracy evaluation for 150D Multiway Attention Network model
+% Test Accuracy evaluation for 2-layer LSTM [[Tai et al.2015]] model
+% Test Accuracy evaluation for 200D decomposable attention model model
+% Test Accuracy evaluation for 200D decomposable attention model with intra-sentence attention model
+% Test Accuracy evaluation for 2400D Multiple-Dynamic Self-Attention Model model
+% Test Accuracy evaluation for 300D 2-layer Bi-CAS-LSTM model
+% Test Accuracy evaluation for 300D CAFE (no cross-sentence attention) model
+% Test Accuracy evaluation for 300D CAFE Ensemble model
+% Test Accuracy evaluation for 300D CAFE model
+% Test Accuracy evaluation for 300D DMAN Ensemble model
+% Test Accuracy evaluation for 300D DMAN model
+% Test Accuracy evaluation for 300D Directional self-attention network encoders model
+% Test Accuracy evaluation for 300D Full tree matching NTI-SLSTM-LSTM w/ global attention model
+% Test Accuracy evaluation for 300D Gumbel TreeLSTM encoders model
+% Test Accuracy evaluation for 300D LSTM encoders model
+% Test Accuracy evaluation for 300D LSTMN with deep attention fusion model
+% Test Accuracy evaluation for 300D MMA-NSE encoders with attention model
+% Test Accuracy evaluation for 300D NSE encoders model
+% Test Accuracy evaluation for 300D NTI-SLSTM-LSTM encoders model
+% Test Accuracy evaluation for 300D Reinforced Self-Attention Network model
+% Test Accuracy evaluation for 300D Residual stacked encoders model
+% Test Accuracy evaluation for 300D SPINN-PI encoders model
+% Test Accuracy evaluation for 300D Tree-based CNN encoders model
+% Test Accuracy evaluation for 300D mLSTM word-by-word attention model model
+% Test Accuracy evaluation for 300D re-read LSTM model
+% Test Accuracy evaluation for 4096D BiLSTM with max-pooling model
+% Test Accuracy evaluation for 448D Densely Interactive Inference Network (DIIN, code) Ensemble model
+% Test Accuracy evaluation for 448D Densely Interactive Inference Network (DIIN, code) model
+% Test Accuracy evaluation for 450D DR-BiLSTM Ensemble model
+% Test Accuracy evaluation for 450D DR-BiLSTM model
+% Test Accuracy evaluation for 450D LSTMN with deep attention fusion model
+% Test Accuracy evaluation for 50D stacked TC-LSTMs model
+% Test Accuracy evaluation for 512D Dynamic Meta-Embeddings model
+% Test Accuracy evaluation for 600D (300+300) BiLSTM encoders model
+% Test Accuracy evaluation for 600D (300+300) BiLSTM encoders with intra-attention and symbolic preproc. model
+% Test Accuracy evaluation for 600D (300+300) BiLSTM encoders with intra-attention model
+% Test Accuracy evaluation for 600D (300+300) Deep Gated Attn. BiLSTM encoders model
+% Test Accuracy evaluation for 600D BiLSTM with generalized pooling model
+% Test Accuracy evaluation for 600D Dynamic Self-Attention Model model
+% Test Accuracy evaluation for 600D ESIM + 300D Syntactic TreeLSTM model
+% Test Accuracy evaluation for 600D Gumbel TreeLSTM encoders model
+% Test Accuracy evaluation for 600D Hierarchical BiLSTM with Max Pooling (HBMP, code) model
+% Test Accuracy evaluation for 600D Residual stacked encoders model
+% Test Accuracy evaluation for AntisymmetricRNN w/ gating model
+% Test Accuracy evaluation for Bi-LSTM sentence encoder (max-pooling) model
+% Test Accuracy evaluation for BiMPM Ensemble model
+% Test Accuracy evaluation for BiMPM model
+% Test Accuracy evaluation for Biattentive Classification Network + CoVe + Char model
+% Test Accuracy evaluation for CA-MTL model
+% Test Accuracy evaluation for CBS-1 + ESIM model
+% Test Accuracy evaluation for CKCNN (100k) model
+% Test Accuracy evaluation for CNN-MC [[Kim2014]] model
+% Test Accuracy evaluation for CT-LSTM [[Tai et al.2015]] model
+% Test Accuracy evaluation for DCNN [[Blunsom et al.2014]] model
+% Test Accuracy evaluation for DEIM model
+% Test Accuracy evaluation for DELTA (LSTM) model
+% Test Accuracy evaluation for Decomposable Attention Model + word2vec model
+% Test Accuracy evaluation for Densely-Connected Recurrent and Co-Attentive Network (encoder) model
+% Test Accuracy evaluation for Densely-Connected Recurrent and Co-Attentive Network Ensemble model
+% Test Accuracy evaluation for Densely-Connected Recurrent and Co-Attentive Network model
+% Test Accuracy evaluation for Distance-based Self-Attention Network model
+% Test Accuracy evaluation for EFL (Entailment as Few-shot Learner) + RoBERTa-large model
+% Test Accuracy evaluation for EFL model
+% Test Accuracy evaluation for ESIM + BERT (FarsTail, MultiNLI) model
+% Test Accuracy evaluation for ESIM + ELMo Ensemble model
+% Test Accuracy evaluation for ESIM + ELMo model
+% Test Accuracy evaluation for ESIM + fastText model
+% Test Accuracy evaluation for Enhanced Sequential Inference Model (Chen et al., [2017a]) model
+% Test Accuracy evaluation for Fine-Tuned LM-Pretrained Transformer model
+% Test Accuracy evaluation for FlexTCN-4 model
+% Test Accuracy evaluation for FlexTCN-6 model
+% Test Accuracy evaluation for GRU model
+% Test Accuracy evaluation for HBMP + word2vec model
+% Test Accuracy evaluation for IndRNN model
+% Test Accuracy evaluation for KIM Ensemble model
+% Test Accuracy evaluation for KIM model
+% Test Accuracy evaluation for LEM model
+% Test Accuracy evaluation for LSTM + BERT (concat) model
+% Test Accuracy evaluation for LSTM [[Tai et al.2015]] model
+% Test Accuracy evaluation for LSTM model
+% Test Accuracy evaluation for Lipschitz RNN model
+% Test Accuracy evaluation for MFAE model
+% Test Accuracy evaluation for MT-DNN model
+% Test Accuracy evaluation for MT-DNN-SMARTLARGEv0 model
+% Test Accuracy evaluation for MatchboxNet model
+% Test Accuracy evaluation for Metadrop model
+% Test Accuracy evaluation for NRDE model
+% Test Accuracy evaluation for Ntumpha model
+% Test Accuracy evaluation for ParsBERT model
+% Test Accuracy evaluation for RE2 model
+% Test Accuracy evaluation for RoBERTa-large + self-explaining layer model
+% Test Accuracy evaluation for RoBERTa-large 355M + Entailment as Few-shot Learner model
+% Test Accuracy evaluation for RoBERTa-large+Self-Explaining model
+% Test Accuracy evaluation for SJRC (BERT-Large +SRL) model
+% Test Accuracy evaluation for SLRC model
+% Test Accuracy evaluation for SMARTRoBERTa-LARGE model
+% Test Accuracy evaluation for SWEM-max model
+% Test Accuracy evaluation for SemBERT model
+% Test Accuracy evaluation for SepTr model
+% Test Accuracy evaluation for Stacked Bi-LSTMs (shortcut connections, max-pooling) model
+% Test Accuracy evaluation for Stacked Bi-LSTMs (shortcut connections, max-pooling, attention) model
+% Test Accuracy evaluation for Star-Transformer (no cross sentence attention) model
+% Test Accuracy evaluation for Stochastic Answer Network model
+% Test Accuracy evaluation for TSEM model
+% Test Accuracy evaluation for Translate-Source + fastText model
+% Test Accuracy evaluation for Translate-Target + fastText model
+% Test Accuracy evaluation for ULMFiT model
+% Test Accuracy evaluation for UnICORNN model
+% Test Accuracy evaluation for Unlexicalized features model
+% Test Accuracy evaluation for VAE model
+% Test Accuracy evaluation for ViT model
+% Test Accuracy evaluation for aESIM model
+% Test Accuracy evaluation for coRNN model
+% Test Accuracy evaluation for coRNN model
+% Test Accuracy evaluation for expRNN model
+% Test Accuracy evaluation for mBERT model
+% Test Accuracy evaluation for res15 w/ SSN(S=4, A=Sub) (2019) model
+% Test Accuracy evaluation for res15 w/ SSN(S=4, A=Sub) model
+% Test Accuracy evaluation for res8 w/ SSN(S=4, A=Sub) model
+% Train Accuracy evaluation for + Unigram and bigram features model
+% Train Accuracy evaluation for 100D DF-LSTM model
+% Train Accuracy evaluation for 100D LSTM encoders model
+% Train Accuracy evaluation for 100D LSTMs w/ word-by-word attention model
+% Train Accuracy evaluation for 1024D GRU encoders w/ unsupervised 'skip-thoughts' pre-training model
+% Train Accuracy evaluation for 150D Multiway Attention Network Ensemble model
+% Train Accuracy evaluation for 150D Multiway Attention Network model
+% Train Accuracy evaluation for 200D decomposable attention model model
+% Train Accuracy evaluation for 200D decomposable attention model with intra-sentence attention model
+% Train Accuracy evaluation for 2400D Multiple-Dynamic Self-Attention Model model
+% Train Accuracy evaluation for 300D CAFE (no cross-sentence attention) model
+% Train Accuracy evaluation for 300D CAFE Ensemble model
+% Train Accuracy evaluation for 300D CAFE model
+% Train Accuracy evaluation for 300D DMAN Ensemble model
+% Train Accuracy evaluation for 300D DMAN model
+% Train Accuracy evaluation for 300D Directional self-attention network encoders model
+% Train Accuracy evaluation for 300D Full tree matching NTI-SLSTM-LSTM w/ global attention model
+% Train Accuracy evaluation for 300D Gumbel TreeLSTM encoders model
+% Train Accuracy evaluation for 300D LSTM encoders model
+% Train Accuracy evaluation for 300D LSTMN with deep attention fusion model
+% Train Accuracy evaluation for 300D MMA-NSE encoders with attention model
+% Train Accuracy evaluation for 300D NSE encoders model
+% Train Accuracy evaluation for 300D NTI-SLSTM-LSTM encoders model
+% Train Accuracy evaluation for 300D Reinforced Self-Attention Network model
+% Train Accuracy evaluation for 300D Residual stacked encoders model
+% Train Accuracy evaluation for 300D SPINN-PI encoders model
+% Train Accuracy evaluation for 300D Tree-based CNN encoders model
+% Train Accuracy evaluation for 300D mLSTM word-by-word attention model model
+% Train Accuracy evaluation for 300D re-read LSTM model
+% Train Accuracy evaluation for 4096D BiLSTM with max-pooling model
+% Train Accuracy evaluation for 448D Densely Interactive Inference Network (DIIN, code) Ensemble model
+% Train Accuracy evaluation for 448D Densely Interactive Inference Network (DIIN, code) model
+% Train Accuracy evaluation for 450D DR-BiLSTM Ensemble model
+% Train Accuracy evaluation for 450D DR-BiLSTM model
+% Train Accuracy evaluation for 450D LSTMN with deep attention fusion model
+% Train Accuracy evaluation for 50D stacked TC-LSTMs model
+% Train Accuracy evaluation for 512D Dynamic Meta-Embeddings model
+% Train Accuracy evaluation for 600D (300+300) BiLSTM encoders model
+% Train Accuracy evaluation for 600D (300+300) BiLSTM encoders with intra-attention and symbolic preproc. model
+% Train Accuracy evaluation for 600D (300+300) BiLSTM encoders with intra-attention model
+% Train Accuracy evaluation for 600D (300+300) Deep Gated Attn. BiLSTM encoders model
+% Train Accuracy evaluation for 600D BiLSTM with generalized pooling model
+% Train Accuracy evaluation for 600D Dynamic Self-Attention Model model
+% Train Accuracy evaluation for 600D ESIM + 300D Syntactic TreeLSTM model
+% Train Accuracy evaluation for 600D Gumbel TreeLSTM encoders model
+% Train Accuracy evaluation for 600D Hierarchical BiLSTM with Max Pooling (HBMP, code) model
+% Train Accuracy evaluation for 600D Residual stacked encoders model
+% Train Accuracy evaluation for BiMPM Ensemble model
+% Train Accuracy evaluation for BiMPM model
+% Train Accuracy evaluation for Biattentive Classification Network + CoVe + Char model
+% Train Accuracy evaluation for CA-MTL model
+% Train Accuracy evaluation for DEIM model
+% Train Accuracy evaluation for Densely-Connected Recurrent and Co-Attentive Network (encoder) model
+% Train Accuracy evaluation for Densely-Connected Recurrent and Co-Attentive Network Ensemble model
+% Train Accuracy evaluation for Densely-Connected Recurrent and Co-Attentive Network model
+% Train Accuracy evaluation for Distance-based Self-Attention Network model
+% Train Accuracy evaluation for EFL (Entailment as Few-shot Learner) + RoBERTa-large model
+% Train Accuracy evaluation for ESIM + ELMo Ensemble model
+% Train Accuracy evaluation for ESIM + ELMo model
+% Train Accuracy evaluation for Fine-Tuned LM-Pretrained Transformer model
+% Train Accuracy evaluation for KIM Ensemble model
+% Train Accuracy evaluation for KIM model
+% Train Accuracy evaluation for MFAE model
+% Train Accuracy evaluation for MT-DNN model
+% Train Accuracy evaluation for Ntumpha model
+% Train Accuracy evaluation for RE2 model
+% Train Accuracy evaluation for RoBERTa-large + self-explaining layer model
+% Train Accuracy evaluation for SJRC (BERT-Large +SRL) model
+% Train Accuracy evaluation for SLRC model
+% Train Accuracy evaluation for SemBERT model
+% Train Accuracy evaluation for Stochastic Answer Network model
+% Train Accuracy evaluation for Unlexicalized features model
+% info evaluation for Alpaca 7B + Inference Time Intervention (ITI) model
+% info evaluation for GPT-2 1.5B model
+% info evaluation for GPT-3 175B model
+% info evaluation for GPT-J 6B model
+% info evaluation for LLaMA 13B model
+% info evaluation for LLaMA 33B model
+% info evaluation for LLaMA 65B model
+% info evaluation for LLaMA 7B + Inference Time Intervention (ITI) model
+% info evaluation for LLaMA 7B model
+% info evaluation for UnifiedQA 3B model
+% info evaluation for Vicuna 7B + Inference Time Intervention (ITI) model
+% true (GPT-judge) evaluation for GPT-2 1.5B model
+% true (GPT-judge) evaluation for GPT-3 175B model
+% true (GPT-judge) evaluation for GPT-J 6B model
+% true (GPT-judge) evaluation for UnifiedQA 3B model
+% true evaluation for Alpaca 7B + Inference Time Intervention (ITI) model
+% true evaluation for GPT-2 1.5B model
+% true evaluation for GPT-3 175B model
+% true evaluation for GPT-J 6B model
+% true evaluation for LLaMA 13B model
+% true evaluation for LLaMA 33B model
+% true evaluation for LLaMA 65B model
+% true evaluation for LLaMA 7B + Inference Time Intervention (ITI) model
+% true evaluation for LLaMA 7B model
+% true evaluation for UnifiedQA 3B model
+% true evaluation for Vicuna 7B + Inference Time Intervention (ITI) model
+(Recall@10+Recall@50)/2 evaluation for BLIP4CIR+Bi model
+(Recall@10+Recall@50)/2 evaluation for CASE model
+(Recall@10+Recall@50)/2 evaluation for CASE model
+(Recall@10+Recall@50)/2 evaluation for CIReVL (Training-Free) model
+(Recall@10+Recall@50)/2 evaluation for CLIP4Cir (v2) model
+(Recall@10+Recall@50)/2 evaluation for CLIP4Cir (v3) model
+(Recall@10+Recall@50)/2 evaluation for CLIP4Cir model
+(Recall@10+Recall@50)/2 evaluation for Candidate Set Re-ranking model
+(Recall@10+Recall@50)/2 evaluation for CoSMo model
+(Recall@10+Recall@50)/2 evaluation for CoVR-BLIP model
+(Recall@10+Recall@50)/2 evaluation for CompoDiff (CLIP G/14) model
+(Recall@10+Recall@50)/2 evaluation for CompoDiff (CLIP L/14) model
+(Recall@10+Recall@50)/2 evaluation for ComposeAE model
+(Recall@10+Recall@50)/2 evaluation for Context-I2W (CLIP L/14) model
+(Recall@10+Recall@50)/2 evaluation for Context-I2W model
+(Recall@10+Recall@50)/2 evaluation for Css-Net model
+(Recall@10+Recall@50)/2 evaluation for CurlingNet model
+(Recall@10+Recall@50)/2 evaluation for LinCIR (CLIP G/14) model
+(Recall@10+Recall@50)/2 evaluation for LinCIR (CLIP L/14) model
+(Recall@10+Recall@50)/2 evaluation for MTCIR (BLIP B/16) model
+(Recall@10+Recall@50)/2 evaluation for MTCIR (CLIP L/14) model
+(Recall@10+Recall@50)/2 evaluation for MUR (4*ResNet50) model
+(Recall@10+Recall@50)/2 evaluation for MUR model
+(Recall@10+Recall@50)/2 evaluation for PALAVRA model
+(Recall@10+Recall@50)/2 evaluation for Pic2Word model
+(Recall@10+Recall@50)/2 evaluation for RTIC-GCN model
+(Recall@10+Recall@50)/2 evaluation for RUTIR (BLIP B/16) model
+(Recall@10+Recall@50)/2 evaluation for RUTIR (CLIP ResNet50) model
+(Recall@10+Recall@50)/2 evaluation for SEARLE model
+(Recall@10+Recall@50)/2 evaluation for SEARLE-XL model
+(Recall@10+Recall@50)/2 evaluation for SPRC model
+(Recall@10+Recall@50)/2 evaluation for TransAgg (Laion-CIR-Combined) model
+(Recall@10+Recall@50)/2 evaluation for VAL w/ GloVe model
+(Recall@5+Recall_subset@1)/2 evaluation for ARTEMIS model
+(Recall@5+Recall_subset@1)/2 evaluation for BLIP4CIR+Bi model
+(Recall@5+Recall_subset@1)/2 evaluation for CASE (Pre-trained on LaSCo.Ca) model
+(Recall@5+Recall_subset@1)/2 evaluation for CASE (Pre-trained on LaSCo.Ca) model
+(Recall@5+Recall_subset@1)/2 evaluation for CASE model
+(Recall@5+Recall_subset@1)/2 evaluation for CASE model
+(Recall@5+Recall_subset@1)/2 evaluation for CIRPLANT model
+(Recall@5+Recall_subset@1)/2 evaluation for CLIP4Cir (v2) model
+(Recall@5+Recall_subset@1)/2 evaluation for CLIP4Cir (v3) model
+(Recall@5+Recall_subset@1)/2 evaluation for CLIP4Cir model
+(Recall@5+Recall_subset@1)/2 evaluation for Candidate Set Re-ranking model
+(Recall@5+Recall_subset@1)/2 evaluation for CoVR-BLIP model
+(Recall@5+Recall_subset@1)/2 evaluation for SPRC model
+-1 evaluation for Capital One Ad model
+0-shot MRR evaluation for ComplEx + Bias * FoldIn model
+0-shot MRR evaluation for HittER model
+0-shot MRR evaluation for KGT5 (descriptions) model
+0-shot MRR evaluation for KGT5 (mentions) model
+0-shot MRR evaluation for KGT5-context (descriptions) model
+0-shot MRR evaluation for SimKGC (descriptions) model
+0-shot MRR evaluation for SimKGC (mentions) model
+0..5sec evaluation for Cleaned model
+0..5sec evaluation for F model
+0..5sec evaluation for Fellini model
+0..5sec evaluation for IF-Net model
+0..5sec evaluation for Noisy model
+0..5sec evaluation for e model
+0..5sec evaluation for j model
+0..5sec evaluation for yolo model
+0L evaluation for Conformer (base) model
+0L evaluation for Conformer (large) model
+0S evaluation for Conformer (base) model
+0S evaluation for Conformer (large) model
+1 - LPIPS evaluation for BasicVSR model
+1 - LPIPS evaluation for COMISR model
+1 - LPIPS evaluation for D3Dnet model
+1 - LPIPS evaluation for DBVSR model
+1 - LPIPS evaluation for DFDnet model
+1 - LPIPS evaluation for DUF-16L model
+1 - LPIPS evaluation for DUF-28L model
+1 - LPIPS evaluation for DynaVSR-R model
+1 - LPIPS evaluation for DynaVSR-V model
+1 - LPIPS evaluation for ESPCN model
+1 - LPIPS evaluation for ESRGAN model
+1 - LPIPS evaluation for GFPGAN model
+1 - LPIPS evaluation for HCFlow model
+1 - LPIPS evaluation for LGFN model
+1 - LPIPS evaluation for RBPN model
+1 - LPIPS evaluation for RRN-10L model
+1 - LPIPS evaluation for RRN-5L model
+1 - LPIPS evaluation for RSDN model
+1 - LPIPS evaluation for Real-ESRGAN model
+1 - LPIPS evaluation for Real-ESRnet model
+1 - LPIPS evaluation for RealSR model
+1 - LPIPS evaluation for SOF-VSR-BD model
+1 - LPIPS evaluation for SOF-VSR-BI model
+1 - LPIPS evaluation for SRMD model
+1 - LPIPS evaluation for SwinIR model
+1 - LPIPS evaluation for TDAN model
+1 - LPIPS evaluation for TGA model
+1 - LPIPS evaluation for TMNet model
+1 - LPIPS evaluation for VRT model
+1 - LPIPS evaluation for iSeeBetter model
+1 in 10 R@1 evaluation for BERT + Keep Learning model
+1 in 10 R@1 evaluation for HRDE-LTC model
+1 in 10 R@1 evaluation for Random model
+1 in 10 R@2 evaluation for HRDE-LTC model
+1 in 10 R@2 evaluation for mm model
+1 in 10 R@5 evaluation for HRDE-LTC model
+1 in 10 R@5 evaluation for LRPz model
+1 in 10 R@5 evaluation for NMN [kottur2018visual] model
+1 in 10 R@5 evaluation for Optim [39] Lpixel model
+1 in 10 R@5 evaluation for PDUN model
+1 in 2 R@1 evaluation for HRDE-LTC model
+1 shot Micro-F1 evaluation for VTSUM-BLIP model
+1 step MAE evaluation for Explainable Cross-Attention Multimodal RNN model
+1 step MAE evaluation for MegaCRN model
+1-1 evaluation for FF ensemble: Intersect model
+1-1 evaluation for FF ensemble: Vote model
+1-1 evaluation for Feedforward model
+1-1 evaluation for Heuristic model
+1-1 evaluation for Linear model
+1-1 evaluation for Linear model
+1-1 evaluation for SRLP model
+1-NNA-CD evaluation for DiT-3D model
+1-NNA-CD evaluation for LION model
+1-NNA-CD evaluation for PointFlow model
+1-NNA-CD evaluation for SetVAE model
+1-NNA-CD evaluation for SoftPointFlow model
+1-NNA-EMD evaluation for LION model
+1-of-100 Accuracy evaluation for Bi-encoder (v2) model
+1-of-100 Accuracy evaluation for Bi-encoder model
+1-of-100 Accuracy evaluation for CLIP-RN50x64 model
+1-of-100 Accuracy evaluation for ConveRT model
+1-of-100 Accuracy evaluation for DeepFace model
+1-of-100 Accuracy evaluation for ELMO model
+1-of-100 Accuracy evaluation for Humans model
+1-of-100 Accuracy evaluation for Multi-context ConveRT model
+1-of-100 Accuracy evaluation for PolyAI Encoder model
+1-of-100 Accuracy evaluation for ResNet model
+1-of-100 Accuracy evaluation for Sequential Attention-based Network model
+1-of-100 Accuracy evaluation for Sequential Inference Models model
+1-of-100 Accuracy evaluation for TP-MANN model
+1-of-100 Accuracy evaluation for USE model
+1-of-100 Accuracy evaluation for solar model
+1-of-100 Accuracy evaluation for tensorflow/tensor2tensor model
+1-shot MRR evaluation for ComplEx + Bias + Fold in model
+1-shot MRR evaluation for DistMult + ERAvg (descriptions) model
+1-shot MRR evaluation for DistMult + ERAvg (mentions) model
+1-shot MRR evaluation for DistMult + ERAvg model
+1-shot MRR evaluation for HittER model
+1-shot MRR evaluation for KGT5-context (descriptions) model
+1-shot MRR evaluation for KGT5-context (mentions) model
+1/2 evaluation for Eclipse model
+1/2 evaluation for HCRN model
+1/2 evaluation for TVQA model
+1/2 evaluation for VIS+LST model
+1/4 evaluation for Eclipse model
+1/4 evaluation for HCRN model
+1/4 evaluation for TVQA model
+1/4 evaluation for Tem-adapter model
+1/4 evaluation for VIS+LST model
+10 Hops evaluation for CTP A model
+10 Hops evaluation for Sad model
+10 fold Cross validation evaluation for Bert model
+10 fold Cross validation evaluation for CNN model
+10 fold Cross validation evaluation for CNN model
+10 fold Cross validation evaluation for CovidCTNet model
+10 fold Cross validation evaluation for GBCNet model
+10 fold Cross validation evaluation for MCNN-LSTM model
+10 fold Cross validation evaluation for SVM model
+10 fold Cross validation evaluation for mm model
+10 sec evaluation for CNN-LDE model
+10 sec evaluation for CNN-SAP model
+10 sec evaluation for Fusion of models model
+10 sec evaluation for GMM-MMI model
+10 sec evaluation for Kaldi i-vector DNN model
+10 sec evaluation for Kaldi i-vector model
+10 sec evaluation for Phonotactic model
+10 sec evaluation for Resnet34 (cleaned data) model
+10 sec evaluation for Resnet34 (noisy data) model
+10 steps MAE evaluation for Explainable Cross-Attention Multimodal RNN model
+10 way 1~2 shot evaluation for BERT-SparseLT + CONTaiNER model
+10 way 1~2 shot evaluation for BERT-SparseLT+CONTainNER model
+10 way 1~2 shot evaluation for CONTaiNER model
+10 way 1~2 shot evaluation for Cat model
+10 way 1~2 shot evaluation for DecomposedMetaNER model
+10 way 1~2 shot evaluation for ESD model
+10 way 1~2 shot evaluation for HEProto model
+10 way 1~2 shot evaluation for MSDP model
+10 way 1~2 shot evaluation for NNShot model
+10 way 1~2 shot evaluation for NuNER model
+10 way 1~2 shot evaluation for ProtoBERT model
+10 way 1~2 shot evaluation for StructShot model
+10 way 1~2 shot evaluation for TadNER model
+10 way 1~2 shot evaluation for hi model
+10 way 5~10 shot evaluation for BERT-SparseLT + CONTaiNER model
+10 way 5~10 shot evaluation for BERT-SparseLT+CONTainNER model
+10 way 5~10 shot evaluation for CONTaiNER model
+10 way 5~10 shot evaluation for DecomposedMetaNER model
+10 way 5~10 shot evaluation for ESD model
+10 way 5~10 shot evaluation for HEProto model
+10 way 5~10 shot evaluation for MSDP model
+10 way 5~10 shot evaluation for NNShot model
+10 way 5~10 shot evaluation for NuNER model
+10 way 5~10 shot evaluation for ProtoBERT model
+10 way 5~10 shot evaluation for StructShot model
+10 way 5~10 shot evaluation for TadNER model
+10 way 5~10 shot evaluation for wsn model
+10% evaluation for Ashok model
+10% evaluation for Conformer (base) model
+10% evaluation for Conformer (large) model
+10% evaluation for DR^2N model
+10% evaluation for GAT model
+10% evaluation for Gpt3 model
+10% evaluation for SUDHEER model
+10% evaluation for Sessiz çığlık model
+10% evaluation for htf model
+10% evaluation for sm model
+10-20% Mask PSNR evaluation for CNN model
+10-20% Mask PSNR evaluation for Coherent Semantic Attention for Image Inpainting model
+10-20% Mask PSNR evaluation for Image Inpainting with Learnable Bidirectional Attention Maps model
+10-20% Mask PSNR evaluation for mitsimpo model
+10-keyword Speech Commands dataset evaluation for Mia model
+10-keyword Speech Commands dataset evaluation for PATE-AAE (Differentially-Private) model
+10-keyword Speech Commands dataset evaluation for Quantum CNN model
+10-keyword Speech Commands dataset evaluation for TDNN model
+10-shot MRR evaluation for ComplEx + Bias + Fold in model
+10-shot MRR evaluation for DistMult + ERAvg (descriptions) model
+10-shot MRR evaluation for DistMult + ERAvg (mentions) model
+10-shot MRR evaluation for DistMult + ERAvg model
+10-shot MRR evaluation for HittER model
+10-shot MRR evaluation for KGT5-context (descriptions) model
+10-shot MRR evaluation for KGT5-context (mentions) model
+10-stage average accuracy evaluation for A-GEM model
+10-stage average accuracy evaluation for ABD model
+10-stage average accuracy evaluation for CSSRM model
+10-stage average accuracy evaluation for EMR model
+10-stage average accuracy evaluation for EWC model
+10-stage average accuracy evaluation for LUCIR model
+10-stage average accuracy evaluation for S&B model
+10-stage average accuracy evaluation for SCR model
+10-stage average accuracy evaluation for iCaRL model
+12 Steps MAE evaluation for AGCRN model
+12 Steps MAE evaluation for Cy2Mixer model
+12 Steps MAE evaluation for DDGCRN model
+12 Steps MAE evaluation for PDFormer model
+12 Steps MAE evaluation for STAEformer model
+12 Steps MAE evaluation for STD-MAE model
+12 steps MAE evaluation for AGCRN model
+12 steps MAE evaluation for DCGCN model
+12 steps MAE evaluation for DDGCRN model
+12 steps MAE evaluation for DGCRN model
+12 steps MAE evaluation for GMAN model
+12 steps MAE evaluation for Graph WaveNet model
+12 steps MAE evaluation for HAGCN model
+12 steps MAE evaluation for MTGNN model
+12 steps MAE evaluation for PDFormer model
+12 steps MAE evaluation for RGDAN model
+12 steps MAE evaluation for STAEformer model
+12 steps MAE evaluation for STD-MAE model
+12 steps MAE evaluation for STG-NCDE model
+12 steps MAE evaluation for STG-NRDE model
+12 steps MAE evaluation for STGM model
+12 steps MAE evaluation for STWave model
+12 steps MAPE evaluation for DCGCN model
+12 steps MAPE evaluation for DDGCRN model
+12 steps MAPE evaluation for LSTM-SC model
+12 steps MAPE evaluation for STAEformer model
+12 steps MAPE evaluation for STD-MAE model
+12 steps MAPE evaluation for STG-NCDE model
+12 steps MAPE evaluation for STG-NRDE model
+12 steps MAPE evaluation for STGM model
+12 steps RMSE evaluation for DCGCN model
+12 steps RMSE evaluation for DDGCRN model
+12 steps RMSE evaluation for LSTM-SC model
+12 steps RMSE evaluation for STAEformer model
+12 steps RMSE evaluation for STD-MAE model
+12 steps RMSE evaluation for STG-NCDE model
+12 steps RMSE evaluation for STG-NRDE model
+12 steps RMSE evaluation for STGM model
+128k evaluation for GPT-4-Turbo-0125 model
+128k evaluation for GPT-4-Turbo-1106 model
+128k evaluation for InternLM2-7b model
+12k evaluation for ChatGLM2-6b-32k model
+12k evaluation for ChatGLM3-6b-32k model
+12k evaluation for GPT-4-Turbo-0125 model
+12k evaluation for GPT-4-Turbo-1106 model
+12k evaluation for InternLM2-7b model
+12k evaluation for LongChat-7b-v1.5-32k model
+12k evaluation for Vicuna-13b-v1.5-16k model
+12k evaluation for Vicuna-7b-v1.5-16k model
+14 gestures accuracy evaluation for 3DCNN_VIVA_4 model
+14 gestures accuracy evaluation for CNN model
+14 gestures accuracy evaluation for DD-Net model
+14 gestures accuracy evaluation for DG-STA model
+14 gestures accuracy evaluation for FPPR-PCD model
+14 gestures accuracy evaluation for MFA-Net model
+14 gestures accuracy evaluation for PointLSTM model
+14 gestures accuracy evaluation for STA-Res-TCN model
+14 gestures accuracy evaluation for TCN-Summ model
+14 gestures accuracy evaluation for TD-GCN model
+14 gestures accuracy evaluation for aan model
+14 gestures accuracy evaluation for davido model
+14 gestures accuracy evaluation for enligh model
+16k evaluation for ChatGLM2-6b-32k model
+16k evaluation for ChatGLM3-6b-32k model
+16k evaluation for GPT-4-Turbo-0125 model
+16k evaluation for GPT-4-Turbo-1106 model
+16k evaluation for InternLM2-7b model
+16k evaluation for LongChat-7b-v1.5-32k model
+16k evaluation for Vicuna-13b-v1.5-16k model
+16k evaluation for Vicuna-7b-v1.5-16k model
+16x16 Accuracy evaluation for A-LINK model
+1:1 Accuracy evaluation for  GAT+JK model
+1:1 Accuracy evaluation for  alpha-TIM model
+1:1 Accuracy evaluation for ACM-GCN model
+1:1 Accuracy evaluation for ACM-GCN+ model
+1:1 Accuracy evaluation for ACM-GCN++ model
+1:1 Accuracy evaluation for ACM-GCNII model
+1:1 Accuracy evaluation for ACM-GCNII* model
+1:1 Accuracy evaluation for ACM-SGC-1 model
+1:1 Accuracy evaluation for ACM-SGC-2 model
+1:1 Accuracy evaluation for ACM-Snowball-2 model
+1:1 Accuracy evaluation for ACM-Snowball-3 model
+1:1 Accuracy evaluation for ACMII-GCN model
+1:1 Accuracy evaluation for ACMII-GCN+ model
+1:1 Accuracy evaluation for ACMII-GCN++ model
+1:1 Accuracy evaluation for ACMII-GCN+++ model
+1:1 Accuracy evaluation for ACMII-Snowball-2 model
+1:1 Accuracy evaluation for ACMII-Snowball-3 model
+1:1 Accuracy evaluation for ADB model
+1:1 Accuracy evaluation for AMeFu-Net model
+1:1 Accuracy evaluation for APPNP model
+1:1 Accuracy evaluation for ARN model
+1:1 Accuracy evaluation for AWD-LSTM model
+1:1 Accuracy evaluation for AWD-Transformer XL model
+1:1 Accuracy evaluation for Alejandro Mosquera model
+1:1 Accuracy evaluation for BAVARDAGE model
+1:1 Accuracy evaluation for BD-CSPN model
+1:1 Accuracy evaluation for BDCSPN model
+1:1 Accuracy evaluation for BERT model
+1:1 Accuracy evaluation for BT-Adapter (zero-shot) model
+1:1 Accuracy evaluation for Baseline ++ model
+1:1 Accuracy evaluation for Baseline++ model
+1:1 Accuracy evaluation for BernNet model
+1:1 Accuracy evaluation for Bert model
+1:1 Accuracy evaluation for Boutaleb et al. model
+1:1 Accuracy evaluation for Boutaleb et al. model
+1:1 Accuracy evaluation for C&S 1-hop  model
+1:1 Accuracy evaluation for C&S 2-hop model
+1:1 Accuracy evaluation for C&S(1hop) model
+1:1 Accuracy evaluation for C&S(2hop) model
+1:1 Accuracy evaluation for C-SFDA model
+1:1 Accuracy evaluation for CCD-ViT-Base model
+1:1 Accuracy evaluation for CLIP4STR-B model
+1:1 Accuracy evaluation for CLIP4STR-L model
+1:1 Accuracy evaluation for CNN+LSTM model
+1:1 Accuracy evaluation for CPM model
+1:1 Accuracy evaluation for CRCT model
+1:1 Accuracy evaluation for Cardal model
+1:1 Accuracy evaluation for Chat-UniVi model
+1:1 Accuracy evaluation for ClenshawGCN model
+1:1 Accuracy evaluation for ConvNeXt model
+1:1 Accuracy evaluation for Convolutional Tsetlin Machine model
+1:1 Accuracy evaluation for Cross-entropy baseline model
+1:1 Accuracy evaluation for DCNN-based MoE model
+1:1 Accuracy evaluation for DECAMP model
+1:1 Accuracy evaluation for DEiT model
+1:1 Accuracy evaluation for DKL_101010 model
+1:1 Accuracy evaluation for DSK Networks model
+1:1 Accuracy evaluation for DaC model
+1:1 Accuracy evaluation for DePlot+Codex (PoT Self-Consistency) model
+1:1 Accuracy evaluation for DePlot+FlanPaLM (CoT) model
+1:1 Accuracy evaluation for DePlot+FlanPaLM (Self-Consistency) model
+1:1 Accuracy evaluation for DePlot+FlanPaLM+Codex (PoT Self-Consistency) model
+1:1 Accuracy evaluation for DePlot+GPT3 (CoT) model
+1:1 Accuracy evaluation for DePlot+GPT3 (Self-Consistency) model
+1:1 Accuracy evaluation for Deformable GCN model
+1:1 Accuracy evaluation for Diag-NSD model
+1:1 Accuracy evaluation for Dir-GNN model
+1:1 Accuracy evaluation for EPYNET model
+1:1 Accuracy evaluation for EfficientNet-b2 model
+1:1 Accuracy evaluation for Entropy Minimization model
+1:1 Accuracy evaluation for FAGCN model
+1:1 Accuracy evaluation for FINNger model
+1:1 Accuracy evaluation for Fast Weight Memory model
+1:1 Accuracy evaluation for FavardGNN model
+1:1 Accuracy evaluation for FrozeBiLM model
+1:1 Accuracy evaluation for FrozenBiLM model
+1:1 Accuracy evaluation for Fuzzy rank-based fusion of CNN models using Gompertz function model
+1:1 Accuracy evaluation for G-SFDA model
+1:1 Accuracy evaluation for GAT model
+1:1 Accuracy evaluation for GAT+JK model
+1:1 Accuracy evaluation for GAT+JK model
+1:1 Accuracy evaluation for GATJK model
+1:1 Accuracy evaluation for GCN model
+1:1 Accuracy evaluation for GCN+JK model
+1:1 Accuracy evaluation for GCN+JK model
+1:1 Accuracy evaluation for GCN+JK model
+1:1 Accuracy evaluation for GCNII model
+1:1 Accuracy evaluation for GCNII* model
+1:1 Accuracy evaluation for GCNJK model
+1:1 Accuracy evaluation for GESN model
+1:1 Accuracy evaluation for GGCN model
+1:1 Accuracy evaluation for GLNet model
+1:1 Accuracy evaluation for GPRGCN model
+1:1 Accuracy evaluation for GPRGCN model
+1:1 Accuracy evaluation for GPRGNN model
+1:1 Accuracy evaluation for GPT2 model
+1:1 Accuracy evaluation for Gemini Ultra model
+1:1 Accuracy evaluation for Gen-NSD model
+1:1 Accuracy evaluation for Geom-GCN model
+1:1 Accuracy evaluation for Geom-GCN* model
+1:1 Accuracy evaluation for GloGNN model
+1:1 Accuracy evaluation for GloGNN++ model
+1:1 Accuracy evaluation for Graph-MLP + SAF model
+1:1 Accuracy evaluation for GraphSAGE model
+1:1 Accuracy evaluation for H2GCN model
+1:1 Accuracy evaluation for H2GCN model
+1:1 Accuracy evaluation for HH-GAT model
+1:1 Accuracy evaluation for HH-GCN model
+1:1 Accuracy evaluation for HH-GraphSAGE model
+1:1 Accuracy evaluation for HOI-Net model
+1:1 Accuracy evaluation for Harmonic Networks model
+1:1 Accuracy evaluation for HyRSM model
+1:1 Accuracy evaluation for IDiff-Face model
+1:1 Accuracy evaluation for IRv2-CXL model
+1:1 Accuracy evaluation for Information Retrieval + SVM model
+1:1 Accuracy evaluation for KDDE model
+1:1 Accuracy evaluation for KHCR model
+1:1 Accuracy evaluation for L Prop (1hop) model
+1:1 Accuracy evaluation for L Prop 1-hop model
+1:1 Accuracy evaluation for L Prop 2-hop model
+1:1 Accuracy evaluation for LINK  model
+1:1 Accuracy evaluation for LINK model
+1:1 Accuracy evaluation for LINKX model
+1:1 Accuracy evaluation for LLaMA Adapter model
+1:1 Accuracy evaluation for LProp (2hop) model
+1:1 Accuracy evaluation for LR+ICI model
+1:1 Accuracy evaluation for LR-ICI model
+1:1 Accuracy evaluation for Laplacian-Shot model
+1:1 Accuracy evaluation for Learn2Aug + TRX model
+1:1 Accuracy evaluation for MAML model
+1:1 Accuracy evaluation for MGP-STR model
+1:1 Accuracy evaluation for MLP model
+1:1 Accuracy evaluation for MLP model
+1:1 Accuracy evaluation for MLP-2 model
+1:1 Accuracy evaluation for MLP-2 model
+1:1 Accuracy evaluation for MLP-2 model
+1:1 Accuracy evaluation for MatCha model
+1:1 Accuracy evaluation for Matcha-chartQA model
+1:1 Accuracy evaluation for Metalearned Neural Memory (plastic) model
+1:1 Accuracy evaluation for Metric learning + Adaptive Decision Boundary model
+1:1 Accuracy evaluation for MixHop model
+1:1 Accuracy evaluation for MovieChat model
+1:1 Accuracy evaluation for NFGNN model
+1:1 Accuracy evaluation for NLGAT  model
+1:1 Accuracy evaluation for NLGCN  model
+1:1 Accuracy evaluation for NLMLP  model
+1:1 Accuracy evaluation for NRC model
+1:1 Accuracy evaluation for NeuralLog model
+1:1 Accuracy evaluation for O(d) - NSD model
+1:1 Accuracy evaluation for O(d)-NSD model
+1:1 Accuracy evaluation for OTAM model
+1:1 Accuracy evaluation for OptBasisGNN model
+1:1 Accuracy evaluation for PARSeq model
+1:1 Accuracy evaluation for PReFIL (Oracle OCR) model
+1:1 Accuracy evaluation for PReFIL model
+1:1 Accuracy evaluation for PT-MAP model
+1:1 Accuracy evaluation for PaLI-3 (w/ OCR) model
+1:1 Accuracy evaluation for PaLI-3 model
+1:1 Accuracy evaluation for PaLI-X (Multi-task FT) model
+1:1 Accuracy evaluation for PaLI-X (Single-task FT w/ OCR) model
+1:1 Accuracy evaluation for PaLI-X (Single-task FT) model
+1:1 Accuracy evaluation for Pix2Struct-base model
+1:1 Accuracy evaluation for Pix2Struct-large model
+1:1 Accuracy evaluation for PlotQA model
+1:1 Accuracy evaluation for Pretrained Hierarchical Transformer model
+1:1 Accuracy evaluation for ProtoNet model
+1:1 Accuracy evaluation for Qwen-7b-Chat model
+1:1 Accuracy evaluation for Qwen-Audio model
+1:1 Accuracy evaluation for Qwen-VL model
+1:1 Accuracy evaluation for Qwen-VL-Chat model
+1:1 Accuracy evaluation for RN model
+1:1 Accuracy evaluation for ResNet50 model
+1:1 Accuracy evaluation for Resnet50 model
+1:1 Accuracy evaluation for Roberta-large model
+1:1 Accuracy evaluation for SGC 1-hop model
+1:1 Accuracy evaluation for SGC 2-hop model
+1:1 Accuracy evaluation for SGC-1 model
+1:1 Accuracy evaluation for SGC-2 model
+1:1 Accuracy evaluation for SHOT model
+1:1 Accuracy evaluation for SMoLA-PaLI-X Generalist Model model
+1:1 Accuracy evaluation for SMoLA-PaLI-X Specialist Model model
+1:1 Accuracy evaluation for SRLP model
+1:1 Accuracy evaluation for STAR-Transformer (RGB + Pose) model
+1:1 Accuracy evaluation for STRM model
+1:1 Accuracy evaluation for ScreenAI 5B (4.62 B params, w/ OCR) model
+1:1 Accuracy evaluation for Simpleshot model
+1:1 Accuracy evaluation for Snowball-2 model
+1:1 Accuracy evaluation for Snowball-3 model
+1:1 Accuracy evaluation for StructChart+GPT3.5 (STR ChartQA+SimChart9K) model
+1:1 Accuracy evaluation for StructChart+GPT3.5 (STR) model
+1:1 Accuracy evaluation for Swin model
+1:1 Accuracy evaluation for TCN-Summ model
+1:1 Accuracy evaluation for TRX model
+1:1 Accuracy evaluation for TS-TCC model
+
+1000 Rows. -- 446014 msec.

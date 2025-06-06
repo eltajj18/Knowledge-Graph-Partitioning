@@ -1,0 +1,16 @@
+# This query returns machine learning models and related code repositories, given a model name. All models that contain the searched name are returned.
+SPARQL
+PREFIX mls: <http://www.w3.org/ns/mls#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX schema: <http://schema.org/>
+
+SELECT STR(?label) AS ?model, (GROUP_CONCAT(DISTINCT ?repository; separator=',\n') AS ?repository)
+FROM <http://example.org/_http___www.w3.org_ns_mls_Model_>
+FROM <http://example.org/_http___www_w3_org_2000_01_rdf_schema_label_>
+FROM <http://example.org/graph_D>
+WHERE {
+  ?model rdf:type mls:Model ;
+    rdfs:label ?label.
+  FILTER (CONTAINS(LCASE(?label), "bert"))
+  OPTIONAL {?model schema:codeRepository ?repository. }
+}LIMIT 1000;

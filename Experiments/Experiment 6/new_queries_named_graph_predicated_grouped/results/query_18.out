@@ -1,0 +1,19 @@
+Result of /data/leuven/370/vsc37064/new_queries_named_graph_predicated_grouped/query_18.txt:
+OpenLink Virtuoso Interactive SQL (Virtuoso)
+Version 07.20.3240 as of Mar 11 2025
+Type HELP; for help and EXIT; to exit.
+Connected to OpenLink Virtuoso
+Driver: 07.20.3240 OpenLink Virtuoso ODBC Driver
+procedureName
+LONG VARCHAR
+_______________________________________________________________________________
+
+10 times 10-fold Crossvalidation
+10-fold Crossvalidation
+100 times 10-fold Crossvalidation
+3-fold Crossvalidation
+4-fold Crossvalidation
+5 times 2-fold Crossvalidation
+Custom 10-fold Crossvalidation
+
+7 Rows. -- 172 msec.

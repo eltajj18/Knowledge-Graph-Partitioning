@@ -17,17 +17,17 @@ IQ - 15,29
 
 
 Query ID	Average Time (ms) Standard Deviation (ms) CV
- query_1        1611.9 863.393010 0.54
- query_2         878.5  67.473328 0.08
- query_3         972.4  14.129402 0.01
+ query_15        1611.9 863.393010 0.54
+ query_16         878.5  67.473328 0.08
+ query_29       972.4  14.129402 0.01
 
 
 
 
 category	average_time	std_dev
-SSK          1154.27     325.86
+SSK          1154.27        500.0666
 
 #For SQ and IQ values I combined it with pwc
-SQ           995.575      849.469437
-IQ        58050.86 241939.640606
+SQ           995.575       833.1935
+IQ        58050.86          27888.1948
       

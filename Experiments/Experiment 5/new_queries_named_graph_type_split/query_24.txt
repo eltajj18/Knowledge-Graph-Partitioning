@@ -1,0 +1,29 @@
+# This query returns machine learning tasks with their names and types, filtering for tasks related to classification, regression, and clustering.
+SPARQL
+PREFIX mls: <http://www.w3.org/ns/mls#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX mlso: <http://w3id.org/mlso/>
+
+SELECT ?taskName ?taskTypeName
+FROM <http://example.org/_http___www.w3.org_ns_mls_Task_>
+FROM <http://example.org/_http___www_w3_org_2000_01_rdf_schema_label_>
+FROM <http://example.org/_http___w3id_org_mlso_hasTaskType_>
+WHERE {
+  ?task a mls:Task;
+        rdfs:label ?taskName.
+  
+  OPTIONAL {
+    ?task mlso:hasTaskType ?taskType.
+    ?taskType rdfs:label ?taskTypeName.
+  }
+
+  FILTER (
+    CONTAINS(LCASE(?taskName), "classification") || 
+    CONTAINS(LCASE(?taskName), "regression") ||
+    CONTAINS(LCASE(?taskName), "clustering")
+  )
+}
+ORDER BY ?taskName
+LIMIT 1000
+;

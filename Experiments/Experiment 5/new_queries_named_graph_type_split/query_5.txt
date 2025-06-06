@@ -1,0 +1,46 @@
+# This query returns experiment run names with their inputs, outputs, associated tasks, and prediction locations.
+SPARQL
+PREFIX mls: <http://www.w3.org/ns/mls#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX mlso: <http://w3id.org/mlso/>
+
+SELECT ?runName ?inputName ?outputName ?taskName ?predictionLocation
+FROM <http://example.org/_http___www.w3.org_ns_mls_Run_>
+FROM <http://example.org/_http___www_w3_org_2000_01_rdf_schema_label_>
+FROM <http://example.org/_http___www_w3_org_ns_mls_hasInput_>
+FROM <http://example.org/_http___www_w3_org_ns_mls_hasOutput_>
+FROM <http://example.org/_http___www_w3_org_ns_mls_executes_>
+FROM <http://example.org/_http___w3id_org_mlso_hasPredictionsLocation_>
+WHERE {
+  ?run a mls:Run;
+       rdfs:label ?runName.
+  
+  OPTIONAL {
+    ?run mls:hasInput ?input.
+    ?input rdfs:label ?inputName.
+  }
+  
+  OPTIONAL {
+    ?run mls:hasOutput ?output.
+    ?output rdfs:label ?outputName.
+  }
+  
+  OPTIONAL {
+    ?run mls:executes ?task.
+    ?task rdfs:label ?taskName.
+  }
+  
+  OPTIONAL {
+    ?run mlso:hasPredictionsLocation ?predictionLocation.
+  }
+  
+  FILTER (
+    CONTAINS(LCASE(?runName), "run") || 
+    CONTAINS(LCASE(?runName), "execution") ||
+    CONTAINS(LCASE(?runName), "experiment")
+  )
+}
+ORDER BY ?runName
+LIMIT 1000
+;
